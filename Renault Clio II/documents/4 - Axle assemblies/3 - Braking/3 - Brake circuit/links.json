@@ -1,0 +1,135 @@
+{
+  "PR": [
+    {
+      "id": "1247_378710",
+      "filename": "1247_378710.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01022687.svg"
+    },
+    {
+      "id": "1247_378750",
+      "filename": "1247_378750.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084144.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2945",
+      "filename": "REPLACING THE RADIATOR MOUNTING BRACKETS ON THE ENGINE CRADLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2945.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af5ab7e08813b00dc4cefe5",
+      "filename": "brake circuit : operating diagram.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457261.xml"
+    },
+    {
+      "id": "5af5b02308813b00dc4cf451",
+      "filename": "braking : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000210657.xml"
+    },
+    {
+      "id": "5af5b0f008813b00dc4cf53e",
+      "filename": "brake fluid : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457259.xml"
+    },
+    {
+      "id": "5af5b0fc08813b00dc4cf547",
+      "filename": "brake circuit : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457260.xml"
+    },
+    {
+      "id": "5af94b343ef64d00e0ef6659",
+      "filename": "brake circuit : tightening torque.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000209763.xml"
+    },
+    {
+      "id": "5af5bc97f04d3300dc242508",
+      "filename": "braking circuit: bleeding.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000457258.xml"
+    },
+    {
+      "id": "5af5bdbdf04d3300dc242606",
+      "filename": "brake servo air filter : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000215023.xml"
+    },
+    {
+      "id": "5af5be13f04d3300dc242663",
+      "filename": "vacuum pump : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000218337.xml"
+    },
+    {
+      "id": "5af9500d3ef64d00e0ef6b3a",
+      "filename": "rear brake hose : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000219532.xml"
+    },
+    {
+      "id": "5af95a643ef64d00e0ef8763",
+      "filename": "brake compensator, limiter  : adjustment.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000209840.xml"
+    },
+    {
+      "id": "5af95a763ef64d00e0ef8778",
+      "filename": "brake compensator, limiter  : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000218429.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "3292",
+      "filename": "NEW VERSION OF PASSENGER COMPARTMENT FAN SPEED RESISTOR UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3292.pdf"
+    },
+    {
+      "id": "3018",
+      "filename": "ERROR IN THE ENGINE IMMOBILISER DIAGNOSTIC SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3018.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-6",
+      "filename": "M.R. 346 - 6 Heating and ventilation.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21924.png"
+    }
+  ]
+}

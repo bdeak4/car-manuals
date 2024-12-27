@@ -1,0 +1,44 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "3025",
+      "filename": "A.B.S. MARK 20 on the Twingo Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3025.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "3755",
+      "filename": "Special notes on the Twingo equipped with BOSCH 8.0 ABS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3755.pdf"
+    },
+    {
+      "id": "5af5b0f008813b00dc4cf53e",
+      "filename": "brake fluid : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457259.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21450.png"
+    }
+  ]
+}

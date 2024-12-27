@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/L35|X65" id="RDE-000340832" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">front side member rear part : replacement</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Draft" translate="no"/>
+<critdates translate="no">
+<created date="05/11/15 17:05" translate="no"/>
+<revised modified="05/11/15 17:05" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">front side member rear part : replacement</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000340832</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e12" translate="no" xml:lang="en">
+<title translate="yes">Composition of the spare part</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e14" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X02X06X16-02X49-1-1.1">
+<mcomponent><label/></mcomponent><designation>2</designation>
+</mark><mark id="MARK.REPAIR-40X02X06X16-02X49-1-1.2"><mcomponent>
+<label/></mcomponent><designation>1</designation></mark>
+</marklayer>
+<figure id="40-02-06-16-13-repair-40-02-06-16-02-49-1-1-9" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000032442_c@[users[a179523[appdata[local[temp[aptexport[40-02-06-16-13-repair-40-02-06-16-02-49-1-1-9.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000340832-02-06-16-13-repair-40-02-06-16-02-49-1-1-9-000032442</illusnum></figure>
+<table colsep="1" frame="all" rowsep="0" translate="no">
+<tgroup cols="4" colsep="1" rowsep="0" translate="no">
+<colspec colname="1" colnum="1" colwidth="18.864577173270256%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="37.25606150206978%" translate="no"/>
+<colspec colname="3" colnum="3" colwidth="18.03666469544648%" translate="no"/>
+<colspec colname="4" colnum="4" colwidth="25.842696629213485%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">No.</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Description</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Type</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Thickness
+(mm)</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-02-06-16-13-repair-40-02-06-16-02-49-1-1-9" scope="local" translate="no" type="figure">1</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front side
+member rear part</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">HLE</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">1.97</value></technicalvalue></para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-02-06-16-13-repair-40-02-06-16-02-49-1-1-9" scope="local" translate="no" type="figure">2</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Sub-frame
+rear mounting</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">HLE</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">2.97</value></technicalvalue></para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>
+<description id="d1e89" translate="no" xml:lang="en">
+<title translate="yes">In the event of replacement</title>
+<descbody translate="no"/>
+<description id="d1e93" translate="no" xml:lang="en">
+<title translate="yes">Complete replacement</title>
+<descbody translate="no">
+<noteR translate="no" type="warning">
+<para translate="yes">Use a repair bench to ensure the positioning
+of the points and the geometry of the axle assemblies.</para>
+</noteR>
+</descbody>
+<description id="d1e100" translate="no" xml:lang="en">
+<title translate="yes">Part in position</title>
+<descbody translate="no">
+<descsection translate="no">
+<figure id="40-02-06-16-14-repair-40-02-06-16-02-49-1-1-10" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000032443.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000340832-02-06-16-14-repair-40-02-06-16-02-49-1-1-10-000032443</illusnum></figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e109" translate="no" xml:lang="en">
+<title translate="yes">Position of electric earths</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">To avoid damaging the vehicles electric and
+electronic components, the earths of any wiring harness near the weld
+area must be disconnected.</para>
+<para translate="yes">Position the welding machine earth as close
+as possible to the weld zone (see MR 400).</para>
+</noteR>
+<para translate="yes">Locate the earths located near to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519830"><linkdesc>earth on body : component parts location</linkdesc><linkvalue>GIEMR-001519</linkvalue>
+</sieref>.</para>
+</descbody>
+</description>
+<description id="d1e123" translate="no" xml:lang="en">
+<title translate="yes">Irremovable bodywork components - structures to be removed in order to carry out the replacement operation</title>
+<descbody translate="no">
+<para translate="yes">Remove:</para>
+<ul translate="no">
+<li translate="yes">the centre floor front side cross member<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519238"><linkdesc>rear floor centre cross member, side section : replacement</linkdesc><linkvalue>GIEMR-002221</linkvalue></sieref>,</li>
+<li translate="yes">the sub-frame rear mounting<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3496393"><linkdesc>front subframe rear mounting : replacement</linkdesc><linkvalue>GIEMR-002117</linkvalue>
+</sieref>,</li>
+<li translate="yes">the front side member front section<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3527764"><linkdesc>front section of front side member : replacement</linkdesc><linkvalue>GIEMR-001497</linkvalue>
+</sieref>.</li>
+</ul>
+</descbody>
+</description>
+<description id="d1e145" translate="no" xml:lang="en">
+<title translate="yes">Special notes on mating</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">If the mating faces of the parts to be welded
+are not accessible, use a GMAW plug weld in place of the original
+electrical resistance weld<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438"><linkdesc>MIG/MAG/TIG welding : description</linkdesc><linkvalue>GIEMR-002090</linkvalue>
+</sieref>(MR 400, 40C, Gas metal arc welded connections (GMAW)).</para>
+</noteR>
+</descbody>
+</description>
+</description>
+</description>
+</description>

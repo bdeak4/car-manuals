@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XZJ|XFA|X55|XEF|XFF|XJD|XJA|XJC|XJB|XJE|XHA|XJK|XJL|XJH|XFK|XBC|XJF|XBB|XCB|XHN|X27|X58|XRQ|XDD|XTP|XBG|X59|X17|X06|X09|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000310842" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+<title translate="no">roof : sealing check</title>
+
+
+<procprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="04/11/20 16:09" translate="no"/>
+<revised modified="10/10/24 13:46" translate="no"/></critdates>
+<procmetadata translate="no">
+<siename translate="no">roof : sealing check</siename>
+<sieversion translate="no">I.1</sieversion>
+<sietype translate="yes">Procedure</sietype>
+<sienumber translate="no">RPR-000310842</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</procmetadata>
+</procprolog>
+<procbody translate="no">
+<introduction translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">Before any operation, check the water outletopenings.
+Clean any residue which has accumulated (for example: deadleaves,
+twigs, etc.) and check that water flows out correctly.</para>
+</noteR>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">When checking the sealing of the vehicle roof,the
+interior trims must be partially removed to facilitate the sealingcheck
+(see MR for the vehicle concerned ).</para>
+</noteR>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The list of the joint areas dealt with hereis
+general. Additional zones may exist depending on the layout ofeach
+vehicle (see MR for the vehicle concerned ).</para>
+</noteR>
+</introduction>
+</procbody>
+<procedure id="d1e140" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Position the vehicleon
+a level washing area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Check that all theopening
+elements are closed<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Check the tyre pressures.</para>
+</procstep>
+<procstep translate="no"><para translate="yes">Prepare the equipmentto
+perform the operation<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>,<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504059"><linkdesc>sealing tooling : description</linkdesc><linkvalue>GIEMR-001613</linkvalue>
+</sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601">
+<linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Adjust the flow ofthe
+water jet<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531">
+<linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e183" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title><?Pub Caret -2?>
+<procbody translate="no"/>
+<procedure id="d1e187" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="40-07-02-171-repair-40-07-02-01-94-1-1-9" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054462.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-171-repair-40-07-02-01-94-1-1-9-000054462</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the edge of theroof
+bar sealing plates by sweeping the zone in a circular manner.</para>
+</procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e205" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e207" translate="no"><mark id="MARK.REPAIR-40X07X02-01X94-1-1.1"><mcomponent>
+<label/></mcomponent><designation>C</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.2"><mcomponent><label/>
+</mcomponent><designation>B</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.3"><mcomponent><label/>
+</mcomponent><designation>A</designation></mark></marklayer>
+<figure id="40-07-02-175-repair-40-07-02-01-94-1-1-10" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057069_c@[users[a069270[appdata[local[temp[aptexport[40-07-02-175-repair-40-07-02-01-94-1-1-10.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-175-repair-40-07-02-01-94-1-1-10-000057069</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the sunroof mobilepanel
+by sweeping the side zones<markref format="dita" href="#d1e205/40-07-02-175-repair-40-07-02-01-94-1-1-10" scope="local" translate="no" type="figure">A</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Spray the sunroof mobilepanel
+by sweeping the front zone<markref format="dita" href="#d1e205/40-07-02-175-repair-40-07-02-01-94-1-1-10" scope="local" translate="no" type="figure">B</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Spray the sunroof mobilepanel
+by sweeping the rear zone<markref format="dita" href="#d1e205/40-07-02-175-repair-40-07-02-01-94-1-1-10" scope="local" translate="no" type="figure">C</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The method for checking the sealing appliesto
+the front fixed window or the rear fixed window of the vehicle'sfixed
+glass roof.</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e274" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no"/>
+<procedure id="d1e278" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="50-04-25-repair-40-07-02-01-94-1-1-3" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054469.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000310842-04-25-repair-40-07-02-01-94-1-1-3-000054469</illusnum></figure>
+<procstep translate="no"><para translate="yes">Wet the edge of thefixed
+window using soapy water<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3464730"><linkdesc>bodywork sealing product : description</linkdesc><linkvalue>GIEMR-001821</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">From inside the vehicle,blow
+the entire zone using the air gun<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually check forthe
+presence of bubbles at the edge of the zone.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e302" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e304" translate="no"><mark id="MARK.REPAIR-40X07X02-01X94-1-1.4"><mcomponent>
+<label/></mcomponent><designation>C</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.5"><mcomponent><label/>
+</mcomponent><designation>A</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.6"><mcomponent><label/>
+</mcomponent><designation>B</designation></mark></marklayer>
+<figure id="40-07-02-174-repair-40-07-02-01-94-1-1-11" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057068_c@[users[a069270[appdata[local[temp[aptexport[40-07-02-174-repair-40-07-02-01-94-1-1-11.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-174-repair-40-07-02-01-94-1-1-11-000057068</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the fixed roofwindow
+by sweeping the side zones<markref format="dita" href="#d1e302/40-07-02-174-repair-40-07-02-01-94-1-1-11" scope="local" translate="no" type="figure">A</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Spray the fixed roofwindow
+by sweeping the front zone<markref format="dita" href="#d1e302/40-07-02-174-repair-40-07-02-01-94-1-1-11" scope="local" translate="no" type="figure">B</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Spray the fixed roofwindow
+by sweeping the rear zone<markref format="dita" href="#d1e302/40-07-02-174-repair-40-07-02-01-94-1-1-11" scope="local" translate="no" type="figure">C</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+<procedure id="d1e366" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no"/>
+<procedure id="d1e370" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="50-04-25-repair-40-07-02-01-94-1-1-5" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054469.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000310842-04-25-repair-40-07-02-01-94-1-1-5-000054469</illusnum></figure>
+<procstep translate="no"><para translate="yes">Wet the edge of thesunroof
+or fixed glass roof frame using soapy water<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3464730"><linkdesc>bodywork sealing product : description</linkdesc><linkvalue>GIEMR-001821</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">From inside the vehicle,blow
+the entire zone using the air gun<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504059"><linkdesc>sealing tooling : description</linkdesc><linkvalue>GIEMR-001613</linkvalue>
+</sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually check forthe
+presence of bubbles at the edge of the zone.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e394" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e396" translate="no"><mark id="MARK.REPAIR-40X07X02-01X94-1-1.7"><mcomponent>
+<label/></mcomponent><designation>C</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.8"><mcomponent><label/>
+</mcomponent><designation>B</designation></mark><mark id="MARK.REPAIR-40X07X02-01X94-1-1.9"><mcomponent><label/>
+</mcomponent><designation>A</designation></mark></marklayer>
+<figure id="40-07-02-173-repair-40-07-02-01-94-1-1-12" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000053536_c@[users[a069270[appdata[local[temp[aptexport[40-07-02-173-repair-40-07-02-01-94-1-1-12.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-173-repair-40-07-02-01-94-1-1-12-000053536</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the edge of thesunroof
+or fixed glass roof frame by sweeping the side zones<markref format="dita" href="#d1e394/40-07-02-173-repair-40-07-02-01-94-1-1-12" scope="local" translate="no" type="figure">A</markref>, the frontzone<markref format="dita" href="#d1e394/40-07-02-173-repair-40-07-02-01-94-1-1-12" scope="local" translate="no" type="figure">B</markref>, and the rear
+zone<markref format="dita" href="#d1e394/40-07-02-173-repair-40-07-02-01-94-1-1-12" scope="local" translate="no" type="figure">C</markref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+<procedure id="d1e440" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="40-07-02-170-repair-40-07-02-01-94-1-1-13" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054461.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-170-repair-40-07-02-01-94-1-1-13-000054461</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the edge of theradio
+aerial base by sweeping the zone in a circular manner.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e458" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="40-07-02-172-repair-40-07-02-01-94-1-1-14" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000058772.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000310842-07-02-172-repair-40-07-02-01-94-1-1-14-000058772</illusnum></figure>
+<procstep translate="no"><para translate="yes">Spray the mastic fillingzone
+by sweeping from the lowest point to the highest point alongthe entire
+length<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601">
+<linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para></procstep>
+<procstep translate="no"><para translate="yes">Visually inspect forthe
+presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue>
+</sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e479" translate="no" xml:lang="en">
+<title translate="yes">roof : sealing check</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">If the customer complaintcould
+not be reproduced in accordance with the procedure, remove theinterior
+trims (see Body internal trim in the vehicle's repair manual) then
+repeat the sealing check from step 1; extend the sealing checkto the
+surrounding areas<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499317"><linkdesc>vehicle : sealing check</linkdesc><linkvalue>GIEMR-002440</linkvalue></sieref>.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+</procedure>

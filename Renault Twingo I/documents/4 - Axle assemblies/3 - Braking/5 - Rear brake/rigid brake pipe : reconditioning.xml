@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X33|X35|X38|X44|X52|X61|X62|X65/PE2009|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XZH|XHA|XZG/APL03|XFA|X55|XZJ/APL03|XEF|XJD|XJA|XJC|XJB|XJE|XBC|XJL|XJH|XJK|XFF|XFK|XJF|XHN|XCB|XBB|X57|X58|X56|XDD|XBG|X59|X53|X17|X54|XBA|X75|X45|X27|XRQ|X47|X29|XTP|X48|X24|X40|X41|X42|X43|X06|X64|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-001485517" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">rigid brake pipe : reconditioning</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="25/03/20 13:34" translate="no"/>
+      <revised modified="27/03/20 19:37" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">rigid brake pipe : reconditioning</siename>
+      <sieversion translate="no">B.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001485524</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop &amp; Start system, always follow the safety instructions <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040" translate="no"><linkdesc translate="no">vehicle : precautions for the repair</linkdesc><linkvalue translate="no">GIEMR-002446</linkvalue></sieref>.</para>
+      </noteR>
+      <para translate="yes">This procedure applies to copper pipes with a diameter of<technicalvalue translate="no"><value translate="yes">4.7 mm</value></technicalvalue>.</para>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">This procedure does not apply to:</para>
+        <ul translate="no">
+          <li translate="yes">hybrid pipes (pipe + hose),</li>
+          <li translate="yes">pipes with diameters of <technicalvalue translate="no"><value translate="yes">6 mm </value></technicalvalue>and <technicalvalue translate="no"><value translate="yes">8 mm </value></technicalvalue></li>
+        </ul>
+      </noteR>
+      <para translate="yes">The tightening torques specified in this method only apply to refitted pipes. In the case of factory-fitted pipes (pipes not refitted), refer to the tightening torque procedure<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3540366" translate="no"><linkdesc translate="no">brake circuit : tightening torque</linkdesc><linkvalue translate="no">GIEMR-000520</linkvalue></sieref>.</para>
+    </introduction>
+  </procbody>
+  <procedure id="d1e112" otherprops="WF-SET='01,22'" translate="no">
+    <title translate="yes">reconditioning</title>
+    <?Pub Caret -2?>
+    <procbody translate="no"/>
+    <procedure id="d1e116" translate="no">
+      <title translate="yes">pipe preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <noteR translate="no" type="caution">
+              <para translate="yes">To avoid causing a breakdown in hydraulic brake circuit , do not squash or bend the rigid pipe when cutting.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Cut the pipe at the desired length using a pipe cutter.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-03-09-01-26-repair-13-03-09-01-01-22-1-1-10" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034308.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-26-repair-13-03-09-01-01-22-1-1-10-000034308</illusnum>
+          </figure>
+          <figure id="13-03-09-01-15-repair-13-03-09-01-01-22-1-1-11" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034107.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-15-repair-13-03-09-01-01-22-1-1-11-000034107</illusnum>
+          </figure>
+          <figure id="13-03-09-01-25-repair-13-03-09-01-01-22-1-1-12" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034307.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-25-repair-13-03-09-01-01-22-1-1-12-000034307</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Put the nuts or bolts on the pipe before forming the rivets.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e141" translate="no">
+      <title translate="yes">Making the rivets</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">To make the rivets, fit the rivet press in a vice.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Fit the pipe in the rivet press.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Adjust the length of the pipe to be shaped.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Torque tighten the press end piece (<technicalvalue translate="no"><value translate="yes">40 N.m)</value></technicalvalue>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e165" translate="no">
+      <title translate="yes">Checking the rivets</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <figure id="13-03-09-01-27-repair-13-03-09-01-01-22-1-1-13" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034309.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-27-repair-13-03-09-01-01-22-1-1-13-000034309</illusnum>
+          </figure>
+          <figure id="13-03-09-01-29-repair-13-03-09-01-01-22-1-1-14" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034311.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-29-repair-13-03-09-01-01-22-1-1-14-000034311</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect:</para>
+            <ul translate="no">
+              <li translate="yes">consistency in the diameter of the rivets,</li>
+              <li translate="yes">the rivet centring in relation to the pipe shaft.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-03-09-01-28-repair-13-03-09-01-01-22-1-1-15" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034310.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-28-repair-13-03-09-01-01-22-1-1-15-000034310</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Visually check that the internal diameter of the pipe is not oval-shaped.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e191" translate="no">
+            <mark id="MARK.REPAIR-13X03X09X01-01X22-1-1.1" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">X2</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X03X09X01-01X22-1-1.2" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">X1</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-03-09-01-17-repair-13-03-09-01-01-22-1-1-16" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034109_LAY-000261541.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-17-repair-13-03-09-01-01-22-1-1-16-000034109</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Check that the diameter of the end panel is not oval shaped using a sliding calliper.</para>
+            <para translate="yes">Correct diameter if<markref format="dita" href="#d1e165/13-03-09-01-17-repair-13-03-09-01-01-22-1-1-16" scope="local" translate="no" type="figure">X1</markref>=<markref format="dita" href="#d1e165/13-03-09-01-17-repair-13-03-09-01-01-22-1-1-16" scope="local" translate="no" type="figure">X2</markref>                   </para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e227" translate="no">
+      <title translate="yes">Preparation of the pipe before bending</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">Impurities may spread inside the pipe while the rivets are being made.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Blow inside the pipe in both directions using a<?Pub Inc?><materialname otherprops="MAT80_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">compressed air nozzle</materialname>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Put plugs on the bolts or nuts at the ends of the pipe.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Put the original pipe on a flat base plate that is the length of the pipe.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e246" translate="no">
+            <mark id="MARK.REPAIR-13X03X09X01-01X22-1-1.3">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>X3</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X03X09X01-01X22-1-1.4">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>1</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-03-09-01-19-repair-13-03-09-01-01-22-1-1-17" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034123_LAY-000261542.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-19-repair-13-03-09-01-01-22-1-1-17-000034123</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Measure the dimensions <markref format="dita" href="#d1e227/13-03-09-01-19-repair-13-03-09-01-01-22-1-1-17" scope="local" translate="no" type="figure">X3</markref> (in mm) curve after curve, between the centre of each curve radius for each of the curves <markref format="dita" href="#d1e227/13-03-09-01-19-repair-13-03-09-01-01-22-1-1-17" scope="local" translate="no" type="figure">1</markref> on the old pipe.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-03-09-01-32-repair-13-03-09-01-01-22-1-1-26" translate="no">
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000033666.PNG" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-32-repair-13-03-09-01-01-22-1-1-26-000033666</illusnum>
+          </figure>
+          <procstep translate="no">
+            <noteR translate="no" type="caution">
+              <para translate="yes">To avoid weakening the pipe, either bend once or bend progressively by increasing the bend (that is, by continually decreasing the curve radius). Do not install a rigid pipe on a vehicle that may have been bended and then unbended alternatively to reach the correct curve radius.</para>
+            </noteR>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">During the bending operation, the required angle should be passed slightly in order to compensate for material elasticity.</para>
+            </noteR>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Shape the pipe using a bender, curve after curve, while respecting the original shape of the pipe.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e296" translate="no">
+      <title translate="yes">Checking bending</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="435316f7-d744-4286-9046-aaaa057aceee" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">2</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-03-09-01-24-repair-13-03-09-01-01-22-1-1-22" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034306_LAY-000261543.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-24-repair-13-03-09-01-01-22-1-1-22-000034306</illusnum>
+          </figure>
+          <figure id="13-03-09-01-30-repair-13-03-09-01-01-22-1-1-23" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034312.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-30-repair-13-03-09-01-01-22-1-1-23-000034312</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Check the out-of-roundness of the outer diameter at the centre of the curve radius <markref format="dita" href="#d1e296/13-03-09-01-24-repair-13-03-09-01-01-22-1-1-22" scope="local" translate="no" type="figure">2</markref> using a sliding calliper (the out-of-roundness of the outer diameter is correct if it is less than 10% flat):</para>
+            <ul translate="no">
+              <li translate="yes">nominal diameter of the pipe:<technicalvalue translate="no"><value translate="yes">4.75 mm</value></technicalvalue>,</li>
+              <li translate="yes">minimum diameter after bending:<technicalvalue translate="no"><value translate="yes">4.30 mm</value></technicalvalue>.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e336" translate="no">
+      <title translate="yes">Refitting the pipe</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">When refitting the rigid brake pipe:</para>
+              <ul translate="no">
+                <li translate="yes">respect the original routing as much as possible,</li>
+                <li translate="yes">adjust the pipe routing by hand when fitting inside the clips.</li>
+              </ul>
+            </noteR>
+            <noteR translate="no" type="caution">
+              <para translate="yes">Contact points between the rigid brake pipe and the surrounding components could cause damage to the pipe. In order to avoid these contacts, adjust the pipe routing by hand.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-03-09-01-16-repair-13-03-09-01-01-22-1-1-24" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034108.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-16-repair-13-03-09-01-01-22-1-1-24-000034108</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">
+<torque translate="no"> <torquedobject translate="yes">brake pipe bolt </torquedobject><technicalvalue translate="no"> <value translate="yes">14 N.m </value></technicalvalue></torque>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-03-09-01-18-repair-13-03-09-01-01-22-1-1-25" translate="no">
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000034110.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000468114-03-09-01-18-repair-13-03-09-01-01-22-1-1-25-000034110</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">
+<torque translate="no"> <torquedobject translate="yes">under-body unions (female/male) </torquedobject><technicalvalue translate="no"> <value translate="yes">10 N.m </value></technicalvalue></torque>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

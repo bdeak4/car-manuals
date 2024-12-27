@@ -1,0 +1,44 @@
+{
+  "PR": [
+    {
+      "id": "1323_120010",
+      "filename": "1323_120010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083598.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3552",
+      "filename": "MOTORIZED THROTTLE BODY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3552.pdf"
+    },
+    {
+      "id": "3475",
+      "filename": "MULTIPOINT LPG INJECTION D7F 704 - D7F 744 - D7F 764 - D7F 766 engines.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3475.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "3404",
+      "filename": "THROTTLE POTENTIOMETER AND IDLE SPEED REGULATION VALVE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3404.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21952.png"
+    }
+  ]
+}

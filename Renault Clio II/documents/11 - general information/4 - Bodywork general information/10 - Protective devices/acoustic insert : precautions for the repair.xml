@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X33|X38|X43|X44|X45|X47|X61|X62|X67|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X91|X92|X95|X98|XFC|XFE|XFB|XFD|XZH|XHA|XZG|XFF|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X57|X58|X56|XDD|X35|X59|X53|X17|X54|X90|X52|X09|X75|X70|XJC|XJH|X27|XRQ|X29|XTP|X48|X24|X40|X41|X42|X06|X65|X64|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323988" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">acoustic insert : precautions for the repair</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 01:34" translate="no"/>
+         <revised modified="10/10/24 13:48" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">acoustic insert : precautions for the repair</siename>
+         <sieversion translate="no">M.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323988</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <para translate="yes">The expanding inserts ensure that the vehicle cavities are sealed and soundproofed. They react to the temperature when the bodywork is immersed in the cataphoretic bath at the factory. These conditions cannot be reproduced on the bodywork.</para>
+      <para translate="yes">As inserts are not recoverable, always replace expanding inserts.</para>
+      <para translate="yes">The inserts supplied by the Parts Department are identical to the original parts.</para>
+      <para translate="yes">To obtain the same sealing and soundproofing properties, carry out the following operations:</para>
+      <ul translate="no">
+         <li translate="yes">clean the bonding surfaces with heptane,</li>
+         <li translate="yes">if necessary, block the holes in the insert using pieces cut from a soundproofing pad,</li>
+         <li translate="yes">apply a bead of preformed trim sealing mastic around and inside the insert holes,</li>
+         <li translate="yes">fit the insert by compressing the mastic.</li>
+      </ul>
+      <noteR translate="no" type="caution">
+         <para translate="yes">Do not refit the part after compressing the bead.</para>
+         <para translate="yes">When EGW welding, protect the inserts from spatter and heat dispersion.</para>
+         <para translate="yes">For example, use a heat shield.</para>
+      </noteR>
+      <para translate="yes">In some cases, it is possible to replace the accessible part of the insert only, which must be cut out of the replacement part.</para>
+   </descbody>
+</description>

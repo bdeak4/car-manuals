@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X29|X40|X48|X53|X54|X56|X57|X63|X64|X66|X94|XJ1|XR4|XR5|XRQ|XTP" id="RPR-000076009" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+<title translate="yes">coolant circuit assembly : check</title><?Pub Caret -2?>
+
+
+<procprolog translate="no">
+
+
+<status name="Draft" translate="no"/>
+<critdates translate="no">
+<created date="06/11/15 09:33" translate="no"/>
+<revised modified="06/11/15 09:33" translate="no"/></critdates>
+<procmetadata translate="no">
+<siename translate="no">coolant circuit assembly : check</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Procedure</sietype>
+<sienumber translate="no">RPR-000076009</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</procmetadata>
+</procprolog>
+<procbody translate="no">
+<introduction translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="35.29587567244471%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="64.70412432755529%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry nameend="2" namest="1" translate="yes"><para translate="yes">Special tooling required</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Mot. 1700</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Cooling circuit
+filling and diagnostic tool</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</introduction>
+</procbody>
+<procedure id="d1e60" translate="no" xml:lang="en">
+<title translate="yes">Recommendations for repair</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no">
+<noteR translate="no" type="warning">
+<para translate="yes">The circuits are designed to be pressurized;
+take care at high temperatures (risk of serious burns).</para>
+<para translate="yes">Never remove the valve from the expansion bottle
+while the engine is hot.</para>
+<para translate="yes">Similarly, take care when working under the
+bonnet, as the radiator fan(s) may start up unexpectedly.</para>
+<para translate="yes">Do not open the bleed valve(s) while the engine
+is running.</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e74" translate="no" xml:lang="en">
+<title translate="yes">Checking the circuit sealing</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The expansion bottle valve must be replaced
+if coolant is leaking from the valve.</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+<procedure id="d1e84" translate="no" xml:lang="en">
+<title translate="yes">Checking the cooling circuit and the expansion bottle valve</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e86" translate="no"><?Pub Dtl?>
+<mark id="MARK.REPAIR-10X06X01-01X58-1-3.1"><mcomponent><label/>
+</mcomponent><designation>9</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.2"><mcomponent><label/>
+</mcomponent><designation>8</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.3"><mcomponent><label/>
+</mcomponent><designation>7</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.4"><mcomponent><label/>
+</mcomponent><designation>6</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.5"><mcomponent><label/>
+</mcomponent><designation>5</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.6"><mcomponent><label/>
+</mcomponent><designation>4</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.7"><mcomponent><label/>
+</mcomponent><designation>3</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.8"><mcomponent><label/>
+</mcomponent><designation>2</designation></mark><mark id="MARK.REPAIR-10X06X01-01X58-1-3.9"><mcomponent><label/>
+</mcomponent><designation>1</designation></mark></marklayer>
+<figure id="10-06-36-repair-10-06-01-01-58-1-3-1" translate="no">
+
+<image dimension="F7 (120x120)" href="../MergedPictures/ILL-000007985_c@[users[a179523[appdata[local[temp[aptexport[10-06-36-repair-10-06-01-01-58-1-3-1.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000076009-06-36-repair-10-06-01-01-58-1-3-1-000007985</illusnum></figure>
+<procstep translate="no"><para translate="yes">Check the cooling circuit
+and the expansion bottle valve using the cooling circuit diagnostic
+and filling tool (Mot. 1700) . For guidance on the use of this tool
+see TN 3857A, How to use the cooling circuit diagnostic and filling
+tool .</para>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">For any further information, refer to the Workshop
+Repair Manual of the vehicle concerned.</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+</procedure>

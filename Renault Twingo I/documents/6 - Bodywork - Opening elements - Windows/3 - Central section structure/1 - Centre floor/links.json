@@ -1,0 +1,109 @@
+{
+  "PR": [
+    {
+      "id": "1204_412011",
+      "filename": "1204_412011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083967.svg"
+    },
+    {
+      "id": "1204_412010",
+      "filename": "1204_412010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01098357.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0393",
+      "filename": "PAINT COLOURS - MODEL YEAR 1997.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0393.pdf"
+    },
+    {
+      "id": "0436",
+      "filename": "ADAPTING THE FLOOR PANEL TO FIT A CONSOLE SUPPORT BRACKET (For vehicles manufactured before 0306/1996).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0436.pdf"
+    },
+    {
+      "id": "0463",
+      "filename": "ADAPTING A SPECIFIC STRUT FOR ENGINE TYPE C3G.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0463.pdf"
+    },
+    {
+      "id": "0501",
+      "filename": "ADAPTING A BODYSHELL SUPPLIED BY THE PARTS DEPARTMENT FOR A PHASE 1 TYPE VEHICLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0501.pdf"
+    },
+    {
+      "id": "0498",
+      "filename": "PAINT COLOURS FOR THE 1999 MODEL YEAR RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0498.pdf"
+    },
+    {
+      "id": "0346",
+      "filename": "NEW POSITION OF BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0346.pdf"
+    },
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "0514",
+      "filename": "SAFETY OPERATION TO BE CARRIED OUT PRIOR TO REMOVING A FRONT SEAT EQUIPPED WITH A SIDE AIR BAG AND....pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0514.pdf"
+    },
+    {
+      "id": "0302",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0302.pdf"
+    },
+    {
+      "id": "0547",
+      "filename": "SHADES IN THE 2000 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0547.pdf"
+    },
+    {
+      "id": "0563",
+      "filename": "PAINT SHADES IN THE 2001 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0563.pdf"
+    },
+    {
+      "id": "0574",
+      "filename": "SHADES IN THE 2002 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0574.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5b00d08813b00dc4cf43a",
+      "filename": "impact fault finding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000002619.xml"
+    },
+    {
+      "id": "5e20dc1b46e0fb0001e68210",
+      "filename": "underbody : preparation and paint range.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001453226.xml"
+    },
+    {
+      "id": "5af597bfc3da7a00dc22af37",
+      "filename": "underbody : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000323857.xml"
+    },
+    {
+      "id": "5af59769c3da7a00dc22aee6",
+      "filename": "underbody : sealing repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000323470.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21584.png"
+    }
+  ]
+}

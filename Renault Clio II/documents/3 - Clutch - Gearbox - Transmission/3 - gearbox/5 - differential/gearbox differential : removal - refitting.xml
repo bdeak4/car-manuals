@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3,JC5|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3,JC5|X65/JB1,JB3,JC5|X66/JC5|X76/JB1,JB3,JC5|X94/JC5" id="RPR-000165757" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">gearbox differential : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e91" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e95" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="warning">
+                     <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out any repair:</para>
+                     <ul translate="no">
+                        <li translate="yes">
+                           <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539122">
+                              <linkdesc>gearbox assembly : precautions for the repair</linkdesc>
+                              <linkvalue>GIEMR-000928</linkvalue>
+                           </sieref>,</li>
+                        <li translate="yes">(see Vehicle: Precautions for repair) (01D, Mechanical introduction).</li>
+                     </ul>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Position the gearbox on the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the gearbox shafts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451468">
+                           <linkdesc>input, output and reverse gear shafts : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000045</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the differential output seal<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3470456">
+                           <linkdesc>gearbox differential oil seal : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001358</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e153" translate="no">
+         <title translate="yes">removal operation for the differential</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e193" translate="no">
+                  <mark id="MARK.REPAIR-12X01X05-01X37-1-13.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X05-01X37-1-13.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X05-01X37-1-13.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-130-repair-12-01-05-01-37-1-13-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024669_LAY-000045607.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">A press should be used in order to release the strain between the ring and the housing.</para>
+                  </noteR>
+                  <para translate="yes">Fit:</para>
+                  <ul translate="no">
+                     <li translate="yes">a rubber or wooden block on the press plate,</li>
+                     <li translate="yes">the crownwheel side of the differential on the rubber or wooden block.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Take a cylinder suitable for the outer diameter of the differential output housing and push the housing using the press at<markref format="dita" href="#d1e153/12-01-130-repair-12-01-05-01-37-1-13-9" scope="local" translate="no" type="figure">1</markref>to release any strain in the lock ring.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the lock ring<markref format="dita" href="#d1e153/12-01-130-repair-12-01-05-01-37-1-13-9" scope="local" translate="no" type="figure">2</markref>using circlip pliers.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the differential by pushing on the sunwheel<markref format="dita" href="#d1e153/12-01-130-repair-12-01-05-01-37-1-13-9" scope="local" translate="no" type="figure">3</markref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e265" translate="no">
+         <title translate="yes">removal operation for the differential</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="12-01-144-repair-12-01-05-01-37-1-13-16" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000023104_LAY-000045601.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Secure the differential unit - crownwheel assembly using the tool<toolref format="dita" href="x-wc://file=OS-000004253.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Differential rotation locking tool.</linkdesc>
+                        <linkvalue>Bvi. 1057</linkvalue>
+                     </toolref>mounted on the housing.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-05-6-repair-12-01-05-01-37-1-13-17" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000048716_LAY-000045602.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the differential nut.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Recover the bearing pretensioning torque permanent shim.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the differential by pushing on the sunwheel.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e312" translate="no">
+         <title translate="yes">tachometer removal operation</title>
+         <procbody translate="no"/>
+         <procedure id="d1e316" translate="no">
+            <title translate="yes">Mechanical tachometer</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the tachometer crownwheel,</li>
+                        <li translate="yes">he hollow sunwheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462604">
+                              <linkdesc>gearbox differential hollow sunwheel : removal - refitting</linkdesc>
+                              <linkvalue>GIEMR-001791</linkvalue>
+                           </sieref>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Turn the differential by hand so that the tachometer sprocket can be accessed.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <figure id="12-01-05-8-repair-12-01-05-01-37-1-13-18" translate="no">
+                     
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000046965_LAY-000045603.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Unclip the shaft by pulling it upward using long-nosed pliers.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the sprocket from its housing using the pliers.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e345" translate="no">
+            <title translate="yes">Electronic tachometer</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e347" translate="no">
+                     <mark id="MARK.REPAIR-12X01X05-01X37-1-13.6" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">5</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-12X01X05-01X37-1-13.7" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">4</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="12-01-05-9-repair-12-01-05-01-37-1-13-19" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000047874_LAY-000045604.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Move the tabs of the spring<markref format="dita" href="#d1e345/12-01-05-9-repair-12-01-05-01-37-1-13-19" scope="local" translate="no" type="figure">5</markref>using a screwdriver.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the spring<markref format="dita" href="#d1e345/12-01-05-9-repair-12-01-05-01-37-1-13-19" scope="local" translate="no" type="figure">5</markref>,</li>
+                        <li translate="yes">the tachometer target<markref format="dita" href="#d1e345/12-01-05-9-repair-12-01-05-01-37-1-13-19" scope="local" translate="no" type="figure">4</markref>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+   </procedure>
+   <procedure id="d1e384" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e388" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Use<ingredientname translate="yes">SURFACE CLEANER</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>to clean:</para>
+                  <ul translate="no">
+                     <li translate="yes">the shafts,</li>
+                     <li translate="yes">the shaft mating surfaces,</li>
+                     <li translate="yes">the mechanism housings.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts always to be replaced:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lip seals,</li>
+                     <li translate="yes">the O-rings,</li>
+                     <li translate="yes">the clutch thrust bearing guide,</li>
+                     <li translate="yes">the tachometer sprocket and sprocket shaft,</li>
+                     <li translate="yes">the tachometer crownwheel,</li>
+                     <li translate="yes">the tachometer target spring,</li>
+                     <li translate="yes">the gear lock rings,</li>
+                     <li translate="yes">the roll pins,</li>
+                     <li translate="yes">the input and output shaft bearing circlips,</li>
+                     <li translate="yes">the selector rod hub springs,</li>
+                     <li translate="yes">the hydraulic clutch slave cylinder (if fitted),</li>
+                     <li translate="yes">the magnet.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e438" translate="no">
+         <title translate="yes">tachometer refitting operation</title>
+         <procbody translate="no"/>
+         <procedure id="d1e442" translate="no">
+            <title translate="yes">Mechanical tachometer</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Refit:</para>
+                     <ul translate="no">
+                        <li translate="yes">the new tachometer sprocket using flat-nosed pliers,</li>
+                        <li translate="yes">the tachometer sprocket shaft.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <figure id="12-01-05-7-repair-12-01-05-01-37-1-13-15" translate="no">
+                     
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000046964_LAY-000045600.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Correctly position the shaft in relation to the sprocket collet pins.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Ensure that it has been clipped correctly by tapping the shaft with a mallet.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Check the rotation of the tachometer shaft.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Refit the hollow sunwheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462604">
+                           <linkdesc>gearbox differential hollow sunwheel : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001791</linkvalue>
+                        </sieref>.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e474" translate="no">
+            <title translate="yes">Electronic tachometer</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Fit the tachometer target on the differential.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Refit the tachometer target mounting spring using a tube with a<technicalvalue translate="no">
+                           <value translate="yes">49 mm</value>
+                        </technicalvalue>internal diameter.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Check the fitting of the spring tabs in the differential neck.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e492" translate="no">
+         <title translate="yes">refitting operation for the differential</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="12-01-139-repair-12-01-05-01-37-1-13-10" translate="no">
+                  
+                  <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000022477_LAY-000045599.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">A press should be used to refit the lock ring.</para>
+                  </noteR>
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the crownwheel side of the differential on a rubber or wooden block,</li>
+                     <li translate="yes">the box casing on the differential.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Position the lock ring on the cone of the tool<toolref format="dita" href="x-wc://file=OS-000004676.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Mandrel for fitting locking spring ring to the sunwheel.</linkdesc>
+                        <linkvalue>Bvi. 946</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit the tool and its cone<toolref format="dita" href="x-wc://file=OS-000004676.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Mandrel for fitting locking spring ring to the sunwheel.</linkdesc>
+                        <linkvalue>Bvi. 946</linkvalue>
+                     </toolref>on the differential output shaft.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Push the assembly using the press until the lock ring is positioned.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e562" translate="no">
+         <title translate="yes">refitting operation for the differential</title>
+         <procbody translate="no"/>
+         <procedure id="d1e585" translate="no">
+            <title translate="yes">Adjusting the bearing pretensioning torque</title>
+            <procbody translate="no"/>
+            <procedure id="d1e589" translate="no">
+               <title translate="yes">Choosing the adjustment washer:</title>
+               <procbody translate="no">
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Three possible cases can arise:</para>
+                        <ul translate="no">
+                           <li translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">1st case</value>
+                              </technicalvalue>: all the parts are reused (bearings, differential unit, housing). Refit the original adjustment washer and check the pretensioning torque,</li>
+                           <li translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">2nd case</value>
+                              </technicalvalue>: the bearings are reused, but one of the parts is replaced (unit or housing). Use the thickest adjustment washer in the set (<technicalvalue translate="no">
+                                 <value translate="yes">2.525 mm</value>
+                              </technicalvalue>). Check and potentially adjust the pretensioning torque,</li>
+                           <li translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">3rd case</value>
+                              </technicalvalue>: the bearings are new (with or without replacement of the unit and housing). Use the thickest adjustment washer in the set (<technicalvalue translate="no">
+                                 <value translate="yes">2.525 mm</value>
+                              </technicalvalue>). Check and potentially adjust the pretensioning torque.</li>
+                        </ul>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Refit the sunwheel stem end bearing on the differential unit.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Fit the adjustment washer and the rubber nut, observing the direction of fitting (neck on bearing side).</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Torque tighten the<torque translate="no">
+                              <torquedobject translate="yes">differential nut (initial torque)</torquedobject>
+                              <technicalvalue translate="no">
+                                 <value translate="yes">11 N.m</value>
+                              </technicalvalue>
+                           </torque>.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <figure id="12-01-05-6-repair-12-01-05-01-37-1-13-21" translate="no">
+                        
+                        <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000048716_LAY-000045606.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                     </figure>
+                     <procstep translate="no">
+                        <para translate="yes">Remove the tool<toolref format="dita" href="x-wc://file=OS-000004253.xml" scope="external" translate="no" type="specifictool">
+                              <linkdesc>Differential rotation locking tool.</linkdesc>
+                              <linkvalue>Bvi. 1057</linkvalue>
+                           </toolref>and turn the differential to fit the bearings.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Refit the<toolref format="dita" href="x-wc://file=OS-000004253.xml" scope="external" translate="no" type="specifictool">
+                              <linkdesc>Differential rotation locking tool.</linkdesc>
+                              <linkvalue>Bvi. 1057</linkvalue>
+                           </toolref>.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Torque tighten the<torque translate="no">
+                              <torquedobject translate="yes">differential nut</torquedobject>
+                              <technicalvalue translate="no">
+                                 <value translate="yes">130 N.m</value>
+                              </technicalvalue>
+                           </torque>.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Remove the<toolref format="dita" href="x-wc://file=OS-000004253.xml" scope="external" translate="no" type="specifictool">
+                              <linkdesc>Differential rotation locking tool.</linkdesc>
+                              <linkvalue>Bvi. 1057</linkvalue>
+                           </toolref>.</para>
+                     </procstep>
+                  </procsteps>
+               </procbody>
+            </procedure>
+            <procedure id="d1e673" translate="no">
+               <title translate="yes">Verifying the pretensioning torque</title>
+               <procbody translate="no">
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Rotate the differential several times.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Wind a string around the crownwheel.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Pull on the string using a spring balance.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <figure id="12-01-146-repair-12-01-05-01-37-1-13-20" translate="no">
+                        
+                        <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000023245_LAY-000045605.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                     </figure>
+                     <procstep translate="no">
+                        <para translate="yes">
+                           <technicalvalue translate="no">
+                              <value translate="yes">1st and 2nd case</value>
+                           </technicalvalue>- bearings reused:</para>
+                        <ul translate="no">
+                           <li translate="yes">the differential must rotate under a load between<technicalvalue translate="no">
+                                 <value translate="yes">0</value>
+                              </technicalvalue>and<technicalvalue translate="no">
+                                 <value translate="yes">20 N</value>
+                              </technicalvalue>.</li>
+                        </ul>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">
+                           <technicalvalue translate="no">
+                              <value translate="yes">3rd case</value>
+                           </technicalvalue>- new bearings:</para>
+                        <ul translate="no">
+                           <li translate="yes">the differential must rotate under a load between<technicalvalue translate="no">
+                                 <value translate="yes">16</value>
+                              </technicalvalue>and<technicalvalue translate="no">
+                                 <value translate="yes">32 N</value>
+                              </technicalvalue>.</li>
+                        </ul>
+                        <para translate="yes">This is the load required to maintain the rotation of the differential.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">If the adjustment is not correct:</para>
+                        <ul translate="no">
+                           <li translate="yes">the pretensioning torque increases by approximately<technicalvalue translate="no">
+                                 <value translate="yes">7</value>
+                              </technicalvalue>to<technicalvalue translate="no">
+                                 <value translate="yes">8 N</value>
+                              </technicalvalue>when the thickness of the adjustment washer decreases<technicalvalue translate="no">
+                                 <value translate="yes">0.5 mm</value>
+                              </technicalvalue>and vice versa.</li>
+                        </ul>
+                        <para translate="yes">There is a set of adjustment washers<technicalvalue translate="no">
+                              <value translate="yes">2.225 mm</value>
+                           </technicalvalue>to<technicalvalue translate="no">
+                              <value translate="yes">2.525 mm</value>
+                           </technicalvalue>thick<technicalvalue translate="no">
+                              <value translate="yes"/>
+                           </technicalvalue>in<technicalvalue translate="no">
+                              <value translate="yes">0.05</value>
+                           </technicalvalue>increments.</para>
+                     </procstep>
+                  </procsteps>
+                  <procsteps translate="no">
+                     <procstep translate="no">
+                        <para translate="yes">Fit with the new adjustment washer and re-check the pretensioning torque.</para>
+                     </procstep>
+                  </procsteps>
+               </procbody>
+            </procedure>
+         </procedure>
+      </procedure>
+      <procedure id="d1e778" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the differential output seal<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3470456">
+                           <linkdesc>gearbox differential oil seal : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001358</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the gearbox shafts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451468">
+                           <linkdesc>input, output and reverse gear shafts : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000045</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox from the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

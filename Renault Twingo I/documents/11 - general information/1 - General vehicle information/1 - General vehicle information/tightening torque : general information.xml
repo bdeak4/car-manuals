@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X62|X65|X67|X70|X73|X74|X76|X77|X79|X81|X10|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|X33|XFB|XFC|XFD|XFE|XZH|XZG|XFA|XFF|XZJ|X55|X35|XEF|XBC|XJL|XJH|XJB|XJE|XBG|XJF|X75|X29|X38|X34|X40|X41|X42|X06|X17|X24|X27|X45|X47|X43|X48|X50|X53|X54|X56|X57|X58|X59|X63|X64|X44|X66|XGA|XGE|XGF|XHA|X94|XBA|XBB|X52|XJD|XJA|XJC|XJK|XFK|X61|XHN|XCB|XRQ|XTP|XDD|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000442361" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">tightening torque : general information</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="02/02/22 09:35" translate="no"/>
+      <revised modified="04/02/22 23:11" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">tightening torque : general information</siename>
+      <sieversion translate="no">N.2</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000007462</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <description id="d1e77" translate="no" xml:lang="fr">
+    <title translate="yes">table of standard torques</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="33.333333333333336%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="33.333333333333336%" translate="no"/>
+          <colspec colname="3" colnum="3" colwidth="33.333333333333336%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry nameend="2" namest="1" rowsep="0" translate="yes">                         <para translate="yes">Fastenings</para>                      </entry>
+              <entry colname="3" morerows="1" translate="yes">                         <para translate="yes">Standard tightening torque <technicalvalue translate="no"><value translate="yes">(N.m.)</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Diameter</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Property class</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M6</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">8.8</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">10</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M8</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">8.8</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">25</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M10</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">8.8</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">50</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M10</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">10.9</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">62</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M12</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">10.9</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">105</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M14</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">10.9</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">180</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M16</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">10.9</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">280</para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M18</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">10.9</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">400</para>                      </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <title translate="yes">Special notes on electrical earths</title>
+        <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="50.00000000000001%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="50.00000000000001%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" rowsep="0" translate="yes">                         <para translate="yes">Fastenings</para>                      </entry>
+              <entry colname="2" morerows="1" translate="yes">                         <para translate="yes">Standard tightening torque <technicalvalue translate="no"><value translate="yes">(N.m.)</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Diameter</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M6</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">8</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M8</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">21</para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">M10</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">44</para>                      </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e228" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.1">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>2</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.2">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>1</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-331-repair-00-01-02-02-01-1-1-1" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028974_c@[users[a179523[appdata[local[temp[aptexport[00-01-331-repair-00-01-02-02-01-1-1-1.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-331-repair-00-01-02-02-01-1-1-1-000028974</illusnum>
+        </figure>
+        <para translate="yes">The property class is indicated on the bolt <markref format="dita" href="#d1e77/00-01-331-repair-00-01-02-02-01-1-1-1" scope="local" translate="no" type="figure">1</markref>or <markref format="dita" href="#d1e77/00-01-331-repair-00-01-02-02-01-1-1-1" scope="local" translate="no" type="figure">2</markref>.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e256" translate="no" xml:lang="fr">
+    <title translate="yes">function of a bolted assembly</title>
+    <descbody translate="no">
+      <para translate="yes">The bolting system connects parts of an assembly to prevent their separation or sliding when submitted to exterior forces.</para>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e260" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.3">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>Fe</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.4">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>Te</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.5">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>F0</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-332-repair-00-01-02-02-01-1-1-2" translate="no">
+          <title translate="yes">Exterior forces</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028975_c@[users[a179523[appdata[local[temp[aptexport[00-01-332-repair-00-01-02-02-01-1-1-2.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-332-repair-00-01-02-02-01-1-1-2-000028975</illusnum>
+        </figure>
+        <para translate="yes">The assembly is submitted to forces that are:</para>
+        <ul translate="no">
+          <li translate="yes">static and / or dynamic,</li>
+          <li translate="yes">simple (e.g. simple traction),</li>
+          <li translate="yes">multiple (traction + flexion + torsion).</li>
+        </ul>
+        <figure id="00-01-333-repair-00-01-02-02-01-1-1-3" translate="no">
+          <title translate="yes">Creating tension (or preload) F0</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028976_c@[users[a179523[appdata[local[temp[aptexport[00-01-333-repair-00-01-02-02-01-1-1-3.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-333-repair-00-01-02-02-01-1-1-3-000028976</illusnum>
+        </figure>
+      </descsection>
+      <para translate="yes">The assembly is held together by the tension created in the bolt when it is tightened.</para>
+      <para translate="yes">A reliable assembly is only possible if the correct tension is used:</para>
+      <ul translate="no">
+        <li translate="yes">insufficient tension: risk of loosening,</li>
+        <li translate="yes">too much tension: risk of deformation of the parts to be assembled, or shearing of the bolt.</li>
+      </ul>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e319" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.6">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>X1</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.7">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>5</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.8">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>4</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.9">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>3</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.10">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>6</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.11">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>C</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.12">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>Fo</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.13">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>7</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-334-repair-00-01-02-02-01-1-1-4" translate="no">
+          
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000028977_c@[users[a179523[appdata[local[temp[aptexport[00-01-334-repair-00-01-02-02-01-1-1-4.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-334-repair-00-01-02-02-01-1-1-4-000028977</illusnum>
+          <caption translate="no">
+            <sthead translate="no">
+              <stentry translate="yes">Mark number</stentry>
+              <stentry translate="yes">Designation</stentry>
+              <stentry translate="yes">Information</stentry>
+              <stentry translate="yes">Cross-references</stentry>
+            </sthead>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">3</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Bolt</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">4</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Assembled components</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                            </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">5</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Extension of the bolt</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">6</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Non-tightened assembly</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">7</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Tightened assembly</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">X1</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Compression of the assembly</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">Fo</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Sensor</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e256/00-01-334-repair-00-01-02-02-01-1-1-4" scope="local" translate="no" type="figure">C</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">Tightening torque</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+          </caption>
+        </figure>
+        <para translate="yes">Customer complaints resulting from incorrect tightening may be, depending on the assembly, a safety issue (fire, loss of control of the vehicle, etc.), an immobilising fault or a noise.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e421" translate="no" xml:lang="fr">
+    <title translate="yes">tightening procedures</title>
+    <descbody translate="no">
+      <para translate="yes">The two controlled tightening procedures adapted to automotive repairs because of their low cost and simple operation are torque tightening and angle tightening (also called torque and angle).</para>
+    </descbody>
+    <description id="d1e427" translate="no" xml:lang="fr">
+      <title translate="yes">Torque tightening</title>
+      <descbody translate="no">
+        <para translate="yes">This is the most commonly used procedure. It consists of tightening until a given resisting torque is reached, known as a tightening torque.</para>
+        <para translate="yes">The tightening torque is distributed in a large part as friction torque (under the head and in the thread) and in a small part as useful torque (to create the tension).</para>
+        <para translate="yes">This practise spreads the tension significantly due to the variation in the friction coefficients from one assembly to another and the uncertainty of the tightening procedures and methods.</para>
+      </descbody>
+    </description>
+    <description id="d1e437" translate="no" xml:lang="fr">
+      <title translate="yes">Angle tightening</title>
+      <descbody translate="no">
+        <para translate="yes">The principle consists of putting the parts of the assembly in contact using a mating torque (approximately 25 to 30% of the final torque) then tightening to a determined angle.</para>
+        <para translate="yes">This method, which is not dependent on the friction of the tightened assembly, gives more precise results than torque tightening.</para>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e445" translate="no" xml:lang="en">
+    <title translate="yes">observing the tightening torques and angles</title>
+    <descbody translate="no">
+      <para translate="yes">Bolted assemblies whose tightening torques and angles are explicitly specified in the removal / refitting procedures must be observed using the appropriate tools (torque wrench, angle measuring disc). Failure to observe this can lead to safety risks, immobilising faults or unwanted noises.</para>
+      <para translate="yes">For other bolted assemblies, non-measured tightening (using standard spanners) is acceptable. Nevertheless, the corresponding tightening torque is indicated in the table of standard tightening torques.</para>
+    </descbody>
+  </description>
+  <description id="d1e453" translate="no" xml:lang="en">
+    <title translate="yes">recommended tightening tools</title>
+    <descbody translate="no">
+      <para translate="yes">For measured tightening, the repairer must have available torque wrenches to tighten from <technicalvalue translate="no"><value translate="yes">4 to 400 N.m. </value></technicalvalue>as well as an angle measuring disc.</para>
+      <para translate="yes">The torque wrenches used may be click type or electronic.</para>
+      <para translate="yes">For example:</para>
+      <ul translate="no">
+        <li translate="yes">1 torque wrench<technicalvalue translate="no"><value translate="yes">4 - 40 N.m</value></technicalvalue>,</li>
+        <li translate="yes">1 torque wrench<technicalvalue translate="no"><value translate="yes">20 - 100 N.m</value></technicalvalue>,</li>
+        <li translate="yes">1 torque wrench<technicalvalue translate="no"><value translate="yes">80 - 400 N.m</value></technicalvalue>,</li>
+        <li translate="yes">1 angle measurement disc.</li>
+      </ul>
+      <para translate="yes">The torque wrenches used must comply with the ISO 6789 standard. They must be calibrated regularly following the supplier's recommendations using the appropriate procedures.</para>
+    </descbody>
+  </description>
+  <description id="d1e497" translate="no" xml:lang="en">
+    <title translate="yes">precautions when using a click type torque wrench</title>
+    <descbody translate="no">
+      <para translate="yes">A click type torque wrench is a manual tightening tool. The trigger mechanism causes a break or disengagement of the wrench past a force threshold.</para>
+      <para translate="yes">This threshold depends on the setting of the wrench but also depends on the way the wrench is handled.</para>
+      <para translate="yes">When used following best practises, the accuracy of the tightness when using a click type torque wrench is ± 15%.</para>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e505" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.14">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>6</designation>
+          </mark>
+        </marklayer>
+        <para translate="yes">The instructions to be observed are:</para>
+        <figure id="00-01-335-repair-00-01-02-02-01-1-1-5" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028978_c@[users[a179523[appdata[local[temp[aptexport[00-01-335-repair-00-01-02-02-01-1-1-5.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-335-repair-00-01-02-02-01-1-1-5-000028978</illusnum>
+          <caption translate="no">
+            <sthead translate="no">
+              <stentry translate="yes">Mark number</stentry>
+              <stentry translate="yes">Designation</stentry>
+              <stentry translate="yes">Information</stentry>
+              <stentry translate="yes">Cross-references</stentry>
+            </sthead>
+            <strow translate="no">
+              <stentry translate="yes">                         <para translate="yes"> <markref format="dita" href="#d1e497/00-01-335-repair-00-01-02-02-01-1-1-5" scope="local" translate="no" type="figure">6</markref> </para>                      </stentry>
+              <stentry translate="yes">                         <para translate="yes">lever arm</para>                      </stentry>
+              <stentry translate="yes">                                              </stentry>
+              <stentry translate="yes">                                              </stentry>
+            </strow>
+          </caption>
+        </figure>
+        <para translate="yes">- Place the hand in the centre of the handle. An incorrectly positioned hand on the handle will alter the trigger threshold.</para>
+      </descsection>
+      <descsection translate="no">
+        <figure id="00-01-336-repair-00-01-02-02-01-1-1-6" translate="no">
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000028979.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-336-repair-00-01-02-02-01-1-1-6-000028979</illusnum>
+        </figure>
+        <para translate="yes">- Pull the wrench gently and steadily, without applying any torsion. Excessive tightening speed as well as jerkiness are major causes of overtightening. Any torsion applied to the wrench will alter the trigger threshold.</para>
+      </descsection>
+      <para translate="yes">- Hold the wrench on the bolt using a minimum of effort. Any effort applied to the wrench head will alter the trigger threshold.</para>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e536" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.15">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>15˚</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-337-repair-00-01-02-02-01-1-1-7" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028980_c@[users[a179523[appdata[local[temp[aptexport[00-01-337-repair-00-01-02-02-01-1-1-7.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-337-repair-00-01-02-02-01-1-1-7-000028980</illusnum>
+        </figure>
+        <para translate="yes">- Apply the tightening effort perpendicular to the mounting observing a tolerance of ± 15˚ relative to the perpendicularity. If the wrench is not perpendicular to the mounting axis, this will result in insufficient tightening.</para>
+        <para translate="yes">- Stop tightening as soon as the wrench is triggered. Continued tightening after the wrench is triggered will lead to overtightening.</para>
+      </descsection>
+      <descsection translate="no">
+        <marklayer id="marklayer-d1e555" translate="no">
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.16" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">L2</designation>
+          </mark>
+          <mark id="MARK.REPAIR-00X01X02-02X01-1-1.17" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">L1</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-338-repair-00-01-02-02-01-1-1-8" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028981_c@[users[a179523[appdata[local[temp[aptexport[00-01-338-repair-00-01-02-02-01-1-1-8.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000442361-01-338-repair-00-01-02-02-01-1-1-8-000028981</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <para translate="yes">If the length of the wrench is modified (extending the handle, adapting an end piece) it is essential to recalibrate the wrench to its new configuration.</para>
+        <para translate="yes">Modifying the length of the wrench will modify its trigger threshold.</para>
+        <para translate="yes">Use the formula: C1 = CO x L2 / (L1+L2)</para>
+        <ul translate="no">
+          <li translate="yes">CO: torque to apply,</li>
+          <li translate="yes">C1: adjustment torque to be displayed on the wrench,</li>
+          <li translate="yes">L1: length of the extension,</li>
+          <li translate="yes">L2: length of the wrench.</li>
+        </ul>
+        <para translate="yes">Unless there are special instructions in the repair method, a universal joint (CARDAN joint type) should be used for measured tightening. Using a universal joint will result in a difference between the set torque of the wrench and the actual torque applied.</para>
+        <para translate="yes">Before storing the wrench, loosen the adjustment spring completely. A wrench stored with a spring under tension will lose its tightening accuracy.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e600" translate="no" xml:lang="en">
+    <title translate="yes">precautions when using electronic torque wrenches</title>
+    <descbody translate="no">
+      <para translate="yes">An electronic torque wrench is a manual tightening tool. The tightening torque and, depending on the model, the angle is read directly.</para>
+      <para translate="yes">When used following best practises, the accuracy of the tightness when using an electronic torque wrench is ± 5%.</para>
+      <para translate="yes">Electronic torque wrenches are not affected by the position of the operator's hand.</para>
+      <para translate="yes">It is advisable to handle the wrench with care and to stop tightening when the required value is displayed on the wrench.</para>
+    </descbody>
+  </description>
+</description>

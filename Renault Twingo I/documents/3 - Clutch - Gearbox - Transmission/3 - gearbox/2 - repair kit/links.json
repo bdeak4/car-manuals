@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1336_211010",
+      "filename": "1336_211010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01027031.svg"
+    },
+    {
+      "id": "1336_211015",
+      "filename": "1336_211015.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01089520.svg"
+    },
+    {
+      "id": "1336_211017",
+      "filename": "1336_211017.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01089519.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "5af5af8b08813b00dc4cf3b7",
+      "filename": "gearbox assembly: precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000171979.xml"
+    },
+    {
+      "id": "5af2fb2bc3da7a00dc225f89",
+      "filename": "gearbox assembly: list and location of components.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000172120.xml"
+    },
+    {
+      "id": "5af2fb43c3da7a00dc225fa6",
+      "filename": "gearbox assembly : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000170948.xml"
+    },
+    {
+      "id": "5af5a0a1c3da7a00dc22c32d",
+      "filename": "gearbox assembly : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000170935.xml"
+    },
+    {
+      "id": "5af2fa17c3da7a00dc225e4f",
+      "filename": "gearbox assembly : standard replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000170321.xml"
+    },
+    {
+      "id": "5af94fae3ef64d00e0ef6ad1",
+      "filename": "gearbox assembly : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000169078.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22012.png"
+    }
+  ]
+}

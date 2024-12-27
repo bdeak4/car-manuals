@@ -1,0 +1,3393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3,JC5|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3,JC5|X65/JB1,JB3,JC5|X66/JC5|X76/JB1,JB3,JC5|X94/JC5" id="RDE-000172120" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">gearbox assembly: list and location of components</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">gearbox assembly: list and location of components</siename>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <descsection appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" translate="no">
+         <marklayer id="marklayer-d1e91" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.1" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">9</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.2" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">20</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.3" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">31</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.4" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">42</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.5" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">8</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.6" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">19</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.7" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">30</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.8" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">41</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.9" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">7</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.10" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">18</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.11" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">29</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.12" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">40</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.13" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">6</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.14" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">17</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.15" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">28</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.16" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">39</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.17" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">5</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.18" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">16</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.19" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">27</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.20" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">38</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.21" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">15</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.22" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">26</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.23" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">37</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.24" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">25</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.25" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">36</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.26" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">35</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.27" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">4</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.28" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">3</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.29" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">14</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.30" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">2</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.31" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">13</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.32" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">24</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.33" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">1</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.34" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">12</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.35" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">23</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.36" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">34</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.37" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">11</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.38" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">22</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.39" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">33</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.40" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">10</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.41" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">21</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.42" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">32</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-04-51-repair-12-01-02-51-1-14-1" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000001494_LAY-000048404.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-04-51-repair-12-01-02-51-1-14-1-000001494</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">1</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Oil deflector</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">2</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Output shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">3</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Output shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">4</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">First idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">5</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">6</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">First-second synchroniser hub</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">7</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">8</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">9</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Splined washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">10</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Second idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">11</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Splined washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">12</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">13</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Splined washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">14</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Third idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">15</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">16</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Splined washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">17</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">18</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Third-fourth synchroniser hub</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">19</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">20</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fourth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">21</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">22</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Bearing retaining clips on mechanism housing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">23</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Output shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">24</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fifth fixed gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">25</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Output shaft bolt</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">26</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">27</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Primary shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">28</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Bearing retaining clips on mechanism housing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">29</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">30</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">31</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ring under fifth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">32</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fifth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">33</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">34</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchronising spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">35</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fifth gear synchroniser hub</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">36</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchronising spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">37</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Friction cone</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">38</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Retaining washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">39</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">40</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">41</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Retaining washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-04-51-repair-12-01-02-51-1-14-1" scope="local" translate="no" type="figure">42</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" translate="no">
+         <marklayer id="marklayer-d1e607" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.43" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">45</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.44" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">56</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.45" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">44</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.46" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">55</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.47" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">43</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.48" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">54</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.49" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">53</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.50" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">52</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.51" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">51</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.52" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">50</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.53" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">49</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.54" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">48</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.55" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">47</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.56" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">46</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.57" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">57</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-577-repair-12-01-02-51-1-14-2" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047992_LAY-000048405.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-577-repair-12-01-02-51-1-14-2-000047992</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">43</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">44</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Clutch shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">45</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Primary shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">46</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Adjusting shim</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">47</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Bearing retaining clips on mechanism housing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">48</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">49</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">50</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ring under fifth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">51</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fifth gear pinion</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">52</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">53</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchronising spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">54</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled 5th gear synchroniser hub</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">55</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft self-locking nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">56</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Retaining washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-577-repair-12-01-02-51-1-14-2" scope="local" translate="no" type="figure">57</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" translate="no">
+         <marklayer id="marklayer-d1e801" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.58" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">59</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.59" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">66</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.60" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">70</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.61" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">58</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.62" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">69</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.63" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">71</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.64" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">65</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.65" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">68</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.66" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">64</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.67" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">67</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.68" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">63</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.69" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">62</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.70" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">61</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.71" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">78</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.72" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">77</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.73" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">76</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.74" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">75</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.75" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">74</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.76" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">73</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.77" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">72</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.78" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">60</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-578-repair-12-01-02-51-1-14-3" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047993_LAY-000048406.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-578-repair-12-01-02-51-1-14-3-000047993</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">58</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">First idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">59</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">60</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchronising spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">61</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">First gear synchroniser hub</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">62</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchronising spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">63</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">64</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Spacer ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">65</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Second idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">66</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Triple-cone synchroniser rings</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">67</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Splined washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">68</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ring under third idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">69</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Third idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">70</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">71</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Reverse gear sprocket</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">72</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Synchromesh ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">73</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ring under fourth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">74</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fourth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">75</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Adjusting shim</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">76</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Input shaft bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">77</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fifth idle gear</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-578-repair-12-01-02-51-1-14-3" scope="local" translate="no" type="figure">78</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Output shaft bolt</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection translate="no">
+         <marklayer id="marklayer-d1e1061" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.79" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">88</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.80" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">87</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.81" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">86</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.82" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">85</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.83" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">97</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.84" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">84</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.85" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">96</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.86" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">83</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.87" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">95</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.88" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">82</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.89" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">94</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.90" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">93</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.91" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">81</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.92" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">80</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.93" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">92</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.94" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">79</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.95" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">91</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.96" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">90</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.97" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">89</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.98" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">98</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-575-repair-12-01-02-51-1-14-4" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047990_LAY-000048407.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-575-repair-12-01-02-51-1-14-4-000047990</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">79</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Clutch control fork</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">80</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Fork pivot ball joint</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">81</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Pivot gaiter</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">82</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled reverse gear shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">83</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Bearing ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">84</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled 1-2 fork shaft claw</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">85</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled 3-4 fork shaft claw</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">86</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Reverse gear guide</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">87</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled 5th gear fork shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">88</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lip seal</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">89</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Gaiter</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">90</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tie-bar</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">91</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Gaiter</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">92</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Shaft lever and finger assembly</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">93</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Thickness washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">94</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">5th gear kickdown point</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">95</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Gaiter</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">96</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ball joint bearing shell</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">97</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-575-repair-12-01-02-51-1-14-4" scope="local" translate="no" type="figure">98</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Return spring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection translate="no">
+         <marklayer id="marklayer-d1e1291" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.99" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">104</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.100" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">103</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.101" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">102</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.102" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">113</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.103" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">101</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.104" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">112</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.105" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">100</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.106" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">111</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.107" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">110</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.108" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">99</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.109" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">109</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.110" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">108</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.111" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">107</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.112" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">106</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.113" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">105</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-576-repair-12-01-02-51-1-14-5" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047991_LAY-000048408.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-576-repair-12-01-02-51-1-14-5-000047991</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">99</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Support bracket</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">100</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Gaiter</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">101</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Clutch protection component</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">102</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Clutch guide tube</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">103</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Clutch housing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">104</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Oil collector</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">105</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Oil supply channel</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">106</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Filler plug</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">107</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Mechanism housing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">108</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">5th gear cover seal</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">109</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Breather vent body</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">110</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Breather pipe</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">111</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Union</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">112</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Breather</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-576-repair-12-01-02-51-1-14-5" scope="local" translate="no" type="figure">113</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">5th gear cover</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" translate="no">
+         <marklayer id="marklayer-d1e1466" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.114" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">115</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.115" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">125</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.116" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">114</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.117" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">124</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.118" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">123</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.119" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">133</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.120" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">122</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.121" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">132</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.122" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">121</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.123" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">131</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.124" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">130</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.125" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">120</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.126" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">119</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.127" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">129</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.128" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">118</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.129" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">128</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.130" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">117</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.131" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">127</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.132" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">116</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.133" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">126</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-574-repair-12-01-02-51-1-14-7" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047825_LAY-000048410.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-574-repair-12-01-02-51-1-14-7-000047825</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">114</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">O-ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">115</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lip seal</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">116</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">117</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ball bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">118</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">119</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lip seal</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">120</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Differential line tightening nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">121</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Adjusting shim</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">122</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Roller bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">123</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer control ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">124</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer control pinion</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">125</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer pinion shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">126</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Locking pin</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">127</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Ball bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">128</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">129</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Spring washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">130</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled differential mechanism</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">131</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Hollow sun wheel</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">132</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-574-repair-12-01-02-51-1-14-7" scope="local" translate="no" type="figure">133</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Stop washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+      <descsection appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" translate="no">
+         <marklayer id="marklayer-d1e1734" translate="no">
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.134" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">139</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.135" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">138</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.136" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">137</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.137" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">148</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.138" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">136</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.139" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">147</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.140" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">146</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.141" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">135</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.142" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">134</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.143" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">145</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.144" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">144</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.145" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">143</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.146" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">142</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.147" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">141</designation>
+            </mark>
+            <mark id="MARK.REPAIR-12X01-02X51-1-14.148" translate="no">
+               <mcomponent translate="no">
+                  <label translate="no"/>
+               </mcomponent>
+               <designation translate="no">140</designation>
+            </mark>
+         </marklayer>
+         <figure id="12-01-573-repair-12-01-02-51-1-14-6" translate="no">
+            
+            <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000047824_LAY-000048409.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000172120-01-573-repair-12-01-02-51-1-14-6-000047824</illusnum>
+            <caption translate="no">
+               <sthead translate="no">
+                  <stentry translate="yes">N repere</stentry>
+                  <stentry translate="yes">Designation</stentry>
+                  <stentry translate="yes">Informations</stentry>
+                  <stentry translate="yes">Renvois</stentry>
+               </sthead>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">134</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">O-ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">135</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lip seal</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">136</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Differential line securing nut</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">137</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Adjusting shim</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">138</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Roller bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">139</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer control bolt</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">140</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer target</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">141</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer control pinion</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">142</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Tachometer shaft</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">143</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Locking pin</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">144</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Roller bearing</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">145</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Assembled differential mechanism</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">146</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Hollow sun wheel</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">147</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock washer</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+               <strow translate="no">
+                  <stentry translate="yes">
+                     <para translate="yes">
+                        <markref format="dita" href="#RDE-000172120/12-01-573-repair-12-01-02-51-1-14-6" scope="local" translate="no" type="figure">148</markref>
+                     </para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes">Lock ring</para>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+                  <stentry translate="yes">
+                     <para translate="yes"/>
+                  </stentry>
+               </strow>
+            </caption>
+         </figure>
+      </descsection>
+   </descbody>
+</description>

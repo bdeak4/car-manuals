@@ -1,0 +1,100 @@
+{
+  "PR": [
+    {
+      "id": "1204_800110",
+      "filename": "1204_800110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01070514.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0436",
+      "filename": "ADAPTING THE FLOOR PANEL TO FIT A CONSOLE SUPPORT BRACKET (For vehicles manufactured before 0306/1996).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0436.pdf"
+    },
+    {
+      "id": "0463",
+      "filename": "ADAPTING A SPECIFIC STRUT FOR ENGINE TYPE C3G.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0463.pdf"
+    },
+    {
+      "id": "0501",
+      "filename": "ADAPTING A BODYSHELL SUPPLIED BY THE PARTS DEPARTMENT FOR A PHASE 1 TYPE VEHICLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0501.pdf"
+    },
+    {
+      "id": "0346",
+      "filename": "NEW POSITION OF BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0346.pdf"
+    },
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "0506",
+      "filename": "SPECIAL FEATURES OF THE TWINGO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0506.pdf"
+    },
+    {
+      "id": "0514",
+      "filename": "SAFETY OPERATION TO BE CARRIED OUT PRIOR TO REMOVING A FRONT SEAT EQUIPPED WITH A SIDE AIR BAG AND....pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0514.pdf"
+    },
+    {
+      "id": "0302",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0302.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2283",
+      "filename": "CHANGE IN POSITION OF THE BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2283.pdf"
+    },
+    {
+      "id": "5af5a9bb08813b00dc4cee8e",
+      "filename": "12 V battery : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000290838.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3682",
+      "filename": "Checking batteries before delivering New Vehicles.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3682.pdf"
+    },
+    {
+      "id": "6512",
+      "filename": "Battery charging.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6512.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21904.png"
+    }
+  ]
+}

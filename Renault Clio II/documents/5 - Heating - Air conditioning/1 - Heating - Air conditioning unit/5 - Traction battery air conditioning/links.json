@@ -1,0 +1,49 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-6",
+      "filename": "M.R. 337 - 6 Heating and ventilation phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-6",
+      "filename": "M.R. 345 - 6 Heating and ventilation phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-6.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3292",
+      "filename": "NEW VERSION OF PASSENGER COMPARTMENT FAN SPEED RESISTOR UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3292.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-6",
+      "filename": "M.R. 346 - 6 Heating and ventilation.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21872.png"
+    }
+  ]
+}

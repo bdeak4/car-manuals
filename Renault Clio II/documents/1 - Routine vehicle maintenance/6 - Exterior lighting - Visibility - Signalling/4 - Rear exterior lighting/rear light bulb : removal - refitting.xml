@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X65" id="RPR-000427460" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+<title translate="yes">rear light bulb : removal - refitting</title>
+
+
+<procprolog translate="no">
+
+
+<status name="Brouillon" translate="no"/>
+<critdates translate="no">
+<created date="04/03/16 08:44" translate="no"/>
+<revised modified="04/03/16 08:47" translate="no"/></critdates>
+<procmetadata translate="no">
+<siename translate="no">rear light bulb : removal - refitting</siename>
+<sieversion translate="no">B.2</sieversion>
+<sietype translate="yes">Procedure</sietype>
+<sienumber translate="no">RPR-000427460</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</procmetadata>
+</procprolog>
+<procbody translate="no"/>
+<procedure id="d1e6" otherprops="WF-SET='01,34'" translate="no">
+<title translate="yes">removal</title>
+<procbody translate="no"/>
+<procedure id="d1e10" translate="no">
+<title translate="yes">removal preparation operation</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Switch off the ignition.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Remove the rear light
+on the wing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3537687">
+<linkdesc>light on body side, rear section : removal - refitting</linkdesc>
+<linkvalue>GIEMR-001226</linkvalue></sieref>.</para></procstep>
+</procsteps>
+<procsteps translate="no"><marklayer id="marklayer-d1e21" translate="no">
+<mark id="MARK.REPAIR-80X02X06X09-01X37-1-40.1" translate="no">
+<mcomponent translate="no"><label translate="no"/></mcomponent>
+<designation translate="no">1</designation></mark></marklayer>
+<figure id="80-02-06-02-92-repair-80-02-06-09-01-37-1-40-1" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057047_LAY-000105883.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep translate="no"><para translate="yes">Remove the bulb holder
+by pressing on the clips<markref format="dita" href="#d1e10/80-02-06-02-92-repair-80-02-06-09-01-37-1-40-1" scope="local" translate="no" type="figure">1</markref>.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e43" translate="no">
+<title translate="yes">removal operation</title>
+<procbody translate="no"/>
+<procedure id="d1e47" translate="no">
+<title translate="yes">Brake light and side light bulb</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="80-02-06-09-56-repair-80-02-06-09-01-37-1-40-2" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000055175_LAY-000105884.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><?Pub Caret -2?>
+</figure>
+<procstep translate="no"><para translate="yes">Remove the brake light
+and side light bulb by pressing and turning a quarter of a turn anti-clockwise.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e59" translate="no">
+<title translate="yes">Reversing light bulb</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="80-02-06-09-56-repair-80-02-06-09-01-37-1-40-4" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000055175_LAY-000105886.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep translate="no"><para translate="yes">Remove the reversing
+light bulb by pressing and turning a quarter of a turn anti-clockwise.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e71" translate="no">
+<title translate="yes">Direction indicator bulb</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="80-02-06-09-56-repair-80-02-06-09-01-37-1-40-3" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000055175_LAY-000105885.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep translate="no"><para translate="yes">Remove the direction
+indicator bulb by pressing and turning a quarter of a turn anti-clockwise.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e83" translate="no">
+<title translate="yes">Rear fog light bulb</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="80-02-06-09-56-repair-80-02-06-09-01-37-1-40-5" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000055175_LAY-000105887.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep translate="no"><para translate="yes">Remove the rear fog
+light bulb by pressing and turning a quarter of a turn anti-clockwise.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+<procedure id="d1e94" translate="no">
+<title translate="yes">removal operation</title>
+<procbody translate="no">
+<procsteps appl="X65/PE2012" translate="no">
+<figure id="80-02-06-68-repair-80-02-06-09-01-37-1-40-6" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000031714_LAY-000105888.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/></figure>
+<procstep translate="no"><para translate="yes">Remove the high level
+brake light bulb.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+<procedure id="d1e113" otherprops="WF-SET='01,61'" translate="no">
+<title translate="yes">refitting</title>
+<procbody translate="no"/>
+<procedure id="d1e117" translate="no">
+<title translate="yes">refitting preparation operation</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">When replacing a bulb, only use approved bulbs.</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e127" translate="no">
+<title translate="yes">refitting operation</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Proceed in the reverse
+order to removal.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+</procedure>

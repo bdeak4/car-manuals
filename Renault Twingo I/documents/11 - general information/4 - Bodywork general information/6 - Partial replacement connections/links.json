@@ -1,0 +1,23 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5afff08813b00dc4cf429",
+      "filename": "edge-to-edge partial assembly : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323132.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

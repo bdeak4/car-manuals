@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XZH|XFA|XZG|XZJ|X55|XEF|XJD|XFF|XJC|XJA|XJE|XHA|XJB|XJK|XFK|XBC|XJL|XJF|XBG|XCB|XHN|XBB|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X42|XBA|X75|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000009111" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">window preparation and bonding product : description</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="27/07/21 14:49" translate="no"/>
+      <revised modified="29/07/21 16:56" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">window preparation and bonding product : description</siename>
+      <sieversion translate="no">K.3</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000009108</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no">
+    <noteR translate="no" type="note">
+      <para translate="yes">Note:</para>
+      <para translate="yes">Never mix the products when carrying out any adhesive bonding process.</para>
+      <para translate="yes">You must only use products contained in the selected bonding kit.</para>
+      <para translate="yes">The expiry date on the packaging of the bonding kit must be respected.</para>
+    </noteR>
+  </descbody>
+  <description id="d1e121" translate="no" xml:lang="fr">
+    <title translate="yes">BONDING KIT</title>
+    <description id="d1e125" translate="no" xml:lang="fr">
+      <title translate="yes">BASICPAC</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <para translate="yes">
+            <ingredientname translate="yes">ADHESIVE KIT</ingredientname> (high modulus adhesive, non-conducting<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>:</para>
+          <ul translate="no">
+            <li translate="yes">an <ingredientname translate="yes">additional cartridge + nozzle</ingredientname> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>,</li>
+            <li translate="yes">a <technicalvalue translate="no"><value translate="yes">310</value><uom translate="yes">ml</uom></technicalvalue> cartridge,</li>
+            <li translate="yes">a sachet of glass cleaner or activator including two wipes: one of which is wet and the other dry,</li>
+            <li translate="yes">a tube of primer,</li>
+            <li translate="yes">a pair of gloves,</li>
+            <li translate="yes">a preparation nozzle for the cartridge,</li>
+            <li translate="yes">an application nozzle for the cement bead.</li>
+          </ul>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e163" translate="no" xml:lang="fr">
+      <title translate="yes">S-P KIT</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <para translate="yes">
+            <ingredientname translate="yes">S-P KIT ADHESIVE KIT</ingredientname> (high modulus adhesive, non-conducting)<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>:</para>
+          <ul translate="no">
+            <li translate="yes">an <ingredientname translate="yes">S-P KIT additional cartridge + nozzle</ingredientname> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>,</li>
+            <li translate="yes">a <technicalvalue translate="no"><value translate="yes">310</value><uom translate="yes">ml</uom></technicalvalue> cartridge,</li>
+            <li translate="yes">a sachet of glass cleaner or activator including two wipes: one of which is wet and the other dry,</li>
+            <li translate="yes">a <technicalvalue translate="no"><value translate="yes">10</value><uom translate="yes">ml</uom></technicalvalue> tube of primer,</li>
+            <li translate="yes">a pair of gloves,</li>
+            <li translate="yes">a preparation nozzle for the cartridge,</li>
+            <li translate="yes">an application nozzle for the cement bead.</li>
+          </ul>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e206" translate="no" xml:lang="fr">
+      <title translate="yes">BIPAC EVOLUTION</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <para translate="yes">
+            <ingredientname translate="yes">BIPAC EVOLUTION ADHESIVE KIT </ingredientname>(high modulus adhesive, non-conducting) <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>:</para>
+          <ul translate="no">
+            <li translate="yes">two <technicalvalue translate="no"><value translate="yes">225</value><uom translate="yes">ml</uom></technicalvalue> cartridges: adhesive and accelerator,</li>
+            <li translate="yes">a mixer,</li>
+            <li translate="yes">a sachet of glass cleaner or activator including two wipes: one of which is wet and the other dry,</li>
+            <li translate="yes">a <technicalvalue translate="no"><value translate="yes">10</value><uom translate="yes">ml</uom></technicalvalue> tube of primer (marked green and red),</li>
+            <li translate="yes">a pair of gloves,</li>
+            <li translate="yes">an application nozzle for the cement bead.</li>
+          </ul>
+        </descsection>
+        <descsection appl="|||||||||||||||||||||||||||||||X84/RSR26R||||||||||||||||||||||||||||||||||||||||" translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">For <ingredientname translate="yes">POLYCARBONATE</ingredientname> windows: use the <technicalvalue translate="no"><value translate="yes">310</value><uom translate="yes">ml</uom></technicalvalue> cartridge manufactured by <ingredientname translate="yes">SIKA </ingredientname>with part number <ingredientname translate="yes">SIKAFLEX - 222 UV </ingredientname>.</para>
+          </noteR>
+        </descsection>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e268" translate="no" xml:lang="en">
+    <title translate="yes">cleaner</title>
+    <description id="d1e273" translate="no" xml:lang="en">
+      <title translate="yes">HEPTANE</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <figure id="00-03-04-28-repair-00-03-04-27-02-21-1-2-10" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024377.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000009111-03-04-28-repair-00-03-04-27-02-21-1-2-10-000024377</illusnum>
+          </figure>
+          <para translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>.</para>
+          <para translate="yes">Heptane is a very volatile solvent and allows optimal cleaning of the area surrounding the bond.</para>
+          <para translate="yes">It evaporates quickly.</para>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e290" translate="no" xml:lang="en">
+      <title translate="yes">dry LINT-FREE CLOTH</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <figure id="00-03-04-28-1-repair-00-03-04-27-02-21-1-2-15" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031629.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000009111-03-04-28-1-repair-00-03-04-27-02-21-1-2-15-000031629</illusnum>
+          </figure>
+          <para translate="yes">
+            <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+              <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+              <linkvalue>GIEMR-002445</linkvalue>
+            </sieref>.</para>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e303" translate="no" xml:lang="en">
+      <title translate="yes">GLASS CLEANER OR ACTIVATOR</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <figure id="00-03-04-27-2-repair-00-03-04-27-02-21-1-2-17" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000022087.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000009111-03-04-27-2-repair-00-03-04-27-02-21-1-2-17-000022087</illusnum>
+          </figure>
+          <para translate="yes">Most new windows from the Parts Department have already been primed when they are supplied.</para>
+          <para translate="yes">This primed area shows the bonding path.</para>
+          <para translate="yes">The glass cleaner or activator reactivates this primer and promotes adhesion.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">It is essential to clean this product containing active ingredients with a dry wipe before applying the primer (green and red marking) contained in the bonding kit.</para>
+          </noteR>
+        </descsection>
+        <descsection appl="|||||||||||||||||||||||||||||||X84/RSR26R||||||||||||||||||||||||||||||||||||||||" translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">For <ingredientname translate="yes">POLYCARBONATE </ingredientname>windows: use the active solvent degreaser manufactured by <ingredientname translate="yes">HENKEL </ingredientname>with part number <ingredientname translate="yes">TEROSTAT 8545 OT - 25</ingredientname>.</para>
+          </noteR>
+        </descsection>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e344" translate="no" xml:lang="en">
+    <title translate="yes">primer</title>
+    <description appl="|||||||||||||||||||||||||||||||||||||X84/RSR26R||||||||||||||||||||||||||||||||||" id="des1" translate="no">
+      <title translate="yes">primer</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">For <ingredientname translate="yes">POLYCARBONATE </ingredientname>windows: the active solvent degreaser by <ingredientname translate="yes">HENKEL </ingredientname>with part number <ingredientname translate="yes">TEROSTAT 8545 OT - 25 </ingredientname>primes the bonding area.</para>
+          </noteR>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e369" translate="no" xml:lang="en">
+      <title translate="yes">PRIMER (except polycarbonate)</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <para translate="yes">It ensures that the cement bead adheres to different mountings.</para>
+          <para translate="yes">It also protects the cement bead from ultraviolet rays which can damage the molecular structure of the cement bead and reduce its resistance.</para>
+          <figure id="00-03-04-27-1-repair-00-03-04-27-02-21-1-2-13" translate="no">
+            <title translate="yes">Primer (green and red)</title>
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000022086.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000009111-03-04-27-1-repair-00-03-04-27-02-21-1-2-13-000022086</illusnum>
+          </figure>
+          <noteR translate="no" type="caution">
+            <para translate="yes">In order not to stain the windows, immediately clean any product which has spilt onto the area outside the bonding area.</para>
+          </noteR>
+        </descsection>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e387" translate="no" xml:lang="en">
+    <title translate="yes">using the tube of primer</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <figure id="50-04-7-repair-00-03-04-27-02-21-1-2-16" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024500.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000009111-04-7-repair-00-03-04-27-02-21-1-2-16-000024500</illusnum>
+        </figure>
+        <para translate="yes">Shake the tube for approximately <technicalvalue translate="no"><value translate="yes">one</value><uom translate="yes">minute</uom></technicalvalue> to prepare the product.</para>
+        <figure id="50-04-9-repair-00-03-04-27-02-21-1-2-7" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024502.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000009111-04-9-repair-00-03-04-27-02-21-1-2-7-000024502</illusnum>
+        </figure>
+        <para translate="yes">Hold the neck of the tube with the applicator pad facing upwards.</para>
+        <figure id="50-04-10-repair-00-03-04-27-02-21-1-2-8" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024503.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000009111-04-10-repair-00-03-04-27-02-21-1-2-8-000024503</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <para translate="yes">Screw the applicator pad on properly so that the tube is well sealed.</para>
+        <para translate="yes">Soak the applicator pad before application.</para>
+        <noteR translate="no" type="caution">
+          <para translate="yes">In order not to stain the windows, immediately clean any product which has spilt onto the area outside the bonding area.</para>
+        </noteR>
+      </descsection>
+      <para translate="yes">Never apply the cement bead onto wet primer.</para>
+    </descbody>
+  </description>
+</description>

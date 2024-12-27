@@ -1,0 +1,44 @@
+{
+  "PR": [
+    {
+      "id": "1204_290110",
+      "filename": "1204_290110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083875.svg"
+    },
+    {
+      "id": "1204_290410",
+      "filename": "1204_290410.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01055992.svg"
+    },
+    {
+      "id": "1204_290510",
+      "filename": "1204_290510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01055996.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2260",
+      "filename": "SPECIFICATION OF TOOL T.AV 1331 FOR REPLACEMENT OF DRIVESHAFT GAITER COLLAR TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2260.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    },
+    {
+      "id": "5b081b3ed02e7d00dc4566f2",
+      "filename": "driveshaft gaiter: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000497850.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22016.png"
+    }
+  ]
+}

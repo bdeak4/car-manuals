@@ -1,0 +1,39 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3136",
+      "filename": "MODIFICATIONS TO THE JBJC GEARBOX MANUAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3136.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "5af95a883ef64d00e0ef8789",
+      "filename": "output shaft assembly : stripping - rebuilding.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000163409.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "6511",
+      "filename": "Manual gearbox fault finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6511.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22011.png"
+    }
+  ]
+}

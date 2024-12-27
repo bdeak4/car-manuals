@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZH|XZG|XFA|XZJ|X55|XEF|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XFK|XJF|XJL|XHN|XCB|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X42|X75|XHA|XJD|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000314970" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">plastic bodywork component : precautions for the repair</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="02/11/21 08:43" translate="no"/>
+<revised modified="10/10/24 13:48" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">plastic bodywork component : precautions for the repair</siename>
+<sieversion translate="no">L.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000314970</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e112" translate="no" xml:lang="en">
+<title translate="yes">protective gear</title>
+<descbody translate="no">
+<noteR translate="no" type="warning">
+<para translate="yes">Always wear protective gear (gloves, goggles
+and breathing masks).</para>
+</noteR>
+<para translate="yes">Use extra ventilation source.</para>
+<para translate="yes">Use a supplied air mask if the area is not ventilated.</para>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">When repairing SMC type composite material,
+it is advisable to wear an antistatic suit.</para>
+</noteR>
+</descbody>
+</description>
+<description id="d1e128" translate="no" xml:lang="en">
+<title translate="yes">recommendation</title>
+<descbody translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">It is necessary to remove the part to be repaired,
+in order to check that the components located around the edge are
+not damaged.</para>
+</noteR>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">It is recommended to limit the rotation speed
+when sanding with the orbital sander in order to prevent plastic material
+from overheating and the formation of dirt.</para>
+</noteR>
+</descbody>
+</description>
+<description id="d1e139" translate="no" xml:lang="en">
+<title translate="yes">recommendation</title>
+<descbody translate="no">
+<descsection translate="no">
+<figure id="40-01-45-10-1-repair-40-01-45-10-02-60-1-1-1" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024558.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000314970-01-45-10-1-repair-40-01-45-10-02-60-1-1-1-000024558</illusnum></figure>
+</descsection>
+<para translate="yes">It is forbidden to carry out any repairs to
+safety components or areas such as absorbers, diffusers and any components
+which are listed in the vehicle's repair manual as components which
+cannot be repaired.</para>
+<para translate="yes">Fractures and tears must not exceed 100 mm in
+length and must be located outside the bumper absorber areas and away
+from the safety components.</para>
+<para translate="yes">The holes must not exceed 50 mm in diameter
+and must be located outside the bumper absorber areas and away from
+the safety components.</para>
+<para translate="yes">In all cases, the surface to be repaired should
+not exceed<technicalvalue translate="no"><value translate="yes">20
+cm2</value></technicalvalue>.</para>
+</descbody>
+<description id="d1e169" translate="no" xml:lang="en">
+<title translate="yes">For bonding:</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">If the primer is too thick, this will always
+cause loss of adherence when the product attaches.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Do not accelerate the primer drying time using
+infra-red light. Respect the primer drying time (refer to the manufacturer's
+instructions).</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Apply the resin in the form of a dome in order
+to avoid damaging the support.</para>
+</descsection>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">It is forbidden to repair Noryl. The composition
+of the material is likely to contain recycled products which are incompatible
+with the bi-component repair mastic.</para>
+</noteR>
+</descbody>
+</description>
+<description id="d1e190" translate="no" xml:lang="en">
+<title translate="yes">For the weld:</title>
+<descbody translate="no">
+<descsection translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The weld repair is carried out with the component
+removed.</para>
+<para translate="yes">The repair procedures differ depending on the
+type of plastic used.</para>
+<para translate="yes">For ABS , ASA and Polycarbonate materials, only
+fractures can be repaired. The composition of the filler rod does
+not adhere to these materials.</para>
+<para translate="yes">For Noryl materials, it is only possible to
+repair holes.</para>
+<para translate="yes">Welding is not possible on composite materials.</para>
+</noteR>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Never melt a piece of recovered plastic to perform
+a repair.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Do not use any other mesh than the one contained
+in the kit due to a risk of oxidation.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">It is necessary to preheat and melt the rod
+by half its thickness, before contact with the support. This step
+activates the bonding agents contained in the rod.</para>
+</descsection>
+</descbody>
+</description>
+<description id="d1e233" translate="no" xml:lang="en">
+<title translate="yes">For epoxy resin</title>
+<descbody translate="no">
+<para translate="yes">Use only for RTM thermosetting plastics</para>
+</descbody>
+</description>
+</description>
+</description>

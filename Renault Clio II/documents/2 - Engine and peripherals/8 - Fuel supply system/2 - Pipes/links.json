@@ -1,0 +1,65 @@
+{
+  "PR": [
+    {
+      "id": "1247_194110",
+      "filename": "1247_194110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01023272.svg"
+    },
+    {
+      "id": "1247_194122",
+      "filename": "1247_194122.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01013071.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2447",
+      "filename": "FUEL CUT-OUT SYSTEM IN THE EVENT OF A COLLISION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2447.pdf"
+    },
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "3460",
+      "filename": "CORRECTIONS TO THE LABELLING ON THE INJECTION WIRING DIAGRAM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3460.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-1",
+      "filename": "M.R. 346 - 1 Engine and peripherals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-1.pdf"
+    },
+    {
+      "id": "3726",
+      "filename": "FAULT FINDING PETROL INJECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3726.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21955.png"
+    }
+  ]
+}

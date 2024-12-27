@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X24/CA|X33/CA,CAREG|X35/CA,CAREG|X38|X44/CA,CAREG|X52/CA01,CA02|X61/CA,CAREG|X62/CA,CAADD,CACHFA,CAREG|X65/CA,CAREG|X67/CA|X70/CA,CAADD/APL03|X73|X74/CA,CAREG|X76/CA/APL03|X77/CA,CAREG|X79/CA,CAREG|X81/CA01,CA03,CA05|X82|X83/CA,CACHFA,CAVCAR,CAVRAD/APL03|X84/CA,CAREG|X85/CA,CAREG|X87/CA,CAREG|X90/CA|X91/CA01,CA02|X92/CA,CAADD|X95|X98/CA,CAREG|XFB|XFC|XFD/APL03|XFE|XHA|XFF|XJD|XFA|XJA|XJB|XJE|XJC|XJK/CA01|XJF/CA01,CA02|XFK|XCB|XZG|XDD|X1310|X87|X1316|XR210/ACD00|X1317|XZ110|X1322" id="RPR-000240861" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">refrigerant circuit : draining - refilling</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="29/09/21 09:29" translate="no"/>
+      <revised modified="29/09/21 14:25" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">refrigerant circuit : draining - refilling</siename>
+      <sieversion translate="no">I.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000240756</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop &amp; Start system, always follow the safety instructions <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue></sieref>             </para>
+        <?Pub Caret 179?>
+      </noteR>
+      <noteR translate="no" type="warning">
+        <para translate="yes">Consult the safety and cleanliness advice and operation recommendations before carrying out any repair<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3443034"><linkdesc>passenger compartment cooling assembly : precautions for the repair</linkdesc><linkvalue>GIEMR-001022</linkvalue></sieref>.</para>
+      </noteR>
+      <noteR translate="no" type="caution">
+        <para translate="yes">Consult the device's operating manual to avoid incorrect use.</para>
+      </noteR>
+      <noteR translate="no" type="caution">
+        <para translate="yes">To avoid damaging the cold loop components (corrosions, etc.), do not use dye if the traces reveal that some product has already been injected.</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">A summary table gives the quantities of refrigerant in the system according to the engine type<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3507688"><linkdesc>passenger compartment cooling assembly : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-001021</linkvalue></sieref>.</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e195" translate="no">
+    <title translate="yes">Recovering refrigerant fluid</title>
+    <procbody translate="no">
+      <procsteps appl="|||||||||||X81/CA01,CA03,CA05|X73||||X74/CA,CAREG|||||||||||||||||||||" translate="no">
+        <procstep translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">After any work involving leaks on the air conditioning circuit on a Laguna II, Vel Satis and Espace IV, make sure there are no "Refrigerant DF033" fill faults using the<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT09_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">Diagnostic tool</materialname>. If one appears, clear it. The compressor cannot operate until the fault is cleared.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <ul translate="no">
+              <li translate="yes">If the air conditioning circuit is fitted with a single filler valve, some filling equipment only requires the use of the high pressure pipe (refer to the filling station instructions).</li>
+              <li translate="yes">Depending on the situation, run the system for a few minutes before recovering the coolant to improve drainage.</li>
+            </ul>
+          </noteR>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">It is essential to follow these procedures to prevent:</para>
+            <para translate="yes">- gas escaping when the circuit is opened,</para>
+            <para translate="yes">- pollution of the environment through the release of gas into the atmosphere when the circuit is opened or when a vacuum is created.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+      <procsteps appl="||||||||||||||||||||||||||||||||||||X38/ELEC/PHAS2|" translate="no">
+        <procstep translate="no">
+          <noteR translate="no" type="warning">
+            <para translate="yes">DANGER: HIGH VOLTAGE VEHICLE:</para>
+            <para translate="yes">Risks of serious burns or electric shocks that may prove fatal.</para>
+            <para translate="yes">Before carrying out any work on the vehicle, it is essential that you follow the instructions regarding vehicle lockout. This work must be carried out by an employee who is qualified and authorised to work on a high-voltage onboard network<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue></sieref>.</para>
+          </noteR>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Lock out the 12 V supply circuit to disable the programming of the remote air conditioning<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3449494"><linkdesc>12 V supply circuit : lockout - removal of lockout</linkdesc><linkvalue>GIEMR-000508</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">When draining or checking the refrigerant fill load, three scenarios are to be taken into account:</para>
+          <ul translate="no">
+            <li translate="yes">the engine is running and the air conditioning is in operation (A),</li>
+            <li translate="yes">the engine is running but the air conditioning is not in operation (B),</li>
+            <li translate="yes">the engine is not running nor is the air conditioning in operation (C).</li>
+          </ul>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Scenario A:</para>
+          <ul translate="no">
+            <li translate="yes">Operate the air conditioning until the cooling fan assembly is triggered twice,</li>
+            <li translate="yes">Switch off the engine,</li>
+            <li translate="yes">drain for the first time (note down the original value),</li>
+            <li translate="yes">wait<technicalvalue translate="no"><value translate="yes">15 minutes</value></technicalvalue>,</li>
+            <li translate="yes">check that the relative pressure is no more than<technicalvalue translate="no"><value translate="yes">0 bar</value></technicalvalue>,</li>
+            <li translate="yes">repeat the cycles until the relative pressure is equal to or less than<technicalvalue translate="no"><value translate="yes">0 bar</value></technicalvalue>,</li>
+            <li translate="yes">add together the values of the various draining operations; the fill is confirmed as being correct if the volume of refrigerant fluid is the specified fill <technicalvalue translate="no"><value translate="yes">+ 35 g </value></technicalvalue>or <technicalvalue translate="no"><value translate="yes">- 100 g </value></technicalvalue>.</li>
+          </ul>
+          <para translate="yes">Scenario B:</para>
+          <ul translate="no">
+            <li translate="yes">run the engine until the cooling fan is triggered twice,</li>
+            <li translate="yes">Switch off the engine,</li>
+            <li translate="yes">drain for the first time (note down the value),</li>
+            <li translate="yes">wait<technicalvalue translate="no"><value translate="yes">15 minutes</value></technicalvalue>,</li>
+            <li translate="yes">run the engine until the cooling fan is triggered twice,</li>
+            <li translate="yes">Switch off the engine,</li>
+            <li translate="yes">drain for the second time (note down the value),</li>
+            <li translate="yes">repeat the cycles until the relative pressure is equal to or less than<technicalvalue translate="no"><value translate="yes">0 bar</value></technicalvalue>,</li>
+            <li translate="yes">add together the values of the various draining operations; the fill is confirmed as being correct if the volume of refrigerant fluid is the specified fill <technicalvalue translate="no"><value translate="yes">+ 35 g </value></technicalvalue>or <technicalvalue translate="no"><value translate="yes">- 100 g </value></technicalvalue>.</li>
+          </ul>
+          <para translate="yes">Scenario C:</para>
+          <ul translate="no">
+            <li translate="yes">drain for the first time (note down the value),</li>
+            <li translate="yes">wait<technicalvalue translate="no"><value translate="yes">2 hours</value></technicalvalue>,</li>
+            <li translate="yes">repeat the cycles until the relative pressure is equal to or less than<technicalvalue translate="no"><value translate="yes">0 bar</value></technicalvalue>,</li>
+            <li translate="yes">add together the values of the various draining operations; the fill is confirmed as being correct if the volume of refrigerant fluid is the specified fill <technicalvalue translate="no"><value translate="yes">+ 35 g </value></technicalvalue>or <technicalvalue translate="no"><value translate="yes">- 100 g </value></technicalvalue>.</li>
+          </ul>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e370" translate="no">
+    <title translate="yes">CREATING A VACUUM</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">It is essential to carry out vacuum extraction correctly before loading, otherwise the air conditioning will not work properly.</para>
+          <para translate="yes">There are two scenarios to consider:</para>
+          <ul translate="no">
+            <li translate="yes">vacuum created immediately after discharge (scenario A),</li>
+            <li translate="yes">vacuum created after an interval of several hours or days (scenario B).</li>
+          </ul>
+          <para translate="yes">Scenario A:</para>
+          <ul translate="no">
+            <li translate="yes">creation of a vacuum takes<technicalvalue translate="no"><value translate="yes">20 minutes</value></technicalvalue>.</li>
+          </ul>
+          <para translate="yes">Scenario B:</para>
+          <ul translate="no">
+            <li translate="yes">during creation of a vacuum it takes <technicalvalue translate="no"><value translate="yes">45 minutes </value></technicalvalue>to eliminate any trace of moisture.</li>
+          </ul>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Test the seal once the vacuum has been created (some stations do this automatically).</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e407" translate="no">
+    <title translate="yes">Filling</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Fill the refrigerant circuit using the<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT20_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">refrigerant charging station</materialname>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Top up the oil with the recommended type and volume of oil and refrigerant, depending on the work carried out<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3507688"><linkdesc>passenger compartment cooling assembly : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-001021</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps appl="||||||||||||||||||||||||||||||||||||X38/ELEC/PHAS2|" translate="no">
+        <procstep translate="no">
+          <para translate="yes">Remove the lockout of the 12 V supply circuit <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3449494"><linkdesc>12 V supply circuit : lockout - removal of lockout</linkdesc><linkvalue>GIEMR-000508</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Ensure that there are no leaks using the electronic detector <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3459986"><linkdesc>refrigerant circuit : check</linkdesc><linkvalue>GIEMR-000518</linkvalue></sieref>.</para>
+          <noteR translate="no" type="caution">
+            <para translate="yes">After injecting dye into the refrigerant, be sure to indicate this on a label (supplied with the dye capsule), and the date of the operation.</para>
+            <para translate="yes">Position the label so it is visible near to the cold loop filler valve.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Check that the air conditioning system is operating correctly<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3442944"><linkdesc>passenger compartment cooling assembly : check</linkdesc><linkvalue>GIEMR-001019</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

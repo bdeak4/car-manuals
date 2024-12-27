@@ -1,0 +1,125 @@
+{
+  "PR": [
+    {
+      "id": "1247_323114",
+      "filename": "1247_323114.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01040672.svg"
+    },
+    {
+      "id": "1247_314012",
+      "filename": "1247_314012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01047580.svg"
+    },
+    {
+      "id": "1247_379010",
+      "filename": "1247_379010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01038898.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3588",
+      "filename": "Special notes on Clio II vehicles from June 2001 fitted with ABS and ESP.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3588.pdf"
+    },
+    {
+      "id": "2945",
+      "filename": "REPLACING THE RADIATOR MOUNTING BRACKETS ON THE ENGINE CRADLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2945.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af5b02308813b00dc4cf451",
+      "filename": "braking : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000210657.xml"
+    },
+    {
+      "id": "5af5b0f008813b00dc4cf53e",
+      "filename": "brake fluid : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457259.xml"
+    },
+    {
+      "id": "5af942f63ef64d00e0ef5e18",
+      "filename": "brake : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000225198.xml"
+    },
+    {
+      "id": "5e1f865d4cedfd00012e75e5",
+      "filename": "front brake disc : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001452652.xml"
+    },
+    {
+      "id": "5af2c491c3da7a00dc22552a",
+      "filename": "front brake calliper mounting : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000210192.xml"
+    },
+    {
+      "id": "5af2c4d0c3da7a00dc225571",
+      "filename": "front wheel speed sensor : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000223045.xml"
+    },
+    {
+      "id": "5af56b5ac3da7a00dc228055",
+      "filename": "front brake calliper assembly : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000211634.xml"
+    },
+    {
+      "id": "5af5bdc7f04d3300dc242610",
+      "filename": "front brake pads : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000209924.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "3973",
+      "filename": "FAULT FINDING BOSCH ABS 8.0.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3973.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    },
+    {
+      "id": "3909",
+      "filename": "FAULT FINDING ABS - Electronic stability program Bosch 5.7 Vdiag no.: 08.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3909.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "MR-432-X65-38C000",
+      "filename": "ABS BOSCH 8.1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-38C000.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-3",
+      "filename": "M.R. 346 - 3 Chassis.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-3.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21924.png"
+    }
+  ]
+}

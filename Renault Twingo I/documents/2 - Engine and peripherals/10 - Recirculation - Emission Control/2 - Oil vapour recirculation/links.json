@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1323_141010",
+      "filename": "1323_141010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/00043765.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "2155",
+      "filename": "REPLACING THE WATER-PUMPE - REMOVING-REFITTING THE ALTERNATOR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2155.pdf"
+    },
+    {
+      "id": "2917",
+      "filename": "CANISTER BLEED SOLENOID VALVE INTEGRATED IN CANISTER.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2917.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "2889",
+      "filename": "ERRATUM NT 2466A, 2621A RELATING TO MR 325 AND ENGINE MANUAL MOT. D.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2889.pdf"
+    },
+    {
+      "id": "2949",
+      "filename": "ANTI-POLLUTION TEST - PETROL ENGINES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2949.pdf"
+    },
+    {
+      "id": "3789",
+      "filename": "GREASING THE SPARK PLUG COVERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3789.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21957.png"
+    }
+  ]
+}

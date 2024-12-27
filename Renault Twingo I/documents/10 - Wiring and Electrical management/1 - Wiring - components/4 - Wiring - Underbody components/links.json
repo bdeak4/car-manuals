@@ -1,0 +1,110 @@
+{
+  "PR": [
+    {
+      "id": "1204_885012",
+      "filename": "1204_885012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01023667.svg"
+    },
+    {
+      "id": "1204_885011",
+      "filename": "1204_885011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085298.svg"
+    },
+    {
+      "id": "1204_885050",
+      "filename": "1204_885050.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085299.svg"
+    },
+    {
+      "id": "1204_885510",
+      "filename": "1204_885510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01013776.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0504",
+      "filename": "REPLACING A SEAT EQUIPPED WITH A SIDE AIR BAG AFTER TRIGGERING OF THEMODULE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0504.pdf"
+    },
+    {
+      "id": "0539",
+      "filename": "FRONT SEATBACK TRIM ON SEATS EQUIPPED WITH AN AIR BAG.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0539.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "MR-AIR-BAG-CEINTURES-(2)",
+      "filename": "Air bags and seat belt pretensioners.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-AIR-BAG-CEINTURES-(2).pdf"
+    },
+    {
+      "id": "MR-AIRBAGS-SRP",
+      "filename": "AIRBAGS, PRETENSIONERS and SEAT BELTS PRS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-AIRBAGS-SRP.pdf"
+    },
+    {
+      "id": "MR-AIR-BAG-CEINTURES-(1)",
+      "filename": "AIRBAGS AND PRE-TENSIONERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-AIR-BAG-CEINTURES-(1).pdf"
+    },
+    {
+      "id": "2283",
+      "filename": "CHANGE IN POSITION OF THE BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2283.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    },
+    {
+      "id": "5cd49cfdbfe52300dc563019",
+      "filename": "wiring : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001280442.xml"
+    },
+    {
+      "id": "64a721b0e2e1dd0f8bf69f89",
+      "filename": "wiring: repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-002061970.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3361",
+      "filename": "CENTRAL LOCKING WHEN MOVING AND RADIO FREQUENCY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3361.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "6015",
+      "filename": "ELECTRICAL WIRING REPAIR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6015.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21902.png"
+    }
+  ]
+}

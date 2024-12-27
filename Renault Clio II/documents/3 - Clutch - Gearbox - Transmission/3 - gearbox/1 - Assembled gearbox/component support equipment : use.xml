@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X52/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X92/K4M|X95/K4M" id="RPR-000008053" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">component support equipment : use</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e91" translate="no">
+      <title translate="yes">Preparing to install the engine on the component support</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="10-02-351-repair-00-04-01-03-01-79-1-11-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016050_LAY-000001206.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            </figure>
+            <procstep translate="no">
+               <noteR translate="no" type="warning">
+                  <para translate="yes">To work on the engine in complete safety, it is essential to use a component support.</para>
+               </noteR>
+               <noteR translate="no" type="caution">
+                  <para translate="yes">It is strictly forbidden to apply any pressure to the engine oil sump. Damage to the sump may also damage the engine by:</para>
+                  <ul translate="no">
+                     <li translate="yes">blocking the strainer,</li>
+                     <li translate="yes">raising the oil level above maximum, with a risk of engine racing.</li>
+                  </ul>
+               </noteR>
+            </procstep>
+         </procsteps>
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Remove the engine - gearbox assembly<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457628">
+                     <linkdesc>engine and gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-001096</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X33/K4M/BVM5|X35/K4J,K4M/BVM5|X38/K4M/BVM5,BVM6|X44/K4M/BVM5|X52/K4M/BVM5|X56/K4M/BVM5|X61/K4M/BVM5|X64/K4J,K4M/BVM5|X65/K4J,K4M/BVM5|X74/K4M/BVM5,BVM6|X76/K4M/APL03/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Disconnect the manual gearbox from the engine<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                     <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000921</linkvalue>
+                  </sieref>(21A, Manual gearbox).</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Disconnect the automatic gearbox from the engine<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                     <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000921</linkvalue>
+                  </sieref>(23A, Automatic transmission).</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X95/K4M" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Remove the accessories belt<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                     <linkdesc>accessories belt : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000720</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X52/K4M|X92/K4M" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Remove the accessories belt<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                     <linkdesc>accessories belt : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000720</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e334" translate="no">
+      <title translate="yes">Fitting the engine on the component support</title>
+      <procbody translate="no"/>
+      <procedure id="d1e338" translate="no">
+         <title translate="yes">First fitting</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e340" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-02-01-181-repair-00-04-01-03-01-79-1-11-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031206_LAY-000001208.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Fit the studs<markref format="dita" href="#d1e338/00-02-01-181-repair-00-04-01-03-01-79-1-11-3" scope="local" translate="no" type="figure">1</markref>of the<toolref format="dita" href="x-wc://file=OS-000017763.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Engine support, can be adapted for Desvil stand.</linkdesc>
+                        <linkvalue>Mot. 1723</linkvalue>
+                     </toolref>on the cylinder block.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e362" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-02-01-182-repair-00-04-01-03-01-79-1-11-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031393_LAY-000001209.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Fit the plate<markref format="dita" href="#d1e338/00-02-01-182-repair-00-04-01-03-01-79-1-11-4" scope="local" translate="no" type="figure">2</markref>of the<toolref format="dita" href="x-wc://file=OS-000017763.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Engine support, can be adapted for Desvil stand.</linkdesc>
+                        <linkvalue>Mot. 1723</linkvalue>
+                     </toolref>on the engine fitted with studs by aligning the studs with holes<technicalvalue translate="no">
+                        <value translate="yes">1, 2, 10 and 12</value>
+                     </technicalvalue>of the plate.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Lift the engine using the<?Pub Inc?><materialname otherprops="MAT61_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">workshop hoist</materialname>and the load positioner .</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="00-02-01-81-repair-00-04-01-03-01-79-1-11-5" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019309_LAY-000001210.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Secure the engine on the component support.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e403" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-331-repair-00-04-01-03-01-79-1-11-6" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016438_LAY-000001211.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the<torque translate="no">
+                        <torquedobject translate="yes">securing bolt</torquedobject>
+                        <technicalvalue translate="no">
+                           <value translate="yes">120 N.m</value>
+                        </technicalvalue>
+                     </torque>
+                     <markref format="dita" href="#d1e338/10-02-331-repair-00-04-01-03-01-79-1-11-6" scope="local" translate="no" type="figure">3</markref>to prevent the engine from rotating.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Set the blocks to ensure that the component stand does not move.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the load positioner .</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e439" translate="no">
+         <title translate="yes">Second fitting</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e441" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-02-01-180-repair-00-04-01-03-01-79-1-11-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031205_LAY-000001212.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Fit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine stand support studs<markref format="dita" href="#d1e439/00-02-01-180-repair-00-04-01-03-01-79-1-11-7" scope="local" translate="no" type="figure">4</markref>on the cylinder block,</li>
+                     <li translate="yes">the component support retaining bars<markref format="dita" href="#d1e439/00-02-01-180-repair-00-04-01-03-01-79-1-11-7" scope="local" translate="no" type="figure">5</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Lift the engine using the<?Pub Inc?><materialname otherprops="MAT61_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">workshop hoist</materialname>and the load positioner .</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="00-02-01-179-repair-00-04-01-03-01-79-1-11-8" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031204_LAY-000001213.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Secure the engine on the component support.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the securing bolt (120 N.m)<markref format="dita" href="#d1e338/10-02-331-repair-00-04-01-03-01-79-1-11-6" scope="local" translate="no" type="figure">3</markref>to prevent the engine from rotating.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Set the blocks to ensure that the component stand does not move.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the load positioner .</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e511" translate="no">
+         <title translate="yes">Third method</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e513" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-03-03-06-15-repair-00-04-01-03-01-79-1-11-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000004433_LAY-000001207.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Fit the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Flywheel locking tool.</linkdesc>
+                        <linkvalue>Mot. 1677</linkvalue>
+                     </toolref>
+                     <markref format="dita" href="#d1e511/10-03-03-06-15-repair-00-04-01-03-01-79-1-11-2" scope="local" translate="no" type="figure">6</markref>onto the cylinder block.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X95/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the crankshaft accessories pulley<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                        <linkdesc>accessories belt : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000720</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X52/K4M|X92/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the crankshaft accessories pulley<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                        <linkdesc>accessories belt : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000720</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M/BVM5|X35/K4J,K4M/BVM5|X38/K4M/BVM5,BVM6|X44/K4M/BVM5|X52/K4M/BVM5|X56/K4M/BVM5|X61/K4M/BVM5|X64/K4J,K4M/BVM5|X65/K4J,K4M/BVM5|X74/K4M/BVM5,BVM6|X76/K4M/APL03/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch disc and pressure plate<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3470380">
+                           <linkdesc>clutch plate : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000661</linkvalue>
+                        </sieref>(20A, Clutch),</li>
+                     <li translate="yes">the flywheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499029">
+                           <linkdesc>flywheel : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-002431</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the drive plate<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488096">
+                        <linkdesc>drive plate : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-002387</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Flywheel locking tool.</linkdesc>
+                        <linkvalue>Mot. 1677</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e761" translate="no">
+                  <mark id="MARK.REPAIR-00X04X01X03-01X79-1-11.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+               </marklayer>
+               <figure id="11-04-05-9-repair-00-04-01-03-01-79-1-11-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031201_LAY-000001214.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the oil pressure sensor<markref format="dita" href="#d1e511/11-04-05-9-repair-00-04-01-03-01-79-1-11-9" scope="local" translate="no" type="figure">7</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="00-02-01-184-repair-00-04-01-03-01-79-1-11-10" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031395_LAY-000001204.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Fit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine stand support studs on the cylinder block,</li>
+                     <li translate="yes">the component support retaining bars.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Lift the engine using the<?Pub Inc?><materialname otherprops="MAT61_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">workshop hoist</materialname>and the load positioner .</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="00-02-01-183-repair-00-04-01-03-01-79-1-11-11" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031394_LAY-000001205.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Secure the engine on the component support.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the securing bolt (120 N.m)<markref format="dita" href="#d1e338/10-02-331-repair-00-04-01-03-01-79-1-11-6" scope="local" translate="no" type="figure">3</markref>to prevent the engine from rotating.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Set the blocks to ensure that the component stand does not move.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the load positioner .</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e827" translate="no">
+      <title translate="yes">Removing the engine from the component support</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Position the "engine - support studs - engine stand plate" assembly or the "engine - support studs - retaining bars" assembly on the component stand using the<?Pub Inc?><materialname otherprops="MAT61_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">workshop hoist</materialname>and the load positioner .</para>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Remove the engine stand plate nuts or the retaining bars on the component stand.</para>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Separate the "engine - support studs - engine stand plate" assembly or the "engine - support studs - retaining bar" assembly from the component stand using the<?Pub Inc?><materialname otherprops="MAT61_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">workshop hoist</materialname>and the load positioner .</para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e864" translate="no">
+      <title translate="yes">final operation</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Remove:</para>
+               <ul translate="no">
+                  <li translate="yes">the support stud nuts on the stand plate or the retaining bar nuts,</li>
+                  <li translate="yes">the stand plate or the retaining bars,</li>
+                  <li translate="yes">the pins of the tool<toolref format="dita" href="x-wc://file=OS-000017763.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Engine support, can be adapted for Desvil stand.</linkdesc>
+                        <linkvalue>Mot. 1723</linkvalue>
+                     </toolref>.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X33/K4M/BVM5|X35/K4J,K4M/BVM5|X38/K4M/BVM5,BVM6|X44/K4M/BVM5|X52/K4M/BVM5|X56/K4M/BVM5|X61/K4M/BVM5|X64/K4J,K4M/BVM5|X65/K4J,K4M/BVM5|X74/K4M/BVM5,BVM6|X76/K4M/APL03/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit (if they have been removed):</para>
+               <ul translate="no">
+                  <li translate="yes">the clutch disc and pressure plate<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3470380">
+                        <linkdesc>clutch plate : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000661</linkvalue>
+                     </sieref>(20A, Clutch),</li>
+                  <li translate="yes">the flywheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499029">
+                        <linkdesc>flywheel : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-002431</linkvalue>
+                     </sieref>.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit (if it has been removed) the drive plate<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488096">
+                     <linkdesc>drive plate : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-002387</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X95/K4M" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit:</para>
+               <ul translate="no">
+                  <li translate="yes">the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Flywheel locking tool.</linkdesc>
+                        <linkvalue>Mot. 1677</linkvalue>
+                     </toolref>on the cylinder block,</li>
+                  <li translate="yes">the crankshaft accessories pulley<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3481018">
+                        <linkdesc>crankshaft accessories pulley : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-001655</linkvalue>
+                     </sieref>.</li>
+               </ul>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Remove the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                     <linkdesc>Flywheel locking tool.</linkdesc>
+                     <linkvalue>Mot. 1677</linkvalue>
+                  </toolref>from the cylinder block.</para>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Refit the accessories belt<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                     <linkdesc>accessories belt : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000720</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X52/K4M|X92/K4M" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit:</para>
+               <ul translate="no">
+                  <li translate="yes">the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Flywheel locking tool.</linkdesc>
+                        <linkvalue>Mot. 1677</linkvalue>
+                     </toolref>on the cylinder block,</li>
+                  <li translate="yes">the crankshaft accessories pulley<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                        <linkdesc>accessories belt : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000720</linkvalue>
+                     </sieref>.</li>
+               </ul>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Remove the flywheel locking tool<toolref format="dita" href="x-wc://file=OS-000002349.xml" scope="external" translate="no" type="specifictool">
+                     <linkdesc>Flywheel locking tool.</linkdesc>
+                     <linkvalue>Mot. 1677</linkvalue>
+                  </toolref>from the cylinder block.</para>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">Refit the accessories belt<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498977">
+                     <linkdesc>accessories belt : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000720</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X52/K4M/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Connect the manual gearbox to the engine<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                     <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000921</linkvalue>
+                  </sieref>(21A, Manual gearbox).</para>
+            </procstep>
+         </procsteps>
+         <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+            <procstep translate="no">
+               <para translate="yes">Connect the automatic gearbox to the engine<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                     <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-000921</linkvalue>
+                  </sieref>(23A, Automatic transmission).</para>
+            </procstep>
+         </procsteps>
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit the engine - gearbox assembly<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457628">
+                     <linkdesc>engine and gearbox assembly : removal - refitting</linkdesc>
+                     <linkvalue>GIEMR-001096</linkvalue>
+                  </sieref>.</para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

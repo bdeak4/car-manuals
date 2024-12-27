@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X58|X27|X75|XDD|X59|XJ1|XFF|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000322146" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">braze weld : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="22/09/21 16:36" translate="no"/>
+         <revised modified="10/10/24 13:48" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">braze weld : description</siename>
+         <sieversion translate="no">P.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000322146</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <para translate="yes">To replace an original braze connection, apply a GMAW weld bead.</para>
+   </descbody>
+   <description id="d1e114" translate="no" xml:lang="en">
+      <title translate="yes">DISASSEMBLY</title>
+      <descbody translate="no"/>
+      <description id="d1e118" translate="no" xml:lang="en">
+         <title translate="yes">Scouring</title>
+         <descbody translate="no">
+            <para translate="yes">If necessary, scour the joint line to bring out the weld bead:</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927">
+                  <linkdesc>bodywork cleaning tools : description</linkdesc>
+                  <linkvalue>GIEMR-001618</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                  <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                  <linkvalue>GIEMR-001617</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e130" translate="no" xml:lang="en">
+         <title translate="yes">Unpicking</title>
+         <descbody translate="no">
+            <para translate="yes">Unpick the braze bead.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479040">
+                  <linkdesc>body structure unpicking tools : use</linkdesc>
+                  <linkvalue>GIEMR-001620</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e139" translate="no" xml:lang="en">
+         <title translate="yes">Grinding</title>
+         <descbody translate="no">
+            <para translate="yes">Grind the brazing residues.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                  <linkdesc>shaving tools : description</linkdesc>
+                  <linkvalue>GIEMR-001611</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Surface finish the mating face.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504310">
+                  <linkdesc>mating face surfacing tools : description</linkdesc>
+                  <linkvalue>GIEMR-001623</linkvalue>
+               </sieref>
+            </para>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">Remove all brazing residue, in order not to contaminate the GMAW bead joint.</para>
+            </noteR>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">Do not strike or damage the support panel.</para>
+            </noteR>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e163" translate="no" xml:lang="en">
+      <title translate="yes">preparation before assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e167" translate="no" xml:lang="en">
+         <title translate="yes">Positioning and adjustment</title>
+         <descbody translate="no">
+            <para translate="yes">Position the replacement part, adjust it and fix it.</para>
+            <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e178" translate="no" xml:lang="en">
+         <title translate="yes">Marking and identifying the joints</title>
+         <descbody translate="no">
+            <para translate="yes">Mark the joint areas.</para>
+            <para translate="yes">Remove the replacement part.</para>
+         </descbody>
+      </description>
+      <description id="d1e186" translate="no" xml:lang="en">
+         <title translate="yes">Preparation of the joints on the replacement part</title>
+         <descbody translate="no">
+            <para translate="yes">Scour the external mating face.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                  <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                  <linkvalue>GIEMR-001617</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e195" translate="no" xml:lang="en">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Apply the anti-corrosion protection to the internal joint mating faces.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465485">
+                  <linkdesc>anti-corrosion protection before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001838</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e204" translate="no" xml:lang="en">
+      <title translate="yes">Assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e208" translate="no" xml:lang="en">
+         <title translate="yes">Positioning the replacement part</title>
+         <descbody translate="no">
+            <para translate="yes">Position the replacement part, adjust it and fix it.</para>
+            <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e219" translate="no" xml:lang="en">
+         <title translate="yes">Adjusting the welder</title>
+         <descbody translate="no">
+            <para translate="yes">Before working on the vehicle, follow the procedure below:</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3471871">
+                  <linkdesc>MIG/MAG/TIG welding : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002091</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e228" translate="no" xml:lang="en">
+         <title translate="yes">Carrying out the welding</title>
+         <descbody translate="no">
+            <para translate="yes">Make the weld bead, the same length and in exactly the same position as the original.</para>
+         </descbody>
+      </description>
+      <description id="d1e234" translate="no" xml:lang="en">
+         <title translate="yes">Finishing</title>
+         <descbody translate="no">
+            <para translate="yes">Reproduce the original appearance of the connection by brazing.</para>
+         </descbody>
+      </description>
+   </description>
+</description>

@@ -1,0 +1,44 @@
+{
+  "PR": [
+    {
+      "id": "1204_582010",
+      "filename": "1204_582010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085144.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "2280",
+      "filename": "REMOVING WIPER ARM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2280.pdf"
+    },
+    {
+      "id": "3596",
+      "filename": "FRONT WIPER MOTOR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3596.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21646.png"
+    }
+  ]
+}

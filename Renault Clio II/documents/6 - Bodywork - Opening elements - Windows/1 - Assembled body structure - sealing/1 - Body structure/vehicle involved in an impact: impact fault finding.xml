@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X33|X38|X43|X44|X45|X47|X52|X61|X62|X65|X67|X77|X79|X81|X82|X83/PHAS2,PHAS3|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XBC" id="RPR-000442348" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="yes">vehicle involved in an impact: impact fault finding</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="08/10/20 15:36" translate="no"/>
+      <revised modified="12/10/20 21:41" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">vehicle involved in an impact: impact fault finding</siename>
+      <sieversion translate="no">E.2</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000000785</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop &amp; Start system, always follow the safety instructions <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue></sieref>.</para>
+        <para translate="yes">In this document, the term "collision" designates a mechanical impact which has triggered at least one pyrotechnic component or at least caused the airbag computer to lock.</para>
+        <para translate="yes">This procedure aids the assessment of a vehicle involved in an impact, in particular to specify the parts always to be replaced. Under no circumstances does it replace the assessment carried out on the vehicle.</para>
+      </noteR>
+      <noteR translate="no" type="warning">
+        <para translate="yes">DANGER: HIGH VOLTAGE VEHICLE</para>
+        <para translate="yes">Risks of serious burns or electric shocks that may prove fatal.</para>
+        <para translate="yes">Before carrying out any work on the vehicle, it is essential that you follow the instructions regarding vehicle lockout. This work must be carried out by an employee who is qualified and authorised to work on a high-voltage onboard network<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040" translate="no"><linkdesc translate="no">vehicle : precautions for the repair</linkdesc><linkvalue translate="no">GIEMR-002446</linkvalue></sieref>.</para>
+        <para translate="yes">Lock out the vehicle <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3453188" translate="no"><linkdesc translate="no">vehicle : lockout - removal of lockout</linkdesc><linkvalue translate="no">GIEMR-002439</linkvalue></sieref>.</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e88" translate="no" xml:lang="fr">
+    <title translate="yes">Seat belt fault finding after a collision</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">If a baby seat was secured by a seat belt, always replace the seat belt and the associated pretensioner.</para>
+        </noteR>
+        <procstep translate="no">
+          <para translate="yes">Replace all seat belts and pretensioners which were fastened at the time of the impact as well as their mountings.</para>
+        </procstep>
+        <procstep id="pro3" translate="no">
+          <para translate="yes">On 3-door vehicles, if the seat belt rail on the sill panel lining is deformed, it is essential to replace the seat belt, the seat belt rail, the pretensioner associated with this seat belt and their mountings.</para>
+        </procstep>
+        <procstep id="pro4" translate="no">
+          <para translate="yes">If there is any doubt over whether a seat belt was fastened during an impact, always replace this seat belt, the pretensioner and the mounting.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <marklayer id="marklayer-d1e106" translate="no"/>
+        <figure id="00-01-01-06-92-repair-00-01-01-06-01-78-1-1-3" translate="no">
+          <title translate="yes">Signs of burning on the seat belt strap</title>
+          
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057264_c@[users[p077020[appdata[local[temp[aptexport[00-01-01-06-92-repair-00-01-01-06-01-78-1-1-3.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RPR-000442348-01-01-06-92-repair-00-01-01-06-01-78-1-1-3-000057264</illusnum>
+        </figure>
+        <figure id="00-01-01-06-93-repair-00-01-01-06-01-78-1-1-4" translate="no">
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057265.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RPR-000442348-01-01-06-93-repair-00-01-01-06-01-78-1-1-4-000057265</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Unwind the seat belt strap completely.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Check whether the seat belt strap shows signs of burning. <i translate="yes">If signs of burning are seen, replace the seat belt, the buckle and their mountings.</i></para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e140" translate="no" xml:lang="fr">
+    <title translate="yes">fault finding on pyrotechnic systems after a collision</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <noteR translate="no" type="note">
+          <para translate="yes">It is essential to connect the diagnostic tool to check the components.</para>
+        </noteR>
+        <procstep translate="no">
+          <para translate="yes">Turn the ignition key to position "ON".</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Connect<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT09_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">Diagnostic tool</materialname>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Select "Airbag computer".</para>
+          <para translate="yes">Read the impact context (this command enables the list of trigger lines activated and the system status at the moment of impact to be accessed in the computer to be replaced).</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Always replace the airbag computer and all parts locked by the computer.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">If the passenger's airbag was inhibited at the moment of the collision and was therefore not triggered, it is obligatory to replace it (doubt over the condition of the igniter).</para>
+            <para translate="yes">In order to create a reliable database, always send the locked airbag computer back to the technical department.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+      <procsteps appl="|||X95||||||||||X43||X91|||||||||||||||X38|" translate="no">
+        <procstep translate="no">
+          <para translate="yes">In the event of a frontal impact, replace the side impact sensors located in the B-pillars.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e193" translate="no" xml:lang="fr">
+    <title translate="yes">fault finding on other vehicle components after a frontal collision</title>
+    <procedure id="d1e197" translate="no" xml:lang="fr">
+      <title translate="yes">Steering wheel</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the steering wheel.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Fit the circular part of the steering wheel on a flat surface.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check that the steering wheel rests on its edge all the way around.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If the circular part of the steering wheel rests completely on the flat surface, the steering wheel is OK.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If the circular part of the steering wheel does not rest completely on the flat surface, the steering wheel and steering column must always be replaced.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="||||X87||||||||||X98|||||||||X84||||X85|X77|||" id="d1e228" translate="no" xml:lang="fr">
+      <title translate="yes">STEERING COLUMN</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the driver's frontal airbag was triggered, always replace the steering column.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="|||X95||||||||||X43||X91|||||||||||||||X38|" id="d1e243" translate="no" xml:lang="fr">
+      <title translate="yes">STEERING COLUMN</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the driver's frontal airbag was triggered, remove then refit the covers under the steering wheel.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If the covers can be refitted without a problem, the column does not need replacing.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If the covers cannot be refitted correctly, always replace the steering column.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e273" translate="no" xml:lang="fr">
+      <title translate="yes">STEERING COLUMN</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the steering rack is damaged, always replace the steering column and the steering rack.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e285" translate="no" xml:lang="fr">
+      <title translate="yes">Pedal assembly</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the driver's frontal airbag has been triggered, always replace the pedal assembly.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="|||X95|X87|||||||||X43|X98|X91||||||||||||X85|X77||X38|" id="d1e292" translate="no" xml:lang="fr">
+      <title translate="yes">Pedal assembly</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the driver's frontal airbag has been triggered, always replace the brake pedal impacter.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e313" translate="no" xml:lang="fr">
+      <title translate="yes">Dashboard cross member</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep id="pro1" translate="no">
+            <para id="par1" translate="yes">After the frontal airbags have been triggered, remove then refit the dashboard cross member.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If the dashboard cross member cannot be refitted correctly, it must always be replaced.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="|||X95|X87|||||||||X43|X98|X91||||||||X84|X61|||X85|X77||X38|" id="d1e320" translate="no" xml:lang="fr">
+      <title translate="yes">Dashboard</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the frontal airbags have been triggered, always replace the dashboard.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="||XFE|||X79|X33|X10||||X90|X82|X43|||X83/PHAS2,PHAS3|X67|X52|X44||XFB|X92||||XFC|||X62||X07" id="d1e345" translate="no" xml:lang="fr">
+      <title translate="yes">Dashboard</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the frontal airbags have been triggered, check that the passenger's airbag has not damaged the dashboard (broken lugs, material torn around the airbag housing, etc.). Replace it if necessary.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e398" translate="no" xml:lang="en">
+      <title translate="yes">Front seat</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">An unoccupied seat means a seat without a passenger and with an unfastened seat belt.</para>
+            <para translate="yes">The seat frame is involved in passive safety. </para>
+            <para id="par2" translate="yes">During an impact, if the seat is occupied, the frame is considered to be deformed to ensure the occupant's safety.</para>
+          </noteR>
+          <procstep translate="no">
+            <para translate="yes">After the frontal airbags have been triggered:</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="||XFE|X95/B95,J95,K95|X87|X79|X33|X10||||X90|X82|X43|X98|X91/B91,K91|X83/PHAS2,PHAS3|X67|X52|X44||XFB|X92|X84/B84,G84,J84,K84,L84,S84|X61||XFC|X85/B85,K85,S85|X77|X62|X38|X07" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Replace the entire frame, if the seat was occupied.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Keep the original frame, if the seat was unoccupied.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="|||X95/D95,E95||||||||||||X91/D91||||||||X84/C84,E84||||X85/C85||||" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Replace the entire frame, if the seat was occupied.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Replace the entire frame, if the seat was unoccupied and the anti-submarining airbag was triggered.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Keep the original frame, if the seat was unoccupied and the anti-submarining airbag was not triggered.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e537" translate="no" xml:lang="en">
+      <title translate="yes">Rear seat base</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the frontal airbags have been triggered:</para>
+            <ul translate="no">
+              <li translate="yes">Replace the entire frame, if the seat was occupied.</li>
+              <li translate="yes">Keep the original frame, if the seat was unoccupied.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e570" translate="no" xml:lang="en">
+    <title translate="yes">fault finding on vehicle components after a side-on collision</title>
+    <procedure id="d1e574" translate="no" xml:lang="en">
+      <title translate="yes">Collision side</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">An unoccupied seat means a seat without a passenger and with an unfastened seat belt.</para>
+            <para translate="yes">If there is any doubt over whether the seat was occupied, you must consider the seat occupied.</para>
+          </noteR>
+          <procstep translate="no">
+            <para translate="yes">After the side airbags have been triggered:</para>
+            <ul translate="no">
+              <li translate="yes">Always replace the side impact sensors.</li>
+              <li translate="yes">Always replace the seat base frame.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e606" translate="no" xml:lang="en">
+      <title translate="yes">Other side from the collision</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">After the side airbags have been triggered:</para>
+            <ul translate="no">
+              <li translate="yes">Always replace the seat base frame if the seat was occupied.</li>
+              <li translate="yes">Keep the seat base frame if the seat was unoccupied.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

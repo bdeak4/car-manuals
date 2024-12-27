@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5,JB9|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB2,JB3|X53/JB1,JB3,JB4,JB5|X56/JB3|X57/JB0,JB1,JB2,JB3,JB4,JB5,JB9|X64/JB1,JB3|X65/JB1|X76/JB1,JB3" id="RPR-000162423" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">5th gear synchroniser ring : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e79" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e83" translate="no">
+         <title translate="yes">removal preparation operation.</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Consult the safety and cleanliness advice and operation recommendations before carrying out any repair<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539122">
+                           <linkdesc>gearbox assembly : precautions for the repair</linkdesc>
+                           <linkvalue>GIEMR-000928</linkvalue>
+                        </sieref>
+                     </para>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Position the gearbox on the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                        <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000467</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e112" translate="no">
+         <title translate="yes">removal operation of the fifth gear pinion and synchronisers</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e114" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-244-repair-12-01-04-03-01-37-1-1-33" translate="no">
+                  
+                  <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000028438_LAY-000043385.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Drive out the pin of the fifth gear fork<markref format="dita" href="#d1e112/12-01-244-repair-12-01-04-03-01-37-1-1-33" scope="local" translate="no" type="figure">1</markref>using the tool<markref format="dita" href="#d1e112/12-01-244-repair-12-01-04-03-01-37-1-1-33" scope="local" translate="no" type="figure">2</markref>or a roll pin punch<toolref format="dita" href="x-wc://file=OS-000003477.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Set of 3 pins for fitting 5 mm diameter rubber pins</linkdesc>
+                        <linkvalue>Bvi. 31-01</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e143" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.8" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">8</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-269-repair-12-01-04-03-01-37-1-1-34" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031056_LAY-000043386.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Shift to first gear using the gear lever<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">3</markref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Change into fifth gear by sliding the fifth gear fork along its shaft.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The aim of this operation is to lock the shafts in order to make loosening easier.</para>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the output shaft bolt and its fixed washer<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">7</markref>,</li>
+                     <li translate="yes">the washer<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">8</markref>,</li>
+                     <li translate="yes">the input shaft nut<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">6</markref>
+                     </li>
+                     <li translate="yes">the fifth gear fork and selector rod assembly<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">4</markref>
+                     </li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the fifth gear kickdown point<markref format="dita" href="#d1e112/12-01-269-repair-12-01-04-03-01-37-1-1-34" scope="local" translate="no" type="figure">5</markref>.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">When removing the fifth gear kickdown point, recover one or both 0.30mm washers.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-241-repair-12-01-04-03-01-37-1-1-35" translate="no">
+                  <title translate="yes">Removing the fifth gear hub:</title>
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028435_LAY-000043387.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Position the<toolref format="dita" href="x-wc://file=OS-000006923.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Extractor tool for 5th gear hub on primary shaft.</linkdesc>
+                        <linkvalue>Bvi. 1170</linkvalue>
+                     </toolref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Turn the tool in order to position the grooves of the tool selector rod opposite the fifth gear hub.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the fifth gear hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e254" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.10" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">9</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.11" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">10</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.12" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">11</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-242-repair-12-01-04-03-01-37-1-1-36" translate="no">
+                  <title translate="yes">Removing the fifth fixed gear:</title>
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028436_LAY-000043388.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <figure id="12-01-243-repair-12-01-04-03-01-37-1-1-37" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028437_LAY-000043389.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">The fifth fixed gear is removed using the<toolref format="dita" href="x-wc://file=OS-000004456.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Extractor body without casing.</linkdesc>
+                        <linkvalue>Bvi. 22-01</linkvalue>
+                     </toolref>and<toolref format="dita" href="x-wc://file=OS-000017035.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Fixed 5th gear extractor tool.</linkdesc>
+                        <linkvalue>Bvi. 1000-01</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit the output shaft bolt and its washer<markref format="dita" href="#d1e112/12-01-242-repair-12-01-04-03-01-37-1-1-36" scope="local" translate="no" type="figure">9</markref>and tighten it 4 or 5 turns.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit a half-shell of tool<markref format="dita" href="#d1e112/12-01-243-repair-12-01-04-03-01-37-1-1-37" scope="local" translate="no" type="figure">10</markref>
+                     <technicalvalue translate="no">
+                        <value translate="yes">Bvi. 1000-01</value>
+                     </technicalvalue>under the fifth gear pinion.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit the extractor<markref format="dita" href="#d1e112/12-01-243-repair-12-01-04-03-01-37-1-1-37" scope="local" translate="no" type="figure">11</markref>
+                     <technicalvalue translate="no">
+                        <value translate="yes">Bvi 22-01</value>
+                     </technicalvalue>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit the other half-shell</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the fifth gear pinion.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e322" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e326" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clean the joint faces of the mechanism housing using<ingredientname translate="yes">SUPER CLEANING AGENT FOR JOINT FACES</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>.</para>
+                  <noteR translate="no" type="caution">
+                     <para translate="yes">Do not scrape the joint faces of the aluminium, any damage caused to the joint face will result in a risk of leaks.</para>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the residue using a plastic spatula.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Finish cleaning the joint faces using a<ingredientname translate="yes">Grey abrasive pad</ingredientname>part number 77 01 405 943 .</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Use<ingredientname translate="yes">SURFACE CLEANER</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>to clean:</para>
+                  <ul translate="no">
+                     <li translate="yes">the shaft ends,</li>
+                     <li translate="yes">the mechanism housing.</li>
+                  </ul>
+                  <noteR translate="no" type="caution">
+                     <para translate="yes">To ensure proper sealing, the gasket surfaces must be clean, dry and not greasy (avoid any finger marks).</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts always to be replaced:</para>
+                  <ul translate="no">
+                     <li translate="yes">the O-ring,</li>
+                     <li translate="yes">the pin of the fifth gear fork.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e380" translate="no">
+         <title translate="yes">refitting operation for the fifth gear synchronisers and pinion</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e382" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.13" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">12</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-270-repair-12-01-04-03-01-37-1-1-51" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030136_LAY-000043390.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Apply three drops of<ingredientname translate="yes">Loctite Frenbloc</ingredientname>to the grooves on the fifth fixed gear.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Fit the fifth fixed gear using the tool<markref format="dita" href="#d1e380/12-01-270-repair-12-01-04-03-01-37-1-1-51" scope="local" translate="no" type="figure">12</markref>
+                     <toolref format="dita" href="x-wc://file=OS-000005946.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Fixed 5th gear mounting bolt.</linkdesc>
+                        <linkvalue>Bvi. 1175</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e407" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.14" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">16</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.15" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">15</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.16" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">14</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.17" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">13</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-05-2-repair-12-01-04-03-01-37-1-1-52" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024394_LAY-000043391.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes"/>
+                  <para translate="yes">On the input shaft, refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lock washer<markref format="dita" href="#d1e380/12-01-04-05-2-repair-12-01-04-03-01-37-1-1-52" scope="local" translate="no" type="figure">13</markref>,</li>
+                     <li translate="yes">the idle gear supporting ring<markref format="dita" href="#d1e380/12-01-04-05-2-repair-12-01-04-03-01-37-1-1-52" scope="local" translate="no" type="figure">14</markref>,</li>
+                     <li translate="yes">the fifth idle gear<markref format="dita" href="#d1e380/12-01-04-05-2-repair-12-01-04-03-01-37-1-1-52" scope="local" translate="no" type="figure">15</markref>with its synchroniser ring,</li>
+                     <li translate="yes">the fifth gear hub<markref format="dita" href="#d1e380/12-01-04-05-2-repair-12-01-04-03-01-37-1-1-52" scope="local" translate="no" type="figure">16</markref>fitted with its synchroniser spring.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e462" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.18" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">20</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.19" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">19</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.20" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">18</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.21" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">17</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-269-repair-12-01-04-03-01-37-1-1-53" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031056_LAY-000043392.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes"/>
+                  <para translate="yes">Place:</para>
+                  <ul translate="no">
+                     <li translate="yes">the fifth gear fork and selector rod assembly<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-53" scope="local" translate="no" type="figure">17</markref>,</li>
+                     <li translate="yes">the input shaft nut<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-53" scope="local" translate="no" type="figure">18</markref>
+                     </li>
+                     <li translate="yes">the output shaft bolt<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-53" scope="local" translate="no" type="figure">19</markref>.</li>
+                     <li translate="yes">the fifth gear kickdown point coated with sealing resin<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-53" scope="local" translate="no" type="figure">20</markref>.</li>
+                  </ul>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">When refitting the fifth gear kickdown point, refit one or both 0.30mm washers.</para>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the<torque translate="no">
+                        <torquedobject translate="yes">fifth gear kickdown point</torquedobject>
+                        <technicalvalue translate="no">
+                           <value translate="yes">20 N.m</value>
+                        </technicalvalue>
+                     </torque>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e532" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.22" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">22</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X03-01X37-1-1.23" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">21</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-269-repair-12-01-04-03-01-37-1-1-54" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031056_LAY-000043393.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Shift to first gear using the gear lever<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-54" scope="local" translate="no" type="figure">21</markref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Change into fifth gear by sliding the fifth gear fork along its shaft<markref format="dita" href="#d1e380/12-01-269-repair-12-01-04-03-01-37-1-1-54" scope="local" translate="no" type="figure">22</markref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The aim of this operation is to lock the shafts in order to make loosening easier.</para>
+                  </noteR>
+                  <para translate="yes">tighten to torque:</para>
+                  <ul translate="no">
+                     <li translate="yes">the<torque translate="no">
+                           <torquedobject translate="yes">input shaft nut</torquedobject>
+                           <technicalvalue translate="no">
+                              <value translate="yes">190 N.m</value>
+                           </technicalvalue>
+                        </torque>
+                     </li>
+                     <li translate="yes">the<torque translate="no">
+                           <torquedobject translate="yes">output shaft bolt</torquedobject>
+                           <technicalvalue translate="no">
+                              <value translate="yes">80 N.m</value>
+                           </technicalvalue>
+                        </torque>
+                     </li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Shift into neutral.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-244-repair-12-01-04-03-01-37-1-1-55" translate="no">
+                  
+                  <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000028438_LAY-000043394.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit the fifth gear fork pin.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e602" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                        <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000467</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox from the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Refit the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

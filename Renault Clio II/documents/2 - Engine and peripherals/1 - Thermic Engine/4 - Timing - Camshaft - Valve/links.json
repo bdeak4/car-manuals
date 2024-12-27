@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1313_114013",
+      "filename": "1313_114013.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01093896.svg"
+    },
+    {
+      "id": "1313_114014",
+      "filename": "1313_114014.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084391.svg"
+    },
+    {
+      "id": "1313_116011",
+      "filename": "1313_116011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087008.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    },
+    {
+      "id": "5af5c496f04d3300dc242e2d",
+      "filename": "valve : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000020380.xml"
+    },
+    {
+      "id": "5af94a663ef64d00e0ef6562",
+      "filename": "camshaft: check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000025841.xml"
+    },
+    {
+      "id": "5af5b2eb08813b00dc4cf716",
+      "filename": "timing belt : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000028522.xml"
+    },
+    {
+      "id": "5f6e5f5446e0fb00018bc44f",
+      "filename": "valve : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000020652.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21948.png"
+    }
+  ]
+}

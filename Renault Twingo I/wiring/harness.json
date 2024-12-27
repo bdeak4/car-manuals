@@ -1,0 +1,560 @@
+{
+  "WIRING_DIAGRAMS": [
+    {
+      "id": "8232_COMMUN/PDF/PM/P3.PDF",
+      "name": "P3",
+      "subType": "GROUND_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/GROUND_HARNESS/P3_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "033",
+              "labelObj": "TYPE OF TRANSMISSION",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "BVR",
+                  "labelCrit": "COMPUTER-CONTROLLED MECHANISM",
+                  "langueCrit": "en"
+                }
+              ]
+            },
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PM/P4.PDF",
+      "name": "P4",
+      "subType": "GROUND_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/GROUND_HARNESS/P4_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D4F",
+                  "labelCrit": "1.2 16V PETROL ENGINE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PM/P2.PDF",
+      "name": "P2",
+      "subType": "GROUND_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/GROUND_HARNESS/P2_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S29.PDF",
+      "name": "S29",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S29_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D4F",
+                  "labelCrit": "1.2 16V PETROL ENGINE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S30.PDF",
+      "name": "S30",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S30_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D4F",
+                  "labelCrit": "1.2 16V PETROL ENGINE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S16.PDF",
+      "name": "S16",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S16_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S17.PDF",
+      "name": "S17",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S17_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S18.PDF",
+      "name": "S18",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S18_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S19.PDF",
+      "name": "S19",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S19_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S20.PDF",
+      "name": "S20",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S20_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S21.PDF",
+      "name": "S21",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S21_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S22.PDF",
+      "name": "S22",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S22_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S23.PDF",
+      "name": "S23",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S23_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S24.PDF",
+      "name": "S24",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S24_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S25.PDF",
+      "name": "S25",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S25_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S26.PDF",
+      "name": "S26",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S26_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S27.PDF",
+      "name": "S27",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S27_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S28.PDF",
+      "name": "S28",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S28_THUMB.PNG",
+      "residual": [
+        {
+          "fixe": [
+            {
+              "codeObj": "999",
+              "labelObj": "ENGINE TYPE",
+              "langueObj": "en",
+              "listCrit": [
+                {
+                  "codeCrit": "D7F",
+                  "labelCrit": "D7F ENGINE TYPE",
+                  "langueCrit": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S1.PDF",
+      "name": "S1",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S1_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S10.PDF",
+      "name": "S10",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S10_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S11.PDF",
+      "name": "S11",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S11_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S12.PDF",
+      "name": "S12",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S12_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S13.PDF",
+      "name": "S13",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S13_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S14.PDF",
+      "name": "S14",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S14_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S15.PDF",
+      "name": "S15",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S15_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S2.PDF",
+      "name": "S2",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S2_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S3.PDF",
+      "name": "S3",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S3_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S31.PDF",
+      "name": "S31",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S31_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S4.PDF",
+      "name": "S4",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S4_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S5.PDF",
+      "name": "S5",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S5_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S6.PDF",
+      "name": "S6",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S6_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S7.PDF",
+      "name": "S7",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S7_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S8.PDF",
+      "name": "S8",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S8_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_COMMUN/PDF/PC/S9.PDF",
+      "name": "S9",
+      "subType": "PART_HARNESS",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/PART_HARNESS/S9_THUMB.PNG",
+      "residual": []
+    }
+  ]
+}

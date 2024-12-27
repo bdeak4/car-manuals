@@ -1,0 +1,155 @@
+{
+  "PR": [
+    {
+      "id": "1247_540110",
+      "filename": "1247_540110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01022071.svg"
+    },
+    {
+      "id": "1247_540112",
+      "filename": "1247_540112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01018312.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-6",
+      "filename": "M.R. 338 - 6 Sealing and Soundproofing phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af5abce08813b00dc4cf041",
+      "filename": "window cement bead : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000378878.xml"
+    },
+    {
+      "id": "5af5aba908813b00dc4cf01e",
+      "filename": "window detachment : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000483235.xml"
+    },
+    {
+      "id": "5af5af7b08813b00dc4cf3a8",
+      "filename": "windows : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000331655.xml"
+    },
+    {
+      "id": "5af5afa308813b00dc4cf3d5",
+      "filename": "roof opening element bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000379470.xml"
+    },
+    {
+      "id": "5af5b13608813b00dc4cf58b",
+      "filename": "window bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000380678.xml"
+    },
+    {
+      "id": "5e276fcc46e0fb0001dd3e73",
+      "filename": "general information on windows and roof opening elements : contents.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001453385.xml"
+    },
+    {
+      "id": "5af5c102f04d3300dc2429d0",
+      "filename": "rear quarter glass : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000379151.xml"
+    },
+    {
+      "id": "5af581bec3da7a00dc2295f7",
+      "filename": "windscreen trim : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000378972.xml"
+    },
+    {
+      "id": "5af5c106f04d3300dc2429d5",
+      "filename": "front side opening element sliding window : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000377310.xml"
+    },
+    {
+      "id": "5af5c13cf04d3300dc242a1e",
+      "filename": "windscreen : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000377216.xml"
+    },
+    {
+      "id": "5af5c1cff04d3300dc242ad0",
+      "filename": "opening rear screen window : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000381478.xml"
+    },
+    {
+      "id": "5af958023ef64d00e0ef84b8",
+      "filename": "opening rear screen window : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000383915.xml"
+    },
+    {
+      "id": "5af962233ef64d00e0ef8e3a",
+      "filename": "windows : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000332214.xml"
+    },
+    {
+      "id": "60edfd6764bda8419466623f",
+      "filename": "windows : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001823321.xml"
+    },
+    {
+      "id": "613a74c176b5af1c1b216740",
+      "filename": "windows : sealing repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001837566.xml"
+    },
+    {
+      "id": "6296c3788317fd12a54cfcd2",
+      "filename": "assistance service information label: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001975579.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21589.png"
+    }
+  ]
+}

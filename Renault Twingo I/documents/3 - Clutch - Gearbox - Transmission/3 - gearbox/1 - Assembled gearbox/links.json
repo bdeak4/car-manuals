@@ -1,0 +1,115 @@
+{
+  "PR": [
+    {
+      "id": "1204_210215",
+      "filename": "1204_210215.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083847.svg"
+    },
+    {
+      "id": "1204_210211",
+      "filename": "1204_210211.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083846.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-0",
+      "filename": "M.R. 305 - 0 GENERAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-0.pdf"
+    },
+    {
+      "id": "MR-TA-M",
+      "filename": "AUTOMATIC TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-TA-M.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3136",
+      "filename": "MODIFICATIONS TO THE JBJC GEARBOX MANUAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3136.pdf"
+    },
+    {
+      "id": "3343",
+      "filename": "DEVELOPMENT OF JBJC GEARBOXES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3343.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    },
+    {
+      "id": "5af5af8b08813b00dc4cf3b7",
+      "filename": "gearbox assembly: precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000171979.xml"
+    },
+    {
+      "id": "5af2fb2bc3da7a00dc225f89",
+      "filename": "gearbox assembly: list and location of components.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000172120.xml"
+    },
+    {
+      "id": "5af2fb43c3da7a00dc225fa6",
+      "filename": "gearbox assembly : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000170948.xml"
+    },
+    {
+      "id": "5af5a0a1c3da7a00dc22c32d",
+      "filename": "gearbox assembly : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000170935.xml"
+    },
+    {
+      "id": "5af5b02a08813b00dc4cf459",
+      "filename": "gearbox oil: specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000162565.xml"
+    },
+    {
+      "id": "5af2c32ac3da7a00dc2253a8",
+      "filename": "gearbox support equipment : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000010562.xml"
+    },
+    {
+      "id": "5af2fa17c3da7a00dc225e4f",
+      "filename": "gearbox assembly : standard replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000170321.xml"
+    },
+    {
+      "id": "5af94fae3ef64d00e0ef6ad1",
+      "filename": "gearbox assembly : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000169078.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3490",
+      "filename": "FAULT FINDING SEQUENTIAL GEARBOX D7F engine.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3490.pdf"
+    },
+    {
+      "id": "6511",
+      "filename": "Manual gearbox fault finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6511.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22012.png"
+    }
+  ]
+}

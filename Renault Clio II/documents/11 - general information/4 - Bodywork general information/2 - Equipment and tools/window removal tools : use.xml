@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XZG|XFF|XZJ|XFA|X55|XEF|XJD|XZH|XJC|XBB|XJA|XJE|XJB|XHA|XJK|XFK|XBC|XJL|XJF|XCB|XHN|X27|X58|XRQ|XTP|XDD|XBG|X59|X17|X41|X42|XBA|X75|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000010643" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">window removal tools : use</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="27/06/19 14:39" translate="no"/>
+      <revised modified="02/07/19 01:12" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">window removal tools : use</siename>
+      <sieversion translate="no">G.2</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000010569</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="d1e112" translate="no">
+    <title translate="yes">description</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <figure id="fig1" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035829.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-01-000035829</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">The cutting principle is based on short reciprocating strokes like those of a jigsaw.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">The tool is equipped with a flat rigid sharpened blade with saw teeth.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">The cutting operation is generally done from the interior side of the window.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">The principal advantages are:</para>
+          <ul translate="no">
+            <li translate="yes">the removal of all the windows including the mouldings,</li>
+            <li translate="yes">a single operator for the removal,</li>
+            <li translate="yes">an accessory kit comprising blades that can also cut sheet metal or plastic panels.</li>
+          </ul>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e143" translate="no">
+    <title translate="yes">choosing blades</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="5141a5ff-4faa-4cda-9b6b-76dabab8cb27" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">1</designation>
+          </mark>
+          <mark id="2a186ae3-1f18-4e34-8b27-72cf6b5e0a18" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">2</designation>
+          </mark>
+          <mark id="bf48d75e-e06a-4de9-a44e-8bdcc8bbcedd" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">3</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig2" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035830_lay-000206319.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-02-000035830</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">All these blades have efficient micro-teeth at the ends for cutting the cement bead quickly and easily.</para>
+          <para translate="yes">The cutting kit comprises two types of blades.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+    <procedure id="d1e183" translate="no">
+      <title translate="yes">LONG BLADES</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Long blades  <markref format="dita" href="#d1e143/fig2" scope="local" translate="no" type="figure">1</markref> WK 1SC and WK 2SC can be used to cut-out the lower section of the windscreen by plunging them between the dashboard and the windscreen.</para>
+            <para translate="yes">These blades can also be used for removing rear quarter panel windows in zones that are difficult to reach.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e201" translate="no">
+      <title translate="yes">SHORT BLADES</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Short blades  <markref format="dita" href="#d1e143/fig2" scope="local" translate="no" type="figure">2</markref> WK 24SC and WK 24ZSC can be used to cut-out the windscreen at the roof and pillars.</para>
+            <para translate="yes">Blade  <markref format="dita" href="#d1e143/fig2" scope="local" translate="no" type="figure">3</markref> WK 24ZR is only for cutting windows with moulded seals.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e223" translate="no">
+    <title translate="yes">fitting blades</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="69bdf753-6369-47a3-8a82-2a6dd130fd81" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">4</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig3" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036033_lay-000206317.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-03-000036033</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Loosen the bolt  <markref format="dita" href="#d1e223/fig3" scope="local" translate="no" type="figure">4</markref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Insert the blade as far as it will go into the slit in the tool.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Tighten the bolt<markref format="dita" href="#d1e223/fig3" scope="local" translate="no" type="figure">4</markref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e253" translate="no">
+    <title translate="yes">Manual blade holder</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="85d47669-ea37-4128-a4cd-072418cdfe55" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">5</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig4" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035831_lay-000206316.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-04-000035831</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">The kit includes a manual blade holder for manual cutting to complete the removal of the window.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Loosen the bolt  <markref format="dita" href="#d1e253/fig4" scope="local" translate="no" type="figure">5</markref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Insert the blade as far as it will go into the slit in the manual blade holder.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">Only the long  <markref format="dita" href="#d1e143/fig2" scope="local" translate="no" type="figure">1</markref> and short  <markref format="dita" href="#d1e143/fig2" scope="local" translate="no" type="figure">2</markref>  blades can be inserted into the manual blade holder.</para>
+          </noteR>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Tighten the bolt<markref format="dita" href="#d1e253/fig4" scope="local" translate="no" type="figure">5</markref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e295" translate="no">
+    <title translate="yes">fitting cutting guides</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="eb66fcbf-345d-4acd-9bfd-c285d834e4cd" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">6</designation>
+          </mark>
+          <mark id="75ee01cd-8100-499a-9347-6b813c6b3886" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">7</designation>
+          </mark>
+          <mark id="f63023e5-0e40-42f7-84bb-1a9355900b1f" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">8</designation>
+          </mark>
+          <mark id="981bd5fb-36b2-45c0-8592-98fd1240f3fa" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">9</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig5" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035832_lay-000206315.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-05-000035832</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">To avoid any damage to the paint in the surrounding area when cutting with the toothed blade, a depth guide should be used to ensure that the blade protrudes as much as possible.</para>
+          <para translate="yes">This guide can be supported either on the surrounding trim for  <markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">6</markref>type guides, or on the cement bead itself for  <markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">7</markref>type guides.</para>
+          <para translate="yes">The  <markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">8</markref> type guide only acts as a shim when removing windows with moulded seals (see cutting of windows with moulded seals).</para>
+          <para translate="yes">These guides are quickly fitted and adjusted on the tool head with the help of a manual tightening wheel<markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">9</markref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e353" translate="no">
+    <title translate="yes">adjusting cutting guides</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Fit the guide most suited to the working area and slide it in without tightening the manual tightening wheel<markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">9</markref>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <figure id="fig6" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035829.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-06-000035829</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Position the tool at right angles to the cement bead and carefully push the blade in until it has gone all the way through the cement bead.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">To perform the adjustment, it is recommended that you stand outside the vehicle in order to see the moment when the blade emerges through the cement bead.</para>
+          </noteR>
+          <para translate="yes">The stroke of the blade must be adjusted so that during its alternating movement it cuts the cement bead without risk of damaging the paintwork.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Stop the tool and without moving it, put the depth guide in contact with the trim.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">Take into account the fact that in the "tool stopped" position the blade is located approximately <technicalvalue translate="no"><value translate="yes">6</value> <uom translate="yes">mm </uom></technicalvalue>behind its full extension.</para>
+          </noteR>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Tighten the manual tightening wheel<markref format="dita" href="#d1e295/fig5" scope="local" translate="no" type="figure">9</markref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Detach the tool from the cement bead.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">Do not use the depth guide when cutting the window corners.</para>
+            <para translate="yes">You are advised to watch the blade from the outside and limit its depth by eye.</para>
+            <para translate="yes">On certain vehicles, the bottom of the windscreen frame does not require the use of a depth guide.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e411" translate="no">
+    <title translate="yes">precautions when cutting</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="5586f882-12bf-45bd-bab5-c00a3fedcbc5" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">10</designation>
+          </mark>
+          <mark id="0e06b7ae-574f-4ac1-9297-be05a06d7a60" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">11</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig7" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036021_lay-000206314.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-07-000036021</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">To ensure that the cement bead is cut under the best conditions, follow the instructions below:</para>
+          <ul translate="no">
+            <li translate="yes">always to keep part  <markref format="dita" href="#d1e411/fig7" scope="local" translate="no" type="figure">10</markref> of the blade flat and parallel to the glass,</li>
+            <li translate="yes">the stop  <markref format="dita" href="#d1e411/fig7" scope="local" translate="no" type="figure">11</markref> must always be in permanent contact with the glass,</li>
+            <li translate="yes">it is imperative to hold the tool body with two hands when cutting the cement bead,</li>
+            <li translate="yes">use a depth guide if necessary,</li>
+            <li translate="yes">start the tool outside the cement bead before beginning cutting,</li>
+            <li translate="yes">cut the cement bead by drawing the tool towards yourself. This allows better control of the movement of the tool during cutting.</li>
+          </ul>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <figure id="fig8" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036022.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-08-000036022</illusnum>
+        </figure>
+        <procstep translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">Before any action with the tool, spray water on the cement bead using the atomiser provided in the cutting kit.</para>
+            <para translate="yes">The water allows the blade to slide and cut the cement bead more easily.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e467" translate="no">
+    <title translate="yes">position of the operator</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">When cutting at the window pillars and upper section of the windows do not use a long blade as this carries a risk of overhanging.</para>
+            <para translate="yes">Spray water on the cement bead, before cutting it and spray regularly during the cutting operation to avoid all release of fumes due to the blade heating up.</para>
+            <para translate="yes">Ensure that the depth guide is always in contact with its reference surface during cutting of the cement bead.</para>
+            <para translate="yes">If the blade has difficulty in cutting very thick cement bead, make progressive cuts into the area until the blade passes through it.</para>
+            <para translate="yes">To avoid all risk of accident during the cutting operation, do not place yourself directly in line with the blade.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e484" translate="no">
+    <title translate="yes">position of the operator</title>
+    <procedure id="d1e488" translate="no">
+      <title translate="yes">CUTTING SIDE SECTIONS</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <figure id="fig9" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036023.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000010569-09-000036023</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Stand outside the vehicle, start at the bottom of the windows and cut the beading by drawing the tool as far as the top corner.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e500" translate="no">
+      <title translate="yes">CUTTING UPPER AND LOWER SECTIONS OF WINDOWS</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <figure id="fig10" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036024.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000010569-10-000036024</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Go inside the vehicle and work by bringing back the tool towards yourself.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e512" translate="no">
+      <title translate="yes">CUTTING THE REAR QUARTER PANEL WINDOW</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="c8e63ac4-e45d-49fa-96d1-efb477adf6b2" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">12</designation>
+            </mark>
+            <mark id="e17f763a-7e6c-4afb-9082-b01359daebfb" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">13</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig11" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036025_lay-000206313.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000010569-11-000036025</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Cut the most accessible part  <markref format="dita" href="#d1e512/fig11" scope="local" translate="no" type="figure">12</markref>from outside.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Using the WK1SC long blade, cut the remainder of the cement bead as far as the corner  <markref format="dita" href="#d1e512/fig11" scope="local" translate="no" type="figure">13</markref> by inserting the blade at  <markref format="dita" href="#d1e512/fig11" scope="local" translate="no" type="figure">12</markref> .</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e551" translate="no">
+      <title translate="yes">CUTTING WINDOWS WITH MOULDED SEALS</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="d108feb5-f86f-4cd4-af26-ac4aff1c8429" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">14</designation>
+            </mark>
+            <mark id="e6a9b208-0415-46f6-96ce-6fa9b44bc121" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">15</designation>
+            </mark>
+            <mark id="0f236514-4a58-4a9e-a205-55dbfab67921" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">16</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig12" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036026_lay-000206642.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000010569-12-000036026</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Use specific blade WK 24ZR that does not damage the moulding of the windows.</para>
+            <para translate="yes">The cutting teeth of the blade  <markref format="dita" href="#d1e551/fig12" scope="local" translate="no" type="figure">14</markref> are oriented to the rabbet side and the other side is slightly convex so as to limit the damage to the moulding.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">The straight guide  <markref format="dita" href="#d1e551/fig12" scope="local" translate="no" type="figure">15</markref> fitted on the tool must be kept in contact with the glass in order to bring the blade as close as possible to the rabbet when cutting the cement bead  <markref format="dita" href="#d1e551/fig12" scope="local" translate="no" type="figure">16</markref> .</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">You must always cover the end of the guide  <markref format="dita" href="#d1e551/fig12" scope="local" translate="no" type="figure">15</markref> with a layer of Velcro (supplied in the cutting kit) in order not to damage the screen printing of the windows.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e606" translate="no">
+    <title translate="yes">use as a jigsaw</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer translate="no">
+          <mark id="916f8aae-3138-4dfa-8672-421954114a11" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">17</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig13" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036027_lay-000206641.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000010569-13-000036027</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">It is possible to use the tool as jigsaw.</para>
+          <para translate="yes">A blade  <markref format="dita" href="#d1e606/fig13" scope="local" translate="no" type="figure">17</markref> and a specific guide are supplied in the cutting kit.</para>
+          <para translate="yes">The blade can cut sheet metal or plastic panels with ease.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

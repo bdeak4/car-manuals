@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XR4|XRQ|XTP|XZG|XFF|XZJ|XEF|XFA|X55|XJD|XZH|XJC|XJA|XBB|XBA|XHN|XCB|X27|X58|XBC|XDD|XBG|X59|X17|X41|X42|XJL|XJK|X75|XHA|XJE|XJB|XJ1|XJH|XJF|XFK|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-001823321" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">windows : reconditioning</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="12/08/21 11:22" translate="no"/>
+      <revised modified="10/10/24 13:43" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">windows : reconditioning</siename>
+      <sieversion translate="no">B.1</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001823321</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="d1e118" translate="no">
+    <title translate="yes">areas of application</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer id="marklayer-d1e120" translate="no">
+          <mark id="MARK.REPAIR-50X04-01X22-1-1.1" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">2</designation>
+          </mark>
+          <mark id="MARK.REPAIR-50X04-01X22-1-1.2" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">1</designation>
+          </mark>
+        </marklayer>
+        <figure id="50-04-27-repair-50-04-01-22-1-1-11" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000064765_LAY-000316514.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000332780-04-27-repair-50-04-01-22-1-1-11-000064765</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">The chip must be recent and located outside the field of vision of the driver<markref format="dita" href="#d1e118/50-04-27-repair-50-04-01-22-1-1-11" scope="local" translate="no" type="figure">1</markref>.</para>
+          <para translate="yes">The area can be defined simply by using the sweep of the wipers<markref format="dita" href="#d1e118/50-04-27-repair-50-04-01-22-1-1-11" scope="local" translate="no" type="figure">2</markref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e153" translate="no">
+    <title translate="yes">precautions for the use and storage of the products</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Before beginning all operations, check that the windscreen to be repaired is clean and dry and at an ideal temperature.</para>
+          <para translate="yes">The ideal conditions are between  <technicalvalue translate="no"><value translate="yes">15˚C</value></technicalvalue>and  <technicalvalue translate="no"><value translate="yes">25˚C</value></technicalvalue>.</para>
+          <para translate="yes">If this is not the case, leave the vehicle engine running for a few minutes with de-icing at the maximum until the windscreen is slightly warm.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Do not store resin or cans of resin with food.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">To keep the resin in good condition, these cans must be stored in the dark, in a cool dry place.</para>
+          <noteR translate="no" type="note">
+            <para translate="yes">Do not expose the resin to frost.</para>
+          </noteR>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Do not expose the products to the sun or to a fluorescent light.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Do not open the protective envelope before using the resin.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">The resin reacts to exposure to ultra-violet radiation (UV). That means that the light changes the resin from a liquid state to a solid state.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e196" translate="no">
+    <title translate="yes">what can be repaired</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <marklayer id="marklayer-d1e198" translate="no">
+          <mark id="MARK.REPAIR-50X04-01X22-1-1.3" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">X1</designation>
+          </mark>
+          <mark id="MARK.REPAIR-50X04-01X22-1-1.4" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">X2</designation>
+          </mark>
+        </marklayer>
+        <figure id="50-04-13-repair-50-04-01-22-1-1-2" translate="no">
+          <title translate="yes">Star</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035821_LAY-000316513.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000332780-04-13-repair-50-04-01-22-1-1-2-000035821</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">"Arm" of the star  <markref format="dita" href="#d1e196/50-04-13-repair-50-04-01-22-1-1-2" scope="local" translate="no" type="figure">X1</markref>=<technicalvalue translate="no"><value translate="yes">10 mm  </value></technicalvalue>to  <technicalvalue translate="no"><value translate="yes">12 mm  </value></technicalvalue>.</para>
+          <para translate="yes">"Arm" of the star<markref format="dita" href="#d1e196/50-04-13-repair-50-04-01-22-1-1-2" scope="local" translate="no" type="figure">X2</markref>=<technicalvalue translate="no"><value translate="yes">40 mm</value></technicalvalue>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <marklayer translate="no"/>
+        <figure id="50-04-14-repair-50-04-01-22-1-1-3" translate="no">
+          <title translate="yes">Bubble</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035822_LAY-000316516.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000332780-04-14-repair-50-04-01-22-1-1-3-000035822</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Bubble max ∅ =<technicalvalue translate="no"><value translate="yes">20 mm</value></technicalvalue>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <marklayer translate="no"/>
+        <figure id="50-04-15-repair-50-04-01-22-1-1-4" translate="no">
+          <title translate="yes">Half bubble</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035823_LAY-000316507.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000332780-04-15-repair-50-04-01-22-1-1-4-000035823</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Half bubble max. diameter =  <technicalvalue translate="no"><value translate="yes">20 mm  </value></technicalvalue>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <marklayer translate="no"/>
+        <figure id="50-04-16-repair-50-04-01-22-1-1-5" translate="no">
+          <title translate="yes">Star + bubble + cracks</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035824_LAY-000316512.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000332780-04-16-repair-50-04-01-22-1-1-5-000035824</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Star + bubble + crack max =<technicalvalue translate="no"><value translate="yes">40 mm</value></technicalvalue>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e295" translate="no">
+    <title translate="yes">what must not be repaired</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <ul translate="no">
+            <li translate="yes">athermic windscreen,</li>
+            <li translate="yes">heated windscreen,</li>
+            <li translate="yes">the circular area measuring  <technicalvalue translate="no"><value translate="yes">300 mm  </value></technicalvalue>in diameter in the field of vision of the driver  <markref format="dita" href="#d1e118/50-04-27-repair-50-04-01-22-1-1-11" scope="local" translate="no" type="figure">1</markref>,</li>
+            <li translate="yes">any crack more than  <technicalvalue translate="no"><value translate="yes">60 mm  </value></technicalvalue>long,</li>
+            <li translate="yes">any chip less than  <technicalvalue translate="no"><value translate="yes">40 mm  </value></technicalvalue>from the edge of the windscreen,</li>
+            <li translate="yes">any chip less than  <technicalvalue translate="no"><value translate="yes">20 mm  </value></technicalvalue>from any sensor,</li>
+            <li translate="yes">if there are more than three chips,</li>
+            <li translate="yes">any chip that has resulted in oxidation of the intermediate layer.</li>
+          </ul>
+          <noteR translate="no" type="note">
+            <para translate="yes">This oxidation is characterized by a round opaque zone.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e346" translate="no">
+    <title translate="yes">general repair method</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">This section considers the basic procedures for repair with the appropriate tools.</para>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+    <procedure id="d1e358" translate="no">
+      <title translate="yes">INSPECTION OF CHIP AND USE OF THE CARBIDE-TIPPED STYLUS</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Take great care when examining the chip.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check whether the radial cracks spread and note their length and the depth.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Decide whether holes should be drilled at the ends of the cracks.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Repair only the first layer.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer translate="no"/>
+          <figure id="50-04-17-repair-50-04-01-22-1-1-6" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000036030_LAY-000316511.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332780-04-17-repair-50-04-01-22-1-1-6-000036030</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Use the carbide tip of the stylus to gently scratch away any dirt or glass in the chip crater.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Do not enlarge the chip.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e388" translate="no">
+      <title translate="yes">FITTING THE MAGNIFYING MIRROR</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Place the magnifying mirror on the inside of the windscreen so that the chip on the outside is clearly visible. The magnifying mirror enables you to see the progress of the repair clearly.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e399" translate="no">
+      <title translate="yes">FITTING THE TOOL HOLDER</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">This is your most important tool. It is used for injecting the resin when it is equipped with the injector.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Find a position that makes operation easy. It is desirable to locate the tool holder below the chip.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e417" translate="no">
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.5">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>7</designation>
+            </mark>
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.6">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>6</designation>
+            </mark>
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.7">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>5</designation>
+            </mark>
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.8">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>4</designation>
+            </mark>
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.9">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>3</designation>
+            </mark>
+          </marklayer>
+          <figure id="50-04-18-repair-50-04-01-22-1-1-7" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035825_LAY-000316508.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332780-04-18-repair-50-04-01-22-1-1-7-000035825</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Fully undo the spider support  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">3</markref> so as not to put pressure on the chip.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Apply lubricating gel to the edge of the suction cup.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check that the suction cup lever  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">4</markref> is pointing forward.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Hold the tool holder so that the control lever  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">5</markref> is right up against the left-hand side of the tool holder.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Centre the injector holder  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">6</markref> above the point of impact of the chip.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Press the tool holder firmly so that the suction cup is correctly pressed against the windscreen.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Use the lever<markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">4</markref>to lock the suction cup.</para>
+            <para translate="yes">The spider of the threaded barrel can then be handled freely.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Tighten the pressure bolt  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">3</markref> of the threaded gun until the spider  <markref format="dita" href="#d1e399/50-04-18-repair-50-04-01-22-1-1-7" scope="local" translate="no" type="figure">7</markref>  is immobilised on the windscreen.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Check that the spider feet are definitely in contact with the glass.</para>
+              <para translate="yes">This is very important as it ensures a perfectly perpendicular position for injection.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e507" translate="no">
+      <title translate="yes">INJECTION</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">A resin sachet contains a bottle of resin and a plastic injector.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e513" translate="no">
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.10">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>8</designation>
+            </mark>
+          </marklayer>
+          <figure id="50-04-19-repair-50-04-01-22-1-1-8" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035826_LAY-000316509.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332780-04-19-repair-50-04-01-22-1-1-8-000035826</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Without tightening the injector  <markref format="dita" href="#d1e507/50-04-19-repair-50-04-01-22-1-1-8" scope="local" translate="no" type="figure">8</markref>, place it on the injector holder to bring it into contact with the glass.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer translate="no"/>
+          <figure id="50-04-20-repair-50-04-01-22-1-1-9" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035827_LAY-000316515.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332780-04-20-repair-50-04-01-22-1-1-9-000035827</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Centre the injector opposite the crater of the chip.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the injector, taking care of not to move the injector holder.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Take the bottle of resin and remove the small protective plug.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Cut off the tip of the bottle using the scraper blade (supplied in the kit).</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Unscrew the piston of the injector by  <technicalvalue translate="no"><value translate="yes">5  </value></technicalvalue>to  <technicalvalue translate="no"><value translate="yes">6 mm  </value></technicalvalue>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Fill the injector with resin up to the edge on the white rubber seal side.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">To fill the injector more easily, use the resin bottle as a dropper.</para>
+              <para translate="yes">Check that the edge of the white rubber seal is clean and dry, wiping off any resin that may be there.</para>
+            </noteR>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Put the flask of resin away where it will not be exposed to daylight.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Refit the injector on the injector holder but do not tighten it.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">When the white rubber seal comes into contact with the glass, tighten it by one or two additional turns in order to obtain the seal needed for applying pressure to the resin.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Do this by holding the body of the injector with two fingers and screwing the piston very slowly with the other hand.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">During this operation, look in the mirror to observe the moment when the seal of the injector expands slightly.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Continue to screw the piston in by no more than one turn, then do not touch it any more.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Wait for<technicalvalue translate="no"><value translate="yes">1 minute</value></technicalvalue>, then observe what happens in the mirror. You would normally expect to see an improvement.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">To accelerate the process of transferring the resin to the inside of the chip, from time to time you can undo the piston of the injector a little more than it was when you filled it with resin, without changing the position, and wait for a few seconds, then screw the piston up again until the seal expands once more.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Repeat this operation several times until the chip has completely disappeared.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">The resin takes  <technicalvalue translate="no"><value translate="yes">2</value></technicalvalue>to  <technicalvalue translate="no"><value translate="yes">5 minutes  </value></technicalvalue>to spread to the furthest ends of the cracks.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e620" translate="no">
+      <title translate="yes">INSPECTION OF THE REPAIR</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e622" translate="no">
+            <mark id="MARK.REPAIR-50X04-01X22-1-1.11">
+              <mcomponent>
+                <label/>
+              </mcomponent>
+              <designation>9</designation>
+            </mark>
+          </marklayer>
+          <figure id="50-04-21-repair-50-04-01-22-1-1-10" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000035828_LAY-000316510.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332780-04-21-repair-50-04-01-22-1-1-10-000035828</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Release the spider pressure using the bolt<markref format="dita" href="#d1e620/50-04-21-repair-50-04-01-22-1-1-10" scope="local" translate="no" type="figure">9</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Rotate the injector assembly to free the area of the chip.</para>
+            <para translate="yes">This will relieve all pressure on the repair area.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check and inspect the crack under different angles.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">If no chip modification can be seen after  <technicalvalue translate="no"><value translate="yes">5 minutes  </value></technicalvalue>, the glass must be drilled at the location of the crater (see "When and how it is necessary to drill").</para>
+            <para translate="yes">this means that when the projectile came into contact with it, the windscreen broke as a result of the shock wave but the glass was not perforated.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e663" translate="no">
+      <title translate="yes">FINISHING</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">When the chip has disappeared, remove the tool holder, which is no longer needed.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Fit:</para>
+            <ul translate="no">
+              <li translate="yes">a drop or two of finishing resin above the crater and put the plastic sheet or film over the repair (the quantity of resin will have to protrude slightly in order to take into account the effect of contraction during polymerisation),</li>
+              <li translate="yes">the UV lamp astride the repair on the windscreen after first applying gel to the suction cups.</li>
+            </ul>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Drying time: as per supplier's instructions.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Once polymerisation has finished, use a scraper blade to remove any surplus resin from the windscreen. Scratch at right angles to the glass surface until only what is needed is left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Fit the felt disc in the drill mandrel.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Apply a little polish to the area where the repair has been done.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Polish the repair without putting too much pressure on the window in order to obtain the right appearance.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e698" translate="no">
+      <title translate="yes">WHEN AND HOW IS IT NECESSARY TO DRILL?</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">In certain cases, despite the application of pressure to the resin, nothing happens.</para>
+            <para translate="yes">It is then necessary to drill to access the inside of the chip.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">That means that the glass has broken internally under the effect of the shock wave, without the outer glass being damaged.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+      <procedure id="d1e712" translate="no">
+        <title translate="yes">DRILLING</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Put the carbide drill bit on the drill.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Drill in successive and brief operations in order to avoid the tool overheating.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">When the plastic film separating the two layers of glass is reached, stop drilling.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Carry out the repair as described below.</para>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+      <procedure id="d1e730" translate="no">
+        <title translate="yes">REPAIR AFTER DRILLING</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">If repairing a crack, drill at the end of the crack to prevent it from propagating.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Inject the resin through this hole.</para>
+              <para translate="yes">This will move up the crack by capillarity.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Harden this part using the UV lamp.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Position the injector holder so that the injector is located astride the slit,  <technicalvalue translate="no"><value translate="yes">5 cm  </value></technicalvalue>away from the end of the resin just injected.</para>
+              <para translate="yes">By capillarity, the resin will distribute itself on either side of the injector.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Harden this part, and continue progressively until the whole of the crack is repaired.</para>
+              <noteR translate="no" type="note">
+                <para translate="yes">Only drill once at the end of the crack.</para>
+              </noteR>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+    </procedure>
+  </procedure>
+</procedure>

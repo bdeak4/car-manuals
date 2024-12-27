@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/C3G,C3J,C3L,D4D,D4F,D7D,D7F|X24/S8U,S8W,S9W|X29/J8S|X38/F4R,K4M,K9K|X40/C3G,C3J,F2N,F3N,F8M,F8Q|X42/C3J,F2N,F3N,F3R,F8M|X43/K9K|X44/D4F,D7F,K4M,K9K|X48/F2N,F2R,F3N,F8Q,J8S|X52/D4D,D4F,K4M,K7M,K9K|X53/C3J,F2N,F3N,F3P,F7P,F8Q|X54/G8T,J8S,L7X,S8U|X56/F3P,F3R,F4P,F4R,F9Q,G8T,K4J,K4M,L7X|X57/C3G,C3J,C3L,D7D,D7F,F2N,F3P,F7P,F7R,F8M,F8Q|X61/K4M,K7M,K9K|X63/J8S|X64/F3R,F4P,F4R,F5R,F7P,F7R,F8M,F8Q,F9Q,K4J,K4M,K7J,K7M|X65/D4D,D4F,D7D,D7F,F4P,F4R,F8Q,F9Q,K4J,K4M,K7J,K7M,K9K,L7X/PE2005|X66/F3R,F4P,F4R,F9Q,G8T,G9T,G9U,L7X|X67/K7M,K9K|X70/F9Q,G9T,G9U,S8U,S8W,S9W|X73/F4P,F4R,G9T,G9U|X74/F4P,F4R,F5R,F9Q,G9T,G9U,K4J,K4M,L7X|X76/D4D,D4F,D7D,D7F,F8M,F8Q,F9Q,K4J,K4M,K7J,K7M,K9K|X77/D4D,D4F,K4J,K4M,K9K|X79/F4R,K4M,K9K|X81/F4P,F4R,F9Q,G9T,G9U|X83/F4P,F4R,F9Q,G9T,G9U,K4J,K4M|X84/F4P,F4R,F9Q,K4J,K4M,K9K|X85/D4D,D4F,F4P,F4R,K4J,K4M,K9K|X90/D4D,K4M,K7J,K7M,K9K|X91/F4R,K4M,K9K|X92/K7M,K9K|X94/F7R|X95/K9K|X98/D4F,K9K|XFD/K9K|XRQ/J8S,S8U,S9U|XTP/F1N,F8Q,J8S,S8U" id="RPR-000009745" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">cylinder head testing tools : use</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e328" translate="no">
+      <title translate="yes">Cylinder head test:</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <marklayer id="marklayer-d1e330" translate="no">
+               <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.1" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">2</designation>
+               </mark>
+               <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.2" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">1</designation>
+               </mark>
+               <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.3" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">3</designation>
+               </mark>
+            </marklayer>
+            <figure id="10-02-01-154-repair-10-02-01-05-01-79-1-1-106" translate="no">
+               
+               <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000012374_LAY-000007082.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-154-repair-10-02-01-05-01-79-1-1-106-000012374</illusnum>
+            </figure>
+            <figure id="10-02-01-155-repair-10-02-01-05-01-79-1-1-107" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012375_LAY-000007083.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-155-repair-10-02-01-05-01-79-1-1-107-000012375</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Follow these safety instructions:</para>
+               <ul translate="no">
+                  <li translate="yes">It is essential to put metal protectors<markref format="dita" href="#d1e328/10-02-01-154-repair-10-02-01-05-01-79-1-1-106" scope="local" translate="no" type="figure">1</markref>on the blanking plugs<markref format="dita" href="#d1e328/10-02-01-154-repair-10-02-01-05-01-79-1-1-106" scope="local" translate="no" type="figure">2</markref>. The metal protectors are specific to each cylinder head model. Each protector is fitted with a bracket for mounting it on the cylinder head (the engine type is engraved on each protector).</li>
+                  <li translate="yes">There should be nobody behind or beside the tank during the test.</li>
+                  <li translate="yes">The operator should wear the protective equipment provided.</li>
+                  <li translate="yes">The operator should submerge the cylinder head using the straps provided.</li>
+                  <li translate="yes">Before pressurising the cylinder head, it is essential that the operator positions the screen<markref format="dita" href="#d1e328/10-02-01-155-repair-10-02-01-05-01-79-1-1-107" scope="local" translate="no" type="figure">3</markref>(as shown in the illustration).</li>
+                  <li translate="yes">Before moving the transparent screen from its safety position, and before manoeuvring the cylinder head in the tank (change of position, removal from the tank at the end of the test), reduce the air pressure using the depressurising button on the pressure gauge.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e385" translate="no">
+         <title translate="yes">PRESENTATION OF THE EQUIPMENT</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="10-02-01-156-repair-10-02-01-05-01-79-1-1-108" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012376_LAY-000007084.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-156-repair-10-02-01-05-01-79-1-1-108-000012376</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">The individual safety equipment comprises:</para>
+                  <ul translate="no">
+                     <li translate="yes">a transparent visor,</li>
+                     <li translate="yes">a pair of gloves,</li>
+                     <li translate="yes">an apron.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e404" translate="no">
+         <title translate="yes">PRESENTATION OF THE CYLINDER HEAD TEST TANK</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e406" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">15</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">14</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">13</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.8" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">12</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.9" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">10</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.10" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">11</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.11" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">9</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.12" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">8</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.13" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.14" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.15" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.16" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">16</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-04-03-8-repair-10-02-01-05-01-79-1-1-109" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011813_LAY-000007085.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-04-03-8-repair-10-02-01-05-01-79-1-1-109-000011813</illusnum>
+                  <caption translate="no">
+                     <sthead translate="no">
+                        <stentry translate="yes">N repere</stentry>
+                        <stentry translate="yes">Designation</stentry>
+                        <stentry translate="yes">Informations</stentry>
+                        <stentry translate="yes">Renvois</stentry>
+                     </sthead>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">4</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">An air pressure limiter set at 6 to 7 bars (preadjusted before delivery) is installed on the test tank.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">5</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Inflation pressure gauge, connected to the pressure limiter output.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">6</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Thermostat to regulate the water temperature, which should be set at between 70 and 80˚C maximum (preadjusted before delivery of the tank).</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">7</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Transparent protection screen, which should be in place before each air pressurisation in the cylinder head. A safety locking position.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">8</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Switch for operating the thermostat.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">9</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Cylinder head sealing plates.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">10</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Storage for each kit.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">11</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">A gasket, and a spanner for removing the elements.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">12</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Electric socket.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">13</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Drainage tap.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">14</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Sliding plate.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e404/00-04-03-8-repair-10-02-01-05-01-79-1-1-109" scope="local" translate="no" type="figure">15</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Safety advice reminder plate.</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                  </caption>
+               </figure>
+               <figure id="10-02-01-157-repair-10-02-01-05-01-79-1-1-110" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000010005_LAY-000007086.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-157-repair-10-02-01-05-01-79-1-1-110-000010005</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">The notch<markref format="dita" href="#d1e404/10-02-01-157-repair-10-02-01-05-01-79-1-1-110" scope="local" translate="no" type="figure">16</markref>on the element protection grill indicates the minimum water level to be maintained in the tank, and also serves as a handle to pull the protective grill away from the elements (in order to clean it, for example).</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">With the cylinder head submerged, the water level should be about<technicalvalue translate="no">
+                           <value translate="yes">10 mm</value>
+                        </technicalvalue>above the cylinder head.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e576" translate="no">
+         <title translate="yes">POSITIONING THE CYLINDER HEAD TEST TANK</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Choose an area with good lighting so as to have a clear view of any air bubbles that will form if the cylinder head is defective.</para>
+                  <para translate="yes">Install the tank at a minimum of<technicalvalue translate="no">
+                        <value translate="yes">1 metre</value>
+                     </technicalvalue>from a wall and have a source of cold water close by.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e590" translate="no">
+         <title translate="yes">CONNECTING THE CYLINDER HEAD TEST TANK TO THE ELECTRICITY SUPPLY</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Connection should be carried out by an approved electrician. It is essential to install a differential circuit breaker. Check the effectiveness of the earth connection.</para>
+                  <para translate="yes">It is preferable that the supply cable going into the tank should be mechanically protected inside a sheath or tube.</para>
+                  <para translate="yes">This cable should not hinder the operator's movements.</para>
+                  <para translate="yes">If the indicator light bulb needs replacing, unscrew the green indicator light by hand, remove the white contact pad by pulling towards you and change the bulb (bayonet fixing). Refit the white pad in its position to ensure that the rubber seal is effective.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e601" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.17" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">E</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.18" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.19" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.20" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">K</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.21" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">J</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.22" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">I</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.23" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">11</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.24" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">H</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.25" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">10</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.26" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">G</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.27" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">9</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.28" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">F</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.29" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">8</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.30" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.31" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.32" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">D</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.33" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.34" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.35" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.36" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">A</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.37" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">C</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.38" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">B</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-158-repair-10-02-01-05-01-79-1-1-111" translate="no">
+                  <title translate="yes">Connection diagram for the electrical connection box</title>
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000010983_LAY-000007087.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-158-repair-10-02-01-05-01-79-1-1-111-000010983</illusnum>
+                  <caption translate="no">
+                     <sthead translate="no">
+                        <stentry translate="yes">N repere</stentry>
+                        <stentry translate="yes">Designation</stentry>
+                        <stentry translate="yes">Informations</stentry>
+                        <stentry translate="yes">Renvois</stentry>
+                     </sthead>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">A</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Earth</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">B</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Three phase 380 V</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">C</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Neutral (blue wire)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">D</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">On/Off and safety switch</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">E</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Three phase relay 380 V</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">F</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Earth (yellow/red wire)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">G</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Brown wire</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">H</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Black wire</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">I</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">White wire</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">J</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Grey thermostat wire (220 V)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">K</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Blue thermostat wire</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">1</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Mark 1 on the switch (D)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">2</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">Mark 2 on the switch (D)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">3</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">L1 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">4</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">L2 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">5</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">L3 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">6</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">A1 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">7</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">A2 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">8</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">T1 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">9</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">T2 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">10</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">T3 mark on the relay (E)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                     <strow translate="no">
+                        <stentry translate="yes">
+                           <para translate="yes">
+                              <markref format="dita" href="#d1e590/10-02-01-158-repair-10-02-01-05-01-79-1-1-111" scope="local" translate="no" type="figure">11</markref>
+                           </para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes">220 V indicator lamp, voltage indicator for the elements (this lamp goes out when the temperature displayed on the thermostat is reached)</para>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                        <stentry translate="yes">
+                           <para translate="yes"/>
+                        </stentry>
+                     </strow>
+                  </caption>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Figures corresponding to the marks on the switch (D) and on the three phase relay (E).</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e861" translate="no">
+         <title translate="yes">CYLINDER HEAD TEST PROCEDURE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Practical advice before installing kits on the cylinder heads:</para>
+                  <ul translate="no">
+                     <li translate="yes">Before putting in place the cylinder head sealing plate, remove all dirt from the old gasket so that the elastomer gasket is in contact with a clean surface.</li>
+                     <li translate="yes">Dismantle the valves and clean the cylinder head to remove all traces of oil.</li>
+                     <li translate="yes">The tightening order of the sealing plate should be identical to that for tightening the cylinder head. Torque tighten the bolts (15 to 25 N.m).</li>
+                     <li translate="yes">On some cylinder heads, the mounting holes for the inlet and exhaust manifold studs are in the water chambers (leave them in place).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Dismantling cylinder heads</para>
+                  <para translate="yes">Removing cylinder heads:</para>
+                  <ul translate="no">
+                     <li translate="yes">the camshaft,</li>
+                     <li translate="yes">the valves,</li>
+                     <li translate="yes">the injectors ,</li>
+                     <li translate="yes">the pre/postheating plugs,</li>
+                     <li translate="yes">the coolant temperature sensors.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X29/J8S|X48/J8S|X54/J8S|X63/J8S|XRQ/J8S|XTP/J8S" id="d1e897" translate="no">
+         <title translate="yes">KIT FOR J8S ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e920" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.39" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.40" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.41" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.42" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.43" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.44" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.45" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-154-repair-10-02-01-05-01-79-1-1-112" translate="no">
+                  <title translate="yes">Safrane cylinder head</title>
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000012374_LAY-000007088.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-154-repair-10-02-01-05-01-79-1-1-112-000012374</illusnum>
+               </figure>
+               <figure id="10-02-01-159-repair-10-02-01-05-01-79-1-1-113" translate="no">
+                  <title translate="yes">Cylinder head for all J8S engine types except Safrane</title>
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000010984_LAY-000007089.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-159-repair-10-02-01-05-01-79-1-1-113-000010984</illusnum>
+               </figure>
+               <figure id="10-02-01-168-repair-10-02-01-05-01-79-1-1-114" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000015006_LAY-000007090.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-168-repair-10-02-01-05-01-79-1-1-114-000015006</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e897/10-02-01-154-repair-10-02-01-05-01-79-1-1-112" scope="local" translate="no" type="figure">1</markref>with the reference JP 10104B ,</li>
+                     <li translate="yes">blanking plug<markref format="dita" href="#d1e897/10-02-01-154-repair-10-02-01-05-01-79-1-1-112" scope="local" translate="no" type="figure">2</markref>∅10 mm,</li>
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e897/10-02-01-159-repair-10-02-01-05-01-79-1-1-113" scope="local" translate="no" type="figure">3</markref>with the reference JP 10104A ,</li>
+                     <li translate="yes">blanking plug<markref format="dita" href="#d1e897/10-02-01-159-repair-10-02-01-05-01-79-1-1-113" scope="local" translate="no" type="figure">4</markref>∅9 mm.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check that there is a stud present<markref format="dita" href="#d1e897/10-02-01-154-repair-10-02-01-05-01-79-1-1-112" scope="local" translate="no" type="figure">5</markref>.</para>
+                  <para translate="yes">Remove the end piece or the mounting for the thermostatic sensor and replace it with the plug<markref format="dita" href="#d1e897/10-02-01-154-repair-10-02-01-05-01-79-1-1-112" scope="local" translate="no" type="figure">6</markref>(the<technicalvalue translate="no">
+                        <value translate="yes">∅13 mm</value>
+                     </technicalvalue>thread pitch is 1/4 gas).</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Use the test tool<markref format="dita" href="#d1e897/10-02-01-154-repair-10-02-01-05-01-79-1-1-112" scope="local" translate="no" type="figure">7</markref>with the reference J8S .</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X24/S8U,S8W,S9W|X54/S8U|X70/S8U,S8W,S9W|XRQ/S8U,S9U|XTP/S8U" id="d1e1058" translate="no">
+         <title translate="yes">KIT FOR SOFIM ENGINE CYLINDER HEAD</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1082" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.46" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">8</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.47" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">9</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-169-repair-10-02-01-05-01-79-1-1-115" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000015007_LAY-000007091.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-169-repair-10-02-01-05-01-79-1-1-115-000015007</illusnum>
+               </figure>
+               <figure id="10-02-01-160-repair-10-02-01-05-01-79-1-1-116" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000010985_LAY-000007092.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-160-repair-10-02-01-05-01-79-1-1-116-000010985</illusnum>
+               </figure>
+               <figure id="10-02-01-170-repair-10-02-01-05-01-79-1-1-117" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000015176_LAY-000007093.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-170-repair-10-02-01-05-01-79-1-1-117-000015176</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">sealing plates<markref format="dita" href="#d1e1058/10-02-01-169-repair-10-02-01-05-01-79-1-1-115" scope="local" translate="no" type="figure">8</markref>with the reference JP 2105 RS, 2105 1D and 2105 B,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1058/10-02-01-169-repair-10-02-01-05-01-79-1-1-115" scope="local" translate="no" type="figure">9</markref>with the reference 2105.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X40/F2N,F3N,F8M,F8Q|X42/F2N,F3N,F3R,F8M|X48/F2N,F2R,F3N,F8Q|X53/F2N,F3N,F3P,F7P,F8Q|X56/F3P,F3R,F9Q|X57/F2N,F3P,F7P,F7R,F8M,F8Q|X64/F3R,F7P,F7R,F8M,F8Q,F9Q|X65/F8Q,F9Q/PE2005|X66/F3R,F9Q|X70/F9Q|X74/F9Q|X76/F8M,F8Q,F9Q|X81/F9Q|X83/F9Q|X84/F9Q|X94/F7R|XTP/F1N,F8Q" id="d1e1139" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - F1N, F2X, F3X, F7X, F8X or F9Q ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1239" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.48" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">10</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.49" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">12</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.50" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">11</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-161-repair-10-02-01-05-01-79-1-1-118" translate="no">
+                  <title translate="yes">1<sup translate="yes">st</sup>model</title>
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000010986_LAY-000007094.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-161-repair-10-02-01-05-01-79-1-1-118-000010986</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the protector<markref format="dita" href="#d1e1139/10-02-01-161-repair-10-02-01-05-01-79-1-1-118" scope="local" translate="no" type="figure">10</markref>with the engraving F8M,</li>
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1139/10-02-01-161-repair-10-02-01-05-01-79-1-1-118" scope="local" translate="no" type="figure">11</markref>with the reference KE 3106 A,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1139/10-02-01-161-repair-10-02-01-05-01-79-1-1-118" scope="local" translate="no" type="figure">12</markref>with the reference F8M.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1293" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.51" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">15</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.52" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">13</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.53" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">14</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-162-repair-10-02-01-05-01-79-1-1-119" translate="no">
+                  <title translate="yes">2<sup translate="yes">nd</sup>model</title>
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000010839_LAY-000007095.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-162-repair-10-02-01-05-01-79-1-1-119-000010839</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the protector<markref format="dita" href="#d1e1139/10-02-01-162-repair-10-02-01-05-01-79-1-1-119" scope="local" translate="no" type="figure">15</markref>with the engraving F8Q,</li>
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1139/10-02-01-162-repair-10-02-01-05-01-79-1-1-119" scope="local" translate="no" type="figure">13</markref>with the reference KE 3106 A,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1139/10-02-01-162-repair-10-02-01-05-01-79-1-1-119" scope="local" translate="no" type="figure">14</markref>with the reference F8M.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1347" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.54" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">17</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.55" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">16</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-163-repair-10-02-01-05-01-79-1-1-120" translate="no">
+                  <title translate="yes">3<sup translate="yes">rd</sup>model</title>
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000010840_LAY-000007096.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-163-repair-10-02-01-05-01-79-1-1-120-000010840</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1139/10-02-01-163-repair-10-02-01-05-01-79-1-1-120" scope="local" translate="no" type="figure">16</markref>with the reference KE 3106 A,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1139/10-02-01-163-repair-10-02-01-05-01-79-1-1-120" scope="local" translate="no" type="figure">17</markref>with the reference F8M.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X38/F4R|X64/F4P,F4R|X65/F4P,F4R/PE2005|X66/F4P,F4R|X73/F4P,F4R|X74/F4P,F4R|X79/F4R|X81/F4P,F4R|X83/F4P,F4R|X84/F4P,F4R|X85/F4P,F4R|X91/F4R" id="d1e1393" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - F4P or F4R ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1454" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.56" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">19</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.57" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">18</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-01-01-6-repair-10-02-01-05-01-79-1-1-121" translate="no">
+                  
+                  <image dimension="F7 (120x120)" href="../MergedPictures/ILL-000005428_LAY-000007097.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-01-01-6-repair-10-02-01-05-01-79-1-1-121-000005428</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1393/10-01-01-6-repair-10-02-01-05-01-79-1-1-121" scope="local" translate="no" type="figure">18</markref>with the reference R 27D ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1393/10-01-01-6-repair-10-02-01-05-01-79-1-1-121" scope="local" translate="no" type="figure">19</markref>with the reference 3106 .</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X64/F5R|X74/F5R" id="d1e1497" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - F5R ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1508" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.58" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">21</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.59" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">20</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.60" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">22</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-185-repair-10-02-01-05-01-79-1-1-122" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000021101_LAY-000007098.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-185-repair-10-02-01-05-01-79-1-1-122-000021101</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1497/10-02-01-185-repair-10-02-01-05-01-79-1-1-122" scope="local" translate="no" type="figure">20</markref>with the reference F5 RA ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1497/10-02-01-185-repair-10-02-01-05-01-79-1-1-122" scope="local" translate="no" type="figure">21</markref>with the reference F8M.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit a plug to the pipe opening.<markref format="dita" href="#d1e1497/10-02-01-185-repair-10-02-01-05-01-79-1-1-122" scope="local" translate="no" type="figure">22</markref>
+                  </para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X54/G8T|X56/G8T|X66/G8T" id="d1e1559" translate="no">
+         <title translate="yes">KIT FOR G8T ENGINE CYLINDER HEAD</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1574" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.61" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">24</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.62" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">23</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-164-repair-10-02-01-05-01-79-1-1-123" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000017599_LAY-000007099.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-164-repair-10-02-01-05-01-79-1-1-123-000017599</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1559/10-02-01-164-repair-10-02-01-05-01-79-1-1-123" scope="local" translate="no" type="figure">23</markref>with the reference 043 RENGA,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1559/10-02-01-164-repair-10-02-01-05-01-79-1-1-123" scope="local" translate="no" type="figure">24</markref>with the reference 043 RENG.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X66/G9T,G9U|X70/G9T,G9U|X73/G9T,G9U|X74/G9T,G9U|X81/G9T,G9U|X83/G9T,G9U" id="d1e1615" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - G9T or G9U ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1648" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.63" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">26</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.64" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">25</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-182-repair-10-02-01-05-01-79-1-1-124" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000020041_LAY-000007100.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-182-repair-10-02-01-05-01-79-1-1-124-000020041</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1615/10-02-01-182-repair-10-02-01-05-01-79-1-1-124" scope="local" translate="no" type="figure">25</markref>with the reference G9,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1615/10-02-01-182-repair-10-02-01-05-01-79-1-1-124" scope="local" translate="no" type="figure">26</markref>with the reference G9.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X38/K4M|X44/K4M|X56/K4J,K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M/PE2005|X74/K4J,K4M|X76/K4J,K4M|X77/K4J,K4M|X79/K4M|X83/K4J,K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M" id="d1e1686" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - K4J or K4M ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1759" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.65" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">28</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.66" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">27</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-01-01-6-repair-10-02-01-05-01-79-1-1-125" translate="no">
+                  
+                  <image dimension="F7 (120x120)" href="../MergedPictures/ILL-000005428_LAY-000007101.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-01-01-6-repair-10-02-01-05-01-79-1-1-125-000005428</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1686/10-01-01-6-repair-10-02-01-05-01-79-1-1-125" scope="local" translate="no" type="figure">27</markref>with the reference R 27D ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1686/10-01-01-6-repair-10-02-01-05-01-79-1-1-125" scope="local" translate="no" type="figure">28</markref>with the reference R 27 .</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X52/K7M|X61/K7M|X64/K7J,K7M|X65/K7J,K7M/PE2005|X67/K7M|X76/K7J,K7M|X90/K7J,K7M|X92/K7M" id="d1e1802" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - K7J or K7M ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1841" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.67" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">30</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.68" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">29</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-114-repair-10-02-01-05-01-79-1-1-126" translate="no">
+                  
+                  <image dimension="F7 (120x120)" href="../MergedPictures/ILL-000006619_LAY-000007102.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-114-repair-10-02-01-05-01-79-1-1-126-000006619</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1802/10-02-01-114-repair-10-02-01-05-01-79-1-1-126" scope="local" translate="no" type="figure">29</markref>with the reference R 27C ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1802/10-02-01-114-repair-10-02-01-05-01-79-1-1-126" scope="local" translate="no" type="figure">30</markref>with the reference R27 .</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X38/K9K|X43/K9K|X44/K9K|X52/K9K|X61/K9K|X65/K9K/PE2005|X67/K9K|X76/K9K|X77/K9K|X79/K9K|X84/K9K|X85/K9K|X90/K9K|X91/K9K|X92/K9K|X95/K9K|X98/K9K|XFD/K9K" id="d1e1884" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - K9K ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e1956" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.69" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">32</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.70" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">31</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-27-repair-10-02-01-05-01-79-1-1-127" translate="no">
+                  
+                  <image dimension="F7 (120x120)" href="../MergedPictures/ILL-000004510_LAY-000007103.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-27-repair-10-02-01-05-01-79-1-1-127-000004510</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1884/10-02-01-27-repair-10-02-01-05-01-79-1-1-127" scope="local" translate="no" type="figure">31</markref>with the reference 1149 JPRD ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1884/10-02-01-27-repair-10-02-01-05-01-79-1-1-127" scope="local" translate="no" type="figure">32</markref>with the reference R 27 .</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/D4D,D4F|X44/D4F|X52/D4F|X65/D4D,D4F/PE2005|X76/D4D,D4F|X77/D4D,D4F|X85/D4D,D4F|X90/D4D|X98/D4F" id="d1e1999" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - D4D or D4F ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e2043" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.71" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">33</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.72" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">34</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-120-repair-10-02-01-05-01-79-1-1-128" translate="no">
+                  
+                  <image dimension="F7 (120x120)" href="../MergedPictures/ILL-000018323_LAY-000007104.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-120-repair-10-02-01-05-01-79-1-1-128-000018323</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e1999/10-02-01-120-repair-10-02-01-05-01-79-1-1-128" scope="local" translate="no" type="figure">33</markref>with the reference JPRD 1149 ,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e1999/10-02-01-120-repair-10-02-01-05-01-79-1-1-128" scope="local" translate="no" type="figure">34</markref>with the reference JPRD 1149 A .</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">A protector is not used.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/D7D,D7F|X44/D7F|X57/D7D,D7F|X65/D7D,D7F/PE2005|X76/D7D,D7F" id="d1e2086" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - D7D or D7F ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e2113" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.73" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">36</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.74" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">35</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-183-repair-10-02-01-05-01-79-1-1-129" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000020042_LAY-000007105.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-183-repair-10-02-01-05-01-79-1-1-129-000020042</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e2086/10-02-01-183-repair-10-02-01-05-01-79-1-1-129" scope="local" translate="no" type="figure">35</markref>with the reference JPRD 1149 A,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e2086/10-02-01-183-repair-10-02-01-05-01-79-1-1-129" scope="local" translate="no" type="figure">36</markref>with the reference JPRD 1149 A.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/C3G,C3J,C3L|X40/C3G,C3J|X42/C3J|X53/C3J|X57/C3G,C3J,C3L" id="d1e2151" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - C3G, C3J or C3L ENGINE</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e2179" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.75" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">38</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.76" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">37</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-184-repair-10-02-01-05-01-79-1-1-130" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000020043_LAY-000007106.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-184-repair-10-02-01-05-01-79-1-1-130-000020043</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use:</para>
+                  <ul translate="no">
+                     <li translate="yes">the sealing plate<markref format="dita" href="#d1e2151/10-02-01-184-repair-10-02-01-05-01-79-1-1-130" scope="local" translate="no" type="figure">37</markref>with the reference R 27A,</li>
+                     <li translate="yes">the test tool<markref format="dita" href="#d1e2151/10-02-01-184-repair-10-02-01-05-01-79-1-1-130" scope="local" translate="no" type="figure">38</markref>with the reference JPRD 1149 A.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X54/L7X|X56/L7X|X65/L7X/PE2005|X66/L7X|X74/L7X" id="d1e2217" translate="no">
+         <title translate="yes">KIT FOR CYLINDER HEAD - L7X ENGINE</title>
+         <procbody translate="no"/>
+         <procedure id="d1e2242" translate="no">
+            <title translate="yes">Right side cylinder head:</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e2244" translate="no">
+                     <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.77" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">40</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.78" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">39</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="10-02-01-181-repair-10-02-01-05-01-79-1-1-131" translate="no">
+                     
+                     <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000019283_LAY-000007107.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-181-repair-10-02-01-05-01-79-1-1-131-000019283</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Use:</para>
+                     <ul translate="no">
+                        <li translate="yes">the sealing plate<markref format="dita" href="#d1e2242/10-02-01-181-repair-10-02-01-05-01-79-1-1-131" scope="local" translate="no" type="figure">39</markref>with the reference L7X A C,</li>
+                        <li translate="yes">the test tool<markref format="dita" href="#d1e2242/10-02-01-181-repair-10-02-01-05-01-79-1-1-131" scope="local" translate="no" type="figure">40</markref>with the reference V6 24S PCR.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e2282" translate="no">
+            <title translate="yes">Left side cylinder head:</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e2284" translate="no">
+                     <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.79" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">42</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.80" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">41</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="10-02-01-180-repair-10-02-01-05-01-79-1-1-132" translate="no">
+                     
+                     <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000019282_LAY-000007108.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-180-repair-10-02-01-05-01-79-1-1-132-000019282</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Use:</para>
+                     <ul translate="no">
+                        <li translate="yes">the sealing plate<markref format="dita" href="#d1e2282/10-02-01-180-repair-10-02-01-05-01-79-1-1-132" scope="local" translate="no" type="figure">41</markref>with the reference L7X A L,</li>
+                        <li translate="yes">the test tool<markref format="dita" href="#d1e2282/10-02-01-180-repair-10-02-01-05-01-79-1-1-132" scope="local" translate="no" type="figure">42</markref>with the reference V6 24S PCR.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure id="d1e2322" translate="no">
+         <title translate="yes">CYLINDER HEAD TEST</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">The water in the tank should be at a temperature of about<technicalvalue translate="no">
+                        <value translate="yes">80˚C.</value>
+                     </technicalvalue>
+                  </para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="10-02-01-156-repair-10-02-01-05-01-79-1-1-133" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012376_LAY-000007109.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-156-repair-10-02-01-05-01-79-1-1-133-000012376</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Before placing the cylinder head in the tank, the operator should ALWAYS put on the personal safety clothes and equipment.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e2342" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.81" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">A</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-04-03-8-repair-10-02-01-05-01-79-1-1-134" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011813_LAY-000007736.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-04-03-8-repair-10-02-01-05-01-79-1-1-134-000011813</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Lift the transparent protection screen<markref format="dita" href="#d1e2322/00-04-03-8-repair-10-02-01-05-01-79-1-1-134" scope="local" translate="no" type="figure">A</markref>and swing it to the right.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="10-02-01-165-repair-10-02-01-05-01-79-1-1-135" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000017600_LAY-000007737.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-165-repair-10-02-01-05-01-79-1-1-135-000017600</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Lower the cylinder head into the tank using the straps provided.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">With the cylinder head submerged, check that the water level in the tank is about<technicalvalue translate="no">
+                        <value translate="yes">10 mm</value>
+                     </technicalvalue>above the top of the cylinder head.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e2376" translate="no">
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.82" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">A</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-10X02X01X05-01X79-1-1.83" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">B</designation>
+                  </mark>
+               </marklayer>
+               <figure id="10-02-01-155-repair-10-02-01-05-01-79-1-1-136" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012375_LAY-000007738.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-155-repair-10-02-01-05-01-79-1-1-136-000012375</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Before pressurising the cylinder head, put the transparent protection screen<markref format="dita" href="#d1e2322/10-02-01-155-repair-10-02-01-05-01-79-1-1-136" scope="local" translate="no" type="figure">A</markref>in its locking position.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Move the sliding plate<markref format="dita" href="#d1e2322/10-02-01-155-repair-10-02-01-05-01-79-1-1-136" scope="local" translate="no" type="figure">B</markref>to about<technicalvalue translate="no">
+                        <value translate="yes">50 mm</value>
+                     </technicalvalue>from the edge of the tank.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Gradually bring the cylinder head under pressure (between 5 and 7 Bar).</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="10-02-01-166-repair-10-02-01-05-01-79-1-1-137" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017601_LAY-000007739.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-166-repair-10-02-01-05-01-79-1-1-137-000017601</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Leave the cylinder head under pressure for approximately<technicalvalue translate="no">
+                        <value translate="yes">10 minutes</value>
+                     </technicalvalue>. If bubbles appear, the cylinder head contains cracks.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Reduce the air pressure using a pressure gauge.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="10-02-01-167-repair-10-02-01-05-01-79-1-1-138" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000015005_LAY-000007740.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009745-02-01-167-repair-10-02-01-05-01-79-1-1-138-000015005</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the transparent safety screen from its notches.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Leave it to cool by placing it on the sliding plate.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Once the kit is dismantled from the cylinder head, spray the screws, the plugs, between the elastomer gaskets and the lubricating plates without silicone.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

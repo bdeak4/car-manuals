@@ -1,0 +1,105 @@
+{
+  "PR": [
+    {
+      "id": "1204_324010",
+      "filename": "1204_324010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01036878.svg"
+    },
+    {
+      "id": "1204_314010",
+      "filename": "1204_314010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083878.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2492",
+      "filename": "ELECTRIC POWER ASSISTED STEERING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2492.pdf"
+    },
+    {
+      "id": "3025",
+      "filename": "A.B.S. MARK 20 on the Twingo Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3025.pdf"
+    },
+    {
+      "id": "3487",
+      "filename": "Special features of Twingos fitted with 14 inch wheels.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3487.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "2175",
+      "filename": "TEVES ABS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2175.pdf"
+    },
+    {
+      "id": "3755",
+      "filename": "Special notes on the Twingo equipped with BOSCH 8.0 ABS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3755.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3439",
+      "filename": "MECHANICAL ELEMENT CONTROLS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3439.pdf"
+    },
+    {
+      "id": "5af5b0f008813b00dc4cf53e",
+      "filename": "brake fluid : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457259.xml"
+    },
+    {
+      "id": "5af5b02308813b00dc4cf451",
+      "filename": "braking : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000210657.xml"
+    },
+    {
+      "id": "5e1f865d4cedfd00012e75e5",
+      "filename": "front brake disc : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001452652.xml"
+    },
+    {
+      "id": "5e47152f46e0fb00018a9d81",
+      "filename": "rigid brake pipe : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001485524.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3973",
+      "filename": "FAULT FINDING BOSCH ABS 8.0.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3973.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21924.png"
+    }
+  ]
+}

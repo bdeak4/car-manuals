@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZH|XZG|XFA|XFF|XZJ|X55|XEF|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XFK|XJF|XJL|XHN|XCB|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X42|X75|XAV|XHA|XJD|XJ1|XJH|X1310|XDE|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000314950" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">plastic bodywork component : description</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="04/11/21 01:44" translate="no"/>
+<revised modified="10/10/24 13:41" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">plastic bodywork component : description</siename>
+<sieversion translate="no">L.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000314950</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e112" translate="no">
+<title translate="yes">introduction</title>
+<descbody translate="no">
+<para translate="yes">Plastic forms an integral part of:</para>
+<ul translate="no">
+<li translate="yes">the vehicle's interior trim,</li>
+<li translate="yes">the vehicle's exterior trim,</li>
+<li translate="yes">possibly the entire bodywork,</li>
+<li translate="yes">electronic equipment,</li>
+<li translate="yes">certain mechanical parts.</li>
+</ul>
+<para translate="yes"/>
+<para translate="yes">The recommended repair product has been tested
+in the RENAULT laboratories according to very precise specifications.</para>
+<para translate="yes"/>
+<para translate="yes">To ensure optimum safety and product quality,
+carefully observe:</para>
+<ul translate="no">
+<li translate="yes">the safety instructions,</li>
+<li translate="yes">use recommended products,</li>
+<li translate="yes">the repair procedures.</li>
+</ul>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">Always refer to the product's technical sheet
+in addition to this Technical Note.</para>
+</noteR>
+</descbody>
+</description>
+<description id="d1e150" translate="no">
+<title translate="yes">Classification of plastics</title>
+<descbody translate="no"/>
+<description id="d1e154" translate="no">
+<title translate="yes">THERMOPLASTICS:</title>
+<descbody translate="no">
+<para translate="yes">Thermoplastics are materials which, when exposed
+to heat, become malleable and soft. The advantage of this malleability
+is that they can be shaped. After cooling, they become hardened and
+keep their new shape.</para>
+<para translate="yes">If they are exposed to heat again, the above
+phenomenon reoccurs every time this operation is repeated.</para>
+</descbody>
+<description id="d1e162" translate="no">
+<title translate="yes">The main thermoplastics:</title>
+<descbody translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Chemical
+description</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">ISO CODE
+1043</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Acrylonitrile,
+butadiene, styrene</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">A.B.S</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Acrylate,
+Styrene, Acrylonitrile</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">A.S.A</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Ethylene,
+propylene, diene, methylene</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">EPDM</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polycarbonate</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PC</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polyamide</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PA</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polypropylene</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PP</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polyethylene</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PE</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polyvinyl
+chloride</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PVC</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polystyrene
+/ Polyester</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">SB / PPO</para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polyamide
+/ Polyester</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PA / PPO</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descbody>
+</description>
+</description>
+<description id="d1e251" translate="no">
+<title translate="yes">THERMOSETTING PLASTICS</title>
+<descbody translate="no">
+<para translate="yes">Thermosetting plastics are those which harden
+when exposed to heat and will burn under excessive heat.</para>
+</descbody>
+<description id="d1e257" translate="no">
+<title translate="yes">The main thermosetting plastics:</title>
+<descbody translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Chemical
+description</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">ISO CODE
+1043</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Unsaturated
+Polyester</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">UP</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Epoxy Resin</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">EP</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Polyurethane
+Resin</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PUR</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Sheet Molding
+Compound</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">SMC</para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Resine Transfert
+Molding</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">RTM</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">All plastics are categorised as either thermoplastics
+or thermosetting plastics.</para>
+</noteR>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">Read the ISO code displayed inside the plastic
+part.</para>
+</noteR>
+</descbody>
+</description>
+</description>
+</description>
+<description id="d1e321" translate="no">
+<title translate="yes">using plastics in the automotive production
+industry</title>
+<descbody translate="no">
+<descsection translate="no">
+<figure id="40-01-45-10-54-repair-40-01-45-10-02-21-1-1-1" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024702.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000314950-01-45-10-54-repair-40-01-45-10-02-21-1-1-1-000024702</illusnum></figure>
+</descsection>
+<para translate="yes">According to the area of use, parts are manufactured
+either:</para>
+<para translate="yes">as thermoplastics:</para>
+<ul translate="no">
+<li translate="yes">passenger compartment trim,</li>
+<li translate="yes">dashboard,</li>
+<li translate="yes">bumpers,</li>
+<li translate="yes">wings,</li>
+<li translate="yes">protective mouldings.</li>
+</ul>
+<para translate="yes">or as thermosetting plastics:</para>
+<ul translate="no">
+<li translate="yes">wings,</li>
+<li translate="yes">bonnet,</li>
+<li translate="yes">doors,</li>
+<li translate="yes">tailgate,</li>
+<li translate="yes">leaf spring,</li>
+<li translate="yes">driveshafts.</li>
+</ul>
+</descbody>
+</description>
+</description>

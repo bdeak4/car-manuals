@@ -1,0 +1,18 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "5af5b19908813b00dc4cf5f2",
+      "filename": "colour code : identification.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007450.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21560.png"
+    }
+  ]
+}

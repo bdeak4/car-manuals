@@ -1,0 +1,39 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5b08155ed02e7d00dc4564fa",
+      "filename": "ball joint uncoupling tool : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000007833.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3018",
+      "filename": "ERROR IN THE ENGINE IMMOBILISER DIAGNOSTIC SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3018.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21922.png"
+    }
+  ]
+}

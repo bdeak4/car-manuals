@@ -1,0 +1,120 @@
+{
+  "PR": [
+    {
+      "id": "1204_370113",
+      "filename": "1204_370113.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01098352.svg"
+    },
+    {
+      "id": "1204_370213",
+      "filename": "1204_370213.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083910.svg"
+    },
+    {
+      "id": "1204_370110",
+      "filename": "1204_370110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083900.svg"
+    },
+    {
+      "id": "1204_370210",
+      "filename": "1204_370210.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083909.svg"
+    },
+    {
+      "id": "1204_370214",
+      "filename": "1204_370214.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01098353.svg"
+    },
+    {
+      "id": "1204_373010",
+      "filename": "1204_373010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01002944.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3552",
+      "filename": "MOTORIZED THROTTLE BODY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3552.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-0",
+      "filename": "M.R. 305 - 0 GENERAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-0.pdf"
+    },
+    {
+      "id": "3049",
+      "filename": "CENTRAL COOLANT TEMPERATURE MANAGEMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3049.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3404",
+      "filename": "THROTTLE POTENTIOMETER AND IDLE SPEED REGULATION VALVE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3404.pdf"
+    },
+    {
+      "id": "3439",
+      "filename": "MECHANICAL ELEMENT CONTROLS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3439.pdf"
+    },
+    {
+      "id": "5e45c6b046e0fb0001b61f00",
+      "filename": "pedal assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001485653.xml"
+    },
+    {
+      "id": "5af5700dc3da7a00dc22856a",
+      "filename": "brake pedal switch : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000259602.xml"
+    },
+    {
+      "id": "5b081b56d02e7d00dc45670c",
+      "filename": "pedal switch: adjustment.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000456550.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2669",
+      "filename": "PRINCIPLE OF OPERATION AND FAULT FINDING -  HOW FUEL GAUGE WORKS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2669.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3516",
+      "filename": "FAULT FINDING PETROL INJECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3516.pdf"
+    },
+    {
+      "id": "3504",
+      "filename": "PETROL INJECTION FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3504.pdf"
+    },
+    {
+      "id": "3834",
+      "filename": "FAULT FINDING Injection SIRIUS 34-E932-Vdiag 08.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3834.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21923.png"
+    }
+  ]
+}

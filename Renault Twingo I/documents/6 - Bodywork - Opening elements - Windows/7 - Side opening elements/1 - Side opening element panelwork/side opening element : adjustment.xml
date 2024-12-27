@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XFF|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X58|X27|X75|XDD|X59|XJ1|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000350448" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">side opening element : adjustment</title>
+   <?Pub Caret -2?>
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="24/12/20 09:14" translate="no"/>
+         <revised modified="10/10/24 13:48" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">side opening element : adjustment</siename>
+         <sieversion translate="no">Q.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000350448</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e114" translate="no">
+      <title translate="yes">Hinged side door</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheralcomponents are adjusted correctly.</para>
+               <para translate="yes">Refitthe heavy door fittings (closing system, window winder system).</para>
+               <para translate="yes">Before carrying out the adjustments, releasethe striker panel and fit the hinges, pre-tightening in the middleof the adjustment.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones,refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e130" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-03-1-repair-40-10-01-01-67-1-1-14" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016966.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-03-1-repair-40-10-01-01-67-1-1-14-000016966</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the centringof the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-03-2-repair-40-10-01-01-67-1-1-15" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016967.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-03-2-repair-40-10-01-01-67-1-1-15-000016967</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignmentof the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-03-3-repair-40-10-01-01-67-1-1-16" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016968.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-03-3-repair-40-10-01-01-67-1-1-16-000016968</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the alignmentof the door height.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-03-4-repair-40-10-01-01-67-1-1-17" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016969.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-03-4-repair-40-10-01-01-67-1-1-17-000016969</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the front flushfitting of the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-03-5-repair-40-10-01-01-67-1-1-18" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016970.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-03-5-repair-40-10-01-01-67-1-1-18-000016970</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the rear flushfitting of the door, as well as the contact and the closure firmness.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustmentand the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e177" translate="no">
+      <title translate="yes">Sliding side door</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheralcomponents are adjusted correctly.</para>
+               <para translate="yes">Refitthe heavy door fittings (closing system, window winder system).</para>
+               <para translate="yes">Before carrying out the adjustments, releasethe striker panel and fit the hinges, pre-tightening in the middleof the adjustment.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones,refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e193" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-06-4-repair-40-10-01-01-67-1-1-7" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016956.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-4-repair-40-10-01-01-67-1-1-7-000016956</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the centringof the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-7-repair-40-10-01-01-67-1-1-8" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016959.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-7-repair-40-10-01-01-67-1-1-8-000016959</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignmentof the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-6-repair-40-10-01-01-67-1-1-9" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016958.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-6-repair-40-10-01-01-67-1-1-9-000016958</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the alignmentof the door height.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-8-repair-40-10-01-01-67-1-1-10" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016960.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-8-repair-40-10-01-01-67-1-1-10-000016960</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fittingof the bottom section of the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-5-repair-40-10-01-01-67-1-1-11" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016957.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-5-repair-40-10-01-01-67-1-1-11-000016957</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fittingof the top section of the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-3-repair-40-10-01-01-67-1-1-12" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016955.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-3-repair-40-10-01-01-67-1-1-12-000016955</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the rear flushfitting of the door.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-06-2-repair-40-10-01-01-67-1-1-13" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016954.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000350448-10-06-2-repair-40-10-01-01-67-1-1-13-000016954</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the front flushfitting of the door.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustmentand the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

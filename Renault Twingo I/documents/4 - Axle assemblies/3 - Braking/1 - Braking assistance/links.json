@@ -1,0 +1,39 @@
+{
+  "PR": [
+    {
+      "id": "1204_376510",
+      "filename": "1204_376510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083928.svg"
+    },
+    {
+      "id": "1204_376010",
+      "filename": "1204_376010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083927.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3439",
+      "filename": "MECHANICAL ELEMENT CONTROLS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3439.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21924.png"
+    }
+  ]
+}

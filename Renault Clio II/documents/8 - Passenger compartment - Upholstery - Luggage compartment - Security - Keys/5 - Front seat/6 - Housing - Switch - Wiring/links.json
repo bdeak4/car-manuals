@@ -1,0 +1,84 @@
+{
+  "PR": [
+    {
+      "id": "1247_753010",
+      "filename": "1247_753010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01031699.svg"
+    },
+    {
+      "id": "1247_754011",
+      "filename": "1247_754011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01101944.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0504",
+      "filename": "REPLACING A SEAT EQUIPPED WITH A SIDE AIR BAG AFTER TRIGGERING OF THEMODULE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0504.pdf"
+    },
+    {
+      "id": "0539",
+      "filename": "FRONT SEATBACK TRIM ON SEATS EQUIPPED WITH AN AIR BAG.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0539.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af58445c3da7a00dc2298fc",
+      "filename": "rear seats access mechanism : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000417371.xml"
+    },
+    {
+      "id": "5af58479c3da7a00dc22993b",
+      "filename": "rear seat access control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000414994.xml"
+    },
+    {
+      "id": "5af58496c3da7a00dc229960",
+      "filename": "front seatback tilt control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000415564.xml"
+    },
+    {
+      "id": "5af95a433ef64d00e0ef8755",
+      "filename": "front seat lower casing : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000415752.xml"
+    },
+    {
+      "id": "5af95a203ef64d00e0ef872f",
+      "filename": "Front seat assembly: remove - replace.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000425846.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21662.png"
+    }
+  ]
+}

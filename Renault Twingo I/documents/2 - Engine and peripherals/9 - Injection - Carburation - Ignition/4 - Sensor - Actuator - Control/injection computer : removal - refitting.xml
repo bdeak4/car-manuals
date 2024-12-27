@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/D4D,D4F,D7D,D7F|X56/F4P,F4R,K4M|X57/D7F|X64/F4P,F4R,K4J,K4M|X66/F4R|X65/D7D,D7F,F4R,K4J,K4M,K7J" id="RPR-000125040" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">injection computer : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <procsteps translate="no">
+         <procstep translate="no">
+            <noteR translate="no" type="caution">
+               <para translate="yes">Do not use any product designed to improve the electrical contact in the injection computer and oxygen sensor connectors or on the bodies of the oxygen sensors.</para>
+               <para translate="yes">Failure to respect this advice causes the oxygen sensor to malfunction and results in failure to comply with the emission control standard.</para>
+            </noteR>
+            <noteR translate="no" type="caution">
+               <para translate="yes">If the connections are corroded, repair the wiring (see Wiring: Precautions for repair )(Technical Note 6015A, 88A, Wiring).</para>
+            </noteR>
+         </procstep>
+      </procsteps>
+   </procbody>
+   <procedure id="d1e55" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e59" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Disconnect the battery<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3511330">
+                        <linkdesc>12 V battery : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000248</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e69" translate="no">
+         <title translate="yes">removal operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the injection computer<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488842">
+                        <linkdesc>injection computer : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000405</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/D7F/700,701" id="d1e79" translate="no">
+         <title translate="yes">When replacing a Safir 1 injection computer with a Safir 2 injection computer</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e89" translate="no">
+                  <mark id="MARK.REPAIR-11X04X02-01X37-1-27.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="11-04-02-40-repair-11-04-02-01-37-1-27-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000026527_LAY-000032323.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Mark the position of the injection locking relay located in the engine compartment connection unit (mark 238 in the electric wiring diagram). The relay is in position<markref format="dita" href="#d1e79/11-04-02-40-repair-11-04-02-01-37-1-27-1" scope="local" translate="no" type="figure">1</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="11-04-02-43-repair-11-04-02-01-37-1-27-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028460_LAY-000032324.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the relay and replace it with the 2-pin shunt supplied with the Safir 2 computer.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The Safir 2 computer is supplied with two types of shunt (2 and 3 pins) depending on the vehicle's relay type.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X57/D7F" id="d1e118" translate="no">
+         <title translate="yes">When replacing a Safir 1 injection computer with a Safir 2 injection computer</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e123" translate="no">
+                  <mark id="MARK.REPAIR-11X04X02-01X37-1-27.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+               </marklayer>
+               <figure id="11-04-02-44-repair-11-04-02-01-37-1-27-3" translate="no">
+                  
+                  <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000029324_LAY-000032325.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Mark the position of the injection locking relay located in the engine compartment connection unit (mark 238 in the electric wiring diagram). The relay is in position<markref format="dita" href="#d1e118/11-04-02-44-repair-11-04-02-01-37-1-27-3" scope="local" translate="no" type="figure">2</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="11-04-02-42-repair-11-04-02-01-37-1-27-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028459_LAY-000032326.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the relay and replace it with the 3-pin shunt supplied with the Safir 2 computer.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The Safir 2 computer is supplied with two types of shunt (2 and 3 pins) depending on the vehicle's relay type.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e152" translate="no">
+         <title translate="yes">When replacing a Safir 1 injection computer with a Safir 2 injection computer</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="11-04-02-43-repair-11-04-02-01-37-1-27-6" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000028460_LAY-000032327.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the relay and replace it with the 2-pin shunt supplied with the Safir 2 computer.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The Safir 2 computer is supplied with two types of shunt (2 and 3 pins) depending on the vehicle's relay type.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e167" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e171" translate="no">
+         <title translate="yes">refitting operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the injection computer<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488842">
+                        <linkdesc>injection computer : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000405</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e181" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Connect the battery<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3511330">
+                        <linkdesc>12 V battery : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000248</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Try to start the engine.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X06/D7F/700,701|X57/D7F|X65/D7F/720" translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">If the vehicle does not start, check the presence of the shunt and that it is correctly fitted in place of the injection locking relay.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

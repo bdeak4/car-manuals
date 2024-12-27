@@ -1,0 +1,38 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-0",
+      "filename": "M.R. 337 - 0 General phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-0.pdf"
+    },
+    {
+      "id": "613a713776b5af1c1b2166e3",
+      "filename": "removal of vehicle protection : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001837252.xml"
+    },
+    {
+      "id": "674a4b36c8abde6626f99e54",
+      "filename": "PHEV rechargeable hybrid new vehicle preparation: description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-002130811.xml"
+    },
+    {
+      "id": "674a4b38c8abde6626f99e55",
+      "filename": "HEV hybrid and combustion new vehicle preparation: description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-002130845.xml"
+    },
+    {
+      "id": "674a4b3bc8abde6626f99e56",
+      "filename": "new electric vehicle preparation: description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-002130797.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21561.png"
+    }
+  ]
+}

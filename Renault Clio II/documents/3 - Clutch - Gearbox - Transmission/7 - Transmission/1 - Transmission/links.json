@@ -1,0 +1,64 @@
+{
+  "PR": [
+    {
+      "id": "1247_290210",
+      "filename": "1247_290210.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084107.svg"
+    },
+    {
+      "id": "1247_290113",
+      "filename": "1247_290113.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01016335.svg"
+    },
+    {
+      "id": "1247_290118",
+      "filename": "1247_290118.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01038790.svg"
+    },
+    {
+      "id": "1247_290330",
+      "filename": "1247_290330.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01024803.svg"
+    },
+    {
+      "id": "1247_290410",
+      "filename": "1247_290410.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01056002.svg"
+    },
+    {
+      "id": "1247_290510",
+      "filename": "1247_290510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01056004.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "5af2fb34c3da7a00dc225f93",
+      "filename": "driveshaft assembly: precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000189479.xml"
+    },
+    {
+      "id": "5af9600a3ef64d00e0ef8ca8",
+      "filename": "front left-hand wheel driveshaft : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000192521.xml"
+    },
+    {
+      "id": "5af960db3ef64d00e0ef8d5e",
+      "filename": "front right-hand wheel driveshaft : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000192409.xml"
+    },
+    {
+      "id": "5b081b3ed02e7d00dc4566f2",
+      "filename": "driveshaft gaiter: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000497850.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22016.png"
+    }
+  ]
+}

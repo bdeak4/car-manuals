@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XR4|XRQ|XTP|XZH|XHA|XFF|XJD|XJA|XJE|XJB|XJK|XJF|XFK|XJL|XHN|XCB|X1310|XBB|X27|X58|XBC|XZG|X55|XDD|XDE|XBG|X59|XEF|X17|X41|X42|XZJ|XFA|X75|XJ1|XJC|XJH|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000332009" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">paintwork touch up : preparation and paint range</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 05:03" translate="no"/>
+         <revised modified="10/10/24 13:47" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">paintwork touch up : preparation and paint range</siename>
+         <sieversion translate="no">F.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000332009</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">The paint touch-ups on the matt paints are impossible, it is necessary to repaint the element.</para>
+         </noteR>
+         <para translate="yes">Touch up for faults:</para>
+         <ul translate="no">
+            <li translate="yes">Procedure 1 : Grains,</li>
+            <li translate="yes">Procedure 2 : Drips,</li>
+            <li translate="yes">Procedure 3 : Orange peel,</li>
+            <li translate="yes">Procedure 4 : Superficial scratches,</li>
+            <li translate="yes">Procedures 5 : Polishing method.</li>
+         </ul>
+      </introduction>
+   </descbody>
+   <description id="d1e149" translate="no">
+      <title translate="yes">The products</title>
+      <descbody translate="no">
+         <ul translate="no">
+            <li translate="yes">Polishing liquid<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                  <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                  <linkvalue>GIEMR-002445</linkvalue>
+               </sieref>(04B, Consumables - Products),</li>
+            <li translate="yes">Finishing liquid<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                  <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                  <linkvalue>GIEMR-002445</linkvalue>
+               </sieref>(04B, Consumables - Products).</li>
+         </ul>
+      </descbody>
+   </description>
+   <description id="d1e164" translate="no">
+      <title translate="yes">Procedure descriptions</title>
+      <descbody translate="no"/>
+      <description id="d1e168" translate="no">
+         <title translate="yes">PROCEDURE: GRAINS</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Sand using the orbital sander or manual sanding block by graduating the sanding</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P1500 to P2000</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Finish with sanding finishing</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">(see 5 - PROCEDURE: POLISHING )</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e222" translate="no">
+         <title translate="yes">PROCEDURE: DRIPS</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Sand using the orbital sander or manual sanding block by graduating the sanding</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P1500 to P2000</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Finish with sanding finishing</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">(see 5 - PROCEDURE: POLISHING )</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e276" translate="no">
+         <title translate="yes">PROCEDURE: ORANGE PEEL</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Sand using the orbital sander or manual sanding block by graduating the sanding</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P1500 to P2000</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Finish with sanding finishing</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">(see 5 - PROCEDURE: POLISHING )</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e330" translate="no">
+         <title translate="yes">PROCEDURE: SUPERFICIAL SCRATCHES</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Pass an indelible pen or paint across the scratch to use as a guide for sanding</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">White or black according to the colour of the support</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Start by sanding to reduce the scratch without removing the sanding guide completely</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P1500</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">3</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Then, sand until the guide has totally disappeared by graduating the sanding</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P2000</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">4</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Finish with sanding finishing</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">(see 5 - PROCEDURE: POLISHING )</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e404" translate="no">
+         <title translate="yes">PROCEDURE: POLISHING</title>
+         <descbody translate="no">
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">The temperature of plastic materials increase very quickly during the glazing process and the paint softens.</para>
+            </noteR>
+            <descsection translate="no">
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Use a little polishing liquid on the felt disc or on the foam plate</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Polishing liquid</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Repaint the sanded zone and the whole component</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P2000</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">3</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Polish until the product has disappeared</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">The abrasion will decrease progressively during polishing</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">4</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Use a little polishing liquid on the felt disc or on the foam plate</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Polishing liquid</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">5</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Wipe with a sheepskin finishing cloth</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Sheepskin</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+   </description>
+</description>

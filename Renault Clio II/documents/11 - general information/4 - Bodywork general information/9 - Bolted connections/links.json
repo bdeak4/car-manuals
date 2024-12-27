@@ -1,0 +1,78 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "5af5b00108813b00dc4cf42b",
+      "filename": "bolted assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323159.xml"
+    },
+    {
+      "id": "5af5afc408813b00dc4cf3f6",
+      "filename": "bolted assembly with crimped mounting : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323147.xml"
+    },
+    {
+      "id": "5af5b0d608813b00dc4cf51f",
+      "filename": "bolted assembly with welded stud : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323929.xml"
+    },
+    {
+      "id": "5af5b11008813b00dc4cf561",
+      "filename": "bolted assembly with flowdrilled nut : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323916.xml"
+    },
+    {
+      "id": "5af5b16f08813b00dc4cf5c2",
+      "filename": "bolted assembly with welded nut : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323905.xml"
+    },
+    {
+      "id": "5b081484d02e7d00dc45640e",
+      "filename": "bolted assembly with welded nut : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000481275.xml"
+    },
+    {
+      "id": "60edfda464bda8419466624d",
+      "filename": "earth connection on body : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001823313.xml"
+    },
+    {
+      "id": "5af5b3a008813b00dc4cf7c5",
+      "filename": "bolted assembly with crimped mounting : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000323560.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

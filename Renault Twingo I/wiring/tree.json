@@ -1,0 +1,2862 @@
+{
+  "nodes": [
+    {
+      "nodeId": "2002",
+      "label": "PASSENGER COMPARTMENT COMFORT",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3065",
+          "label": "RADIO",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "337",
+              "label": "RADIO",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0065.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0065_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3060",
+          "label": "ENGINE COOLING FAN ASSEMBLY",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3007",
+          "label": "AIR CONDITIONING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "82",
+              "label": "BASIC HEATING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0012.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0012_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3079",
+          "label": "AIR CONDITIONING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "551",
+          "label": "INTERIOR AND DOOR LIGHTING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "156",
+              "label": "COURTESY LIGHTING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0031.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0031_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0032.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0032_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3052",
+          "label": "COURTESY MIRROR LIGHTING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "156",
+              "label": "COURTESY LIGHTING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0031.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0031_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0032.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0032_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3006",
+          "label": "HEATING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "82",
+              "label": "BASIC HEATING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0012.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0012_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3051",
+          "label": "LUGGAGE COMPARTMENT LIGHTING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "147",
+              "label": "LUGGAGE COMPARTMENT LIGHTING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0029.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0029_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0030.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0030_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3009",
+          "label": "ELECTRIC WINDOWS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "258",
+              "label": "FRONT ELECTRIC WINDOWS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0056.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0056_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3010",
+          "label": "ELECTRIC WINDOW",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "258",
+              "label": "FRONT ELECTRIC WINDOWS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0056.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0056_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3036",
+          "label": "DOOR MIRROR DE-ICER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "435",
+              "label": "ELECTRIC REAR-VIEW DE-ICING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "358",
+              "label": "ELECTRIC REAR-VIEW MIRRORS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3012",
+          "label": "ADJUSTABLE DOOR MIRROR",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "435",
+              "label": "ELECTRIC REAR-VIEW DE-ICING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "358",
+              "label": "ELECTRIC REAR-VIEW MIRRORS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3069",
+          "label": "SUNROOF",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "422",
+              "label": "ELECTRIC SUNROOF",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0077.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0077_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3005",
+          "label": "CIGARETTE LIGHTER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "37",
+              "label": "CIGARETTE LIGHTER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0006.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0006_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3078",
+          "label": "CIGARETTE LIGHTER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "37",
+              "label": "CIGARETTE LIGHTER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0006.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0006_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3063",
+          "label": "ACCESSORIES SOCKET",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "37",
+              "label": "CIGARETTE LIGHTER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0006.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0006_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2007",
+      "label": "ON-BOARD INSTRUMENTS",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3033",
+          "label": "OIL PRESSURE",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "396",
+              "label": "OIL PRESSURE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0072.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0072_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0073.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0073_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "432",
+          "label": "VEHICLE SPEED",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "547",
+              "label": "VEHICLE SPEED SIGNAL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0085.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0085_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0080.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0080_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0082.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0082_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0084.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0084_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0079.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0079_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0083.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0083_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0081.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0081_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3047",
+          "label": "ELECTRONIC STABILITY PROGRAM",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "547",
+              "label": "VEHICLE SPEED SIGNAL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0085.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0085_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0080.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0080_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0082.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0082_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0084.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0084_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0079.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0079_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0083.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0083_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0081.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0081_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3028",
+          "label": "MINIMUM BRAKE FLUID",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "863",
+          "label": "PARKING BRAKE",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3068",
+          "label": "INSTRUMENT PANEL",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "383",
+              "label": "INSTRUMENT PANEL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0070.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0070_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0069.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0069_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3064",
+          "label": "DIAGNOSTIC SOCKET",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "334",
+              "label": "DIAGNOSTICS SOCKET",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0064.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0064_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3041",
+          "label": "ADJUSTABLE HEADLIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "383",
+              "label": "INSTRUMENT PANEL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0070.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0070_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0069.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0069_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2010",
+      "label": "VISIBILITY AND SIGNALLING",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3059",
+          "label": "BRAKE LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "214",
+              "label": "BRAKE LIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0041.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0041_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0042.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0042_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0044.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0044_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0043.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0043_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3056",
+          "label": "REVERSE GEAR LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "199",
+              "label": "REVERSING LIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0037.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0037_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "552",
+              "label": "FOGLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0036.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0036_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "185",
+              "label": "REAR FOGLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0036.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0036_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3058",
+          "label": "MAIN BEAM HEADLIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "189",
+              "label": "DIPPED AND MAIN BEAM HEADLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "201",
+              "label": "SIDELIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3057",
+          "label": "SIDE LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "189",
+              "label": "DIPPED AND MAIN BEAM HEADLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "201",
+              "label": "SIDELIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3055",
+          "label": "DAYTIME RUNNING LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "189",
+              "label": "DIPPED AND MAIN BEAM HEADLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "201",
+              "label": "SIDELIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3054",
+          "label": "DIPPED BEAM HEADLIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "189",
+              "label": "DIPPED AND MAIN BEAM HEADLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "201",
+              "label": "SIDELIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0040.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0040_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0039.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0039_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3072",
+          "label": "FOG LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "552",
+              "label": "FOGLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0036.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0036_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "185",
+              "label": "REAR FOGLIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0036.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0036_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0035.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0035_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3036",
+          "label": "DOOR MIRROR DE-ICER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "435",
+              "label": "ELECTRIC REAR-VIEW DE-ICING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "358",
+              "label": "ELECTRIC REAR-VIEW MIRRORS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3012",
+          "label": "ADJUSTABLE DOOR MIRROR",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "435",
+              "label": "ELECTRIC REAR-VIEW DE-ICING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "358",
+              "label": "ELECTRIC REAR-VIEW MIRRORS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0068.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0068_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3038",
+          "label": "WINDSCREEN WIPING AND WASHING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "181",
+              "label": "FRONT AND REAR SCREEN WASHER/WIPERS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0034.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0034_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3037",
+          "label": "REAR SCREEN WIPING AND WASHING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "181",
+              "label": "FRONT AND REAR SCREEN WASHER/WIPERS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0034.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0034_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3068",
+          "label": "INSTRUMENT PANEL",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "383",
+              "label": "INSTRUMENT PANEL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0070.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0070_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0069.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0069_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3041",
+          "label": "ADJUSTABLE HEADLIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "383",
+              "label": "INSTRUMENT PANEL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0070.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0070_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0069.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0069_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "110",
+              "label": "HEADLIGHT HEIGHT ADJUSTMENT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0022.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0022_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3061",
+          "label": "INDICATOR AND HAZARD WARNING LIGHTS",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "226",
+              "label": "DIRECTION INDICATORS AND HAZARD WARNING LIGHTS",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0047.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0047_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3042",
+          "label": "HORN",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "57",
+              "label": "HORN",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0009.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0009_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3048",
+          "label": "REAR SCREEN DE-ICER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "118",
+              "label": "REAR WINDOW DE-ICING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0023.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0023_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2004",
+      "label": "ENGINE CHECK",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3060",
+          "label": "ENGINE COOLING FAN ASSEMBLY",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0067.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0067_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0066.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0066_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3007",
+          "label": "AIR CONDITIONING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3079",
+          "label": "AIR CONDITIONING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "102",
+              "label": "AIR CONDITIONING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "348",
+              "label": "ENGINE COOLING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0020.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0020_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0019.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0019_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0021.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0021_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0018.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0018_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3046",
+          "label": "STARTING CIRCUIT",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "90",
+              "label": "STARTING CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "86",
+              "label": "CHARGE CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3045",
+          "label": "CHARGING CIRCUIT",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "90",
+              "label": "STARTING CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "86",
+              "label": "CHARGE CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3062",
+          "label": "ELECTRONIC INJECTION",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "240",
+              "label": "ELECTRONIC INJECTION",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0049.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0049_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0051.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0051_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0052.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0052_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0048.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0048_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0055.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0055_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0050.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0050_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2008",
+      "label": "AXLE ASSEMBLY",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3050",
+          "label": "POWER-ASSISTED STEERING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "141",
+              "label": "VARIABLE POWER ASSISTED STEERING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0025.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0025_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0027.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0027_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0024.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0024_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0028.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0028_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0026.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0026_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "432",
+          "label": "VEHICLE SPEED",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "547",
+              "label": "VEHICLE SPEED SIGNAL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0085.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0085_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0080.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0080_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0082.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0082_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0084.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0084_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0079.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0079_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0083.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0083_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0081.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0081_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3047",
+          "label": "ELECTRONIC STABILITY PROGRAM",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "547",
+              "label": "VEHICLE SPEED SIGNAL",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0085.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0085_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0080.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0080_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0082.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0082_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0084.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0084_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0079.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0079_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0083.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0083_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0081.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0081_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "44",
+              "label": "ANTI-LOCK BRAKING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0008.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0008_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3028",
+          "label": "MINIMUM BRAKE FLUID",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "863",
+          "label": "PARKING BRAKE",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3068",
+          "label": "INSTRUMENT PANEL",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "403",
+              "label": "BRAKE FLUID LEVEL WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "394",
+              "label": "HANDBRAKE WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0075.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0075_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0074.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0074_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3035",
+          "label": "ANTI-LOCK BRAKING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "44",
+              "label": "ANTI-LOCK BRAKING SYSTEM",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0008.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0008_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2005",
+      "label": "ELECTRICAL DISTRIBUTION",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3046",
+          "label": "STARTING CIRCUIT",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "90",
+              "label": "STARTING CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "86",
+              "label": "CHARGE CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3045",
+          "label": "CHARGING CIRCUIT",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "90",
+              "label": "STARTING CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "86",
+              "label": "CHARGE CIRCUIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0014.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0014_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0015.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0015_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0013.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0013_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "306",
+          "label": "ENGINE FUSE BOARD",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "599",
+              "label": "ENGINE FUSE BOARD SECTION 1",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0059.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0059_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0062.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0062_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0063.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0063_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0060.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0060_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "526",
+              "label": "POWER FUSE BOARD",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0057.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0057_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "758",
+          "label": "EARTH DISTRIBUTION",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "279",
+              "label": "EARTH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0003.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0003_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0001.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0001_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0002.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0002_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3022",
+          "label": "SUPPLY DISTRIBUTION",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "526",
+              "label": "POWER FUSE BOARD",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0057.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0057_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3087",
+          "label": "PASSENGER COMPARTMENT FUSE BOARD",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "526",
+              "label": "POWER FUSE BOARD",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0057.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0057_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "304",
+              "label": "PASSENGER COMPARTMENT FUSE BOARD",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0058.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0058_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "65",
+              "label": "PASSENGER COMPARTMENT INTER-CONNECTION UNIT SECTION 1",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0011.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0011_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "431",
+          "label": "SOFTWARE LOCK",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2009",
+      "label": "PASSENGER COMPARTMENT SAFETY",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "3076",
+          "label": "AIR BAG",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "13",
+              "label": "AIR BAG AND SEAT BELT PRETENSIONER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0005.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0005_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0004.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0004_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3084",
+          "label": "AIRBAG",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "13",
+              "label": "AIR BAG AND SEAT BELT PRETENSIONER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0005.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0005_THUMB.PNG"
+                },
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0004.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0004_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "22",
+              "label": "AIR BAG AND SEAT BELT WARNING LIGHT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0071.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0071_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2001",
+      "label": "DRIVING ASSISTANCE",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "6",
+          "label": "PARKING DISTANCE CONTROL",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3002",
+          "label": "EQUIPMENT LOCK",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3001",
+          "label": "DEADLOCKING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3000",
+          "label": "CENTRAL DOOR LOCKING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "2000",
+      "label": "ANTI-THEFT",
+      "level": 1,
+      "childNodes": [
+        {
+          "nodeId": "6",
+          "label": "PARKING DISTANCE CONTROL",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3002",
+          "label": "EQUIPMENT LOCK",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3001",
+          "label": "DEADLOCKING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3000",
+          "label": "CENTRAL DOOR LOCKING",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "100",
+              "label": "DOOR LOCKING",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0017.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0017_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "431",
+          "label": "SOFTWARE LOCK",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3022",
+          "label": "SUPPLY DISTRIBUTION",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3087",
+          "label": "PASSENGER COMPARTMENT FUSE BOARD",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "486",
+              "label": "UCH",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            },
+            {
+              "nodeId": "427",
+              "label": "PASSENGER COMPARTMENT CONTROL UNIT",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0078.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0078_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeId": "3070",
+          "label": "TRANSPONDER",
+          "level": 2,
+          "childNodes": [
+            {
+              "nodeId": "43",
+              "label": "IMMOBILISER TRANSPONDER",
+              "level": 3,
+              "associatedDocument": [
+                {
+                  "type": "WD_WIRING",
+                  "count": 1,
+                  "ids": ["8232_COMMUN/PDF/SCH/0007.PDF"],
+                  "urlVignette": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/WIRING/0007_THUMB.PNG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

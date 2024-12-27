@@ -1,0 +1,34 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "3424",
+      "filename": "Radio: Becker navigation system.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3424.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2863",
+      "filename": "INSTRUMENT PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2863.pdf"
+    },
+    {
+      "id": "2669",
+      "filename": "PRINCIPLE OF OPERATION AND FAULT FINDING -  HOW FUEL GAUGE WORKS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2669.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21886.png"
+    }
+  ]
+}

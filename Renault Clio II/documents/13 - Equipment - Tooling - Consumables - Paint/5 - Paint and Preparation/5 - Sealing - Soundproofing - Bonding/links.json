@@ -1,0 +1,58 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "5af5abce08813b00dc4cf041",
+      "filename": "window cement bead : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000378878.xml"
+    },
+    {
+      "id": "5af5afa308813b00dc4cf3d5",
+      "filename": "roof opening element bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000379470.xml"
+    },
+    {
+      "id": "5af5b11208813b00dc4cf563",
+      "filename": "sealing general information : contents.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000396832.xml"
+    },
+    {
+      "id": "5af5b17808813b00dc4cf5cf",
+      "filename": "bodywork sealing product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000009125.xml"
+    },
+    {
+      "id": "5af5b13608813b00dc4cf58b",
+      "filename": "window bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000380678.xml"
+    },
+    {
+      "id": "5af5b10a08813b00dc4cf55a",
+      "filename": "vehicle sealing : general information.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000396818.xml"
+    },
+    {
+      "id": "5af5b16708813b00dc4cf5ba",
+      "filename": "sealing tooling : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000010093.xml"
+    },
+    {
+      "id": "5af5b2be08813b00dc4cf6f3",
+      "filename": "sealing tooling : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000009607.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21451.png"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X24|X33|X35|X38/APL03|X44|X45|X52|X61|X62|X65|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XHA|XZG|XZJ|XJD|XFA|XJA|XJC|XJB|XJE|XJL|XJH|XJK|XJF|XFK|XCB|X1316|XDD|X1317|XR210|XR310|XZ110|X1322" id="RPR-002088406" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">tyre : removal - refitting</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="08/02/24 10:33" translate="no"/>
+      <revised modified="08/02/24 14:05" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">tyre : removal - refitting</siename>
+      <sieversion translate="no">A.2</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-002088427</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="d1e83" otherprops="WF-SET='01,34'" translate="no">
+    <title translate="yes">removal operation</title>
+    <procedure id="d1e87" translate="no">
+      <title translate="yes">removal operation preparation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the vehicle on a two-post lift<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3500084"><linkdesc>vehicle: towing and lifting</linkdesc><linkvalue>GIEMR-002447</linkvalue></sieref>(02A, Lifting equipment).</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove :</para>
+            <ul translate="no">
+              <li translate="yes">the wheel in question<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435"><linkdesc>wheel : removal - refitting</linkdesc><linkvalue>GIEMR-001965</linkvalue></sieref>,</li>
+              <li translate="yes">the balance weights,</li>
+              <li translate="yes">the valve mechanism.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e110" translate="no">
+      <title translate="yes">REMOVAL OPERATION</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <noteR translate="no" type="caution">
+              <para translate="yes">On vehicles equipped with a tyre pressure sensor: to avoid any damage to the sensor, make sure that the tyre bead never pushes against the sensor.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-05-02-1-repair-13-05-02-01-37-1-1-3" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000987.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000451390-05-02-1-repair-13-05-02-01-37-1-1-3-000000987</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Detach:</para>
+            <ul translate="no">
+              <li translate="yes">the bead from the outside of the tyre, starting with the side opposite the valve,</li>
+              <li translate="yes">the bead from the inside of the tyre.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <figure id="13-05-02-2-repair-13-05-02-01-37-1-1-4" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000988.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000451390-05-02-2-repair-13-05-02-01-37-1-1-4-000000988</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Position the tyre lever approximately <technicalvalue translate="no"><value translate="yes">15 cm</value></technicalvalue> from the valve on the outside of the wheel rim in order to remove the exterior bead from the wheel rim.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Remove the exterior bead of the tyre, finishing at the valve.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the tyre lever approximately <technicalvalue translate="no"><value translate="yes">15 cm</value></technicalvalue> from the valve on the outside of the wheel rim in order to remove the interior bead from the wheel rim.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the interior bead of the tyre, finishing at the valve.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the pressure sensor on vehicles equipped with a tyre inflation pressure detection function<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3497404"><linkdesc>tyre pressure monitor valve : removal - refitting</linkdesc><linkvalue>GIEMR-002394</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e290" otherprops="WF-SET='01,61'" translate="no">
+    <title translate="yes">refitting</title>
+    <procedure id="d1e294" translate="no">
+      <title translate="yes">refitting preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para id="par1" translate="yes">On vehicles not equipped with a tyre inflation pressure detection function:</para>
+<para translate="yes"> <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Tyre valve</prs>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Always replace the pressure sensor bolt on vehicles equipped with a tyre inflation pressure detection function.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Correctly lubricate the two tyre beads using <ingredientname translate="yes">tyre paste</ingredientname> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle: parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e439" translate="no">
+      <title translate="yes">refitting operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the pressure sensor on vehicles equipped with a tyre inflation pressure detection function<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3497404"><linkdesc>tyre pressure monitor valve : removal - refitting</linkdesc><linkvalue>GIEMR-002394</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the inner bead at approximately <technicalvalue translate="no"><value translate="yes">15 cm</value></technicalvalue> from the valve.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the tyre finishing at the valve.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Fit the exterior bead approximately <technicalvalue translate="no"><value translate="yes">15 cm</value></technicalvalue> after the valve using the tyre lever.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Inflate the tyre to <technicalvalue translate="no"><value translate="yes">3.5 bar</value></technicalvalue> to push the tyre beads against the wheel rim.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e522" translate="no">
+      <title translate="yes">final operation.</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the valve mechanism.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Inflate the tyre to the recommended pressure.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">It is not necessary to drive the vehicle before and after a new wheel is balanced.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Balance the wheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532523"><linkdesc>wheel : balancing</linkdesc><linkvalue>GIEMR-001966</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the wheel in question<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435"><linkdesc>wheel : removal - refitting</linkdesc><linkvalue>GIEMR-001965</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

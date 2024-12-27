@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XJB|XJK|XJF|XFK|XBG|XHN|XJL|XCB|X27|X58|XDD|X59|X17|X41|X42|X09|X75|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010996" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">body structure cutting tools : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 03:24" translate="no"/>
+         <revised modified="10/10/24 13:40" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">body structure cutting tools : description</siename>
+         <sieversion translate="no">N.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010996</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e110" translate="no">
+      <title translate="yes">straight line cutting</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a cutter wheel on an angle grinder (<technicalvalue translate="no">
+                  <value translate="yes">10,000 rpm</value>
+               </technicalvalue>) fitted with speed control.</para>
+            <figure id="00-04-03-44-repair-00-04-03-08-02-21-2-1-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017652_LAY-000002111.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010996-04-03-44-repair-00-04-03-08-02-21-2-1-1-000017652</illusnum>
+            </figure>
+            <para translate="yes">Advantages:</para>
+            <ul translate="no">
+               <li translate="yes">Direct cutting anywhere on the sheet without drilling.</li>
+               <li translate="yes">Ideal for cuts over partial replacements.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Does not allow curved cutting.</li>
+               <li translate="yes">Causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e158" translate="no">
+      <title translate="yes">curved cutting</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a jigsaw with a small blade (<technicalvalue translate="no">
+                  <value translate="yes">5,000 cycles per minute</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-140-repair-00-04-03-08-02-21-2-1-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017298_LAY-000002112.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010996-04-03-140-repair-00-04-03-08-02-21-2-1-2-000017298</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Can be used for curved cuts with a minimum radius of<technicalvalue translate="no">
+                     <value translate="yes">25 mm</value>
+                  </technicalvalue>.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Fine metal filings that get into fabric and the window weather strips.</li>
+               <li translate="yes">Straight cutting very difficult.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e207" translate="no">
+      <title translate="yes">structure member cutting</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a jigsaw with a small blade (<technicalvalue translate="no">
+                  <value translate="yes">5,000 cycles per minute</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-29-repair-00-04-03-08-02-21-2-1-3" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017069_LAY-000002113.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010996-04-03-29-repair-00-04-03-08-02-21-2-1-3-000017069</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Allows cutting in complex shapes.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Fine metal filings that get into fabric and the window weather strips.</li>
+               <li translate="yes">Straight cutting very difficult.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e251" translate="no">
+      <title translate="yes">straight cutting of a structure member</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a jigsaw with a large blade (<technicalvalue translate="no">
+                  <value translate="yes">5,000 cycles per minute</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-66-repair-00-04-03-08-02-21-2-1-4" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016162_LAY-000002114.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010996-04-03-66-repair-00-04-03-08-02-21-2-1-4-000016162</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Straight cutting of a big section.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Fine metal filings that get into fabric and the window weather strips.</li>
+               <li translate="yes">Precise curved cutting minimum radius<technicalvalue translate="no">
+                     <value translate="yes">100 mm</value>
+                  </technicalvalue>.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e300" translate="no">
+      <title translate="yes">cutting a protruding square</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a deburring disk on a stone cutter (<technicalvalue translate="no">
+                  <value translate="yes">2,000 rpm</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-32-repair-00-04-03-08-02-21-2-1-5" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017072_LAY-000002115.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010996-04-03-32-repair-00-04-03-08-02-21-2-1-5-000017072</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Cutting a protruding square out of a thin piece.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+               <li translate="yes">Makes a very sharp burr on the sheet edge.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+</description>

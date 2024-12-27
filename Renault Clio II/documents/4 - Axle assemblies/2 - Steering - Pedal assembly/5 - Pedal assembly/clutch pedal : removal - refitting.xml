@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/BVM5|X65/BVM5" id="RPR-000268581" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">clutch pedal : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e12" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e16" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps appl="X35/BVM5/JB1,JB3" translate="no">
+               <marklayer id="marklayer-d1e18" translate="no">
+                  <mark id="MARK.REPAIR-30X03X01X02-01X37-1-33.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-6-repair-30-03-01-02-01-37-1-33-5" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000022465_LAY-000067575.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the clutch control cable from the sleeve stop<markref format="dita" href="#d1e16/12-03-01-07-6-repair-30-03-01-02-01-37-1-33-5" scope="local" translate="no" type="figure">1</markref>to loosen the cable.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/BVM5/JB1" translate="no">
+               <marklayer id="marklayer-d1e42" translate="no">
+                  <mark id="MARK.REPAIR-30X03X01X02-01X37-1-33.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-2-repair-30-03-01-02-01-37-1-33-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012123_LAY-000067578.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the clutch control cable from the sleeve stop<markref format="dita" href="#d1e16/12-03-01-07-2-repair-30-03-01-02-01-37-1-33-9" scope="local" translate="no" type="figure">1</markref>to loosen the cable.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/BVM5/JB1,JB3|X65/BVM5/JB1" translate="no">
+               <figure id="30-03-01-02-18-repair-30-03-01-02-01-37-1-33-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000006155_LAY-000067576.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the clutch cable from the pedal housing, by lifting the pedal and placing the cable perpendicular to the pedal.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/BVM5/JH3,JR5|X65/BVM5/JH3,JR5" translate="no">
+               <marklayer id="marklayer-d1e83" translate="no">
+                  <mark id="MARK.REPAIR-30X03X01X02-01X37-1-33.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-04-02-02-21-repair-30-03-01-02-01-37-1-33-8" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000031680_LAY-000067577.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Unclip the clutch master cylinder ball joint<markref format="dita" href="#d1e16/12-04-02-02-21-repair-30-03-01-02-01-37-1-33-8" scope="local" translate="no" type="figure">2</markref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e114" translate="no">
+         <title translate="yes">removal operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e116" translate="no">
+                  <mark id="MARK.REPAIR-30X03X01X02-01X37-1-33.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-30X03X01X02-01X37-1-33.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="30-03-04-02-6-repair-30-03-01-02-01-37-1-33-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000040702_LAY-000067574.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the nut<markref format="dita" href="#d1e114/30-03-04-02-6-repair-30-03-01-02-01-37-1-33-4" scope="local" translate="no" type="figure">3</markref>from the pedal assembly shaft.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the shaft to release the clutch pedal.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bolt<markref format="dita" href="#d1e114/30-03-04-02-6-repair-30-03-01-02-01-37-1-33-4" scope="local" translate="no" type="figure">4</markref>,</li>
+                     <li translate="yes">the clutch pedal.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e154" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e158" translate="no">
+         <title translate="yes">refitting operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch pedal,</li>
+                     <li translate="yes">the clutch pedal shaft.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e170" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps appl="X35/BVM5/JH3,JR5|X65/BVM5/JH3,JR5" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clip on the clutch master cylinder ball joint.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/BVM5/JB1,JB3|X65/BVM5/JB1" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch cable into the pedal housing,</li>
+                     <li translate="yes">the control cable into the sleeve stop.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

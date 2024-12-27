@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1204_460110",
+      "filename": "1204_460110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085096.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0388",
+      "filename": "RE-PROOFING THE LOWER WING PANEL ROUNDED SECTION TO ACCOMMODATE SNOW CHAINS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0388.pdf"
+    },
+    {
+      "id": "0346",
+      "filename": "NEW POSITION OF BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0346.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5a95708813b00dc4cee36",
+      "filename": "plastic bodywork component : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000314970.xml"
+    },
+    {
+      "id": "5af5b0d808813b00dc4cf521",
+      "filename": "plastic bodywork component : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000314950.xml"
+    },
+    {
+      "id": "5af596eec3da7a00dc22ae72",
+      "filename": "vehicle front section : sealing repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000005417.xml"
+    },
+    {
+      "id": "5af596e6c3da7a00dc22ae68",
+      "filename": "vehicle front section : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000004796.xml"
+    },
+    {
+      "id": "5af5b39408813b00dc4cf7ba",
+      "filename": "plastic bodywork component : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000314936.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21583.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "2552",
+      "filename": "AIR RECYCLING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2552.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-6",
+      "filename": "M.R. 305 - 6 HEATING AND VENTILATION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-6.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3038",
+      "filename": "Air conditioning Twingo phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3038.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21874.png"
+    }
+  ]
+}

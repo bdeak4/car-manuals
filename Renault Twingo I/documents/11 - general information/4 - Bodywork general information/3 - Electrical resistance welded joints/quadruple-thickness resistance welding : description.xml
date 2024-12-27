@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XFE|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XFF|XZJ|X55|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X27|X58|XDD|X59|XEF|X17|X41|X42|X09|X75|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323509" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">quadruple-thickness resistance welding : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="22/09/21 09:28" translate="no"/>
+         <revised modified="10/10/24 13:44" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">quadruple-thickness resistance welding : description</siename>
+         <sieversion translate="no">P.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323509</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <noteR translate="no" type="note">
+         <para translate="yes">Note:</para>
+         <para translate="yes">Original welding on four thickness types is very rare. When it exists, it is only the consequence of an assembly problem. Often the panels in the stack are welded two by two and the connection between the inner panels is not done.</para>
+      </noteR>
+   </descbody>
+   <description id="d1e115" translate="no">
+      <title translate="yes">disassembly</title>
+      <descbody translate="no"/>
+      <description id="d1e119" translate="no">
+         <title translate="yes">Scouring</title>
+         <descbody translate="no">
+            <para translate="yes">If necessary, scour the joint lines to make the spot weld appear on both sides of the joint.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927">
+                  <linkdesc>bodywork cleaning tools : description</linkdesc>
+                  <linkvalue>GIEMR-001618</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                  <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                  <linkvalue>GIEMR-001617</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e131" translate="no">
+         <title translate="yes">Unpicking</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <marklayer id="marklayer-d1e133" translate="no">
+                  <mark id="MARK.REPAIR-40X01X24X08-02X21-1-1.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-40X01X24X08-02X21-1-1.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="00-04-03-145-repair-40-01-24-08-02-21-1-1-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017303_LAY-000075929.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323509-04-03-145-repair-40-01-24-08-02-21-1-1-1-000017303</illusnum>
+               </figure>
+               <para translate="yes">Unpick the spot welds on each side<markref format="dita" href="#d1e131/00-04-03-145-repair-40-01-24-08-02-21-1-1-1" scope="local" translate="no" type="figure">1</markref>and<markref format="dita" href="#d1e131/00-04-03-145-repair-40-01-24-08-02-21-1-1-1" scope="local" translate="no" type="figure">2</markref>of the assembly.</para>
+               <para translate="yes">Remove the damaged part.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479040">
+                     <linkdesc>body structure unpicking tools : use</linkdesc>
+                     <linkvalue>GIEMR-001620</linkvalue>
+                  </sieref>
+               </para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">Use a hardened steel bit to preserve the retained panels.</para>
+               </noteR>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e171" translate="no">
+         <title translate="yes">Grinding</title>
+         <descbody translate="no">
+            <para translate="yes">Level off the weld residue on the two faces<markref format="dita" href="#d1e131/00-04-03-145-repair-40-01-24-08-02-21-1-1-1" scope="local" translate="no" type="figure">1</markref>and<markref format="dita" href="#d1e131/00-04-03-145-repair-40-01-24-08-02-21-1-1-1" scope="local" translate="no" type="figure">2</markref>.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                  <linkdesc>shaving tools : description</linkdesc>
+                  <linkvalue>GIEMR-001611</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e184" translate="no">
+      <title translate="yes">presentation before assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e188" translate="no">
+         <title translate="yes">Adjustment before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Position the replacement part, adjust it and fix it using the locking pliers.</para>
+            <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e199" translate="no">
+         <title translate="yes">Marking and identifying the joints</title>
+         <descbody translate="no">
+            <para translate="yes">Mark the joint areas, around the drilling holes.</para>
+            <para translate="yes">Remove the replacement part.</para>
+         </descbody>
+      </description>
+      <description id="d1e207" translate="no">
+         <title translate="yes">Preparation of the joints on the replacement part</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-155-repair-40-01-24-08-02-21-1-1-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016170_LAY-000075930.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323509-04-03-155-repair-40-01-24-08-02-21-1-1-2-000016170</illusnum>
+               </figure>
+               <para translate="yes">Scour the two mating faces.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                     <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                     <linkvalue>GIEMR-001617</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e221" translate="no">
+         <title translate="yes">Preparation of the joints on the vehicle</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-156-repair-40-01-24-08-02-21-1-1-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016171_LAY-000075931.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323509-04-03-156-repair-40-01-24-08-02-21-1-1-3-000016171</illusnum>
+               </figure>
+               <para translate="yes">Scour the two mating faces.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927">
+                     <linkdesc>bodywork cleaning tools : description</linkdesc>
+                     <linkvalue>GIEMR-001618</linkvalue>
+                  </sieref>
+               </para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                     <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                     <linkvalue>GIEMR-001617</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e238" translate="no">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Fit the sound insulation inserts into the hollow sections, if necessary.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524920">
+                  <linkdesc>soundproofing product before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001673</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection to the internal mating faces according to the type of weld.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465485">
+                  <linkdesc>anti-corrosion protection before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001838</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e252" translate="no">
+      <title translate="yes">assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e256" translate="no">
+         <title translate="yes">Fitting and adjusting the replaced parts</title>
+         <descbody translate="no">
+            <para translate="yes">Reposition the replacement part, adjust it and fix it using the locking pliers.</para>
+            <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e267" translate="no">
+         <title translate="yes">Adjusting the welder</title>
+         <descbody translate="no">
+            <para translate="yes">GMAW joint</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3471871">
+                  <linkdesc>MIG/MAG/TIG welding : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002091</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e276" translate="no">
+         <title translate="yes">Carrying out the welding</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-146-repair-40-01-24-08-02-21-1-1-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017803_LAY-000075932.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323509-04-03-146-repair-40-01-24-08-02-21-1-1-4-000017803</illusnum>
+               </figure>
+               <para translate="yes">Do the plug welds.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438">
+                     <linkdesc>MIG/MAG/TIG welding : description</linkdesc>
+                     <linkvalue>GIEMR-002090</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+            <noteR translate="no" type="caution">
+               <para translate="yes">To avoid damaging the vehicles electric and electronic components, the earths of any wiring harness near the weld area must be disconnected.</para>
+               <para translate="yes">Position the welding machine earth as close as possible to the weld zone (see MR 400).</para>
+            </noteR>
+         </descbody>
+      </description>
+      <description id="d1e295" translate="no">
+         <title translate="yes">Finishing</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-147-repair-40-01-24-08-02-21-1-1-5" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017804_LAY-000075933.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323509-04-03-147-repair-40-01-24-08-02-21-1-1-5-000017804</illusnum>
+               </figure>
+               <para translate="yes">Grind the plug welds.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                     <linkdesc>shaving tools : description</linkdesc>
+                     <linkvalue>GIEMR-001611</linkvalue>
+                  </sieref>
+               </para>
+               <para translate="yes">Surface the shaving residue.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504310">
+                     <linkdesc>mating face surfacing tools : description</linkdesc>
+                     <linkvalue>GIEMR-001623</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">Do not strike or damage the panel.</para>
+            </noteR>
+         </descbody>
+      </description>
+   </description>
+</description>

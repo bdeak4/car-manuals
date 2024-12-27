@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3,JC5|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3,JC5|X65/JB1,JB3,JC5|X66/JC5|X76/JB1,JB3,JC5|X94/JC5" id="RPR-000163409" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">output shaft assembly : stripping - rebuilding</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="warning">
+            <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out any repair<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539122">
+                  <linkdesc>gearbox assembly : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-000928</linkvalue>
+               </sieref>.</para>
+         </noteR>
+      </introduction>
+   </procbody>
+   <procedure id="d1e98" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e102" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Position the gearbox on the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the gearbox shafts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451468">
+                           <linkdesc>input, output and reverse gear shafts : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000045</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e142" translate="no">
+         <title translate="yes">operation for stripping the output shaft</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e182" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-51-repair-12-01-04-07-01-31-1-1-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018559_LAY-000036910.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Mount the output shaft in a vice fitted with jaws.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bearing,</li>
+                     <li translate="yes">the setting washer,</li>
+                     <li translate="yes">the fourth gear pinion<markref format="dita" href="#d1e142/12-01-04-07-51-repair-12-01-04-07-01-31-1-1-9" scope="local" translate="no" type="figure">1</markref>,</li>
+                     <li translate="yes">the third/fourth gear synchroniser hub<markref format="dita" href="#d1e142/12-01-04-07-51-repair-12-01-04-07-01-31-1-1-9" scope="local" translate="no" type="figure">2</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e221" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-56-repair-12-01-04-07-01-31-1-1-10" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019183_LAY-000043419.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e142/12-01-04-07-56-repair-12-01-04-07-01-31-1-1-10" scope="local" translate="no" type="figure">3</markref>using circlip pliers and tweezers,</li>
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e142/12-01-04-07-56-repair-12-01-04-07-01-31-1-1-10" scope="local" translate="no" type="figure">4</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e253" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-55-repair-12-01-04-07-01-31-1-1-11" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019182_LAY-000043420.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the third gear pinion<markref format="dita" href="#d1e142/12-01-04-07-55-repair-12-01-04-07-01-31-1-1-11" scope="local" translate="no" type="figure">5</markref>,</li>
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e142/12-01-04-07-55-repair-12-01-04-07-01-31-1-1-11" scope="local" translate="no" type="figure">6</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e285" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">8</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.8" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-54-repair-12-01-04-07-01-31-1-1-12" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019181_LAY-000043421.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e142/12-01-04-07-54-repair-12-01-04-07-01-31-1-1-12" scope="local" translate="no" type="figure">7</markref>using circlip pliers and tweezers,</li>
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e142/12-01-04-07-54-repair-12-01-04-07-01-31-1-1-12" scope="local" translate="no" type="figure">8</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e317" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.9" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">10</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.10" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">9</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-53-repair-12-01-04-07-01-31-1-1-13" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019180_LAY-000043422.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the second gear pinion<markref format="dita" href="#d1e142/12-01-04-07-53-repair-12-01-04-07-01-31-1-1-13" scope="local" translate="no" type="figure">9</markref>,</li>
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e142/12-01-04-07-53-repair-12-01-04-07-01-31-1-1-13" scope="local" translate="no" type="figure">10</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e349" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.11" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">13</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.12" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">12</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.13" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">11</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-52-repair-12-01-04-07-01-31-1-1-14" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018560_LAY-000043423.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e142/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-14" scope="local" translate="no" type="figure">11</markref>using circlip pliers and tweezers,</li>
+                     <li translate="yes">the first - second gear synchroniser hub<markref format="dita" href="#d1e142/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-14" scope="local" translate="no" type="figure">12</markref>,</li>
+                     <li translate="yes">the first gear pinion<markref format="dita" href="#d1e142/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-14" scope="local" translate="no" type="figure">13</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e391" translate="no">
+         <title translate="yes">operation for stripping the output shaft</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The rings supporting the second, third and fourth gears are fitted tightened on the shafts. These must always be replaced during refitting.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bearing,</li>
+                     <li translate="yes">the setting washer,</li>
+                     <li translate="yes">the fourth gear pinion,</li>
+                     <li translate="yes">the third/fourth gear synchroniser hub.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e430" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.14" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">14</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-68-repair-12-01-04-07-01-31-1-1-28" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051223_LAY-000036904.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the "ring - hub - third gear pinion" assembly using a press and an extractor<markref format="dita" href="#d1e391/12-01-04-07-68-repair-12-01-04-07-01-31-1-1-28" scope="local" translate="no" type="figure">14</markref>, lifting it from underneath the claw teeth of the third gear pinion.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-04-07-69-repair-12-01-04-07-01-31-1-1-29" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051224_LAY-000036905.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the "rings - second gear pinion - first gear pinion - hub - selector rod" assembly using a press and an extractor, lifting from underneath the first pinion.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e462" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.15" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">15</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-70-repair-12-01-04-07-01-31-1-1-30" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051914_LAY-000036906.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the bearing ring<markref format="dita" href="#d1e391/12-01-04-07-70-repair-12-01-04-07-01-31-1-1-30" scope="local" translate="no" type="figure">15</markref>from its support on the output shaft sprocket teeth using a press and an extractor, taking care not to damage them.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e480" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e484" translate="no">
+         <title translate="yes">rebuilding preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clean all the removed parts using<ingredientname translate="yes">SURFACE CLEANER</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Always replace the gear lock rings.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Always replace the gear supporting rings.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts always to be replaced:</para>
+                  <ul translate="no">
+                     <li translate="yes">the lip seals,</li>
+                     <li translate="yes">the O-rings,</li>
+                     <li translate="yes">the clutch thrust bearing guide,</li>
+                     <li translate="yes">the roll pins,</li>
+                     <li translate="yes">the input and output shaft bearing circlips,</li>
+                     <li translate="yes">the selector rod hub springs,</li>
+                     <li translate="yes">the hydraulic clutch thrust bearing (if fitted),</li>
+                     <li translate="yes">the magnet.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Check all the parts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3538962">
+                        <linkdesc>gearbox assembly : check</linkdesc>
+                        <linkvalue>GIEMR-000919</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e589" translate="no">
+         <title translate="yes">operation for rebuilding the output shaft</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Mount the output shaft in a vice fitted with jaws.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-04-07-11-repair-12-01-04-07-01-31-1-1-27" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000374_LAY-000036903.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Oil the synchroniser rings.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Make sure that the notches on the double cone synchroniser are correctly positioned.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e645" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.16" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">18</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.17" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">17</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.18" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">16</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-52-repair-12-01-04-07-01-31-1-1-26" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018560_LAY-000036902.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the first gear pinion<markref format="dita" href="#d1e589/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-26" scope="local" translate="no" type="figure">16</markref>,</li>
+                     <li translate="yes">the first - second gear synchroniser hub<markref format="dita" href="#d1e589/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-26" scope="local" translate="no" type="figure">17</markref>,</li>
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e589/12-01-04-07-52-repair-12-01-04-07-01-31-1-1-26" scope="local" translate="no" type="figure">18</markref>using circlip pliers and tweezers.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e688" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.19" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">19</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.20" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">20</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-53-repair-12-01-04-07-01-31-1-1-25" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019180_LAY-000043428.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e589/12-01-04-07-53-repair-12-01-04-07-01-31-1-1-25" scope="local" translate="no" type="figure">19</markref>,</li>
+                     <li translate="yes">the second gear pinion<markref format="dita" href="#d1e589/12-01-04-07-53-repair-12-01-04-07-01-31-1-1-25" scope="local" translate="no" type="figure">20</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e720" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.21" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">22</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.22" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">21</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-54-repair-12-01-04-07-01-31-1-1-24" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019181_LAY-000043427.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e589/12-01-04-07-54-repair-12-01-04-07-01-31-1-1-24" scope="local" translate="no" type="figure">21</markref>,</li>
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e589/12-01-04-07-54-repair-12-01-04-07-01-31-1-1-24" scope="local" translate="no" type="figure">22</markref>using circlip pliers and tweezers.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e752" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.23" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">24</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.24" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">23</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-55-repair-12-01-04-07-01-31-1-1-23" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019182_LAY-000043426.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e589/12-01-04-07-55-repair-12-01-04-07-01-31-1-1-23" scope="local" translate="no" type="figure">23</markref>,</li>
+                     <li translate="yes">the third gear pinion<markref format="dita" href="#d1e589/12-01-04-07-55-repair-12-01-04-07-01-31-1-1-23" scope="local" translate="no" type="figure">24</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e784" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.25" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">26</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.26" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">25</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-56-repair-12-01-04-07-01-31-1-1-22" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000019183_LAY-000043425.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the splined washer<markref format="dita" href="#d1e589/12-01-04-07-56-repair-12-01-04-07-01-31-1-1-22" scope="local" translate="no" type="figure">25</markref>,</li>
+                     <li translate="yes">the lock ring<markref format="dita" href="#d1e589/12-01-04-07-56-repair-12-01-04-07-01-31-1-1-22" scope="local" translate="no" type="figure">26</markref>using circlip pliers and tweezers.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e816" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.27" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">28</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.28" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">27</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-51-repair-12-01-04-07-01-31-1-1-21" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018559_LAY-000043424.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the third - fourth gear synchroniser hub<markref format="dita" href="#d1e589/12-01-04-07-51-repair-12-01-04-07-01-31-1-1-21" scope="local" translate="no" type="figure">27</markref>,</li>
+                     <li translate="yes">the fourth gear pinion<markref format="dita" href="#d1e589/12-01-04-07-51-repair-12-01-04-07-01-31-1-1-21" scope="local" translate="no" type="figure">28</markref>,</li>
+                     <li translate="yes">the setting washer,</li>
+                     <li translate="yes">the bearing.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e851" translate="no">
+         <title translate="yes">operation for rebuilding the output shaft</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the bearing ring using the used bearing cone for support with a press .</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">It is necessary to use a heater plate set at<technicalvalue translate="no">
+                           <value translate="yes">150˚C</value>
+                        </technicalvalue>for refitting the rings.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-04-07-73-repair-12-01-04-07-01-31-1-1-31" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000052077_LAY-000036907.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Place the new rings on the cold heater plate.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Heat the rings for<technicalvalue translate="no">
+                        <value translate="yes">15 minutes</value>
+                     </technicalvalue>, with the thermostat set to<technicalvalue translate="no">
+                        <value translate="yes">150˚C</value>
+                     </technicalvalue>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="12-01-04-07-74-repair-12-01-04-07-01-31-1-1-32" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000052078_LAY-000036908.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Position the first gear pinion on the output shaft.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the selector rod for first - second gear on the hub and refit the synchroniser springs.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Align and engage the notches on the synchroniser ring with those on the hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the first - second gear synchroniser hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove a ring from the heater plate and fit it on the shaft using pliers.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Correctly place the ring against the hub using a press and a tube with a<technicalvalue translate="no">
+                        <value translate="yes">33 mm</value>
+                     </technicalvalue>inner diameter.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the second gear pinion and the washer on the output shaft.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove a second ring from the heater plate and fit it on the shaft using pliers.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Correctly place the ring against the washer using a press and a tube with a<technicalvalue translate="no">
+                        <value translate="yes">33 mm</value>
+                     </technicalvalue>inner diameter.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the third gear pinion on the shaft.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the third - fourth gear selector rod on the hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Align and engage the notches on the synchroniser ring with those on the hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the third - fourth gear synchroniser hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e964" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X07-01X31-1-1.29" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">29</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-04-07-76-repair-12-01-04-07-01-31-1-1-33" translate="no">
+                  
+                  <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000052081_LAY-000036909.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Refit the springs<markref format="dita" href="#d1e851/12-01-04-07-76-repair-12-01-04-07-01-31-1-1-33" scope="local" translate="no" type="figure">29</markref>in a "heart-shaped configuration" , observing the direction of fitting of the flat part on the synchroniser hub end.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Take a third ring from the heater plate and fit it on the shaft using pliers.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Correctly place the ring against the hub using a press and a tube with a<technicalvalue translate="no">
+                        <value translate="yes">33 mm</value>
+                     </technicalvalue>inner diameter.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Align and engage the notches on the synchroniser ring with those on the hub.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the fourth gear pinion on the shaft.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Adjust the input shaft<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3474944">
+                        <linkdesc>input, output and reverse gear shafts : adjustment</linkdesc>
+                        <linkvalue>GIEMR-000139</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the setting washer,</li>
+                     <li translate="yes">the bearing.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e1019" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox from the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X52/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X92/K4M|X95/K4M" id="RPR-000014679" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">engine : standard replacement</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="warning">
+            <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop&amp;Start system, always follow the safety instructions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040">
+                  <linkdesc>vehicle : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002446</linkvalue>
+               </sieref>
+            </para>
+         </noteR>
+      </introduction>
+   </procbody>
+   <procedure id="d1e97" translate="no">
+      <title translate="yes">standard engine replacement</title>
+      <procbody translate="no"/>
+      <procedure id="d1e101" translate="no">
+         <title translate="yes">Preparing the old engine to be returned to the engine renovation plant</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clean the engine.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Drain:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine oil<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457199">
+                           <linkdesc>engine oil : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-001296</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the coolant<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479881">
+                           <linkdesc>coolant circuit assembly : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-000954</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Secure the old engine to the stand and in the same conditions as the standard replacement engine:</para>
+                  <ul translate="no">
+                     <li translate="yes">fit the plastic plug welds and covers,</li>
+                     <li translate="yes">fit the cardboard cover over the whole assembly.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e130" translate="no">
+         <title translate="yes">Parts to leave on the old engine or to include in the return box:</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Leave on the used engine or include in the return box:</para>
+                  <ul translate="no">
+                     <li translate="yes">the dipstick,</li>
+                     <li translate="yes">the oil filter,</li>
+                     <li translate="yes">the oil filter seat,</li>
+                     <li translate="yes">the coolant - oil heat exchanger,</li>
+                     <li translate="yes">the oil level sensor,</li>
+                     <li translate="yes">the rocker cover,</li>
+                     <li translate="yes">the coolant pump,</li>
+                     <li translate="yes">the injector rail,</li>
+                     <li translate="yes">the injectors,</li>
+                     <li translate="yes">the spark plugs,</li>
+                     <li translate="yes">the timing belt,</li>
+                     <li translate="yes">the tensioning roller,</li>
+                     <li translate="yes">the crankshaft sprocket,</li>
+                     <li translate="yes">the camshaft sprockets,</li>
+                     <li translate="yes">the timing cover,</li>
+                     <li translate="yes">the crankshaft accessories pulley,</li>
+                     <li translate="yes">the lifting rings,</li>
+                     <li translate="yes">the cylinder head suspended mounting.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M/BVM5|X35/K4J,K4M/BVM5|X38/K4M/BVM5,BVM6|X44/K4M/BVM5|X52/K4M/BVM5|X56/K4M/BVM5|X61/K4M/BVM5|X64/K4J,K4M/BVM5|X65/K4J,K4M/BVM5|X74/K4M/BVM5,BVM6|X76/K4M/APL03/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Leave on the used engine or include in the return box:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch plate and pressure plate,</li>
+                     <li translate="yes">the flywheel.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Leave on the used engine or include in the return box:</para>
+                  <ul translate="no">
+                     <li translate="yes">the drive plate.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e336" translate="no">
+         <title translate="yes">Parts to be removed from the old engine and fitted on the new engine</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts to be removed from the old engine and fitted on the new engine:</para>
+                  <ul translate="no">
+                     <li translate="yes">all cooling system hoses,</li>
+                     <li translate="yes">the oil pressure sensor,</li>
+                     <li translate="yes">the pinking sensor,</li>
+                     <li translate="yes">the inlet distributor,</li>
+                     <li translate="yes">the exhaust manifold,</li>
+                     <li translate="yes">the catalytic converter,</li>
+                     <li translate="yes">the coolant inlet hose,</li>
+                     <li translate="yes">the water chamber,</li>
+                     <li translate="yes">the alternator,</li>
+                     <li translate="yes">the air conditioning compressor ,</li>
+                     <li translate="yes">the power-assisted steering pump,</li>
+                     <li translate="yes">the multifunction support.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e369" translate="no">
+         <title translate="yes">Parts always to be replaced</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Cylinder head coolant outlet unit seal</prs>
+                  </para>
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">inlet distributor seal</prs>
+                  </para>
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Accessories belt</prs>
+                  </para>
+                  <para translate="yes">
+                     <!--Arbortext, Inc., 1988-2015, v.4002--><prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Accessories belt tensioning roller</prs>
+                  </para>
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Accessories tensioning roller bolt</prs>
+                  </para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Always replace:</para>
+                  <ul translate="no">
+                     <li translate="yes">the cooling circuit hoses if they are damaged.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure appl="X84/K4M/762,768,856" id="d1e387" translate="no">
+      <title translate="yes">standard engine replacement</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">There are two types of cylinder block: B and C. Anti-pinking is managed differently depending on the type of cylinder block.</para>
+                  <para translate="yes">For a standard engine replacement, if the cylinder block is type C, it is necessary to reprogram the injection computer.</para>
+                  <para translate="yes">Failure to respect this procedure will cause an engine malfunction.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+         <procsteps translate="no">
+            <marklayer id="marklayer-d1e410" translate="no">
+               <mark id="MARK.REPAIR-10X01-01X90-1-14.1" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">1</designation>
+               </mark>
+            </marklayer>
+            <figure id="10-01-01-06-1-repair-10-01-01-90-1-14-1" translate="no">
+               <title translate="yes">Identification of the type C cylinder block casting:</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000043575_LAY-000006600.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000014679-01-01-06-1-repair-10-01-01-90-1-14-1-000043575</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Identify the cylinder block in zone<markref format="dita" href="#d1e387/10-01-01-06-1-repair-10-01-01-90-1-14-1" scope="local" translate="no" type="figure">1</markref>. The type C cylinder block is identified by the marking 1C or 2C.</para>
+            </procstep>
+            <procstep translate="no">
+               <para translate="yes">The internal part numbers of the injection computer to be reprogrammed using reprogramming CD no.70 or a more recent version are as follows:</para>
+               <ul translate="no">
+                  <li translate="yes">8200605249</li>
+                  <li translate="yes">8200808790</li>
+                  <li translate="yes">8200928732</li>
+                  <li translate="yes">8200928735</li>
+                  <li translate="yes">8200628226</li>
+                  <li translate="yes">8200742029</li>
+                  <li translate="yes">8200808791</li>
+                  <li translate="yes">8200928742</li>
+                  <li translate="yes">8200928750</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e451" translate="no">
+      <title translate="yes">standard engine replacement</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit the parts removed from the old engine on the new engine.</para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

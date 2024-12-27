@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X65/C65" id="RPR-000417371" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">rear seats access mechanism : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <procsteps appl="X65/C65/ABLAV" translate="no">
+         <procstep translate="no">
+            <noteR translate="no" type="warning">
+               <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out any repair:</para>
+               <ul translate="no">
+                  <li translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539306">
+                        <linkdesc>airbag and pretensioners : precautions for the repair</linkdesc>
+                        <linkvalue>GIEMR-000004</linkvalue>
+                     </sieref>(88C, Airbags and pretensioners).</li>
+               </ul>
+            </noteR>
+            <noteR translate="no" type="warning">
+               <para translate="yes">To avoid any risk of triggering when working on or near a passive safety component, apply the procedure for deactivating the safety systems<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539306">
+                     <linkdesc>airbag and pretensioners : precautions for the repair</linkdesc>
+                     <linkvalue>GIEMR-000004</linkvalue>
+                  </sieref>(88C, Airbags and pretensioners).</para>
+            </noteR>
+            <noteR translate="no" type="warning">
+               <para translate="yes">Never handle the pyrotechnic systems (pretensioners or airbags) near to a source of heat or naked flame - they may be triggered.</para>
+            </noteR>
+         </procstep>
+      </procsteps>
+   </procbody>
+   <procedure id="d1e33" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e37" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps appl="X65/C65/ABLAV" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Lock the airbag computer using the<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT09_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">Diagnostic tool</materialname>(see Fault finding - Replacement of components ) (88C, Airbags and pretensioners).</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Disconnect the battery<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3511330">
+                        <linkdesc>12 V battery : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000248</linkvalue>
+                     </sieref>(80A, Battery).</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the front headrest<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451035">
+                           <linkdesc>front seat headrest : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000034</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the complete front seat<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3481999">
+                           <linkdesc>front seat assembly : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000987</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the front seat lower casings<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3506157">
+                           <linkdesc>front seat lower casing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000331</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the front seatback trim<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504003">
+                           <linkdesc>front seatback trim : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000560</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the front seat headrest guides<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3517710">
+                           <linkdesc>front seat headrest guide : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001408</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the front seat base trim<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462355">
+                           <linkdesc>front seat base cover : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000555</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e98" translate="no">
+         <title translate="yes">removal operation</title>
+         <procbody translate="no"/>
+         <procedure id="d1e102" translate="no">
+            <title translate="yes">Front seatback upper unlocking cable</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e104" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.1" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">2</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.2" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">1</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-21-22-repair-70-08-04-21-01-37-1-7-70" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000049290_LAY-000105092.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the stop<markref format="dita" href="#d1e102/70-08-04-21-22-repair-70-08-04-21-01-37-1-7-70" scope="local" translate="no" type="figure">1</markref>of the front seatback upper unlocking cable.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Unclip the sheath stop<markref format="dita" href="#d1e102/70-08-04-21-22-repair-70-08-04-21-01-37-1-7-70" scope="local" translate="no" type="figure">2</markref>of the front seatback upper unlocking cable.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e134" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.4" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">3</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.5" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">5</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.6" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">4</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.7" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">6</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-02-08-50-repair-70-08-04-21-01-37-1-7-102" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057933_LAY-000105091.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <figure id="70-08-02-08-51-repair-70-08-04-21-01-37-1-7-96" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057934_LAY-000105098.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the stop<markref format="dita" href="#d1e102/70-08-02-08-50-repair-70-08-04-21-01-37-1-7-102" scope="local" translate="no" type="figure">3</markref>of the front seatback upper unlocking cable,</li>
+                        <li translate="yes">the regulator<markref format="dita" href="#d1e102/70-08-02-08-51-repair-70-08-04-21-01-37-1-7-96" scope="local" translate="no" type="figure">4</markref>of the front seatback upper unlocking cable on the compensator of the front seat runners lower unlocking cable by sliding it in the direction<markref format="dita" href="#d1e102/70-08-02-08-51-repair-70-08-04-21-01-37-1-7-96" scope="local" translate="no" type="figure">5</markref>,</li>
+                        <li translate="yes">the front seatback upper unlocking cable<markref format="dita" href="#d1e102/70-08-02-08-51-repair-70-08-04-21-01-37-1-7-96" scope="local" translate="no" type="figure">6</markref>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e204" translate="no">
+            <title translate="yes">Rear seat access control support</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e206" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.9" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">8</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.10" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">7</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.11" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">10</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.12" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">9</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-02-08-49-repair-70-08-04-21-01-37-1-7-100" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057930_LAY-000105089.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Drill:</para>
+                     <ul translate="no">
+                        <li translate="yes">the rivets<markref format="dita" href="#d1e204/70-08-02-08-49-repair-70-08-04-21-01-37-1-7-100" scope="local" translate="no" type="figure">7</markref>of the rear seat access control support,</li>
+                        <li translate="yes">the rivet<markref format="dita" href="#d1e204/70-08-02-08-49-repair-70-08-04-21-01-37-1-7-100" scope="local" translate="no" type="figure">8</markref>of the protector under the rear seat access control support.</li>
+                     </ul>
+                     <noteR translate="no" type="caution">
+                        <para translate="yes">To prevent any risk of damaging the covers and mechanisms, recover any metal residues when cutting the seat trim clips and/or drilling out the rivet.</para>
+                     </noteR>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the rear seat access control support<markref format="dita" href="#d1e204/70-08-02-08-49-repair-70-08-04-21-01-37-1-7-100" scope="local" translate="no" type="figure">9</markref>,</li>
+                        <li translate="yes">the protector<markref format="dita" href="#d1e204/70-08-02-08-49-repair-70-08-04-21-01-37-1-7-100" scope="local" translate="no" type="figure">10</markref>under the rear seat access control support.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e271" translate="no">
+            <title translate="yes">Front seat runners unlocking cable</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e273" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.13" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">12</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.14" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">11</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-02-81-repair-70-08-04-21-01-37-1-7-95" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057931_LAY-000105097.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Unclip the sheath stop<markref format="dita" href="#d1e271/70-08-04-02-81-repair-70-08-04-21-01-37-1-7-95" scope="local" translate="no" type="figure">11</markref>of the front seat runners unlocking cable.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the stop<markref format="dita" href="#d1e271/70-08-04-02-81-repair-70-08-04-21-01-37-1-7-95" scope="local" translate="no" type="figure">12</markref>of the front seat runners unlocking cable,</li>
+                        <li translate="yes">the front seat runners unlocking cable.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e308" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.15" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">13</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-02-08-44-repair-70-08-04-21-01-37-1-7-99" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057921_LAY-000105100.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Drill the rivet<markref format="dita" href="#d1e271/70-08-02-08-44-repair-70-08-04-21-01-37-1-7-99" scope="local" translate="no" type="figure">13</markref>of the mounting of the front seat runners unlocking cable on the seat base frame.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the mounting of the front seat runners unlocking cable on the seat base frame.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e329" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.16" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">14</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-02-08-48-repair-70-08-04-21-01-37-1-7-98" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057928_LAY-000105099.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Drill the rivets<markref format="dita" href="#d1e271/70-08-02-08-48-repair-70-08-04-21-01-37-1-7-98" scope="local" translate="no" type="figure">14</markref>of the compensator of the front seat runners unlocking cable on the front seatback frame.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the unlocking cable from the front seat runners.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e354" translate="no">
+            <title translate="yes">Front seatback lower unlocking cable</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e356" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.17" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">17</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.18" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">16</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.19" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">15</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-02-08-45-repair-70-08-04-21-01-37-1-7-101" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057927_LAY-000105090.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the stop<markref format="dita" href="#d1e354/70-08-02-08-45-repair-70-08-04-21-01-37-1-7-101" scope="local" translate="no" type="figure">15</markref>of the front seatback lower unlocking cable.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Drill the rivet<markref format="dita" href="#d1e354/70-08-02-08-45-repair-70-08-04-21-01-37-1-7-101" scope="local" translate="no" type="figure">16</markref>of the support of the front seatback lower unlocking cable.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the support<markref format="dita" href="#d1e354/70-08-02-08-45-repair-70-08-04-21-01-37-1-7-101" scope="local" translate="no" type="figure">17</markref>of the front seatback lower unlocking cable.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Move aside the front seatback lower unlocking cable with its support.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e401" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.20" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">19</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.21" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">18</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-21-23-repair-70-08-04-21-01-37-1-7-80" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000049291_LAY-000105093.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Remove:</para>
+                     <ul translate="no">
+                        <li translate="yes">the bolt<markref format="dita" href="#d1e354/70-08-04-21-23-repair-70-08-04-21-01-37-1-7-80" scope="local" translate="no" type="figure">18</markref>,</li>
+                        <li translate="yes">the retaining bracket<markref format="dita" href="#d1e354/70-08-04-21-23-repair-70-08-04-21-01-37-1-7-80" scope="local" translate="no" type="figure">19</markref>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e433" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.22" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">20</designation>
+                     </mark>
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.23" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">21</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-21-24-repair-70-08-04-21-01-37-1-7-81" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000049292_LAY-000105094.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Drill the rivet<markref format="dita" href="#d1e354/70-08-04-21-24-repair-70-08-04-21-01-37-1-7-81" scope="local" translate="no" type="figure">20</markref>of the protective housing.</para>
+                     <noteR translate="no" type="caution">
+                        <para translate="yes">To prevent any risk of damaging the covers and mechanisms, recover any metal residues when cutting the seat trim clips and/or drilling out the rivet.</para>
+                     </noteR>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the protective housing<markref format="dita" href="#d1e354/70-08-04-21-24-repair-70-08-04-21-01-37-1-7-81" scope="local" translate="no" type="figure">21</markref>.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e466" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.24" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">22</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-21-25-repair-70-08-04-21-01-37-1-7-82" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000049293_LAY-000105095.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Unclip the sheath stop<markref format="dita" href="#d1e354/70-08-04-21-25-repair-70-08-04-21-01-37-1-7-82" scope="local" translate="no" type="figure">22</markref>of the front seatback lower unlocking cable.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e484" translate="no">
+                     <mark id="MARK.REPAIR-70X08X04X21-01X37-1-7.25" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">23</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="70-08-04-21-26-repair-70-08-04-21-01-37-1-7-83" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000049294_LAY-000105096.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Drill out the rivet<markref format="dita" href="#d1e354/70-08-04-21-26-repair-70-08-04-21-01-37-1-7-83" scope="local" translate="no" type="figure">23</markref>.</para>
+                     <noteR translate="no" type="caution">
+                        <para translate="yes">To prevent any risk of damaging the covers and mechanisms, recover any metal residues when cutting the seat trim clips and/or drilling out the rivet.</para>
+                     </noteR>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the front seatback lower unlocking cable.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+   </procedure>
+   <procedure id="d1e508" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e512" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Rivet of rear seat access control</prs>
+                  </para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e521" translate="no">
+         <title translate="yes">refitting operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Proceed in the reverse order to removal.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Carry out a function test.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

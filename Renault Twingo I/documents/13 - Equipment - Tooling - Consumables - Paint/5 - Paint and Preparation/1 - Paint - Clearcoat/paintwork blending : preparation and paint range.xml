@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XR4|XRQ|XTP|XZH|XHA|XFF|XJD|XJA|XJC|XJE|XBC|XJB|XJK|XJF|XFK|XJL|XHN|XCB|X1310|XBB|X27|X58|XZG|X55|XDD|XDE|XBG|X59|XEF|X17|X41|X42|XZJ|XFA|X75|XJ1|XJH|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000319555" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">paintwork blending : preparation and paint range</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 04:59" translate="no"/>
+         <revised modified="10/10/24 13:37" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">paintwork blending : preparation and paint range</siename>
+         <sieversion translate="no">G.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000319555</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">The blending in method should be used on adjacent components when replacing a surface component.</para>
+         </noteR>
+         <noteR translate="no" type="warning">
+            <para translate="yes">Always wear protective gear (gloves, goggles and breathing masks).</para>
+         </noteR>
+         <para translate="yes">Use extra ventilation source.</para>
+      </introduction>
+   </descbody>
+   <description id="d1e131" translate="no">
+      <title translate="yes">blending in methods</title>
+      <descbody translate="no">
+         <para translate="yes">water dilutable or solvent basecoats and clearcoats.</para>
+         <ul translate="no">
+            <li translate="yes">Procedure 1 : Water dilutable basecoat union,</li>
+            <li translate="yes">Procedure 2 : Solvent basecoat union,</li>
+            <li translate="yes">Procedure 3 : LS - MS - HS clearcoat union.</li>
+         </ul>
+      </descbody>
+      <description id="d1e150" translate="no">
+         <title translate="yes">Water dilutable basecoat union</title>
+         <descbody translate="no"/>
+         <description id="d1e154" translate="no">
+            <title translate="yes">Procedure 1</title>
+            <descbody translate="no">
+               <para translate="yes">Standard method:</para>
+               <descsection translate="no">
+                  <table colsep="1" frame="all" rowsep="1" translate="no">
+                     <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                        <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                        <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                        <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                        <tbody translate="no">
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">Steps</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Description</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Special notes</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">1</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Degrease</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                       <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                       <linkvalue>GIEMR-002445</linkvalue>
+                                    </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">2</para>
+                              </entry>
+                              <entry nameend="3" namest="2" translate="yes">
+                                 <para translate="yes">Wipe / blow</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">3</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Sand</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">P400 - P500 on the repaired zones / Grey dampened abrasive finishing pad or P1000 at the edge</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">4</para>
+                              </entry>
+                              <entry nameend="3" namest="2" translate="yes">
+                                 <para translate="yes">Wipe / blow</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">5</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Degrease</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                       <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                       <linkvalue>GIEMR-002445</linkvalue>
+                                    </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">6</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Prepare the water dilutable basecoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">According to the PRODUCT TECHNICAL SHEET</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">7</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Apply the water dilutable basecoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">a haze and one or two coats (covering) plus a fine fitting coat while overlapping towards the exterior of the repair zone</para>
+                                 <para translate="yes">Wide graduation with spray gun</para>
+                              </entry>
+                           </row>
+                           <row rowsep="0" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">8</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Remove solvent / dry</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Complete Masking (with or without forced ventilation)</para>
+                              </entry>
+                           </row>
+                        </tbody>
+                     </tgroup>
+                  </table>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e281" translate="no">
+            <title translate="yes">Procedure 1</title>
+            <descbody translate="no">
+               <para translate="yes">Droplet method:</para>
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Degrease</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                    <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                    <linkvalue>GIEMR-002445</linkvalue>
+                                 </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry nameend="3" namest="2" translate="yes">
+                              <para translate="yes">Wipe / blow</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">3</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Sand</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P400 - P500 on the repaired zones / Grey dampened abrasive finishing pad or P1000 at the edge</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">4</para>
+                           </entry>
+                           <entry nameend="3" namest="2" translate="yes">
+                              <para translate="yes">Wipe / blow</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">5</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Degrease</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                    <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                    <linkvalue>GIEMR-002445</linkvalue>
+                                 </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">6</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Prepare the water dilutable basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">According to the PRODUCT TECHNICAL SHEET</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">7</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Apply the water dilutable basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">a haze and one or two coats (covering) plus a fine fitting coat while overlapping towards the exterior of the repair zone</para>
+                              <para translate="yes">Wide graduation with spray gun</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">8</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Dry / remove solvent</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Complete Masking (with or without forced ventilation)</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">9</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Prepare the union</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Use the same mixture, reduce the air pressure so as to obtain fine spray droplets</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">10</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Apply</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">a thin coat while redoing the whole graduation zone from the exterior towards the interior (the droplet appearance disappears during drying)</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">11</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Remove solvent / dry</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Complete Masking (with or without forced ventilation)</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descbody>
+         </description>
+         <description id="d1e440" translate="no">
+            <title translate="yes">Procedure 1</title>
+            <descbody translate="no">
+               <para translate="yes">Basic stabilising additive:</para>
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">Steps</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Description</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Special notes</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">1</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Degrease</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                    <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                    <linkvalue>GIEMR-002445</linkvalue>
+                                 </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">2</para>
+                           </entry>
+                           <entry nameend="3" namest="2" translate="yes">
+                              <para translate="yes">Wipe / blow</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">3</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Sand</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">P400 - P500 on the repaired zones / Grey dampened abrasive finishing pad or P1000 at the edge</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">4</para>
+                           </entry>
+                           <entry nameend="3" namest="2" translate="yes">
+                              <para translate="yes">Wipe / blow</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">5</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Degrease</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                    <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                    <linkvalue>GIEMR-002445</linkvalue>
+                                 </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">6</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Prepare the water dilutable stabilising basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">According to the PRODUCT TECHNICAL SHEET</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">7</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Prepare the water dilutable basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">According to the PRODUCT TECHNICAL SHEET</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">8</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Apply the water dilutable stabilising basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">a thin coat of stabilising basecoat on the whole component</para>
+                           </entry>
+                        </row>
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">9</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Apply the coloured water dilutable basecoat</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">On the repaired zone in one or two coats (covering), plus a fitting coat by overlapping towards the exterior of the repaired zone</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">10</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">Remove solvent / dry</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">Complete Masking (with or without forced ventilation)</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e590" translate="no">
+         <title translate="yes">Solvent basecoat union</title>
+         <descbody translate="no"/>
+         <description id="d1e594" translate="no">
+            <title translate="yes">Procedure 2</title>
+            <descbody translate="no">
+               <para translate="yes">Standard method:</para>
+               <descsection translate="no">
+                  <table colsep="1" frame="all" rowsep="1" translate="no">
+                     <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                        <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                        <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                        <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                        <tbody translate="no">
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">Steps</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Description</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Special notes</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">1</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Degrease</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                       <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                       <linkvalue>GIEMR-002445</linkvalue>
+                                    </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">2</para>
+                              </entry>
+                              <entry nameend="3" namest="2" translate="yes">
+                                 <para translate="yes">Wipe / blow</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">3</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Sand</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">P400 - P500 on the repaired zones / Grey dampened abrasive finishing pad or P1000 at the edge</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">4</para>
+                              </entry>
+                              <entry nameend="3" namest="2" translate="yes">
+                                 <para translate="yes">Wipe / blow</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">5</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Degrease</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Lint-free cloth soaked in surface cleaner H<sub translate="yes">2</sub>0<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                                       <linkdesc>vehicle: parts and consumables for the repair</linkdesc>
+                                       <linkvalue>GIEMR-002445</linkvalue>
+                                    </sieref>(04B, Consumables - Products). Wipe with a dry lint-free cloth</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">6</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Prepare the solvent basecoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Dilute the basecoat according to the PRODUCT TECHNICAL SHEET</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">7</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Apply the solvent basecoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Apply two or three coats of this mixture to obtain the cover while slightly overlapping towards the exterior of the repaired zone</para>
+                              </entry>
+                           </row>
+                           <row rowsep="0" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">8</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Remove solvent / dry</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Masking between each coat, leave for 15 minutes before applying the clearcoat</para>
+                              </entry>
+                           </row>
+                        </tbody>
+                     </tgroup>
+                  </table>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e722" translate="no">
+         <title translate="yes">LS - MS - HS Clearcoat Union</title>
+         <descbody translate="no">
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">Polish the zones to be connected</para>
+            </noteR>
+         </descbody>
+         <description id="d1e731" translate="no">
+            <title translate="yes">Procedure 3</title>
+            <descbody translate="no">
+               <para translate="yes">Standard method:</para>
+               <descsection translate="no">
+                  <table colsep="1" frame="all" rowsep="1" translate="no">
+                     <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                        <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+                        <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+                        <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+                        <tbody translate="no">
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">Steps</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Description</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Special notes</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">1</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Prepare the clearcoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Catalyze and dilute according to the LS - MS - HS PRODUCT TECHNICAL SHEET</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">2</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Apply the clearcoat</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">According to the type of clearcoat (3, 2 or one coat)</para>
+                                 <para translate="yes">Cover the basecoat painted zone</para>
+                                 <para translate="yes">Overlap slightly towards the exterior of the repaired zone</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">3</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Apply the union thinner</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">Apply thin coats</para>
+                              </entry>
+                           </row>
+                           <row rowsep="0" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">4</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">Dry</para>
+                              </entry>
+                              <entry colname="3" translate="yes">
+                                 <para translate="yes">According to the PRODUCT TECHNICAL SHEET</para>
+                              </entry>
+                           </row>
+                        </tbody>
+                     </tgroup>
+                  </table>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+   </description>
+</description>

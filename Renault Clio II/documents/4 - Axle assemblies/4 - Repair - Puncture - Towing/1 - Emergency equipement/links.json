@@ -1,0 +1,29 @@
+{
+  "PR": [
+    {
+      "id": "1247_351010",
+      "filename": "1247_351010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014404.svg"
+    },
+    {
+      "id": "1247_353010",
+      "filename": "1247_353010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084116.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21925.png"
+    }
+  ]
+}

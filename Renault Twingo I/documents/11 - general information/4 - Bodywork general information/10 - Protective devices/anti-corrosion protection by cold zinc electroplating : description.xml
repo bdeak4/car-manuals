@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XR4|XRQ|XTP|XZH|XHA|XFA|X55|XEF|XBA|XBB|XJD|XJA|XBG|XBC|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XZG|X47|XDD|XDE|X59|X17|X41|X07|X42|XZJ|X82|X09|X75|XJE|XJ1|XJC|XFF|XJH|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-001487405" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">anti-corrosion protection by cold zinc electroplating : description</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="04/11/21 08:14" translate="no"/>
+      <revised modified="10/10/24 13:45" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">anti-corrosion protection by cold zinc electroplating : description</siename>
+      <sieversion translate="no">C.1</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-001487405</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no">
+    <noteR translate="no" type="warning">
+      <para translate="yes">Always wear protective gear (gloves, goggles and breathing masks).</para>
+    </noteR>
+  </descbody>
+  <description id="d1e113" translate="no">
+    <title translate="yes">ELECTROGALVANISING APPLICATION AREA</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <figure id="40-01-36-06-1-repair-40-01-36-06-02-21-1-1-1" translate="no">
+          <title translate="yes">Electrogalvanising application area</title>
+          <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000039371.PNG" style="width: 180.0mm; height: 120.0mm;" translate="no"/>
+          <illusnum>RDE-000484704-01-36-06-1-repair-40-01-36-06-02-21-1-1-1-000039371</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <para translate="yes">Components: bonnet, side doors, front and rear wings, other components affected by corrosion.</para>
+        <para translate="yes">Electro zinc plating is applied to a bare steel panel after straightening. This surface will be straightened and free of polyester mastic</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e128" translate="no">
+    <title translate="yes">Contents of the case</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="75.00793902826294%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="24.99206097173706%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Description</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Quantity</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">8 V generator (to be connected to 220 V) with red and black cables</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Anode holder (diameter100 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Anode holder (diameter13 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Anode (diameter100 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Anode (diameter13 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">2</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Plastic pocket</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Goggles</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+  <description id="d1e213" translate="no">
+    <title translate="yes">contents of the electro zinc plating kit</title>
+    <descbody translate="no">
+      <para translate="yes">The kit enables a surface of approximately 8 dm² with a thickness of 8 micrometres to be treated.</para>
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="75.00793902826294%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="24.99206097173706%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Description</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Quantity</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Cap (diameter 13 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Cap (diameter 100 mm)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Pair of gloves</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">125 ml can of zinc solution</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">1</para>                      </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+  <description id="d1e270" translate="no">
+    <title translate="yes">Choice of anode</title>
+    <descbody translate="no">
+      <para translate="yes">Anodes with a diameter of 100 mm are to be used on flat surfaces.</para>
+      <para translate="yes">Anodes with a diameter of 13 mm are to be used on small surfaces. (example: panel butt welding joint).</para>
+      <para translate="yes">They can be cut to the desired shape. They may be shaped with a file or an abrasive pad.</para>
+      <para translate="yes">Cover all the bare surfaces using the anode with a diameter of 13 mm for areas which are difficult to access.</para>
+    </descbody>
+  </description>
+  <description id="d1e289" translate="no">
+    <title translate="yes">Startup</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="24.99206097173706%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="75.00793902826294%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Steps</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Description</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">1</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Connect the generator to 220 V</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">2</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Connect the black cable to the (-) terminal of the generator and attach the clamp to one of the vehicle earths (unpainted). Example: door striker plate</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">3</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Connect the red cable to the (+) terminal of the generator and the other end to the selected anode holder</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">4</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Dampen the selected cap with water to help the zinc solution soak in</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">5</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Screw the anode onto the anode holder</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">6</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Position the cap on the anode</para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">7</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Place the assembly in the plastic container and pour on the zinc solution. </para>                      </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+  <description id="d1e371" translate="no">
+    <title translate="yes">preparing the surface and electro zinc plating</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="18.51712457659014%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="40.74143771170493%" translate="no"/>
+          <colspec colname="3" colnum="3" colwidth="40.74143771170493%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Steps</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Description</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">Special notes</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">1</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Degrease the surface to be treated</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">Lint-free cloth soaked in surface cleaner</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">2</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Sand the area to be electro zinc plated</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">P280 dry - P400 slightly damp</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">3</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Clean the surface</para>                      </entry>
+              <entry colname="3" translate="yes">                         <para translate="yes">Damp cloth</para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">4</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Dampen the surface with the cap fixed on the anode which is impregnated with zinc solution</para>                      </entry>
+              <entry colname="3" translate="yes">                                              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">5</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Switch on the power supply to the generator (green indicator light on)</para>                      </entry>
+              <entry colname="3" translate="yes">                                              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">6</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Sweep the surface with the anode holder several times</para>                      </entry>
+              <entry colname="3" translate="yes">                                              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">7</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Rinse the treated surface with water</para>                      </entry>
+              <entry colname="3" translate="yes">                                              </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">8</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Dry by wiping or using compressed air</para>                      </entry>
+              <entry colname="3" translate="yes">                                              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">After use at the end of the day rinse the caps with water.</para>
+        <para translate="yes">The speed of sweeping must be approximately 25 cm/s.</para>
+        <para translate="yes">The cap must always be soaked in zinc solution.</para>
+        <para translate="yes">If any black patches appear on the treated area, remove them by gently sanding with a grey abrasive finishing pad.</para>
+        <para translate="yes">Painting <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3452839"><linkdesc>steel bodywork component : preparation and paint range</linkdesc><linkvalue>GIEMR-002337</linkvalue></sieref>must be carried out immediately to ensure that the zinc does not oxidise.</para>
+      </noteR>
+    </descbody>
+  </description>
+</description>

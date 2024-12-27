@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XJA|XJC|XJE|XBC|XJB|XJK|XJF|XFK|XBB|XJL|XHN|XCB|X27|X58|XDD|XBG|X59|X17|X41|X42|XBA|X75|XAV|XJ1|XFF|XJH|X1310|XDE|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010710" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bodywork tooling : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 00:47" translate="no"/>
+         <revised modified="10/10/24 13:39" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bodywork tooling : description</siename>
+         <sieversion translate="no">J.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010710</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <para translate="yes">The operator will choose the right tool depending on:</para>
+      <ul translate="no">
+         <li translate="yes">access to the work area : flat; at an angle; in a corner,</li>
+         <li translate="yes">the environment where the welding overlap is located : sensitive to splashes or not,</li>
+         <li translate="yes">the position in the sheet stacking for unpicking : primary or secondary,</li>
+         <li translate="yes">the type of material for working : mastic, adhesive or sheets.</li>
+      </ul>
+   </descbody>
+   <description id="d1e125" translate="no">
+      <title translate="yes">stripping tools</title>
+      <descbody translate="no">
+         <para translate="yes">By definition, these tools must remove all paint protections from the body panel without damaging the material.</para>
+         <noteR translate="no" type="caution">
+            <para translate="yes">This is only possible on metal parts. For plastic components, you must be careful not to damage the support (see details in the procedures).</para>
+         </noteR>
+         <para translate="yes">Functions:</para>
+         <ul translate="no">
+            <li translate="yes">In the phase of removing welded components, the idea is to locate the spot welds to be able to unpick them. It is not necessary to strip the components completely.</li>
+            <li translate="yes">In the pre-assembly phase, the mating surfaces on the vehicle and new part must be stripped to prepared the surfaces for assembly.</li>
+         </ul>
+      </descbody>
+   </description>
+   <description id="d1e141" translate="no">
+      <title translate="yes">machining tool</title>
+      <descbody translate="no">
+         <para translate="yes">By definition these tools are used to remove particles of a material that constitutes the body component, during unwelding, grinding or cutting operations.</para>
+         <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">According to the grit used, some of them can also be used for stripping, but do not lose their ability to remove metal particles.</para>
+         </noteR>
+         <noteR translate="no" type="caution">
+            <para translate="yes">In this case, as for plastic components, you must be careful not to damage the support (see details in the procedures).</para>
+         </noteR>
+         <para translate="yes">For the correct use of these tools with equipment fitted with speed reduction, it is essential to observe the rotating speeds indicated: either on the label on the "consumable tools" themselves (grinders or discs), or in equipment catalogues for "cutting" tools (burrs or drill bits).</para>
+      </descbody>
+   </description>
+</description>

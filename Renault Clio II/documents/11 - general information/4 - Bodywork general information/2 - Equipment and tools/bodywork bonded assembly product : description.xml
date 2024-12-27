@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|X17|X41|X42|X75|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000008475" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bodywork bonded assembly product : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 06:35" translate="no"/>
+         <revised modified="10/10/24 13:44" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bodywork bonded assembly product : description</siename>
+         <sieversion translate="no">O.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000008475</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e114" translate="no">
+      <title translate="yes">rigid gluing</title>
+      <descbody translate="no"/>
+      <description id="d1e118" translate="no">
+         <title translate="yes">Standard rigid adhesive</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <para translate="yes">Used to bond components to the structure.</para>
+               <para translate="yes">Use also for crimping a door panel or wing.</para>
+               <figure id="00-03-04-8-repair-00-03-04-08-02-21-2-1-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017795_LAY-000002001.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000008475-03-04-8-repair-00-03-04-08-02-21-2-1-1-000017795</illusnum>
+               </figure>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e131" translate="no">
+         <title translate="yes">High performance rigid adhesive</title>
+         <descbody translate="no">
+            <para translate="yes">Used for bonding a roof in place of the laser weld.</para>
+            <descsection translate="no">
+               <figure id="00-03-04-35-repair-00-03-04-08-02-21-2-1-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000025846_LAY-000002003.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000008475-03-04-35-repair-00-03-04-08-02-21-2-1-3-000025846</illusnum>
+               </figure>
+            </descsection>
+            <para translate="yes">Advantages:</para>
+            <ul translate="no">
+               <li translate="yes">Rigid assembly and good sealing.</li>
+               <li translate="yes">Rapid drying.</li>
+               <li translate="yes">Can be applied on an untreated sheet.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">The mating surface must be clean, or it will become unstuck in time.</li>
+            </ul>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e156" translate="no">
+      <title translate="yes">flexible adhesive</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use for positioning a part in place in relation to the structure, the adhesive serves as a shock absorber.</para>
+            <figure id="00-03-04-13-repair-00-03-04-08-02-21-2-1-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016730_LAY-000002002.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000008475-03-04-13-repair-00-03-04-08-02-21-2-1-2-000016730</illusnum>
+            </figure>
+            <para translate="yes">Advantages:</para>
+            <ul translate="no">
+               <li translate="yes">Flexible assembly and good sealing.</li>
+               <li translate="yes">Rapid drying.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">The mating surface must be prepared, or it will become unstuck in time.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+</description>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X24|X33|X35|X38/APL03|X44|X52|X61|X62|X67|X70/APL03|X73|X74|X76/APL03|X77|X79|X81|X82|X83/APL03|X84|X85|X87|X90/APL03,APL05|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XZH|XHA|XZG|XFA|X55|XZJ|XEF|XJD|XJA|XJC|XJB|XJE|XBC|XJL|XJH|XJK|XFK|XJF|XCB|XHN|XBB|X57|X58|X56|XDD|XBG|X59|X53|X17|X54|XBA|X75|XFF|X45|X27|XRQ|X47|X29|XTP|X48|X40|X41|X42|X43|X06|X65|X64|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000468068" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">brake fluid : specifications</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="08/03/21 08:20" translate="no"/>
+      <revised modified="08/03/21 20:02" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">brake fluid : specifications</siename>
+      <sieversion translate="no">M.3</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000457259</sienumber>
+      <?Pub Caret -2?>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <description id="des4" translate="no">
+    <title translate="yes">Topping up the level</title>
+    <descbody translate="no">
+      <para translate="yes">Wear of the brake pads will result in a gradual drop in the fluid level in the reservoir.</para>
+      <para translate="yes">Do not top up the fluid, as the level will rise again when the pads are next changed. The brake fluid level must not fall below the minimum mark.</para>
+    </descbody>
+  </description>
+  <description id="des1" translate="no">
+    <title translate="yes">Approved brake fluid</title>
+    <descbody translate="no">
+      <para translate="yes">Using a mixture of two incompatible brake fluids in the brake circuit may give rise to:</para>
+      <ul translate="no">
+        <li translate="yes">significant risk of leaks mainly due deterioration of the cups,</li>
+        <li translate="yes">impaired operation of the ESP system.</li>
+      </ul>
+      <descsection translate="no">
+        <para id="par1" translate="yes">To avoid such risks, it is essential to only use RENAULT standard approved brake fluids<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>.</para>
+      </descsection>
+    </descbody>
+  </description>
+</description>

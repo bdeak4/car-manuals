@@ -1,0 +1,100 @@
+{
+  "PR": [
+    {
+      "id": "1247_350513",
+      "filename": "1247_350513.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01054025.svg"
+    },
+    {
+      "id": "1247_350511",
+      "filename": "1247_350511.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01059848.svg"
+    },
+    {
+      "id": "1247_350510",
+      "filename": "1247_350510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01082421.svg"
+    },
+    {
+      "id": "1247_350516",
+      "filename": "1247_350516.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01048771.svg"
+    },
+    {
+      "id": "1247_351010",
+      "filename": "1247_351010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014404.svg"
+    },
+    {
+      "id": "1247_352010",
+      "filename": "1247_352010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01009279.svg"
+    },
+    {
+      "id": "1247_353010",
+      "filename": "1247_353010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084116.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af96ff73ef64d00e0efaadd",
+      "filename": "tyre : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000231613.xml"
+    },
+    {
+      "id": "5af5b1e508813b00dc4cf638",
+      "filename": "tyre : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000233476.xml"
+    },
+    {
+      "id": "605313a32151e778ded77b03",
+      "filename": "wheel: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001731455.xml"
+    },
+    {
+      "id": "60edfd6a64bda84194666240",
+      "filename": "wheel : balancing.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001823532.xml"
+    },
+    {
+      "id": "65c5e22448bb8c18f9a311e6",
+      "filename": "tyre : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-002088427.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "3018",
+      "filename": "ERROR IN THE ENGINE IMMOBILISER DIAGNOSTIC SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3018.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21369.png"
+    }
+  ]
+}

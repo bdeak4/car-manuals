@@ -1,0 +1,115 @@
+{
+  "PR": [
+    {
+      "id": "1204_350110",
+      "filename": "1204_350110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021253.svg"
+    },
+    {
+      "id": "1204_350115",
+      "filename": "1204_350115.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021254.svg"
+    },
+    {
+      "id": "1204_350210",
+      "filename": "1204_350210.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083890.svg"
+    },
+    {
+      "id": "1204_350215",
+      "filename": "1204_350215.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01023208.svg"
+    },
+    {
+      "id": "1204_351010",
+      "filename": "1204_351010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021255.svg"
+    },
+    {
+      "id": "1204_352010",
+      "filename": "1204_352010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021256.svg"
+    },
+    {
+      "id": "1204_353010",
+      "filename": "1204_353010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083891.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2492",
+      "filename": "ELECTRIC POWER ASSISTED STEERING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2492.pdf"
+    },
+    {
+      "id": "3025",
+      "filename": "A.B.S. MARK 20 on the Twingo Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3025.pdf"
+    },
+    {
+      "id": "3487",
+      "filename": "Special features of Twingos fitted with 14 inch wheels.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3487.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "3755",
+      "filename": "Special notes on the Twingo equipped with BOSCH 8.0 ABS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3755.pdf"
+    },
+    {
+      "id": "5af5b01408813b00dc4cf440",
+      "filename": "tyre : identification.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000233382.xml"
+    },
+    {
+      "id": "5af96ff73ef64d00e0efaadd",
+      "filename": "tyre : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000231613.xml"
+    },
+    {
+      "id": "5af56bf0c3da7a00dc2280ee",
+      "filename": "wheel : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000225640.xml"
+    },
+    {
+      "id": "5af5b1e508813b00dc4cf638",
+      "filename": "tyre : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000233476.xml"
+    },
+    {
+      "id": "60edfd6a64bda84194666240",
+      "filename": "wheel : balancing.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001823532.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21369.png"
+    }
+  ]
+}

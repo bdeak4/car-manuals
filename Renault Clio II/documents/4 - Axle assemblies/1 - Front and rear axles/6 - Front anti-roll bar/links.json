@@ -1,0 +1,50 @@
+{
+  "PR": [
+    {
+      "id": "1247_321010",
+      "filename": "1247_321010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084109.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2945",
+      "filename": "REPLACING THE RADIATOR MOUNTING BRACKETS ON THE ENGINE CRADLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2945.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af56a06c3da7a00dc227ecf",
+      "filename": "front anti-roll bar : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000193633.xml"
+    },
+    {
+      "id": "5b08155ed02e7d00dc4564fa",
+      "filename": "ball joint uncoupling tool : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000007833.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21922.png"
+    }
+  ]
+}

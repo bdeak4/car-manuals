@@ -1,0 +1,49 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5af583a4c3da7a00dc229820",
+      "filename": "headlight washer jet : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000399597.xml"
+    },
+    {
+      "id": "5af584ebc3da7a00dc2299e0",
+      "filename": "headlight washer pump : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000409001.xml"
+    },
+    {
+      "id": "5af5c2c6f04d3300dc242bec",
+      "filename": "windscreen washer pump : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000403457.xml"
+    },
+    {
+      "id": "5af973063ef64d00e0efadea",
+      "filename": "windscreen washer fluid reservoir : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000408356.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "MR-432-X65-85A000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-85A000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21645.png"
+    }
+  ]
+}

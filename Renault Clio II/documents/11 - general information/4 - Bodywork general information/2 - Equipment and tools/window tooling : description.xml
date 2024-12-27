@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XFA|XZG|XZJ|X55|XEF|XJD|XFF|XZH|XBB|XBA|XHN|XCB|XBC|X58|XDD|XJA|XBG|X59|X17|XJL|X75|XJK|XHA|XJE|XJB|XJC|XJH|XFK|XJF|X27|XRQ|XTP|X41|X42|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-001823320" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">window tooling : description</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="04/01/22 12:45" translate="no"/>
+      <revised modified="10/10/24 13:39" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">window tooling : description</siename>
+      <sieversion translate="no">B.1</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-001823320</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no">
+    <para translate="yes">Examples of equipment and tools:</para>
+  </descbody>
+  <description id="d1e114" translate="no" xml:lang="fr">
+    <title translate="yes">protection</title>
+    <descbody translate="no">
+      <descsection translate="no"/>
+    </descbody>
+  </description>
+  <description id="d1e125" translate="no" xml:lang="fr">
+    <title translate="yes">cutting</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <marklayer translate="no"/>
+        <figure id="00-04-03-166-repair-00-04-03-20-02-21-1-1-2" translate="no">
+          <title translate="yes">Cutting wire insertion tool</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024373_LAY-000316493.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-166-repair-00-04-03-20-02-21-1-1-2-000024373</illusnum>
+        </figure>
+        <figure id="00-04-03-167-repair-00-04-03-20-02-21-1-1-3" translate="no">
+          <title translate="yes">Wire insertion tool (Car.1033)</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024374_LAY-000316489.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-167-repair-00-04-03-20-02-21-1-1-3-000024374</illusnum>
+        </figure>
+        <figure id="00-04-03-165-repair-00-04-03-20-02-21-1-1-4" translate="no">
+          <title translate="yes">Cutting wire (twisted)</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024372_LAY-000316494.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-165-repair-00-04-03-20-02-21-1-1-4-000024372</illusnum>
+        </figure>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 210 485  </ingredientname></para>
+        <figure id="00-04-03-20-1-repair-00-04-03-20-02-21-1-1-13" translate="no">
+          <title translate="yes">Cutting wire (square)</title>
+          
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000052647_LAY-000316495.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-20-1-repair-00-04-03-20-02-21-1-1-13-000052647</illusnum>
+        </figure>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 431 073  </ingredientname></para>
+        <figure id="00-04-03-169-repair-00-04-03-20-02-21-1-1-5" translate="no">
+          <title translate="yes">Pulling handle</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024376_LAY-000316491.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-169-repair-00-04-03-20-02-21-1-1-5-000024376</illusnum>
+        </figure>
+        <figure id="00-04-03-168-repair-00-04-03-20-02-21-1-1-6" translate="no">
+          <title translate="yes">Support tool</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024375_LAY-000316490.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-168-repair-00-04-03-20-02-21-1-1-6-000024375</illusnum>
+        </figure>
+        <figure id="00-04-03-161-repair-00-04-03-20-02-21-1-1-7" translate="no">
+          <title translate="yes">Pneumatic or electric cutting tool</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000023040_LAY-000316496.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-161-repair-00-04-03-20-02-21-1-1-7-000023040</illusnum>
+        </figure>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 171 946  </ingredientname></para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e178" translate="no" xml:lang="fr">
+    <title translate="yes">prehension</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <marklayer translate="no"/>
+        <figure id="00-04-03-162-repair-00-04-03-20-02-21-1-1-8" translate="no">
+          <title translate="yes">Retaining suction cup</title>
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000023041_LAY-000316492.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-162-repair-00-04-03-20-02-21-1-1-8-000023041</illusnum>
+        </figure>
+        <figure id="00-04-03-20-3-repair-00-04-03-20-02-21-1-1-14" translate="no">
+          
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000065568_LAY-000316488.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-20-3-repair-00-04-03-20-02-21-1-1-14-000065568</illusnum>
+        </figure>
+        <?Pub Caret -1?>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 382 068  </ingredientname></para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e196" translate="no" xml:lang="fr">
+    <title translate="yes">application</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <figure id="00-04-03-163-repair-00-04-03-20-02-21-1-1-10" translate="no">
+          <title translate="yes">Nozzle for dual component adhesive</title>
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023819.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-163-repair-00-04-03-20-02-21-1-1-10-000023819</illusnum>
+        </figure>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 408 909  </ingredientname></para>
+        <figure id="00-04-03-164-repair-00-04-03-20-02-21-1-1-11" translate="no">
+          <title translate="yes">Nozzle for single component adhesive</title>
+          <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023820.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+          <illusnum>RDE-000012739-04-03-164-repair-00-04-03-20-02-21-1-1-11-000023820</illusnum>
+        </figure>
+        <para translate="yes">Part no.:  <ingredientname translate="yes">77 11 171 310  </ingredientname></para>
+      </descsection>
+    </descbody>
+  </description>
+</description>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XFF|XZJ|XJA|XJC|XJB|XJE|XJD|XHA|XJK|XFK|XBC|XJL|XJF|XBG|XCB|XHN|XBB|XZH|X27|X58|X55|XRQ|XTP|XDD|X59|XEF|X17|XFA|X09|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000350483" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">side opening element : sealing repair</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="27/07/21 18:53" translate="no"/>
+      <revised modified="29/07/21 15:58" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">side opening element : sealing repair</siename>
+      <sieversion translate="no">F.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000349874</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <?Pub Caret -2?>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Before repairing the sealing, check the sealing of the area concerned<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499317"><linkdesc>vehicle : sealing check</linkdesc><linkvalue>GIEMR-002440</linkvalue></sieref>.</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e127" translate="no">
+    <title translate="yes">preparation operation for repairing the sealing</title>
+    <procedure id="d1e131" translate="no">
+      <title translate="yes">Check and adjust if necessary:</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <ul translate="no">
+              <li translate="yes">the clearances and flush fittings of the opening elements <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3458360"><linkdesc>vehicle panel gaps : adjustment value</linkdesc><linkvalue>GIEMR-001316</linkvalue></sieref>,</li>
+              <li translate="yes">the condition and position of the exterior weatherstrip <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3528056"><linkdesc>front side opening element window exterior weatherstrip : removal - refitting</linkdesc><linkvalue>GIEMR-001504</linkvalue></sieref> or<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3527962"><linkdesc>rear side opening element window exterior weatherstrip : removal - refitting</linkdesc><linkvalue>GIEMR-001503</linkvalue></sieref>,</li>
+              <li translate="yes">the condition and positioning of the side opening element seals.</li>
+            </ul>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">If the seals are dirty, clean them with soapy water<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e162" translate="no">
+      <title translate="yes">Was any action performed?</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <ul translate="no">
+              <li translate="yes">NO: move on to the next step.</li>
+              <li translate="yes">YES: check the sealing in the area <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3475714"><linkdesc>side opening element : sealing check</linkdesc><linkvalue>GIEMR-001457</linkvalue></sieref>.</li>
+            </ul>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Was water present in the passenger compartment of the vehicle?</para>
+            <ul translate="no">
+              <li translate="yes">YES: move on to the next step.</li>
+              <li translate="yes">NO: fault resolved.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e185" translate="no">
+    <title translate="yes">sealing repair operation</title>
+    <procedure id="d1e189" translate="no">
+      <title translate="yes">Repairing the sealing of the side opening element sealing film or trim</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">A) Is water present in the passenger compartment after the sealing of the side opening element trim has been checked?</para>
+            <ul translate="no">
+              <li translate="yes">NO: move on to the next step.</li>
+              <li translate="yes">YES:</li>
+              <li translate="yes">a) if the side opening element trim is deformed or cracked, replace the side opening element trim<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505774"><linkdesc>front side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001274</linkvalue></sieref> or <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483003"><linkdesc>rear side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001273</linkvalue></sieref>,</li>
+              <li translate="yes">b) if one of the side opening element trim sealing mastics is incorrectly positioned, replace the sealing mastic <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505774"><linkdesc>front side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001274</linkvalue></sieref> or <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483003"><linkdesc>rear side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001273</linkvalue></sieref> and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>,</li>
+              <li translate="yes">c) if the side opening element trim clips are damaged, replace the clips<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505774"><linkdesc>front side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001274</linkvalue></sieref> or<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483003"><linkdesc>rear side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001273</linkvalue></sieref>.</li>
+            </ul>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check the sealing of the side opening element trim <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3475714"><linkdesc>side opening element : sealing check</linkdesc><linkvalue>GIEMR-001457</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">B) Is water present in the passenger compartment after the side opening element sealing film has been checked?</para>
+            <ul translate="no">
+              <li translate="yes">NO: move on to the next step.</li>
+              <li translate="yes">YES:</li>
+              <li translate="yes">a) remove the side opening element trim <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505774"><linkdesc>front side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001274</linkvalue></sieref> or<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483003"><linkdesc>rear side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001273</linkvalue></sieref>,</li>
+              <li translate="yes">b) if the side opening element sealing film is detached, deformed or torn, replace the sealing film<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3537785"><linkdesc>side opening element sealing film : removal - refitting</linkdesc><linkvalue>GIEMR-001230</linkvalue></sieref>,</li>
+              <li translate="yes">c) if the side opening element trim clips are damaged, replace the clips<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505774"><linkdesc>front side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001274</linkvalue></sieref> or <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483003"><linkdesc>rear side opening element trim : removal - refitting</linkdesc><linkvalue>GIEMR-001273</linkvalue></sieref>,</li>
+              <li translate="yes">d) if the sealing foam on the door box section is detached, deformed or torn, replace the foam<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3538257"><linkdesc>front window winder mechanism : removal - refitting</linkdesc><linkvalue>GIEMR-001577</linkvalue></sieref> or<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3510026"><linkdesc>rear side opening element window winder mechanism assembly : removal - refitting</linkdesc><linkvalue>GIEMR-001101</linkvalue></sieref>,</li>
+              <li translate="yes">e) if the blanking covers of the door box section are detached, reposition the blanking covers. If the blanking covers are deformed, replace the blanking covers <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3538257"><linkdesc>front window winder mechanism : removal - refitting</linkdesc><linkvalue>GIEMR-001577</linkvalue></sieref> or <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3510026"><linkdesc>rear side opening element window winder mechanism assembly : removal - refitting</linkdesc><linkvalue>GIEMR-001101</linkvalue></sieref>.</li>
+            </ul>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check the sealing of the side opening element sealing film <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3475714"><linkdesc>side opening element : sealing check</linkdesc><linkvalue>GIEMR-001457</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e314" translate="no">
+      <title translate="yes">Repairing the sealing of the side opening element seal</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Is water present in the passenger compartment after the side opening element sealing has been checked?</para>
+            <ul translate="no">
+              <li translate="yes">NO: fault resolved.</li>
+              <li translate="yes">YES:</li>
+              <li translate="yes">a) if the side opening element seal is deformed, replace the side opening element seal,</li>
+              <li translate="yes">b) if the side opening element seal shows signs of wear, cuts or cracks, replace the side opening element seal.</li>
+            </ul>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check the sealing of the side opening element seal<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3475714"><linkdesc>side opening element : sealing check</linkdesc><linkvalue>GIEMR-001457</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

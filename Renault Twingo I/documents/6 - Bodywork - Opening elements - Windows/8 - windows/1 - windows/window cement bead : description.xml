@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XZH|XFA|XZG|X55|XZJ|XEF|XJD|XFF|XJC|XJA|XJE|XJB|XHA|XJK|XFK|XBC|XJL|XJF|XBG|XCB|XHN|XBB|XBA|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X42|X75|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000378881" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">window cement bead : description</title>
+
+
+<descprolog translate="no">
+
+
+<status name="Draft" translate="no"/>
+<critdates translate="no">
+<created date="27/07/21 14:04" translate="no"/>
+<revised modified="29/07/21 16:56" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">window cement bead : description</siename>
+<sieversion translate="no">J.2</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000378878</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog><?Pub Caret -2?>
+<descbody translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">If using a <ingredientname translate="yes">BIPAC EVOLUTION </ingredientname>bonding kit, squeeze out <technicalvalue translate="no"><value translate="yes">100 to 150 mm </value></technicalvalue>of cement bead so that the product is uniformly mixed before it is applied.</para>
+</noteR>
+<noteR translate="no" type="caution">
+<para translate="yes">To prevent the risk of interfering with the radio reception if the vehicle's aerial is integrated into the window and to prevent the risk of corrosion on an aluminium structure, use a non-conducting adhesive.</para>
+</noteR>
+</descbody>
+<description id="d1e128" translate="no" xml:lang="en">
+<title translate="yes">window cement bead: description</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e130" translate="no"><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.1">
+<mcomponent><label/></mcomponent><designation>2</designation>
+</mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.2"><mcomponent>
+<label/></mcomponent><designation>1</designation></mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.3"><mcomponent><label/>
+</mcomponent><designation>6</designation></mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.4"><mcomponent><label/>
+</mcomponent><designation>5</designation></mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.5"><mcomponent><label/>
+</mcomponent><designation>4</designation></mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.6"><mcomponent><label/>
+</mcomponent><designation>3</designation></mark><mark id="MARK.REPAIR-50X04X01X05-02X21-1-1.7"><mcomponent><label/>
+</mcomponent><designation>7</designation></mark></marklayer>
+<para translate="yes">Level the residual beading at the last possible minute to maximise cleanliness (reduced risk of contamination).</para>
+<para translate="yes">The cement bead must be triangular in shape (an adhesive application nozzle is supplied in each bonding kit).</para>
+<figure id="50-04-02-02-1-repair-50-04-01-05-02-21-1-1-1" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000004089_c@[users[a070181[appdata[local[temp[aptexport[50-04-02-02-1-repair-50-04-01-05-02-21-1-1-1.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378881-04-02-02-1-repair-50-04-01-05-02-21-1-1-1-000004089</illusnum></figure>
+<para translate="yes"><markref format="dita" href="#d1e128/50-04-02-02-1-repair-50-04-01-05-02-21-1-1-1" scope="local" translate="no" type="figure">1</markref>:<technicalvalue translate="no"><value translate="yes">12 mm</value></technicalvalue></para>
+<para translate="yes"><markref format="dita" href="#d1e128/50-04-02-02-1-repair-50-04-01-05-02-21-1-1-1" scope="local" translate="no" type="figure">2</markref>:<technicalvalue translate="no"><value translate="yes">8 mm</value></technicalvalue></para>
+<para translate="yes">If there is no specific nozzle, follow the dimensions of the beading.</para>
+<para translate="yes"/>
+<para translate="yes">Apply adhesive to the windows (rather than the mounting) for the following reasons:</para>
+<figure id="50-04-4-repair-50-04-01-05-02-21-1-1-2" translate="no">
+<title translate="yes">window cement bead: description</title>
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023045_c@[users[a070181[appdata[local[temp[aptexport[50-04-4-repair-50-04-01-05-02-21-1-1-2.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378881-04-4-repair-50-04-01-05-02-21-1-1-2-000023045</illusnum></figure>
+<para translate="yes">Ideal working position.</para>
+<para translate="yes">The trim  <markref format="dita" href="#d1e128/50-04-4-repair-50-04-01-05-02-21-1-1-2" scope="local" translate="no" type="figure">3</markref> may be used as a guide.</para>
+<para translate="yes">When the cement bead  <markref format="dita" href="#d1e128/50-04-4-repair-50-04-01-05-02-21-1-1-2" scope="local" translate="no" type="figure">4</markref> is applied in the correct position, it forms a link between the window  <markref format="dita" href="#d1e128/50-04-4-repair-50-04-01-05-02-21-1-1-2" scope="local" translate="no" type="figure">5</markref>  and the mounting  <markref format="dita" href="#d1e128/50-04-4-repair-50-04-01-05-02-21-1-1-2" scope="local" translate="no" type="figure">6</markref> .</para>
+<figure id="50-04-3-repair-50-04-01-05-02-21-1-1-3" translate="no">
+<title translate="yes">window cement bead: description</title>
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023044_c@[users[a070181[appdata[local[temp[aptexport[50-04-3-repair-50-04-01-05-02-21-1-1-3.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378881-04-3-repair-50-04-01-05-02-21-1-1-3-000023044</illusnum></figure>
+<para translate="yes">Incorrect working position.</para>
+<para translate="yes">There is no marking to aid the application of the cement bead.</para>
+<para translate="yes">If applied without a guide, there is a risk that the cement bead will no longer come into contact with the window  <markref format="dita" href="#d1e128/50-04-3-repair-50-04-01-05-02-21-1-1-3" scope="local" translate="no" type="figure">7</markref> and this will cause a sealing fault.</para>
+<para translate="yes">The cement bead must be even and applied perpendicular to the bonding area (starting with the bottom and centre of the mounting when bonding a window).</para>
+<para translate="yes">At the end of the application procedure, a union is formed by juxtaposing the cement beads by  <technicalvalue translate="no"><value translate="yes">50 mm  </value></technicalvalue>.</para>
+<figure id="50-04-5-repair-50-04-01-05-02-21-1-1-4" translate="no">
+<title translate="yes">window cement bead: description</title>
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023046.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378881-04-5-repair-50-04-01-05-02-21-1-1-4-000023046</illusnum></figure>
+<figure id="50-04-6-repair-50-04-01-05-02-21-1-1-5" translate="no">
+<title translate="yes">window cement bead: description</title>
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000023047.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378881-04-6-repair-50-04-01-05-02-21-1-1-5-000023047</illusnum></figure>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">After laying down the cement bead, immediately fit the window or sunroof mechanism to the vehicle.</para>
+</noteR>
+</descsection>
+</descbody>
+</description>
+</description>

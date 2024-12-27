@@ -1,0 +1,110 @@
+{
+  "PR": [
+    {
+      "id": "1247_360112",
+      "filename": "1247_360112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01048893.svg"
+    },
+    {
+      "id": "1247_364012",
+      "filename": "1247_364012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01045700.svg"
+    },
+    {
+      "id": "1247_362010",
+      "filename": "1247_362010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021132.svg"
+    },
+    {
+      "id": "1247_362015",
+      "filename": "1247_362015.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084120.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-3",
+      "filename": "M.R. 345 - 3 Chassis phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-3.pdf"
+    },
+    {
+      "id": "5af586fcc3da7a00dc229c9c",
+      "filename": "steering assembly : tightening torque.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000224171.xml"
+    },
+    {
+      "id": "5af59619c3da7a00dc22ad8c",
+      "filename": "steering assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000224951.xml"
+    },
+    {
+      "id": "5af56a69c3da7a00dc227f44",
+      "filename": "steering box: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000220103.xml"
+    },
+    {
+      "id": "5af2c6e5c3da7a00dc225787",
+      "filename": "steering box gaiter : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000228275.xml"
+    },
+    {
+      "id": "5af56b31c3da7a00dc228028",
+      "filename": "bulkhead seal : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000219180.xml"
+    },
+    {
+      "id": "5af5bfa0f04d3300dc24283a",
+      "filename": "steering axial ball joint linkage : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000227499.xml"
+    },
+    {
+      "id": "5af9636b3ef64d00e0ef8f17",
+      "filename": "track rod end housing: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000822998.xml"
+    },
+    {
+      "id": "5b08155ed02e7d00dc4564fa",
+      "filename": "ball joint uncoupling tool : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000007833.xml"
+    },
+    {
+      "id": "5e47151b46e0fb00018a9d76",
+      "filename": "steering assembly : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001485638.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21923.png"
+    }
+  ]
+}

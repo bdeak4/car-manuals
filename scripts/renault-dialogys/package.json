@@ -1,0 +1,14 @@
+{
+  "name": "renault-dialogys-scraper",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "link-downloader": "tsx link-downloader.ts",
+    "script3": "tsx script3.ts"
+  },
+  "dependencies": {
+    "pending-xhr-puppeteer": "^2.3.3",
+    "puppeteer": "^23.11.1",
+    "tsx": "^4.19.2"
+  }
+}

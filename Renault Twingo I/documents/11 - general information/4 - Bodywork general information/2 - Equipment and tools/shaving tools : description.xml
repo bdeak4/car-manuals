@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFF|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X58|X27|X75|XDD|X59|XJ1|XJH|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000009630" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">shaving tools : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 06:03" translate="no"/>
+         <revised modified="10/10/24 13:38" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">shaving tools : description</siename>
+         <sieversion translate="no">M.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000009630</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e114" translate="no">
+      <title translate="yes">flat flush grinding</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a grinding disc on an angle grinder (<technicalvalue translate="no">
+                  <value translate="yes">5,000 rpm</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-43-repair-00-04-03-10-02-21-2-1-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017651_LAY-000002116.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000009630-04-03-43-repair-00-04-03-10-02-21-2-1-1-000017651</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Very rapid for flush grinding a large surface.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">Causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory hand protection,</li>
+               <li translate="yes">obligatory ears protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e156" translate="no">
+      <title translate="yes">angle flush grinding</title>
+      <descbody translate="no">
+         <para translate="yes">Use of a flush grinding disk on an angle grinder (<technicalvalue translate="no">
+               <value translate="yes">10,000 rpm</value>
+            </technicalvalue>) fitted with speed control.</para>
+         <descsection translate="no">
+            <figure id="00-04-03-58-repair-00-04-03-10-02-21-2-1-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016149_LAY-000002117.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000009630-04-03-58-repair-00-04-03-10-02-21-2-1-2-000016149</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Means for flush grinding in narrow areas.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">Causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory hand protection,</li>
+               <li translate="yes">obligatory ears protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e198" translate="no">
+      <title translate="yes">corner flush grinding</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a strip sander fitted with a<technicalvalue translate="no">
+                  <value translate="yes">36</value>
+               </technicalvalue>grit strip.</para>
+         </descsection>
+         <descsection translate="no">
+            <figure id="00-04-03-98-repair-00-04-03-10-02-21-2-1-3" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016181_LAY-000002118.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000009630-04-03-98-repair-00-04-03-10-02-21-2-1-3-000016181</illusnum>
+            </figure>
+         </descsection>
+         <para translate="yes">Advantage:</para>
+         <ul translate="no">
+            <li translate="yes">Rapid means for flush grinding in corners.</li>
+         </ul>
+         <para translate="yes">Disadvantage:</para>
+         <ul translate="no">
+            <li translate="yes">Lets off sparks which can be harmful close to sensitive components (windows, plastic components, fabric, etc.).</li>
+         </ul>
+         <para translate="yes">Operator protection:</para>
+         <ul translate="no">
+            <li translate="yes">obligatory eye protection,</li>
+            <li translate="yes">obligatory hand protection,</li>
+            <li translate="yes">obligatory ears protection.</li>
+         </ul>
+         <para translate="yes">Protection in the work area:</para>
+         <ul translate="no">
+            <li translate="yes">protection of interior fittings,</li>
+            <li translate="yes">protection of internal and external window faces.</li>
+         </ul>
+      </descbody>
+   </description>
+</description>

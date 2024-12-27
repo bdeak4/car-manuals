@@ -1,0 +1,50 @@
+{
+  "PR": [
+    {
+      "id": "1204_820110",
+      "filename": "1204_820110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085253.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3546",
+      "filename": "IMMOBILISER FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3546.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3361",
+      "filename": "CENTRAL LOCKING WHEN MOVING AND RADIO FREQUENCY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3361.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21647.png"
+    }
+  ]
+}

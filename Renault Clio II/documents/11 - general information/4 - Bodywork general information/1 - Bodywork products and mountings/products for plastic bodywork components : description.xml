@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZH|XZG|XFA|XFF|XZJ|X55|XEF|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XFK|XJF|XHN|XJL|XCB|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X42|X75|XHA|XJD|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000007506" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">products for plastic bodywork components : description</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="04/11/21 01:12" translate="no"/>
+<revised modified="10/10/24 13:38" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">products for plastic bodywork components : description</siename>
+<sieversion translate="no">L.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000007506</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e112" translate="no">
+<title translate="yes">Repairing by bonding</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Used to repair deep scratches, fractures, holes
+and mounting brackets.</para>
+<para translate="yes">Use on thermoplastic and thermosetting materials:</para>
+<ul translate="no">
+<li translate="yes">Polypropylene (PP) ,</li>
+<li translate="yes">Polypropylene/polyethylene (PP / PE) ,</li>
+<li translate="yes">Polypropylene / EPDM (PP / EPDM) ,</li>
+<li translate="yes">POLYCARBONATE ,</li>
+<li translate="yes">ABS ,</li>
+<li translate="yes">ASA ,</li>
+<li translate="yes">Composite materials .</li>
+</ul>
+</descsection>
+</descbody>
+<description id="d1e157" translate="no">
+<title translate="yes">Composition of the plastic adhesive kit:</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Plastic repair kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue>
+</sieref>(04B, Consumables - Products):</para>
+<ul translate="no">
+<li translate="yes">Cleaner,</li>
+<li translate="yes">Bi-component repair mastic,</li>
+<li translate="yes">Bonding primer,</li>
+<li translate="yes">Primer rubber application pad,</li>
+<li translate="yes">Self-mixing nozzles,</li>
+<li translate="yes">Reinforcing film.</li>
+</ul>
+</descsection>
+</descbody>
+</description>
+<description id="d1e182" translate="no">
+<title translate="yes">Preparing the kit:</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Place the cartridges in the nozzle.</para>
+<figure id="00-03-04-28-4-repair-00-03-04-28-02-21-1-1-1" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000040133.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000007506-03-04-28-4-repair-00-03-04-28-02-21-1-1-1-000040133</illusnum></figure>
+<para translate="yes">Extrude 20 mm of bead in order to obtain a homogenous
+mixture of the product before application.</para>
+</descsection>
+</descbody>
+</description>
+<description id="d1e198" translate="no">
+<title translate="yes">Gun:</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Plastic repair gun<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue>
+</sieref>(04B, Consumables - Products).</para>
+</descsection>
+</descbody>
+</description>
+</description>
+<description id="d1e209" translate="no">
+<title translate="yes">Welding repair</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Used to repair fractures, holes and mounting
+brackets.</para>
+<para translate="yes">Suited to repairing complex geometry areas.</para>
+<para translate="yes">Use on thermoplastic materials:</para>
+<ul translate="no">
+<li translate="yes">Polypropylene (PP) ,</li>
+<li translate="yes">Polypropylene / Polyethylene (PP / PE) ,</li>
+<li translate="yes">Polypropylene / EPDM (PP / EPDM) ,</li>
+<li translate="yes">POLYCARBONATE ,</li>
+<li translate="yes">ABS ,</li>
+<li translate="yes">ASA ,</li>
+<li translate="yes">Noryl .</li>
+</ul>
+</descsection>
+</descbody>
+<description id="d1e253" translate="no">
+<title translate="yes">Composition of the plastic weld kit:</title>
+<descbody translate="no">
+<para translate="yes">Welding repair kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue>
+</sieref>(04B, Consumables - Products):</para>
+<ul translate="no">
+<li translate="yes">Soldering iron,</li>
+<li translate="yes">rod,</li>
+<li translate="yes">18/10 stainless steel mesh,</li>
+<li translate="yes">soldering iron support,</li>
+<li translate="yes">cooling,</li>
+<li translate="yes">brush (wooden handle).</li>
+</ul>
+</descbody>
+</description>
+</description>
+<description id="d1e276" translate="no">
+<title translate="yes">epoxy resin repair</title>
+<descbody translate="no">
+<para translate="yes">Used to repair scratches, cracks, openings and
+to do remplacement partiel of element</para>
+<para translate="yes">Used on thermosetting materials</para>
+<para translate="yes">Transfert Molding Resine(RTM)</para>
+</descbody>
+<description id="d1e289" translate="no">
+<title translate="yes">Content of resin epoxy kit</title>
+<descbody translate="no">
+<para translate="yes">Resin epoxy kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue>
+</sieref>:</para>
+<ul translate="no">
+<li translate="yes">Resin</li>
+<li translate="yes">Hardnener</li>
+<li translate="yes">Glass cloth</li>
+<li translate="yes">Glass mat</li>
+<li translate="yes">Short fibres</li>
+</ul>
+</descbody>
+</description>
+<description id="d1e309" translate="no">
+<title translate="yes">Kit preparation</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e311" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X03X04X28-02X21-1-1.1">
+<mcomponent><label/></mcomponent><designation>2</designation>
+</mark><mark id="MARK.REPAIR-00X03X04X28-02X21-1-1.2"><mcomponent>
+<label/></mcomponent><designation>1</designation></mark>
+</marklayer>
+<figure id="40-01-45-10-142-repair-00-03-04-28-02-21-1-1-2" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000062303_c@[users[a068726[appdata[local[temp[aptexport[40-01-45-10-142-repair-00-03-04-28-02-21-1-1-2.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000007506-01-45-10-142-repair-00-03-04-28-02-21-1-1-2-000062303</illusnum></figure>
+<para translate="yes">A resin pot<markref format="dita" href="#d1e309/40-01-45-10-142-repair-00-03-04-28-02-21-1-1-2" scope="local" translate="no" type="figure">1</markref><technicalvalue translate="no"><value translate="yes">(166g)</value></technicalvalue>for 1 bottle of hardner.</para>
+</descsection>
+<para translate="yes">If necessary add shots fibres (50% maxi) .</para>
+<para translate="yes">The mixture has a<technicalvalue translate="no">
+<value translate="yes">15 to 20 min</value></technicalvalue>at<technicalvalue translate="no"><value translate="yes">20˚ C</value></technicalvalue>.</para>
+<para translate="yes">Don’t use under<technicalvalue translate="no">
+<value translate="yes">20˚ C</value></technicalvalue>.</para>
+</descbody>
+</description>
+</description>
+<description id="d1e365" translate="no">
+<title translate="yes">Finishing mastic</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">Used to repair slight scratches and to ensure
+the finish of bonding/weld repairs<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue>
+</sieref>(04B, Consumables - Products):</para>
+<ul translate="no">
+<li translate="yes">Polypropylene (PP) ,</li>
+<li translate="yes">Polypropylene/polyethylene (PP / PE) ,</li>
+<li translate="yes">Polypropylene / EPDM (PP / EPDM) ,</li>
+<li translate="yes">POLYCARBONATE ,</li>
+<li translate="yes">ABS ,</li>
+<li translate="yes">ASA ,</li>
+<li translate="yes">Noryl ,</li>
+<li translate="yes">Composite materials .</li>
+</ul>
+</descsection>
+</descbody>
+</description>
+</description>

@@ -1,0 +1,28 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "5af56d9cc3da7a00dc228282",
+      "filename": "opening element locking control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000272513.xml"
+    },
+    {
+      "id": "5af5bf09f04d3300dc242777",
+      "filename": "front passenger window winder control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000267918.xml"
+    },
+    {
+      "id": "5af5bf35f04d3300dc2427a8",
+      "filename": "driver's electric window control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000265524.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21885.png"
+    }
+  ]
+}

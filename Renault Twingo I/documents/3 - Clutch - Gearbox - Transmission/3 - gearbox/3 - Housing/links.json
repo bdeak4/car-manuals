@@ -1,0 +1,100 @@
+{
+  "PR": [
+    {
+      "id": "1336_212010",
+      "filename": "1336_212010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01019150.svg"
+    },
+    {
+      "id": "1336_213012",
+      "filename": "1336_213012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01031936.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "2628",
+      "filename": "THE AUTOMATIC CLUTCH is a clutch which is controlled by a computer..pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2628.pdf"
+    },
+    {
+      "id": "MR-TA-M",
+      "filename": "AUTOMATIC TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-TA-M.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3136",
+      "filename": "MODIFICATIONS TO THE JBJC GEARBOX MANUAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3136.pdf"
+    },
+    {
+      "id": "3343",
+      "filename": "DEVELOPMENT OF JBJC GEARBOXES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3343.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    },
+    {
+      "id": "5af2fa15c3da7a00dc225e4d",
+      "filename": "gearbox differential bearing : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000163971.xml"
+    },
+    {
+      "id": "5af2fef9c3da7a00dc2263a8",
+      "filename": "input shaft bearing on clutch housing : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000164951.xml"
+    },
+    {
+      "id": "5af56851c3da7a00dc227d22",
+      "filename": "5th gear housing : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000163572.xml"
+    },
+    {
+      "id": "5af949da3ef64d00e0ef64cd",
+      "filename": "input shaft bearing on mechanism cover : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000163021.xml"
+    },
+    {
+      "id": "5af960383ef64d00e0ef8cd9",
+      "filename": "mechanism housing: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000161903.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3451",
+      "filename": "Clutch: Fault finding aid.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3451.pdf"
+    },
+    {
+      "id": "2674",
+      "filename": "AUTOMATIC CLUTCH - XR25 CASSETTE Ni 16.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2674.pdf"
+    },
+    {
+      "id": "6511",
+      "filename": "Manual gearbox fault finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6511.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22012.png"
+    }
+  ]
+}

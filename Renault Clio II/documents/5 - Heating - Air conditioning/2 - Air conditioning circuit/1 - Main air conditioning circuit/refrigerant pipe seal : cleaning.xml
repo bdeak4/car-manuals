@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X24|X33|X35|X38|X43|X44|X45|X47|X52|X61|X62|X65|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XHA|XZG|XFF|XZJ|XEF|XJD|XFA|XJA|XJB|XFK|XJK|XJF|XCB|XHN|X57|XBB|X58|XBC|X55|X56|XDD|XBG|X59|X53|X54|X17|XBA|XJL|X75|XJE|XJC|XJH|XZH|X27|XRQ|X29|XTP|X48|X40|X41|X42|X06|X64|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|X09|XR310|X1322|X1318|XZ110|X1312" id="RPR-001740457" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">refrigerant pipe seal : cleaning</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="22/06/22 10:39" translate="no"/>
+      <revised modified="22/06/22 17:45" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">refrigerant pipe seal : cleaning</siename>
+      <sieversion translate="no">C.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001740410</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop &amp; Start system, always read the safety instructions <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue></sieref>.</para>
+      </noteR>
+      <noteR translate="no" type="warning">
+        <para translate="yes">To avoid any risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out the repair:</para>
+        <ul translate="no">
+<li translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3443034"><linkdesc>passenger compartment cooling assembly : precautions for the repair</linkdesc><linkvalue>GIEMR-001022</linkvalue></sieref>           </li>
+<li translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue></sieref>           </li>
+        </ul>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e95" otherprops="WF-SET='01,46'" translate="no">
+    <title translate="yes">cleaning</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Insert the blanking plugs.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <figure id="30-02-02-52-3-repair-30-02-02-52-01-46-1-1-6" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000043946.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-001740410-02-02-52-3-repair-30-02-02-52-01-46-1-1-6-000043946</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Clean the surface and the seals of the connecting pipes using <ingredientname translate="yes">ENGINE CLEANER </ingredientname><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle: parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <figure id="30-02-02-52-5-repair-30-02-02-52-01-46-1-1-7" translate="no">
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000044575.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-001740410-02-02-52-5-repair-30-02-02-52-01-46-1-1-7-000044575</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Blow using a <?Pub Inc?><materialname otherprops="MAT80_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">compressed air nozzle</materialname>on the surface and the seals of the connecting pipes.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Lubricate the surface and the seals of the connecting pipes with air conditioning oil<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3507688"><linkdesc>passenger compartment cooling assembly : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-001021</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="pro1" translate="no">
+    <title translate="yes">Final step</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Remove the blanking plugs.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

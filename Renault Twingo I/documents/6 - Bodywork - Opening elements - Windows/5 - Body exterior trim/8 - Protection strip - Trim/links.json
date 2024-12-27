@@ -1,0 +1,39 @@
+{
+  "PR": [
+    {
+      "id": "1204_552020",
+      "filename": "1204_552020.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085131.svg"
+    },
+    {
+      "id": "1204_552010",
+      "filename": "1204_552010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01046191.svg"
+    },
+    {
+      "id": "1204_552030",
+      "filename": "1204_552030.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014741.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21586.png"
+    }
+  ]
+}

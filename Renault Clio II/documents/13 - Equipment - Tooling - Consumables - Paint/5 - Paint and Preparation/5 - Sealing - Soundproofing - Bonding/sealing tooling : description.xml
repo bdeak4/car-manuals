@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XZJ|XBB|XJA|XJB|XJE|XJD|XHA|XJK|XFK|XBC|XJL|XJF|XBG|XCB|XHN|X27|X58|X55|XRQ|XTP|XDD|X59|XEF|X17|X06|XFA|X09|XJ1|XJC|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010093" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">sealing tooling : description</title>
+   <?Pub Caret -2?>
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="03/09/18 08:30" translate="no"/>
+         <revised modified="10/10/24 13:47" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">sealing tooling : description</siename>
+         <sieversion translate="no">G.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010093</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e118" translate="no" xml:lang="en">
+      <title translate="yes">examples of tools to use</title>
+      <descbody translate="no"/>
+      <description id="d1e122" translate="no" xml:lang="en">
+         <title translate="yes">Spraying tools</title>
+         <descbody translate="no"/>
+         <description id="d1e126" translate="no" xml:lang="en">
+            <title translate="yes">spray hose</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-1-repair-00-04-03-32-02-21-1-1-7" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053526.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-1-repair-00-04-03-32-02-21-1-1-7-000053526</illusnum>
+                  </figure>
+                  <para translate="yes">The spray hose must have an internal diameterof<technicalvalue translate="no">
+                        <value translate="yes">14 mm</value>
+                     </technicalvalue>.</para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e142" translate="no" xml:lang="en">
+            <title translate="yes">Locally manufactured jet support</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-2-repair-00-04-03-32-02-21-1-1-8" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053527.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-2-repair-00-04-03-32-02-21-1-1-8-000053527</illusnum>
+                  </figure>
+                  <para translate="yes">To be used for long sealing tests.</para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e153" translate="no" xml:lang="en">
+            <title translate="yes">Hand pressure sprayer</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-5-repair-00-04-03-32-02-21-1-1-9" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053529.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-5-repair-00-04-03-32-02-21-1-1-9-000053529</illusnum>
+                  </figure>
+                  <para translate="yes">To be used on a particular area or to checka small area after the sealing has been repaired.</para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e164" translate="no" xml:lang="en">
+         <title translate="yes">Water ingress search tools</title>
+         <descbody translate="no"/>
+         <description id="d1e168" translate="no" xml:lang="en">
+            <title translate="yes">Air jet with a compressed air gun</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-3-repair-00-04-03-32-02-21-1-1-10" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053528.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-3-repair-00-04-03-32-02-21-1-1-10-000053528</illusnum>
+                  </figure>
+                  <para translate="yes">The pressure of the jet must be limited in ordernot to damage the vehicle component.</para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e179" translate="no" xml:lang="en">
+            <title translate="yes">Door mirror glass</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-4-repair-00-04-03-32-02-21-1-1-11" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000058773.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-4-repair-00-04-03-32-02-21-1-1-11-000058773</illusnum>
+                  </figure>
+                  <para translate="yes">To be used in places which cannot be seen directly.</para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e190" translate="no" xml:lang="en">
+            <title translate="yes">Pocket torch or pen-shaped torch</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-32-6-repair-00-04-03-32-02-21-1-1-12" translate="no">
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000058774.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010093-04-03-32-6-repair-00-04-03-32-02-21-1-1-12-000058774</illusnum>
+                  </figure>
+                  <para translate="yes">To be used in places with poor light.</para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e201" translate="no" xml:lang="en">
+         <title translate="yes">Mastic filling tools</title>
+         <descbody translate="no"/>
+         <description id="d1e205" translate="no" xml:lang="en">
+            <title translate="yes">Stripping tools</title>
+            <descbody translate="no">
+               <para translate="yes">Tools for stripping very thick soft sealants<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927">
+                     <linkdesc>bodywork cleaning tools : description</linkdesc>
+                     <linkvalue>GIEMR-001618</linkvalue>
+                  </sieref>(05B, Equipment and tools).</para>
+               <para translate="yes">Tools for stripping rigid adhesives and paint<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                     <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                     <linkvalue>GIEMR-001617</linkvalue>
+                  </sieref>(05B, Equipment and tools).</para>
+               <para translate="yes">To be used to strip mastic-filled zones.</para>
+            </descbody>
+         </description>
+         <description id="d1e221" translate="no" xml:lang="en">
+            <title translate="yes">Extrusion nozzle</title>
+            <descbody translate="no">
+               <para translate="yes">Anti-corrosion protection of joints after welding<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465603">
+                     <linkdesc>post-welding anti-corrosion protection for mating face : description</linkdesc>
+                     <linkvalue>GIEMR-001839</linkvalue>
+                  </sieref>(40J, Protection).</para>
+               <para translate="yes">To be used to fill missing mastic.</para>
+            </descbody>
+         </description>
+      </description>
+   </description>
+</description>

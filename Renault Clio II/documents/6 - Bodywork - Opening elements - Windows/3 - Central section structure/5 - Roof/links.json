@@ -1,0 +1,89 @@
+{
+  "PR": [
+    {
+      "id": "1247_450110",
+      "filename": "1247_450110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084159.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af58863c3da7a00dc229e51",
+      "filename": "roof front cross members : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000310937.xml"
+    },
+    {
+      "id": "5af588dbc3da7a00dc229ed6",
+      "filename": "roof rear cross member : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000312045.xml"
+    },
+    {
+      "id": "5af588afc3da7a00dc229ea3",
+      "filename": "body structure, centre section : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000321805.xml"
+    },
+    {
+      "id": "5af943ea3ef64d00e0ef5f2c",
+      "filename": "roof middle cross member : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000311714.xml"
+    },
+    {
+      "id": "5af95c1b3ef64d00e0ef891a",
+      "filename": "roof : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000306260.xml"
+    },
+    {
+      "id": "5af9620e3ef64d00e0ef8e24",
+      "filename": "roof : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000310842.xml"
+    },
+    {
+      "id": "5af962853ef64d00e0ef8e86",
+      "filename": "roof : sealing repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000310578.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21584.png"
+    }
+  ]
+}

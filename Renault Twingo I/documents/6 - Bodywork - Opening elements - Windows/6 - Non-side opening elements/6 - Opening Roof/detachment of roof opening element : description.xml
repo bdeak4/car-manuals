@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X43|X44|X45|X47|X61|X77|X81|X84|X85|X87|X91|X95|X98|XFB|XFC|XFD|XFE|XZG|XZJ|XFA|X55|XEF|XJD|XZH|X07|X65|X73|X74|X76|XFF|XJA|XJC|XJB|XJL|XJH|XCB|XHN|X57|XBC|X58|X38|X56|XDD|X35|X10|X33|X59|X53|X17|X54|XBA|X90|X52|X92|XJK|X75|X09|X70|XHA|XJE|XJF|XFK|X79/H79|X27|XRQ|X29|XTP|X48|X24|X40|X41|X42|X06|X83|X82|X64|XJ1|X67|X66|XDE|XBB|X1310|XR210|X1316|X1317|X63|X62|XR310|X1322|X1318|XZ110|X1312" id="RDE-000378891" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">detachment of roof opening element : description</title>
+
+
+<descprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="22/03/21 14:14" translate="no"/>
+<revised modified="10/10/24 13:42" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">detachment of roof opening element : description</siename>
+<sieversion translate="no">I.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000378891</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e39" translate="no"><mark id="MARK.REPAIR-50X04X01X06-02X21-1-1.1">
+<mcomponent><label/></mcomponent><designation>2</designation>
+</mark><mark id="MARK.REPAIR-50X04X01X06-02X21-1-1.2"><mcomponent>
+<label/></mcomponent><designation>1</designation></mark>
+</marklayer>
+<figure id="50-04-01-06-1-repair-50-04-01-06-02-21-1-1-2" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000051600_c@[users[p077020[appdata[local[temp[aptexport[50-04-01-06-1-repair-50-04-01-06-02-21-1-1-2.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-1-repair-50-04-01-06-02-21-1-1-2-000051600</illusnum>
+<caption translate="no">
+<sthead translate="no">
+<stentry translate="yes">N repere</stentry>
+<stentry translate="yes">Designation</stentry>
+<stentry translate="yes">Informations</stentry>
+<stentry translate="yes">Renvois</stentry>
+</sthead>
+<strow translate="no">
+<stentry translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000378891/50-04-01-06-1-repair-50-04-01-06-02-21-1-1-2" scope="local" translate="no" type="figure">1</markref></para></stentry>
+<stentry translate="yes"><para translate="yes">Cement bead</para></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+</strow>
+<strow translate="no">
+<stentry translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000378891/50-04-01-06-1-repair-50-04-01-06-02-21-1-1-2" scope="local" translate="no" type="figure">2</markref></para></stentry>
+<stentry translate="yes"><para translate="yes">Piercing area of cement
+bead</para></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+</strow>
+</caption>
+</figure><?Pub Caret 50?>
+</descsection>
+</descbody>
+<description id="d1e70" translate="no" xml:lang="en">
+<title translate="yes">PREPARATION</title>
+<descbody translate="no">
+<descsection translate="no">
+<noteR translate="no" type="warning">
+<para translate="yes">Wear protective gloves and goggles when cutting
+the window or sunroof operating mechanism.</para>
+</noteR>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Use an appropriate work station when replacing
+a sunroof operating mechanism.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Protect the vehicle interior.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Open the mobile panel halfway.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Remove the headlining (see MR for the vehicle
+concerned ).</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Protect the area around the sunroof operating
+mechanism with masking tape.</para>
+</descsection>
+</descbody>
+</description>
+<description id="d1e102" translate="no" xml:lang="en">
+<title translate="yes">cutting</title>
+<descbody translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">Use a cutting wire with a square cross-section.</para>
+</noteR>
+<descsection translate="no">
+<figure id="50-04-01-03-10-repair-50-04-01-06-02-21-1-1-1" translate="no">
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000050905.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-03-10-repair-50-04-01-06-02-21-1-1-1-000050905</illusnum></figure>
+<para translate="yes">Insert the cutting wire in the wire insertion
+tool, or in a small<technicalvalue translate="no"><value translate="yes">2.5 mm</value></technicalvalue>diameter tube.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-2-repair-50-04-01-06-02-21-1-1-3" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051601.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-2-repair-50-04-01-06-02-21-1-1-3-000051601</illusnum></figure>
+<para translate="yes">Using the<toolref format="dita" href="x-wc://file=OS-000005708.xml" scope="external" translate="no" type="specifictool"><linkdesc>Wire insertion tool for removing bonded mirror glass.</linkdesc><linkvalue>Car.1033</linkvalue></toolref>, pierce the cement bead of the sunroof operating mechanism at the
+most accessible place<markref format="dita" href="#RDE-000378891/50-04-01-06-1-repair-50-04-01-06-02-21-1-1-2" scope="local" translate="no" type="figure">2</markref>.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-3-repair-50-04-01-06-02-21-1-1-4" translate="no">
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000051602.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-3-repair-50-04-01-06-02-21-1-1-4-000051602</illusnum></figure>
+<para translate="yes">Insert the cutting wire in the<toolref format="dita" href="x-wc://file=OS-000005708.xml" scope="external" translate="no" type="specifictool"><linkdesc>Wire insertion tool for removing bonded mirror glass.</linkdesc><linkvalue>Car.1033</linkvalue>
+</toolref>.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-4-repair-50-04-01-06-02-21-1-1-5" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051603.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-4-repair-50-04-01-06-02-21-1-1-5-000051603</illusnum></figure>
+<para translate="yes">Pass the cutting wire from the exterior towards
+the interior using the<toolref format="dita" href="x-wc://file=OS-000005708.xml" scope="external" translate="no" type="specifictool"><linkdesc>Wire insertion tool for removing bonded mirror glass.</linkdesc><linkvalue>Car.1033</linkvalue></toolref>.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-5-repair-50-04-01-06-02-21-1-1-6" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051604.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-5-repair-50-04-01-06-02-21-1-1-6-000051604</illusnum></figure>
+<para translate="yes">Fit the first pulling handle on the section
+of the cutting wire inside the vehicle.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-6-repair-50-04-01-06-02-21-1-1-7" translate="no">
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000051605.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-6-repair-50-04-01-06-02-21-1-1-7-000051605</illusnum></figure>
+<para translate="yes">Using the wire insertion tool, slide the cutting
+wire between the sunroof operating mechanism and the panelwork around
+the entire edge outside the vehicle.</para>
+</descsection>
+<descsection translate="no">
+<para translate="yes">Cut a sufficient length of cutting wire.</para>
+<para translate="yes">Remove the cutting wire insertion tool.</para>
+</descsection>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">When passing the cutting wire into the vehicle
+interior, be careful not to cross the 2 wires.</para>
+<para translate="yes">This would make cutting impossible.</para>
+</noteR>
+<descsection translate="no">
+<figure id="50-04-01-06-7-repair-50-04-01-06-02-21-1-1-8" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051606.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-7-repair-50-04-01-06-02-21-1-1-8-000051606</illusnum></figure>
+<para translate="yes">Pass the<toolref format="dita" href="x-wc://file=OS-000005708.xml" scope="external" translate="no" type="specifictool"><linkdesc>Wire insertion tool for removing bonded mirror glass.</linkdesc><linkvalue>Car.1033</linkvalue></toolref>near the first piercing of the cement bead.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-8-repair-50-04-01-06-02-21-1-1-9" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051607.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-8-repair-50-04-01-06-02-21-1-1-9-000051607</illusnum></figure>
+<para translate="yes">Pass the cutting wire from the exterior towards
+the interior using the<toolref format="dita" href="x-wc://file=OS-000005708.xml" scope="external" translate="no" type="specifictool"><linkdesc>Wire insertion tool for removing bonded mirror glass.</linkdesc><linkvalue>Car.1033</linkvalue></toolref>.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-9-repair-50-04-01-06-02-21-1-1-10" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051608.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-9-repair-50-04-01-06-02-21-1-1-10-000051608</illusnum></figure>
+<para translate="yes">Fit the second pulling handle on the other section
+of the cutting wire inside the vehicle.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-10-repair-50-04-01-06-02-21-1-1-11" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051609.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-10-repair-50-04-01-06-02-21-1-1-11-000051609</illusnum></figure>
+<para translate="yes">Pull on the first pulling handle until you reach
+the central cross member.</para>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">Gradually reduce the length of the cutting wire
+as you cut.</para>
+</noteR>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-11-repair-50-04-01-06-02-21-1-1-12" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051610.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-11-repair-50-04-01-06-02-21-1-1-12-000051610</illusnum></figure>
+<para translate="yes">Remove the pulling handle.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-12-repair-50-04-01-06-02-21-1-1-13" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051611.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-12-repair-50-04-01-06-02-21-1-1-13-000051611</illusnum></figure>
+<para translate="yes">Pass the cutting wire between the central cross
+member and the sunroof operating mechanism.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-13-repair-50-04-01-06-02-21-1-1-14" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051612.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-13-repair-50-04-01-06-02-21-1-1-14-000051612</illusnum></figure>
+<para translate="yes">Continue cutting the cement bead with the pulling
+handle.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-14-repair-50-04-01-06-02-21-1-1-15" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051613.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-14-repair-50-04-01-06-02-21-1-1-15-000051613</illusnum></figure>
+<para translate="yes">Gently separate the panel in the area of the
+centring guide for the sunroof operating mechanism, in order to pass
+the cutting wire through.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-15-repair-50-04-01-06-02-21-1-1-16" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051614.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-15-repair-50-04-01-06-02-21-1-1-16-000051614</illusnum></figure>
+<para translate="yes">Leave the pulling handle in place at the central
+cross member.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-16-repair-50-04-01-06-02-21-1-1-17" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051615.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-16-repair-50-04-01-06-02-21-1-1-17-000051615</illusnum></figure>
+<para translate="yes">Resume cutting using the second pulling handle.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-17-repair-50-04-01-06-02-21-1-1-18" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000051616.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-17-repair-50-04-01-06-02-21-1-1-18-000051616</illusnum></figure>
+<para translate="yes">Cut the cement bead of the central cross member
+using the two pulling handles.</para>
+<para translate="yes">Tool part no.</para>
+</descsection>
+<descsection translate="no">
+<figure id="50-04-01-06-18-repair-50-04-01-06-02-21-1-1-19" translate="no">
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000051617.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-01-06-18-repair-50-04-01-06-02-21-1-1-19-000051617</illusnum></figure>
+<figure id="00-04-03-20-3-repair-50-04-01-06-02-21-1-1-25" translate="no">
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000065568.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000378891-04-03-20-3-repair-50-04-01-06-02-21-1-1-25-000065568</illusnum></figure>
+<para translate="yes">Remove the sunroof operating mechanism (this
+operation requires two people) using the<toolref format="dita" href="x-wc://file=OS-000023681.xml" scope="external" translate="no" type="specifictool"><linkdesc>Tool for removing and refitting large windscreen and sunroof.</linkdesc><linkvalue>Car.2068</linkvalue>
+</toolref>, Tool part number<technicalvalue translate="no"><value translate="yes">77 11 382 068</value></technicalvalue>.</para>
+</descsection>
+</descbody>
+</description>
+</description>

@@ -1,0 +1,69 @@
+{
+  "PR": [
+    {
+      "id": "1247_583010",
+      "filename": "1247_583010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084216.svg"
+    },
+    {
+      "id": "1247_583011",
+      "filename": "1247_583011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01051486.svg"
+    },
+    {
+      "id": "1247_573010",
+      "filename": "1247_573010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01045056.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0557",
+      "filename": "REPLACEMENT OF CENTRAL AIR VENT BLADES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0557.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af2c794c3da7a00dc225866",
+      "filename": "centre console assembly: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000393487.xml"
+    },
+    {
+      "id": "5af5c03af04d3300dc2428f3",
+      "filename": "cigarette lighter : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000279518.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21660.png"
+    }
+  ]
+}

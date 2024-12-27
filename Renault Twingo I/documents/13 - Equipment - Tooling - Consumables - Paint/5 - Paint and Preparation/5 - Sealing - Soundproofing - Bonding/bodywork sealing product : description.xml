@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZH|XZG|XZJ|XBB|XJA|XBC|XJC|XJB|XJE|XBG|XJD|XHA|XJK|XFK|XJL|XJF|XCB|XHN|X27|X58|X55|XRQ|XTP|XDD|X59|XEF|X17|XFA|X09|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000009125" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bodywork sealing product : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="17/12/18 11:57" translate="no"/>
+         <revised modified="10/10/24 13:45" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bodywork sealing product : description</siename>
+         <sieversion translate="no">G.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000009125</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e118" translate="no">
+      <title translate="yes">Bodywork sealing products</title>
+      <descbody translate="no"/>
+      <description id="d1e122" translate="no">
+         <title translate="yes">Products to assist the search for water ingress</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">bodywork cleaning shampoo<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e132" translate="no">
+         <title translate="yes">Products for repairing the sealing of bonded windows</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">monopac evolution adhesive kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products),</li>
+               <li translate="yes">additional monopac evolution cartridge + nozzle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products),</li>
+               <li translate="yes">S-P adhesive kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products),</li>
+               <li translate="yes">additional S-P kit cartridge + nozzle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products),</li>
+               <li translate="yes">bipac evolution adhesive kit<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e162" translate="no">
+         <title translate="yes">Products for repairing the sealing of fitted windows</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">window sealing mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e172" translate="no">
+         <title translate="yes">Products for repairing the sealing of opening element trims</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">bead of preformed sealing mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e182" translate="no">
+         <title translate="yes">Products for repairing the sealing of the mating surfaces of panelwork</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">mastic for brush application<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products),</li>
+               <li translate="yes">white or black extruded mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e197" translate="no">
+         <title translate="yes">Products for repairing the sealing of the mating surfaces of removable panelwork components</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">filler mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+      <description id="d1e207" translate="no">
+         <title translate="yes">Finishing products for repairing the sealing</title>
+         <descbody translate="no">
+            <ul translate="no">
+               <li translate="yes">anti-gravel mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                     <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                     <linkvalue>GIEMR-002445</linkvalue>
+                  </sieref>(04B, Consumables - Products).</li>
+            </ul>
+         </descbody>
+      </description>
+   </description>
+</description>

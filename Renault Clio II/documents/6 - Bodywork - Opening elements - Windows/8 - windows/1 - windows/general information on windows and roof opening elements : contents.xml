@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XZG|XZJ|XFA|X55|XEF|XJD|XFF|XJC|XJA|XJE|XHA|XJK|XFK|XJL|XJF|XBG|XCB|XHN|XBB|XBC|X27|X58|XRQ|XTP|XDD|X59|X17|X41|X07|X42|X06|XBA|X82|X75|XJB|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-001453316" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">general information on windows and roof opening elements : contents</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="09/01/20 11:47" translate="no"/>
+      <revised modified="13/01/20 16:44" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">general information on windows and roof opening elements : contents</siename>
+      <sieversion translate="no">A.2</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-001453385</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no"/>
+  <description id="d1e108" translate="no" xml:lang="en">
+    <title translate="yes">Windows: Precautions for the repair</title>
+    <descbody translate="no">
+      <para id="par1" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498010"> <linkdesc>windows : precautions for the repair</linkdesc> <linkvalue>GIEMR-002406</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e112" translate="no" xml:lang="en">
+    <title translate="yes">window tools: description</title>
+    <descbody translate="no">
+      <para id="par2" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479143"> <linkdesc>window tooling : description</linkdesc> <linkvalue>GIEMR-001624</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e116" translate="no" xml:lang="en">
+    <title translate="yes">Window removal tool: Use</title>
+    <descbody translate="no">
+      <para id="par3" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479459"> <linkdesc>window removal tools : use</linkdesc> <linkvalue>GIEMR-001628</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e120" translate="no" xml:lang="en">
+    <title translate="yes">Window bonding tool: Use</title>
+    <descbody translate="no">
+      <para id="par4" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504406"> <linkdesc>window bonding tools : use</linkdesc> <linkvalue>GIEMR-001627</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e124" translate="no" xml:lang="en">
+    <title translate="yes">Window preparation and bonding product: description</title>
+    <descbody translate="no">
+      <para id="par5" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3521390"> <linkdesc>window preparation and bonding product : description</linkdesc> <linkvalue>GIEMR-001819</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e128" translate="no" xml:lang="en">
+    <title translate="yes">Window detachment: Description</title>
+    <descbody translate="no">
+      <para id="par6" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479006"> <linkdesc>window detachment : description</linkdesc> <linkvalue>GIEMR-000835</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e132" translate="no" xml:lang="en">
+    <title translate="yes">Window bonding: Description</title>
+    <descbody translate="no">
+      <para id="par7" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469955"> <linkdesc>window bonding : description</linkdesc> <linkvalue>GIEMR-000562</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e136" translate="no" xml:lang="en">
+    <title translate="yes">windows: reconditioning</title>
+    <descbody translate="no">
+      <para id="par8" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3541345"> <linkdesc>windows : reconditioning</linkdesc> <linkvalue>GIEMR-002407</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e140" translate="no" xml:lang="en">
+    <title translate="yes">detachment of roof opening element: description</title>
+    <descbody translate="no">
+      <para id="par9" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3508870"> <linkdesc>detachment of roof opening element : description</linkdesc> <linkvalue>GIEMR-000834</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e144" translate="no" xml:lang="en">
+    <title translate="yes">windows: sealing check</title>
+    <descbody translate="no">
+      <para id="par11" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3497923"> <linkdesc>windows : sealing check</linkdesc> <linkvalue>GIEMR-002405</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="d1e149" translate="no" xml:lang="en">
+    <title translate="yes">Window cement bead: Description</title>
+    <descbody translate="no">
+      <para id="par10" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3540150"> <linkdesc>window cement bead : description</linkdesc> <linkvalue>GIEMR-000711</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="des1" translate="no">
+    <title translate="yes">Windows: Sealing repair</title>
+    <descbody translate="no">
+      <para id="par12" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3498084"> <linkdesc>windows : sealing repair</linkdesc> <linkvalue>GIEMR-002408</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="des2" translate="no">
+    <title translate="yes">Roof opening element bonding: description</title>
+    <descbody translate="no">
+      <para id="par13" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3507920"> <linkdesc>roof opening element bonding : description</linkdesc> <linkvalue>GIEMR-000561</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="des3" translate="no">
+    <title translate="yes">Roof: Sealing check</title>
+    <descbody translate="no">
+      <para id="par14" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3494997"> <linkdesc>roof : sealing check</linkdesc> <linkvalue>GIEMR-001722</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="des5" translate="no">
+    <title translate="yes">Roof: Sealing repair</title>
+    <descbody translate="no">
+      <para id="par15" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3494215"> <linkdesc>roof : sealing repair</linkdesc> <linkvalue>GIEMR-001727</linkvalue> </sieref>
+      </para>
+      <?Pub Caret 38?>
+    </descbody>
+  </description>
+  <description id="des6" translate="no">
+    <title translate="yes">Roof opening element: maintenance </title>
+    <descbody translate="no">
+      <para id="par16" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3527573"> <linkdesc>roof opening element : maintenance</linkdesc> <linkvalue>GIEMR-001454</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+  <description id="des7" translate="no">
+    <title translate="yes">General information on windows and roof opening elements: contents </title>
+    <descbody translate="no">
+      <para id="par17" translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519441"> <linkdesc>general information on windows and roof opening elements : contents</linkdesc> <linkvalue>GIEMR-001426</linkvalue> </sieref>
+      </para>
+    </descbody>
+  </description>
+</description>

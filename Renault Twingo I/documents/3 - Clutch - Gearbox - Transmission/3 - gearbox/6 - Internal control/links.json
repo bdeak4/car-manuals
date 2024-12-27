@@ -1,0 +1,75 @@
+{
+  "PR": [
+    {
+      "id": "1336_217210",
+      "filename": "1336_217210.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01027040.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "MR-TA-M",
+      "filename": "AUTOMATIC TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-TA-M.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3439",
+      "filename": "MECHANICAL ELEMENT CONTROLS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3439.pdf"
+    },
+    {
+      "id": "3136",
+      "filename": "MODIFICATIONS TO THE JBJC GEARBOX MANUAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3136.pdf"
+    },
+    {
+      "id": "3343",
+      "filename": "DEVELOPMENT OF JBJC GEARBOXES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3343.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    },
+    {
+      "id": "5af960633ef64d00e0ef8d01",
+      "filename": "gearbox selector shaft : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000168181.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3490",
+      "filename": "FAULT FINDING SEQUENTIAL GEARBOX D7F engine.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3490.pdf"
+    },
+    {
+      "id": "6511",
+      "filename": "Manual gearbox fault finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6511.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22012.png"
+    }
+  ]
+}

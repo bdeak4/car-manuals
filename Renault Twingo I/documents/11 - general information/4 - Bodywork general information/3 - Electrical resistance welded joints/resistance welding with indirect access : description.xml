@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XFE|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XFF|X55|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X27|X58|XDD|X59|XEF|X17|X41|X42|XZJ|X09|X75|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323880" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">resistance welding with indirect access : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="23/09/21 10:03" translate="no"/>
+         <revised modified="10/10/24 13:39" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">resistance welding with indirect access : description</siename>
+         <sieversion translate="no">O.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323880</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e110" translate="no">
+      <title translate="yes">DISASSEMBLY</title>
+      <descbody translate="no"/>
+      <description id="d1e114" translate="no">
+         <title translate="yes">Cutting</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-91-repair-40-01-24-04-02-21-1-2-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016039_LAY-000074906.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-91-repair-40-01-24-04-02-21-1-2-1-000016039</illusnum>
+               </figure>
+               <para translate="yes">Precut the damaged part or remove the part(s) preventing access to the joint.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504226">
+                     <linkdesc>body structure cutting tools : description</linkdesc>
+                     <linkvalue>GIEMR-001619</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e128" translate="no">
+         <title translate="yes">Unpicking</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-93-repair-40-01-24-04-02-21-1-2-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016176_LAY-000075914.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-93-repair-40-01-24-04-02-21-1-2-9-000016176</illusnum>
+               </figure>
+               <para translate="yes">Unpick the spot welds, as in direct access.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479040">
+                     <linkdesc>body structure unpicking tools : use</linkdesc>
+                     <linkvalue>GIEMR-001620</linkvalue>
+                  </sieref>
+               </para>
+               <para translate="yes">Remove the remaining part of the damaged part.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e144" translate="no">
+         <title translate="yes">Grinding</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-93-repair-40-01-24-04-02-21-1-2-14" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016176_LAY-000074903.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-93-repair-40-01-24-04-02-21-1-2-14-000016176</illusnum>
+               </figure>
+               <para translate="yes">Grind the unpicking residue.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                     <linkdesc>shaving tools : description</linkdesc>
+                     <linkvalue>GIEMR-001611</linkvalue>
+                  </sieref>
+               </para>
+               <para translate="yes">Surface the joint.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504310">
+                     <linkdesc>mating face surfacing tools : description</linkdesc>
+                     <linkvalue>GIEMR-001623</linkvalue>
+                  </sieref>
+               </para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">Do not strike or damage the panel.</para>
+               </noteR>
+            </descsection>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e168" translate="no">
+      <title translate="yes">Types of joint</title>
+      <descbody translate="no">
+         <para translate="yes">There are three types of joints to replace an indirect access resistance welded joint:</para>
+         <ul translate="no">
+            <li translate="yes">Bonded Joint,</li>
+            <li translate="yes">GMAW joint by bead of chain weld,</li>
+            <li translate="yes">GMAW joint by plug welds.</li>
+         </ul>
+      </descbody>
+   </description>
+   <description id="d1e181" translate="no">
+      <title translate="yes">Bonded Joint</title>
+      <descbody translate="no"/>
+      <description id="d1e185" translate="no">
+         <title translate="yes">Preparation before assembly</title>
+         <descbody translate="no"/>
+         <description id="d1e189" translate="no">
+            <title translate="yes">positioning and adjustment</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Position the replacement part, adjust it and fix it using the locking pliers.</para>
+               <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                     <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                     <linkvalue>GIEMR-001610</linkvalue>
+                  </sieref>
+               </para>
+            </descbody>
+         </description>
+         <description id="d1e201" translate="no">
+            <title translate="yes">Marking and identifying the joints</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Mark the joint areas.</para>
+               <para translate="yes">Remove the part.</para>
+            </descbody>
+         </description>
+         <description id="d1e210" translate="no">
+            <title translate="yes">Preparing the mating faces on the replacement part</title>
+            <descbody translate="no">
+               <para translate="yes">Sand the internal joint of the areas to be bonded with<technicalvalue translate="no">
+                     <value translate="yes">P320</value>
+                  </technicalvalue>sand paper or using a sanding disc, without damaging the protection.</para>
+               <para translate="yes">Clean the joint face with surface cleaner.</para>
+            </descbody>
+         </description>
+         <description id="d1e223" translate="no">
+            <title translate="yes">Preparing the mating faces on the vehicle</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-92-repair-40-01-24-04-02-21-1-2-2" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016040_LAY-000075908.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-92-repair-40-01-24-04-02-21-1-2-2-000016040</illusnum>
+                  </figure>
+                  <para translate="yes">Scour the internal joint face.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                        <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                        <linkvalue>GIEMR-001617</linkvalue>
+                     </sieref>
+                  </para>
+                  <para translate="yes">Clean the mating face and the areas to bonded with the surface cleaner.</para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e239" translate="no">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Position the acoustic inserts in the hollow sections, if necessary.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524920">
+                  <linkdesc>soundproofing product before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001673</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e248" translate="no">
+         <title translate="yes">Assembly</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-15-repair-40-01-24-04-02-21-1-2-13" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016175_LAY-000074902.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-03-04-15-repair-40-01-24-04-02-21-1-2-13-000016175</illusnum>
+               </figure>
+               <para translate="yes">Apply a structural welding bead over the whole internal joint face of the vehicle.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3476622">
+                     <linkdesc>body structure bonding : precautions for the repair</linkdesc>
+                     <linkvalue>GIEMR-000170</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e262" translate="no">
+         <title translate="yes">Fitting and adjusting the replaced parts</title>
+         <descbody translate="no">
+            <para translate="yes">Position and adjust the replacement part on the vehicle.</para>
+            <para translate="yes">Hold the replacement part to secure it in position.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Get rid of the surplus bonding before it dries.</para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e275" translate="no">
+      <title translate="yes">GMAW joint by bead of chain weld</title>
+      <descbody translate="no"/>
+      <description id="d1e279" translate="no">
+         <title translate="yes">Preparation before assembly</title>
+         <descbody translate="no"/>
+         <description id="d1e283" translate="no">
+            <title translate="yes">positioning and adjustment</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Position the replacement part, adjust it and fix it using the locking pliers.</para>
+               <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                     <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                     <linkvalue>GIEMR-001610</linkvalue>
+                  </sieref>
+               </para>
+            </descbody>
+         </description>
+         <description id="d1e295" translate="no">
+            <title translate="yes">Marking and identifying the joints</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Mark the joint areas.</para>
+               <para translate="yes">Remove the part.</para>
+            </descbody>
+         </description>
+         <description id="d1e304" translate="no">
+            <title translate="yes">Preparing the mating faces on the replacement part</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-86-repair-40-01-24-04-02-21-1-2-3" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016034_LAY-000075909.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-86-repair-40-01-24-04-02-21-1-2-3-000016034</illusnum>
+                  </figure>
+                  <para translate="yes">Scour the external mating face.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                        <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                        <linkvalue>GIEMR-001617</linkvalue>
+                     </sieref>
+                  </para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e318" translate="no">
+            <title translate="yes">Preparing the mating faces on the vehicle</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-92-repair-40-01-24-04-02-21-1-2-18" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016040_LAY-000074904.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-92-repair-40-01-24-04-02-21-1-2-18-000016040</illusnum>
+                  </figure>
+                  <para translate="yes">Scour the internal joint face.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                        <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                        <linkvalue>GIEMR-001617</linkvalue>
+                     </sieref>
+                  </para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e332" translate="no">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Position the acoustic inserts in the hollow sections, if necessary.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524920">
+                  <linkdesc>soundproofing product before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001673</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection to the internal mating faces according to the type of weld.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465485">
+                  <linkdesc>anti-corrosion protection before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001838</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e346" translate="no">
+         <title translate="yes">Adjusting the welder</title>
+         <descbody translate="no">
+            <para translate="yes">Joint by GMAW bead of chain weld.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3471871">
+                  <linkdesc>MIG/MAG/TIG welding : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002091</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e355" translate="no">
+         <title translate="yes">Assembly</title>
+         <descbody translate="no">
+            <noteR translate="no" type="caution">
+               <para translate="yes">To avoid damaging the vehicles electric and electronic components, the earths of any wiring harness near the weld area must be disconnected.</para>
+               <para translate="yes">Position the welding machine earth as close as possible to the weld zone (see MR 400).</para>
+            </noteR>
+            <descsection translate="no">
+               <figure id="00-04-03-90-repair-40-01-24-04-02-21-1-2-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016038_LAY-000075910.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-90-repair-40-01-24-04-02-21-1-2-4-000016038</illusnum>
+               </figure>
+               <para translate="yes">Carry out the broken continuous welds.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438">
+                     <linkdesc>MIG/MAG/TIG welding : description</linkdesc>
+                     <linkvalue>GIEMR-002090</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e374" translate="no">
+         <title translate="yes">Finishing</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-88-repair-40-01-24-04-02-21-1-2-5" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016036_LAY-000075911.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-88-repair-40-01-24-04-02-21-1-2-5-000016036</illusnum>
+               </figure>
+               <para translate="yes">Grind the beads across their width.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                     <linkdesc>shaving tools : description</linkdesc>
+                     <linkvalue>GIEMR-001611</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-89-repair-40-01-24-04-02-21-1-2-6" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016037_LAY-000075912.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-89-repair-40-01-24-04-02-21-1-2-6-000016037</illusnum>
+               </figure>
+               <para translate="yes">Slightly hollow out the beads along their length.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                     <linkdesc>shaving tools : description</linkdesc>
+                     <linkvalue>GIEMR-001611</linkvalue>
+                  </sieref>
+               </para>
+            </descsection>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">Do not strike or damage the panel.</para>
+            </noteR>
+         </descbody>
+      </description>
+      <description id="d1e403" translate="no">
+         <title translate="yes">Fitting protection after assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Apply the acoustic protection.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505281">
+                  <linkdesc>soundproofing product after assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001672</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505281">
+                  <linkdesc>soundproofing product after assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001672</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e417" translate="no">
+      <title translate="yes">GMAW joint by plug welds</title>
+      <descbody translate="no"/>
+      <description id="d1e421" translate="no">
+         <title translate="yes">Preparation before assembly</title>
+         <descbody translate="no"/>
+         <description id="d1e425" translate="no">
+            <title translate="yes">positioning and adjustment</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Position the replacement part, adjust it and fix it using the locking pliers.</para>
+               <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                     <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                     <linkvalue>GIEMR-001610</linkvalue>
+                  </sieref>
+               </para>
+            </descbody>
+         </description>
+         <description id="d1e437" translate="no">
+            <title translate="yes">Marking and identifying the joints</title>
+            <descbody translate="no">
+               <para translate="yes"/>
+               <para translate="yes">Mark the joint areas.</para>
+               <para translate="yes">Remove the part.</para>
+            </descbody>
+         </description>
+         <description id="d1e446" translate="no">
+            <title translate="yes">Preparing the mating faces on the replacement part</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-84-repair-40-01-24-04-02-21-1-2-25" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018475_LAY-000074907.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-84-repair-40-01-24-04-02-21-1-2-25-000018475</illusnum>
+                  </figure>
+                  <para translate="yes">Drill or pierce the support panel via the internal face of the joint for the plug welds, see table below.</para>
+                  <table colsep="1" frame="all" rowsep="1" translate="no">
+                     <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+                        <colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+                        <colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+                        <thead translate="no">
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">Thickness (mm)</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">
+                                    <technicalvalue translate="no">
+                                       <value translate="yes">∅</value>
+                                    </technicalvalue>drill bit (mm)</para>
+                              </entry>
+                           </row>
+                        </thead>
+                        <tbody translate="no">
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">0.6 to 1</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">6</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">1 to 1.5</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">7</para>
+                              </entry>
+                           </row>
+                           <row rowsep="1" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">1.5 to 2</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">8</para>
+                              </entry>
+                           </row>
+                           <row rowsep="0" translate="no">
+                              <entry colname="1" translate="yes">
+                                 <para translate="yes">2 and more</para>
+                              </entry>
+                              <entry colname="2" translate="yes">
+                                 <para translate="yes">10</para>
+                              </entry>
+                           </row>
+                        </tbody>
+                     </tgroup>
+                  </table>
+               </descsection>
+               <descsection translate="no">
+                  <figure id="00-04-03-85-repair-40-01-24-04-02-21-1-2-26" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018476_LAY-000074908.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-85-repair-40-01-24-04-02-21-1-2-26-000018476</illusnum>
+                  </figure>
+                  <para translate="yes">Scour the outline of the drilling hole via the external face of the joint.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                        <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                        <linkvalue>GIEMR-001617</linkvalue>
+                     </sieref>
+                  </para>
+               </descsection>
+            </descbody>
+         </description>
+         <description id="d1e512" translate="no">
+            <title translate="yes">Preparing the mating faces on the vehicle</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-92-repair-40-01-24-04-02-21-1-2-19" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016040_LAY-000074905.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-92-repair-40-01-24-04-02-21-1-2-19-000016040</illusnum>
+                  </figure>
+                  <para translate="yes">Scour the internal joint face.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                        <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                        <linkvalue>GIEMR-001617</linkvalue>
+                     </sieref>
+                  </para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+      <description id="d1e526" translate="no">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Position the acoustic inserts in the hollow sections, if necessary.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524920">
+                  <linkdesc>soundproofing product before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001673</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection to the internal mating faces according to the type of weld<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465485">
+                  <linkdesc>anti-corrosion protection before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001838</linkvalue>
+               </sieref>.</para>
+         </descbody>
+      </description>
+      <description id="d1e540" translate="no">
+         <title translate="yes">Adjusting the welder</title>
+         <descbody translate="no">
+            <para translate="yes">Joint by GMAW plug welds.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3471871">
+                  <linkdesc>MIG/MAG/TIG welding : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002091</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e549" translate="no">
+         <title translate="yes">Assembly</title>
+         <descbody translate="no">
+            <noteR translate="no" type="caution">
+               <para translate="yes">To avoid damaging the vehicles electric and electronic components, the earths of any wiring harness near the weld area must be disconnected.</para>
+               <para translate="yes">Position the welding machine earth as close as possible to the weld zone (see MR 400).</para>
+            </noteR>
+            <para translate="yes">Position the replacement part, adjust it and fix it using the locking pliers.</para>
+            <para translate="yes">If necessary, reassemble the adjacent components and check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+            <descsection translate="no">
+               <figure id="00-04-03-87-repair-40-01-24-04-02-21-1-2-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016035_LAY-000075913.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323880-04-03-87-repair-40-01-24-04-02-21-1-2-7-000016035</illusnum>
+               </figure>
+               <para translate="yes">Do the plug welds.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e572" translate="no">
+         <title translate="yes">Fitting protection after assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Apply the acoustic protection.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505281">
+                  <linkdesc>soundproofing product after assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001672</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3505281">
+                  <linkdesc>soundproofing product after assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001672</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+</description>

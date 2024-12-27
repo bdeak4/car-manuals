@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XJD|XJB|XJA|XFE|XFB|XFC|X87|X79|X62|X55|X98|XFF|X52|X61|XFK|XBB|XJL|XHN|XCB|XBC|X38|X35|XBG|X33|XBA|XFA|X74|X73|X76|XJK|X75|X70|XAV|XFD|XJE|XJC|XJH|X77|XJF|X27|X29|XTP|X24|X65|X64|X63|X67|X66|X57|X58|X56|XDD|X10|X59|X53|X54|X17|X90|X92|X91|X09|X95|XHA|X44|XZH|X45|XZG|XRQ|X47|X48|XEF|X40|X41|X42|X07|XZJ|X43|X06|X83|X82|X81|X85|X84|XJ1|X1310|XDE|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-001159931" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  
+  
+  <title translate="no">12 V battery oxidation bodywork component: repair</title>
+  <shortdesc translate="yes"/>
+  <procprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates>
+      <created date="05/11/21 00:31"/>
+      <revised modified="10/10/24 13:42"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">12 V battery oxidation bodywork component: repair</siename>
+      <sieversion translate="no">C.1</sieversion>
+      <sietype translate="yes">PROCEDURE</sietype>
+      <sienumber translate="no">RPR-001159931</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="pro3" translate="no">
+    <title translate="yes"> treatment and procedure in case of oxidation of bodywork parts by 12 V battery sulphuric acid</title>
+    <procbody translate="no">
+      <marklayer translate="no"/>
+      <procsteps translate="no">
+        <procstep id="pro19" translate="no">
+          <noteR translate="no" type="note">
+            <ul translate="no">
+              <li translate="yes">
+                <para id="par1" translate="yes">To avoid any risk of injury, always wear personal protective equipment such as gloves, face shield, mask, etc.</para>
+              </li>
+            </ul>
+            <ul translate="no">
+              <li translate="yes">
+                <para id="par2" translate="yes">Depending on the warranty conditions applicable in the country, some interventions require approval. In case of damage to mechanical parts, contact your Techline.</para>
+              </li>
+            </ul>
+            <ul translate="no">
+              <li translate="yes">In case of very serious oxidation with loss of thickness or delamination of the plate, replace the parts.</li>
+            </ul>
+          </noteR>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="pro1" translate="no">
+    <title translate="yes">Removal</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep id="pro9" translate="no">
+          <para id="par5" translate="yes">Remove the mechanical components necessary to access the damaged area.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="pro2" translate="no">
+    <title translate="yes">preparation of the damaged area</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep id="pro20" translate="no">
+          <noteR translate="no" type="note">
+            <ul translate="no">
+              <li translate="yes">
+                <para id="par10" translate="yes">To avoid any risk of corrosion resulting from spillage of acid in the mating areas or hollow bodies, never clean the damaged areas directly with water or high pressure cleaner.</para>
+              </li>
+            </ul>
+          </noteR>
+          <?Pub Caret -2?>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep id="pro7" translate="no">
+          <para id="par3" translate="yes">Vacuum the acid sulphate residues with a vacuum cleaner.</para>
+        </procstep>
+        <procstep id="pro6" translate="no">
+          <para id="par4" translate="yes">Remove the acid sulphate residues present in the hollow bodies with a vacuum cleaner.</para>
+        </procstep>
+        <procstep id="pro8" translate="no">
+          <para id="par8" translate="yes">Position the vehicle on a washing area.</para>
+        </procstep>
+        <procstep id="pro12" translate="no">
+          <para id="par9" translate="yes">Spray a mixture of water and ammonia (15% dilution) and allow to act for 15 minutes to neutralise the effects of the acid.</para>
+        </procstep>
+        <procstep id="pro13" translate="no">
+          <para id="par11" translate="yes">Rinse the area with clean water.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="pro5" translate="no">
+    <title translate="yes">Repairing the damaged area</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep id="pro10" translate="no">
+          <para id="par6" translate="yes">Strip the oxidised parts down to the metal.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3450125"><linkdesc>paintwork : precautions for the repair</linkdesc><linkvalue>GIEMR-001740</linkvalue></sieref></para>
+        </procstep>
+        <procstep id="pro16" translate="no">
+          <para id="par13" translate="yes">Apply a pre-treatment primer.</para>
+        </procstep>
+        <procstep id="pro14" translate="no">
+          <para id="par14" translate="yes">Apply the paints.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3452839"><linkdesc>steel bodywork component : preparation and paint range</linkdesc><linkvalue>GIEMR-002337</linkvalue></sieref></para>
+        </procstep>
+        <procstep id="pro17" translate="no">
+          <para id="par15" translate="yes">Apply sealing mastic on the mating faces.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465603"><linkdesc>post-welding anti-corrosion protection for mating face : description</linkdesc><linkvalue>GIEMR-001839</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep id="pro15" translate="no">
+          <para id="par12" translate="yes">Inject wax in the hollow bodies.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465603"><linkdesc>post-welding anti-corrosion protection for mating face : description</linkdesc><linkvalue>GIEMR-001839</linkvalue></sieref></para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="pro4" translate="no">
+    <title translate="yes">refitting</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep id="pro11" translate="no">
+          <para id="par7" translate="yes">Refit the components in the reverse order to removal.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

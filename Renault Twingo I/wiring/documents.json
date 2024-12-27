@@ -1,0 +1,64 @@
+{
+  "WIRING_DIAGRAMS": [
+    {
+      "id": "8232_DOCUMENT/PLATFUSI.PDF",
+      "name": "PLATFUSI",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/PLATFUSI.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/PLATFUSI_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_DOCUMENT/REPCRI.PDF",
+      "name": "REPCRI",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPCRI.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPCRI_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_DOCUMENT/REPLIA.PDF",
+      "name": "REPLIA",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPLIA.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPLIA_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_DOCUMENT/REPMAS.PDF",
+      "name": "REPMAS",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPMAS.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPMAS_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_DOCUMENT/REPORG.PDF",
+      "name": "REPORG",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPORG.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPORG_THUMB.PNG",
+      "residual": []
+    },
+    {
+      "id": "8232_DOCUMENT/REPRAC.PDF",
+      "name": "REPRAC",
+      "ntse": "8232",
+      "subType": "DOCUMENT",
+      "lines": null,
+      "location": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPRAC.PDF",
+      "thumbnailLocation": "https://cdn.asdh.aws.renault.com/SIE/WD/8232/media/DOCUMENT/en/REPRAC_THUMB.PNG",
+      "residual": []
+    }
+  ]
+}

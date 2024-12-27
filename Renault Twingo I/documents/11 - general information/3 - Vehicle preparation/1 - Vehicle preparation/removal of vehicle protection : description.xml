@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X33|X35|X38|X43|X44|X45|X47|X52|X61|X62|X65|X67|X70|X76|X77|X79|X81|X82|X83|X85|X87|X90|X91|X92|X95|X98|XFC|XFE|XFD|XZH|XFA|XZG|XFB|XHA|XFF|X55|XBB|XFK|XHN|XCB|X57|XBC|X58|X56|XJA|XDD|XBG|X59|X53|X54|X17|XBA|XJL|X74|X73|XJK|X09|X75|XJD|XJE|XJB|XJC|XJH|XJF|X27|XRQ|X29|XTP|X48|X24|XEF|X40|X41|X42|XZJ|X06|X64|X63|X84|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-001837252" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">removal of vehicle protection : description</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="22/06/22 10:56" translate="no"/>
+      <revised modified="10/10/24 13:46" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">removal of vehicle protection : description</siename>
+      <sieversion translate="no">B.1</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-001837252</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <description id="d1e68" translate="no">
+    <title translate="yes">protective gear</title>
+    <descbody translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Always wear protective gear (gloves, goggles and breathing masks).</para>
+      </noteR>
+    </descbody>
+  </description>
+  <description id="d1e75" translate="no">
+    <title translate="yes">equipment, products and tools necessary for removing the protection from a vehicle protected by copolymer</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="66.66666666666667%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="33.333333333333336%" translate="no"/>
+          <thead translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Description</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes">Part numbers</para>                      </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Step ladder for roof (very high vehicle)</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes"> <technicalvalue translate="no"><value translate="yes">77 11 221 082</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Protection remover <technicalvalue translate="no"><value translate="yes">N6</value></technicalvalue> </para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes"> <technicalvalue translate="no"><value translate="yes">77 11 230 195</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Cleaning glove or sponge</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes"> <technicalvalue translate="no"><value translate="yes">77 11 419 556</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Pressure spray</para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes"> <technicalvalue translate="no"><value translate="yes">77 11 221 515</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">Drying accelerator <technicalvalue translate="no"><value translate="yes">AS29</value></technicalvalue> </para>                      </entry>
+              <entry colname="2" translate="yes">                         <para translate="yes"> <technicalvalue translate="no"><value translate="yes">77 11 228 949</value></technicalvalue> </para>                      </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">                         <para translate="yes">High pressure cleaner</para>                      </entry>
+              <entry colname="2" translate="yes">                                              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+  <description id="d1e156" translate="no">
+    <title translate="yes">procedure for removing copolymer protection</title>
+    <descbody translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Carry out the operation for removing the vehicle protection in a well-ventilated washing area.</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Before using the products, consult the manufacturer's technical sheet.</para>
+      </noteR>
+      <para translate="yes">Dilute vehicle protection remover <ingredientname translate="yes">N6 </ingredientname>by <technicalvalue translate="no"><value translate="yes">15% </value></technicalvalue>with water.</para>
+      <para translate="yes">Spray the product on the whole surface of the vehicle.</para>
+      <para translate="yes">Leave the product to work (15 minutes maximum) without letting it dry.</para>
+      <para translate="yes">Spray the product on the whole surface of the vehicle a second time and then wash with a sponge.</para>
+      <para translate="yes">Rinse the vehicle well with clean water.</para>
+      <para translate="yes">Finish by a finishing rinse with the drying accelerator<ingredientname translate="yes">AS29</ingredientname>.</para>
+    </descbody>
+  </description>
+  <description id="d1e193" translate="no">
+    <title translate="yes">procedure for removing the protective film</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <marklayer translate="no">
+          <mark id="3409b4dd-b3de-41ff-bddf-80d118ba38ab">
+            <mcomponent>
+              <label/>
+            </mcomponent>
+            <designation>1</designation>
+          </mark>
+        </marklayer>
+        <figure id="00-01-01-25-1-repair-00-01-01-25-02-21-1-1-8" translate="no">
+          
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000037716_LAY-000321056.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RDE-000002852-01-01-25-1-repair-00-01-01-25-02-21-1-1-8-000037716</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <para translate="yes">Spray the film beforehand if the temperature of the bodywork is greater than 40˚C.</para>
+        <para translate="yes">Lift the protective film at <markref format="dita" href="#d1e193/00-01-01-25-1-repair-00-01-01-25-02-21-1-1-8" scope="local" translate="no" type="figure">1</markref> and roll it on itself.</para>
+        <para translate="yes">Clean the dust residues with soapy water.</para>
+        <para translate="yes">If there are any traces under the film, expose the component to an infrared type heat source at 60°C for 10 minutes. Perform this operation in a paint workshop.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e221" translate="no">
+    <title translate="yes">procedure for removing the protective foam</title>
+    <descbody translate="no">
+      <para translate="yes">Detach the protective foam starting with one corner, and remove the adhesive tape and the foam.</para>
+      <para translate="yes">Clean any traces of residual adhesive using a lint-free cloth soaked in heptane.</para>
+    </descbody>
+  </description>
+</description>

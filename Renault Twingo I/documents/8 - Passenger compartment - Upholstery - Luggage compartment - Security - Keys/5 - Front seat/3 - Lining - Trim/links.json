@@ -1,0 +1,69 @@
+{
+  "PR": [
+    {
+      "id": "1204_771113",
+      "filename": "1204_771113.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085214.svg"
+    },
+    {
+      "id": "1204_771110",
+      "filename": "1204_771110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087343.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0504",
+      "filename": "REPLACING A SEAT EQUIPPED WITH A SIDE AIR BAG AFTER TRIGGERING OF THEMODULE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0504.pdf"
+    },
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "0506",
+      "filename": "SPECIAL FEATURES OF THE TWINGO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0506.pdf"
+    },
+    {
+      "id": "0514",
+      "filename": "SAFETY OPERATION TO BE CARRIED OUT PRIOR TO REMOVING A FRONT SEAT EQUIPPED WITH A SIDE AIR BAG AND....pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0514.pdf"
+    },
+    {
+      "id": "0539",
+      "filename": "FRONT SEATBACK TRIM ON SEATS EQUIPPED WITH AN AIR BAG.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0539.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21662.png"
+    }
+  ]
+}

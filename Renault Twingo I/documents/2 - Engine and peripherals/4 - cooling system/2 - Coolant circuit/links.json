@@ -1,0 +1,115 @@
+{
+  "PR": [
+    {
+      "id": "1204_192112",
+      "filename": "1204_192112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083831.svg"
+    },
+    {
+      "id": "1204_191110",
+      "filename": "1204_191110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01080904.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2048",
+      "filename": "AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2048.pdf"
+    },
+    {
+      "id": "2535",
+      "filename": "FUEL FILTER WITH ALUMINIUM END SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2535.pdf"
+    },
+    {
+      "id": "2929",
+      "filename": "DEVELOPMENTS IN FUEL TANKS AND VENTING SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2929.pdf"
+    },
+    {
+      "id": "MR-TA-M",
+      "filename": "AUTOMATIC TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-TA-M.pdf"
+    },
+    {
+      "id": "3475",
+      "filename": "MULTIPOINT LPG INJECTION D7F 704 - D7F 744 - D7F 764 - D7F 766 engines.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3475.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "3404",
+      "filename": "THROTTLE POTENTIOMETER AND IDLE SPEED REGULATION VALVE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3404.pdf"
+    },
+    {
+      "id": "2944",
+      "filename": "DIAGRAMS OF THE COOLING CIRCUIT ON TWINGO VEHICLES EQUIPPED WITH THE \"COLD\" BOTTLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2944.pdf"
+    },
+    {
+      "id": "5af571d8c3da7a00dc228780",
+      "filename": "coolant circuit assembly : parts and consumables for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000084549.xml"
+    },
+    {
+      "id": "5af5c45af04d3300dc242de0",
+      "filename": "coolant circuit assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000084651.xml"
+    },
+    {
+      "id": "5af2f8c7c3da7a00dc225cda",
+      "filename": "coolant circuit assembly: draining - refilling.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000068007.xml"
+    },
+    {
+      "id": "5af2f849c3da7a00dc225c58",
+      "filename": "coolant circuit assembly : purge.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000067027.xml"
+    },
+    {
+      "id": "5af55403c3da7a00dc226fd3",
+      "filename": "coolant circuit assembly : cleaning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000068582.xml"
+    },
+    {
+      "id": "5af9733c3ef64d00e0efae32",
+      "filename": "cooling system filling and diagnostic tool: use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000084283.xml"
+    },
+    {
+      "id": "5f19f66346e0fb00016621b2",
+      "filename": "coolant circuit assembly : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000076009.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3175",
+      "filename": "Fault finding procedures for various faults affecting the cooling system and water pumps.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3175.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21951.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "PR": [
+    {
+      "id": "1204_811010",
+      "filename": "1204_811010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085238.svg"
+    },
+    {
+      "id": "1204_811011",
+      "filename": "1204_811011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085239.svg"
+    },
+    {
+      "id": "1204_815010",
+      "filename": "1204_815010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085252.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21366.png"
+    }
+  ]
+}

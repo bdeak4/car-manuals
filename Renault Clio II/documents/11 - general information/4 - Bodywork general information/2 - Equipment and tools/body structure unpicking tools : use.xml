@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|X17|X41|X42|X75|XAV|XJ1|XFF|XJH|X1310|XDE|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000011137" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">body structure unpicking tools : use</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 08:43" translate="no"/>
+         <revised modified="10/10/24 13:45" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">body structure unpicking tools : use</siename>
+         <sieversion translate="no">O.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000011137</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e112" translate="no">
+      <title translate="yes">flat unwelding and unwelding a weld bead</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-63-repair-00-04-03-14-01-79-1-1-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016159_LAY-000001930.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-63-repair-00-04-03-14-01-79-1-1-1-000016159</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Use of a unwelding grinder<technicalvalue translate="no">
+                     <value translate="yes">∅ 76 mm</value>
+                  </technicalvalue>thickness<technicalvalue translate="no">
+                     <value translate="yes">3 mm</value>
+                  </technicalvalue>, fitted to a straight grinder<technicalvalue translate="no">
+                     <value translate="yes">(20000 rpm)</value>
+                  </technicalvalue>fitted with speed control.</para>
+               <para translate="yes">Advantages:</para>
+               <ul translate="no">
+                  <li translate="yes">a very fast method that causes the least damage to the sheet located underneath the mating surface overlap,</li>
+                  <li translate="yes">allows unwelding of THLE and UHLE sheets.</li>
+               </ul>
+               <para translate="yes">Disadvantages:</para>
+               <ul translate="no">
+                  <li translate="yes">causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory hand protection,</li>
+                  <li translate="yes">obligatory ears protection,</li>
+                  <li translate="yes">obligatory respiratory protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings,</li>
+                  <li translate="yes">protection of internal and external window faces.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+         <procsteps translate="no">
+            <figure id="00-04-03-38-repair-00-04-03-14-01-79-1-1-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017643_LAY-000001931.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-38-repair-00-04-03-14-01-79-1-1-2-000017643</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Use of a hardened steel bit<technicalvalue translate="no">
+                     <value translate="yes">∅ 6 to 10 mm</value>
+                  </technicalvalue>, fitted to a drill<technicalvalue translate="no">
+                     <value translate="yes">(2000 rpm)</value>
+                  </technicalvalue>, fitted with speed control.</para>
+               <para translate="yes">Advantages:</para>
+               <ul translate="no">
+                  <li translate="yes">Rapid unwelding without projections,</li>
+                  <li translate="yes">clean holes, ideal for plug welding the first sheet.</li>
+               </ul>
+               <para translate="yes">Disadvantages:</para>
+               <ul translate="no">
+                  <li translate="yes">it is necessary to drill vertically into the part,</li>
+                  <li translate="yes">not for unwelding THLE and UHLE sheets.</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory hand protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings.</li>
+               </ul>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">The speed control is for optimising the cut and bit penetration, avoids premature wear, above all for drilling high tensile sheets.</para>
+                  <para translate="yes">In that case, use<technicalvalue translate="no">
+                        <value translate="yes">HSS</value>
+                     </technicalvalue>type drill bits.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e225" translate="no">
+         <title translate="yes">Particular case of unwelding a sheet located behind, for two thicknesses</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="00-04-03-41-repair-00-04-03-14-01-79-1-1-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017649_LAY-000001932.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-41-repair-00-04-03-14-01-79-1-1-3-000017649</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use of a tapered drill bit, fitted to a drill<technicalvalue translate="no">
+                        <value translate="yes">(2000 rpm)</value>
+                     </technicalvalue>, fitted with speed control.</para>
+                  <para translate="yes">Advantages:</para>
+                  <ul translate="no">
+                     <li translate="yes">clean hole and correctly matched to the spot weld diameter, allowing you to plug weld.</li>
+                  </ul>
+                  <para translate="yes">Disadvantages:</para>
+                  <ul translate="no">
+                     <li translate="yes">It is necessary to drill vertically into the part.</li>
+                  </ul>
+                  <para translate="yes">Operator protection:</para>
+                  <ul translate="no">
+                     <li translate="yes">obligatory eye protection,</li>
+                     <li translate="yes">obligatory hand protection.</li>
+                  </ul>
+                  <para translate="yes">Protection in the work area:</para>
+                  <ul translate="no">
+                     <li translate="yes">protection of interior fittings.</li>
+                  </ul>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Before drilling, you are advised to centre punch the point in such a way as the hole required for unpicking is as small as possible.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e269" translate="no">
+         <title translate="yes">Particular case of unwelding a sheet located behind, for three thicknesses</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="00-04-03-38-repair-00-04-03-14-01-79-1-1-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017643_LAY-000001933.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-38-repair-00-04-03-14-01-79-1-1-4-000017643</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Use of a hardened steel bit, fitted to a drill<technicalvalue translate="no">
+                        <value translate="yes">(2000 rpm)</value>
+                     </technicalvalue>, fitted with speed control.</para>
+                  <para translate="yes">Advantages:</para>
+                  <ul translate="no">
+                     <li translate="yes">enables you to drill the first hole by making a clean hole for plugging,</li>
+                     <li translate="yes">unwelds the second sheet without damaging the third sheet.</li>
+                  </ul>
+                  <para translate="yes">Disadvantages:</para>
+                  <ul translate="no">
+                     <li translate="yes">requires certain precautions to avoid perforating the third sheet.</li>
+                     <li translate="yes">it is necessary to drill vertically into the part.</li>
+                  </ul>
+                  <para translate="yes">Operator protection:</para>
+                  <ul translate="no">
+                     <li translate="yes">obligatory eye protection,</li>
+                     <li translate="yes">obligatory hand protection.</li>
+                  </ul>
+                  <para translate="yes">Protection in the work area:</para>
+                  <ul translate="no">
+                     <li translate="yes">protection of interior fittings.</li>
+                  </ul>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The speed control is for optimising the cut and bit penetration, avoids premature wear, above all for drilling high tensile sheets.</para>
+                     <para translate="yes">In that case, use<technicalvalue translate="no">
+                           <value translate="yes">HSS</value>
+                        </technicalvalue>type drill bits.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e324" translate="no">
+      <title translate="yes">unwelding at an angle</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-37-repair-00-04-03-14-01-79-1-1-5" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017642_LAY-000001934.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-37-repair-00-04-03-14-01-79-1-1-5-000017642</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Use of a unwelding grinder<technicalvalue translate="no">
+                     <value translate="yes">∅ 76 mm</value>
+                  </technicalvalue>thickness<technicalvalue translate="no">
+                     <value translate="yes">3 mm</value>
+                  </technicalvalue>, fitted to a straight grinder<technicalvalue translate="no">
+                     <value translate="yes">(2000 rpm)</value>
+                  </technicalvalue>fitted with speed control.</para>
+               <para translate="yes">Advantages:</para>
+               <ul translate="no">
+                  <li translate="yes">a very fast method that causes the least damage to the sheet located underneath the mating surface overlap,</li>
+                  <li translate="yes">allows unwelding of THLE and UHLE sheets.</li>
+               </ul>
+               <para translate="yes">Disadvantages:</para>
+               <ul translate="no">
+                  <li translate="yes">causes a large quantity of sparks that can damage nearby components (windows, plastic components, cloth, etc.).</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory hand protection,</li>
+                  <li translate="yes">obligatory ears protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings,</li>
+                  <li translate="yes">protection of internal and external window faces.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e379" translate="no">
+      <title translate="yes">unwelding in a corner</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-148-repair-00-04-03-14-01-79-1-1-6" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018003_LAY-000001935.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000011137-04-03-148-repair-00-04-03-14-01-79-1-1-6-000018003</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Use of a spherical burr on a straight grinder<technicalvalue translate="no">
+                     <value translate="yes">(20,000 rpm)</value>
+                  </technicalvalue>, equipped with speed control.</para>
+               <para translate="yes">Advantages:</para>
+               <ul translate="no">
+                  <li translate="yes">a very fast method that causes the least damage to the sheet located underneath the mating surface overlap,</li>
+                  <li translate="yes">allows unwelding of THLE and UHLE sheets.</li>
+               </ul>
+               <para translate="yes">Disadvantages:</para>
+               <ul translate="no">
+                  <li translate="yes">causes a large quantity of metal filings,</li>
+                  <li translate="yes">it is forbidden to drill vertically into the part.</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory hand protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

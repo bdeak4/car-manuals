@@ -1,0 +1,120 @@
+{
+  "PR": [
+    {
+      "id": "1247_842014",
+      "filename": "1247_842014.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01058597.svg"
+    },
+    {
+      "id": "1247_842010",
+      "filename": "1247_842010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01088201.svg"
+    },
+    {
+      "id": "1247_842016",
+      "filename": "1247_842016.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01005810.svg"
+    },
+    {
+      "id": "1247_862010",
+      "filename": "1247_862010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01024039.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5af56d9cc3da7a00dc228282",
+      "filename": "opening element locking control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000272513.xml"
+    },
+    {
+      "id": "5af5be51f04d3300dc2426a5",
+      "filename": "gear control assembly : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000171169.xml"
+    },
+    {
+      "id": "5af5bf09f04d3300dc242777",
+      "filename": "front passenger window winder control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000267918.xml"
+    },
+    {
+      "id": "5af5bf35f04d3300dc2427a8",
+      "filename": "driver's electric window control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000265524.xml"
+    },
+    {
+      "id": "5af56e42c3da7a00dc22835e",
+      "filename": "headlight beam adjustment control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000271551.xml"
+    },
+    {
+      "id": "5af56ed5c3da7a00dc228402",
+      "filename": "hazard lights switch : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000271858.xml"
+    },
+    {
+      "id": "5af56f70c3da7a00dc2284b2",
+      "filename": "rear screen de-icer control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000264741.xml"
+    },
+    {
+      "id": "5af5bf5df04d3300dc2427d8",
+      "filename": "cruise control and speed limiter control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000274909.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3280",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3280.pdf"
+    },
+    {
+      "id": "3202",
+      "filename": "New generation instrument panel.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3202.pdf"
+    },
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    },
+    {
+      "id": "MR-432-X65-80D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-80D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-82D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-82D000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21884.png"
+    }
+  ]
+}

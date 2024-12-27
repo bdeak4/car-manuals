@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1247_239510",
+      "filename": "1247_239510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084105.svg"
+    },
+    {
+      "id": "1247_383010",
+      "filename": "1247_383010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084145.svg"
+    },
+    {
+      "id": "1247_382510",
+      "filename": "1247_382510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01082426.svg"
+    },
+    {
+      "id": "1247_381014",
+      "filename": "1247_381014.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01029549.svg"
+    },
+    {
+      "id": "1247_381012",
+      "filename": "1247_381012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01029534.svg"
+    },
+    {
+      "id": "1247_381016",
+      "filename": "1247_381016.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01036843.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "5af5be51f04d3300dc2426a5",
+      "filename": "gear control assembly : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000171169.xml"
+    },
+    {
+      "id": "61fda4e90519635072e03e6e",
+      "filename": "gearbox control unit : adjustment.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000188368.xml"
+    },
+    {
+      "id": "5af2fa80c3da7a00dc225ecd",
+      "filename": "gearbox control unit: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000190127.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22012.png"
+    }
+  ]
+}

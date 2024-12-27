@@ -1,0 +1,58 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0436",
+      "filename": "ADAPTING THE FLOOR PANEL TO FIT A CONSOLE SUPPORT BRACKET (For vehicles manufactured before 0306/1996).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0436.pdf"
+    },
+    {
+      "id": "0463",
+      "filename": "ADAPTING A SPECIFIC STRUT FOR ENGINE TYPE C3G.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0463.pdf"
+    },
+    {
+      "id": "0501",
+      "filename": "ADAPTING A BODYSHELL SUPPLIED BY THE PARTS DEPARTMENT FOR A PHASE 1 TYPE VEHICLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0501.pdf"
+    },
+    {
+      "id": "0627",
+      "filename": "Modification to the diameter of the bumper mountings.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0627.pdf"
+    },
+    {
+      "id": "0346",
+      "filename": "NEW POSITION OF BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0346.pdf"
+    },
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "0302",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0302.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5b00d08813b00dc4cf43a",
+      "filename": "impact fault finding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000002619.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21585.png"
+    }
+  ]
+}

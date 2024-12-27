@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XZJ|X55|XJD|XBA|XBB|XJA|XBC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|XEF|X17|X41|X42|X75|XAV|XJ1|XJC|XFF|XJH|X1310|XDE|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323916" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bolted assembly with flowdrilled nut : description</title>
+   <?Pub Caret -2?>
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 03:55" translate="no"/>
+         <revised modified="10/10/24 13:48" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bolted assembly with flowdrilled nut : description</siename>
+         <sieversion translate="no">N.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323916</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <para translate="yes">Fluo tapped threading is repaired by fittingof captive nut<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3453883">
+            <linkdesc>bolted assembly with crimped mounting : description</linkdesc>
+            <linkvalue>GIEMR-000180</linkvalue>
+         </sieref>and using the<toolref format="dita" href="x-wc://file=OS-000005857.xml" scope="external" translate="no" type="specifictool">
+            <linkdesc>Tool for fitting crimped nuts.</linkdesc>
+            <linkvalue>Car.1504</linkvalue>
+         </toolref>.</para>
+   </descbody>
+   <description id="d1e121" translate="no" xml:lang="en">
+      <title translate="yes">PREPARATION</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <figure id="00-04-03-55-repair-40-01-34-06-02-21-1-1-1" translate="no">
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016145.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323916-04-03-55-repair-40-01-34-06-02-21-1-1-1-000016145</illusnum>
+            </figure>
+            <para translate="yes">Drill the fluo tapped nut, observing the nominaldiameter of the insert, see table.</para>
+            <table colsep="1" frame="all" rowsep="1" translate="no">
+               <tgroup cols="2" colsep="1" rowsep="1" translate="no">
+                  <colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+                  <colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+                  <thead translate="no">
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">∅</value>
+                              </technicalvalue>nominal</para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">∅</value>
+                              </technicalvalue>drillinghole (<technicalvalue translate="no">
+                                 <value translate="yes">mm</value>
+                              </technicalvalue>)</para>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody translate="no">
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">M6 x 100</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">10.2</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                     </row>
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">M8 x 125</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">13.5</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                     </row>
+                     <row rowsep="0" translate="no">
+                        <entry colname="1" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">M10 x 150</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">15.5</value>
+                              </technicalvalue>
+                           </para>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e197" translate="no" xml:lang="en">
+      <title translate="yes">anti-corrosion protection</title>
+      <descbody translate="no">
+         <para translate="yes">If it is a hollow section, inject wax to stabilisethe swarf and protect the parts which have been bared during the drillingoperation.</para>
+         <para translate="yes">
+            <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3521693">
+               <linkdesc>after assembly anti-corrosion protection : description</linkdesc>
+               <linkvalue>GIEMR-001837</linkvalue>
+            </sieref>
+         </para>
+      </descbody>
+   </description>
+   <description id="d1e206" translate="no" xml:lang="en">
+      <title translate="yes">FITTING THE CAPTIVE NUT</title>
+      <descbody translate="no">
+         <para translate="yes">Fitting the captive nut<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3453883">
+               <linkdesc>bolted assembly with crimped mounting : description</linkdesc>
+               <linkvalue>GIEMR-000180</linkvalue>
+            </sieref>.</para>
+      </descbody>
+   </description>
+</description>

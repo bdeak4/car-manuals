@@ -1,0 +1,150 @@
+{
+  "PR": [
+    {
+      "id": "1204_863512",
+      "filename": "1204_863512.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014701.svg"
+    },
+    {
+      "id": "1204_863811",
+      "filename": "1204_863811.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01016617.svg"
+    },
+    {
+      "id": "1204_863819",
+      "filename": "1204_863819.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01016582.svg"
+    },
+    {
+      "id": "1204_863813",
+      "filename": "1204_863813.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01016581.svg"
+    },
+    {
+      "id": "1204_863510",
+      "filename": "1204_863510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014540.svg"
+    },
+    {
+      "id": "1204_863010",
+      "filename": "1204_863010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085294.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3424",
+      "filename": "Radio: Becker navigation system.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3424.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-AUTORADIO-CODE-2X6W",
+      "filename": "CODED AUTORADIO PHILIPS 2X6W.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-AUTORADIO-CODE-2X6W.pdf"
+    },
+    {
+      "id": "MR-RADIOSAT-PHILIPS-6000-10",
+      "filename": "Audio system Radiosat 6000 and 6010 - PHILIPS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RADIOSAT-PHILIPS-6000-10.pdf"
+    },
+    {
+      "id": "MR-RADIOSAT-PHILIPS-4000",
+      "filename": "PHILIPS Audio system - Radiosat 4000.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RADIOSAT-PHILIPS-4000.pdf"
+    },
+    {
+      "id": "MR-RAD-PHILIPS-1",
+      "filename": "CODED RADIO 4X20W - PHILIPS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-PHILIPS-1.pdf"
+    },
+    {
+      "id": "MR-RAD-PHILIPS-4",
+      "filename": "PHILIPS 4X15W CODED RADIO REMOTE DISPLAY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-PHILIPS-4.pdf"
+    },
+    {
+      "id": "MR-RADIOSAT-PHILIPS-6000-CD",
+      "filename": "Philips 4 x 15 W - Radiosat 6000 CD.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RADIOSAT-PHILIPS-6000-CD.pdf"
+    },
+    {
+      "id": "MR-RADIOSAT-BLAUPUNKT-2000",
+      "filename": "Radiosat 2000 - BLAUPUNKT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RADIOSAT-BLAUPUNKT-2000.pdf"
+    },
+    {
+      "id": "MR-RAD-PIONEER-II",
+      "filename": "RADIO 4X15W CD PLAYER (PIONEER).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-PIONEER-II.pdf"
+    },
+    {
+      "id": "MR-RAD-BLAUPUNKT-4X6W",
+      "filename": "RADIO 4X6W - BLAUPUNKT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-BLAUPUNKT-4X6W.pdf"
+    },
+    {
+      "id": "MR-RADIOSAT-ALPINE-HIFI",
+      "filename": "Radiosat HIFI audio system - Alpine 4 x 25 W.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RADIOSAT-ALPINE-HIFI.pdf"
+    },
+    {
+      "id": "MR-RAD-PHILIPS-3",
+      "filename": "PHILIPS 2X8W CODED RADIO REMOTE DISPLAY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-PHILIPS-3.pdf"
+    },
+    {
+      "id": "MR-RAD-PIONEER-I",
+      "filename": "RADIO-CD PLAYER 4X25W - PIONEER.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-RAD-PIONEER-I.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2863",
+      "filename": "INSTRUMENT PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2863.pdf"
+    },
+    {
+      "id": "2669",
+      "filename": "PRINCIPLE OF OPERATION AND FAULT FINDING -  HOW FUEL GAUGE WORKS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2669.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3701",
+      "filename": "FAULT FINDING - AUDIO EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3701.pdf"
+    },
+    {
+      "id": "3680",
+      "filename": "GAUGING SYSTEM FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3680.pdf"
+    },
+    {
+      "id": "5037",
+      "filename": "CODE SUPPLY PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5037.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21886.png"
+    }
+  ]
+}

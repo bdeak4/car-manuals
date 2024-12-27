@@ -1,0 +1,74 @@
+{
+  "PR": [
+    {
+      "id": "1247_660150",
+      "filename": "1247_660150.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01082436.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-6",
+      "filename": "M.R. 338 - 6 Sealing and Soundproofing phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af5839cc3da7a00dc229817",
+      "filename": "front side opening element window run channel : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000404920.xml"
+    },
+    {
+      "id": "5af5c393f04d3300dc242d04",
+      "filename": "front side opening element window exterior weatherstrip : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000404604.xml"
+    },
+    {
+      "id": "5af583d3c3da7a00dc22985d",
+      "filename": "front side opening element window interior weatherstrip : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000403432.xml"
+    },
+    {
+      "id": "5af5c106f04d3300dc2429d5",
+      "filename": "front side opening element sliding window : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000377310.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21589.png"
+    }
+  ]
+}

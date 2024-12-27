@@ -1,0 +1,125 @@
+{
+  "PR": [
+    {
+      "id": "1247_850111",
+      "filename": "1247_850111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01051734.svg"
+    },
+    {
+      "id": "1247_850110",
+      "filename": "1247_850110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01045832.svg"
+    },
+    {
+      "id": "1247_850113",
+      "filename": "1247_850113.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01009608.svg"
+    },
+    {
+      "id": "1247_860510",
+      "filename": "1247_860510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084372.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5af2fbc4c3da7a00dc226035",
+      "filename": "wiperswashing : component parts location.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000426537.xml"
+    },
+    {
+      "id": "5af30050c3da7a00dc226530",
+      "filename": "front windscreen wiper motor : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000410851.xml"
+    },
+    {
+      "id": "5af30073c3da7a00dc226563",
+      "filename": "windscreen washer jet : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000404796.xml"
+    },
+    {
+      "id": "5af584a3c3da7a00dc229975",
+      "filename": "windscreen wiper blade : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000400893.xml"
+    },
+    {
+      "id": "5af585ebc3da7a00dc229b56",
+      "filename": "windscreen wiper mechanism : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000422451.xml"
+    },
+    {
+      "id": "5af5c2c6f04d3300dc242bec",
+      "filename": "windscreen washer pump : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000403457.xml"
+    },
+    {
+      "id": "5af5c2f8f04d3300dc242c38",
+      "filename": "rain and light sensor: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000411272.xml"
+    },
+    {
+      "id": "5af9585b3ef64d00e0ef8518",
+      "filename": "windscreen wiper arm : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000409630.xml"
+    },
+    {
+      "id": "5af973063ef64d00e0efadea",
+      "filename": "windscreen washer fluid reservoir : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000408356.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "MR-432-X65-80D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-80D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-82D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-82D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-85A000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-85A000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21645.png"
+    }
+  ]
+}

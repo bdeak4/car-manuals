@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|XEF|X17|X41|X42|X75|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000010615" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">paint and rigid adhesive stripping tools : use</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 08:29" translate="no"/>
+         <revised modified="10/10/24 13:48" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">paint and rigid adhesive stripping tools : use</siename>
+         <sieversion translate="no">L.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000010615</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e114" translate="no">
+      <title translate="yes">flat stripping</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-76-repair-00-04-03-13-01-79-1-1-1" translate="no">
+               <title translate="yes">Use of a plastic fibre disc, on an angle grinder (5,000 rpm) fitted with speed control</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016728_LAY-000001927.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000010615-04-03-76-repair-00-04-03-13-01-79-1-1-1-000016728</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Advantage:</para>
+               <ul translate="no">
+                  <li translate="yes">Rapid means for cleaning a large painted surface with rigid adhesive mastic without damaging the support sheet and the galvanising.</li>
+               </ul>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">When used on the edge of a sheet, the plastic fibre disc must be positioned parallel to the cut and should be applied from the centre of the part to the edge of the cut.</para>
+               </noteR>
+               <para translate="yes">Disadvantage:</para>
+               <ul translate="no">
+                  <li translate="yes">Causes a large quantity of dust.</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory respiratory protection,</li>
+                  <li translate="yes">obligatory hand protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e155" translate="no">
+      <title translate="yes">angle stripping</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-132-repair-00-04-03-13-01-79-1-1-3" translate="no">
+               <title translate="yes">Use of a plastic fibre disk on a power drill (5,000 rpm)</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012996_LAY-000001928.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000010615-04-03-132-repair-00-04-03-13-01-79-1-1-3-000012996</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Advantage:</para>
+               <ul translate="no">
+                  <li translate="yes">allows cleaning into corners without damaging the support sheet and galvanising.</li>
+               </ul>
+               <para translate="yes">Disadvantage:</para>
+               <ul translate="no">
+                  <li translate="yes">Causes dust.</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory respiratory protection,</li>
+                  <li translate="yes">obligatory hand protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+   <procedure id="d1e191" translate="no">
+      <title translate="yes">corner stripping</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <figure id="00-04-03-99-repair-00-04-03-13-01-79-1-1-4" translate="no">
+               <title translate="yes">Use of a strip sander with an abrasive strip (50 grit)</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016182_LAY-000001929.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000010615-04-03-99-repair-00-04-03-13-01-79-1-1-4-000016182</illusnum>
+            </figure>
+            <procstep translate="no">
+               <para translate="yes">Advantage:</para>
+               <ul translate="no">
+                  <li translate="yes">Rapid means for stripping areas that are difficult to get to, corner or enclosed area stripping.</li>
+               </ul>
+               <para translate="yes">Disadvantages:</para>
+               <ul translate="no">
+                  <li translate="yes">Causes dust,</li>
+                  <li translate="yes">Attacks the galvanising and the support sheet.</li>
+               </ul>
+               <para translate="yes">Operator protection:</para>
+               <ul translate="no">
+                  <li translate="yes">obligatory eye protection,</li>
+                  <li translate="yes">obligatory respiratory protection,</li>
+                  <li translate="yes">obligatory hand protection.</li>
+               </ul>
+               <para translate="yes">Protection in the work area:</para>
+               <ul translate="no">
+                  <li translate="yes">protection of interior fittings.</li>
+               </ul>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

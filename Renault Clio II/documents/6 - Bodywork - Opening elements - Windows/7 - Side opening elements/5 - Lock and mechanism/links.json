@@ -1,0 +1,79 @@
+{
+  "PR": [
+    {
+      "id": "1247_501010",
+      "filename": "1247_501010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085836.svg"
+    },
+    {
+      "id": "1247_530110",
+      "filename": "1247_530110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01052065.svg"
+    },
+    {
+      "id": "1247_530510",
+      "filename": "1247_530510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084181.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af2ffa7c3da7a00dc226463",
+      "filename": "front side opening striker plate : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000362430.xml"
+    },
+    {
+      "id": "5af580e0c3da7a00dc2294df",
+      "filename": "front side opening element lock : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000365291.xml"
+    },
+    {
+      "id": "5af581d9c3da7a00dc229620",
+      "filename": "side opening element contact : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000366917.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21588.png"
+    }
+  ]
+}

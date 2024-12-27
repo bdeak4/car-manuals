@@ -1,0 +1,18 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "5af95a203ef64d00e0ef872f",
+      "filename": "Front seat assembly: remove - replace.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000425846.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21662.png"
+    }
+  ]
+}

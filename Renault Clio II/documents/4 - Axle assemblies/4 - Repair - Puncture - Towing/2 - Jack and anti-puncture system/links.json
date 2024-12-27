@@ -1,0 +1,49 @@
+{
+  "PR": [
+    {
+      "id": "1247_900111",
+      "filename": "1247_900111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01033304.svg"
+    },
+    {
+      "id": "1247_900110",
+      "filename": "1247_900110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01044861.svg"
+    },
+    {
+      "id": "1247_900115",
+      "filename": "1247_900115.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01004022.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af589b4c3da7a00dc229fbf",
+      "filename": "tow eye : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000341532.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21925.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "PR": [
+    {
+      "id": "1313_110010",
+      "filename": "1313_110010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01028232.svg"
+    },
+    {
+      "id": "1313_110012",
+      "filename": "1313_110012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01006109.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3175",
+      "filename": "Fault finding procedures for various faults affecting the cooling system and water pumps.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3175.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21948.png"
+    }
+  ]
+}

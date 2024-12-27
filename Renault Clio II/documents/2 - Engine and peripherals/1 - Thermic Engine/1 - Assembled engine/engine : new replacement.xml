@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X52/K4M,K7M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X92/K4M|X95/K4M" id="RPR-000014901" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">engine : new replacement</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="29/09/08 19:00" translate="no"/>
+         <revised modified="02/12/24 08:46" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">engine : new replacement</siename>
+         <sieversion translate="no">A.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000014901</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e91" translate="no">
+      <title translate="yes">new replacement engine</title>
+      <procbody translate="no"/>
+      <procedure id="d1e95" translate="no">
+         <title translate="yes">Preparing the old engine to be returned to the engine renovation plant</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clean the engine.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X95/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Drain:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine oil<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457199">
+                           <linkdesc>engine oil : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-001296</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the coolant<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479881">
+                           <linkdesc>coolant circuit assembly : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-000954</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X52/K4M|X92/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Drain:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine oil<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457199">
+                           <linkdesc>engine oil : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-001296</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the coolant<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479881">
+                           <linkdesc>coolant circuit assembly : draining - refilling</linkdesc>
+                           <linkvalue>GIEMR-000954</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Secure the old engine to the stand and under the same conditions as for new engine replacement:</para>
+                  <ul translate="no">
+                     <li translate="yes">fit the plastic plug welds and covers,</li>
+                     <li translate="yes">fit the cardboard cover over the whole assembly.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e183" translate="no">
+         <title translate="yes">Parts to leave on the old engine or to include in the return box:</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Leave on the used engine or include in the return box:</para>
+                  <ul translate="no">
+                     <li translate="yes">the dipstick,</li>
+                     <li translate="yes">the oil filter,</li>
+                     <li translate="yes">the oil filter seat,</li>
+                     <li translate="yes">the coolant - oil heat exchanger,</li>
+                     <li translate="yes">the oil level sensor,</li>
+                     <li translate="yes">the rocker cover,</li>
+                     <li translate="yes">the coolant pump,</li>
+                     <li translate="yes">the injector rail,</li>
+                     <li translate="yes">the injectors,</li>
+                     <li translate="yes">the spark plugs,</li>
+                     <li translate="yes">the timing belt,</li>
+                     <li translate="yes">the tensioning roller,</li>
+                     <li translate="yes">the crankshaft sprocket,</li>
+                     <li translate="yes">the camshaft sprockets,</li>
+                     <li translate="yes">the timing cover,</li>
+                     <li translate="yes">the crankshaft accessories pulley,</li>
+                     <li translate="yes">the lifting rings,</li>
+                     <li translate="yes">the cylinder head suspended mounting.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e228" translate="no">
+         <title translate="yes">Parts to be removed from the old engine and fitted on the new engine</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts to be removed from the old engine and fitted on the new engine:</para>
+                  <ul translate="no">
+                     <li translate="yes">all cooling system hoses,</li>
+                     <li translate="yes">the oil pressure sensor,</li>
+                     <li translate="yes">the pinking sensor,</li>
+                     <li translate="yes">the inlet distributor,</li>
+                     <li translate="yes">the exhaust manifold,</li>
+                     <li translate="yes">the catalytic converter,</li>
+                     <li translate="yes">the coolant inlet hose,</li>
+                     <li translate="yes">the water chamber,</li>
+                     <li translate="yes">the alternator,</li>
+                     <li translate="yes">the air conditioning compressor ,</li>
+                     <li translate="yes">the power-assisted steering pump,</li>
+                     <li translate="yes">the multifunction support.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M/BVM5|X35/K4J,K4M/BVM5|X38/K4M/BVM5,BVM6|X44/K4M/BVM5|X52/K4M/BVM5|X56/K4M/BVM5|X61/K4M/BVM5|X64/K4J,K4M/BVM5|X65/K4J,K4M/BVM5|X74/K4M/BVM5,BVM6|X76/K4M/APL03/BVM5|X77/K4J,K4M/BVM5|X79/K4M/BVM5,BVM6|X84/K4J,K4M/BVM5,BVM6|X85/K4J,K4M/BVM5,BVM6|X90/K4M/BVM5|X91/K4M/BVM6|X95/K4M/BVM5,BVM6" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts to be removed from the old engine and fitted on the new engine:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch disc and pressure plate<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3470380">
+                           <linkdesc>clutch plate : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000661</linkvalue>
+                        </sieref>(20A, Clutch),</li>
+                     <li translate="yes">the flywheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499029">
+                           <linkdesc>flywheel : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-002431</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/K4J,K4M/BVA4|X38/K4M/BVA4|X52/K4M/BVA4|X56/K4M/BVA4|X61/K4M/BVA4|X64/K4J,K4M/BVA4|X65/K4J,K4M/BVA4|X74/K4M/BVA4,BVA5|X76/K4M/APL03/BVA4|X77/K4J,K4M/BVA4|X79/K4M/BVA4|X84/K4J,K4M/BVA4|X85/K4J,K4M/BVA4|X90/K4M/BVA4|X92/K4M/BVA4" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the drive plate from the old engine and refit it on the new engine<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488096">
+                        <linkdesc>drive plate : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-002387</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e428" translate="no">
+         <title translate="yes">Parts always to be replaced</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Always replace:</para>
+                  <ul translate="no">
+                     <li translate="yes">the water chamber seal on the cylinder head,</li>
+                     <li translate="yes">the inlet distributor seal,</li>
+                     <li translate="yes">the exhaust manifold gasket,</li>
+                     <li translate="yes">the accessories belt,</li>
+                     <li translate="yes">the accessories belt tensioning roller,</li>
+                     <li translate="yes">the bolt for the accessories belt tensioning roller,</li>
+                     <li translate="yes">the cooling circuit hoses if they are damaged.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e447" translate="no">
+      <title translate="yes">new replacement engine</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Refit the parts removed from the old engine on the new engine.</para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

@@ -1,0 +1,54 @@
+{
+  "PR": [
+    {
+      "id": "1204_554012",
+      "filename": "1204_554012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01035112.svg"
+    },
+    {
+      "id": "1204_554011",
+      "filename": "1204_554011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01035101.svg"
+    },
+    {
+      "id": "1204_554014",
+      "filename": "1204_554014.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01035106.svg"
+    },
+    {
+      "id": "1204_554010",
+      "filename": "1204_554010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01082415.svg"
+    },
+    {
+      "id": "1204_554013",
+      "filename": "1204_554013.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01007445.svg"
+    },
+    {
+      "id": "1204_554020",
+      "filename": "1204_554020.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01008683.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "5af5b17908813b00dc4cf5d1",
+      "filename": "decorative strip : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000330994.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21586.png"
+    }
+  ]
+}

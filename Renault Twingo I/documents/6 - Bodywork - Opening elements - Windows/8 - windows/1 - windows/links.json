@@ -1,0 +1,104 @@
+{
+  "PR": [
+    {
+      "id": "1204_540110",
+      "filename": "1204_540110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01022427.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0316",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0316.pdf"
+    },
+    {
+      "id": "0337",
+      "filename": "SUNROOF.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0337.pdf"
+    },
+    {
+      "id": "0506",
+      "filename": "SPECIAL FEATURES OF THE TWINGO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0506.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    },
+    {
+      "id": "5af5abce08813b00dc4cf041",
+      "filename": "window cement bead : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000378878.xml"
+    },
+    {
+      "id": "5af5aba908813b00dc4cf01e",
+      "filename": "window detachment : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000483235.xml"
+    },
+    {
+      "id": "5af5af7b08813b00dc4cf3a8",
+      "filename": "windows : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000331655.xml"
+    },
+    {
+      "id": "5af5afa308813b00dc4cf3d5",
+      "filename": "roof opening element bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000379470.xml"
+    },
+    {
+      "id": "5af5b13608813b00dc4cf58b",
+      "filename": "window bonding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000380678.xml"
+    },
+    {
+      "id": "5e276fcc46e0fb0001dd3e73",
+      "filename": "general information on windows and roof opening elements : contents.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001453385.xml"
+    },
+    {
+      "id": "5af962233ef64d00e0ef8e3a",
+      "filename": "windows : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000332214.xml"
+    },
+    {
+      "id": "60edfd6764bda8419466623f",
+      "filename": "windows : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001823321.xml"
+    },
+    {
+      "id": "613a74c176b5af1c1b216740",
+      "filename": "windows : sealing repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001837566.xml"
+    },
+    {
+      "id": "6296c3788317fd12a54cfcd2",
+      "filename": "assistance service information label: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001975579.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21589.png"
+    }
+  ]
+}

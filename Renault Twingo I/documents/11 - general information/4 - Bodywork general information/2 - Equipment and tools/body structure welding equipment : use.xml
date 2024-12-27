@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFF|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X58|X27|X75|XDD|X59|XJ1|XJH|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010146" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">body structure welding equipment : use</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 03:01" translate="no"/>
+         <revised modified="10/10/24 13:40" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">body structure welding equipment : use</siename>
+         <sieversion translate="no">M.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010146</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e112" translate="no">
+      <title translate="yes">electrical resistance spot welding</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Used to weld mating faces where both sides are accessible (e.g.: door entries).</para>
+            <para translate="yes">Ordinary welders can weld ordinary steel sheets, and some welders are designed for welding very high or ultra high yield (THLE/UHLE) strength sheets.</para>
+            <para translate="yes">The welder used for THLE/UHLE sheets must have an effective minimum welding current of<technicalvalue translate="no">
+                  <value translate="yes">11500 A</value>
+               </technicalvalue>. The effective clamp tightening pressure must be a minimum of<technicalvalue translate="no">
+                  <value translate="yes">450 daN.m</value>
+               </technicalvalue>. When the appliance is fitted with a manual expansion valve, it is possible to reduce the pressure, but the pressure cannot be measured. Only a peeling test will enable you to check whether the welding bead diameter is enough.</para>
+            <figure id="00-04-03-16-repair-00-04-03-26-01-79-1-1-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016867_LAY-000001951.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010146-04-03-16-repair-00-04-03-26-01-79-1-1-1-000016867</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Identical to original welds.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">Cannot apply welds over<technicalvalue translate="no">
+                     <value translate="yes">250 mm</value>
+                  </technicalvalue>from the edge the sheet.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">external bodywork protection,</li>
+               <li translate="yes">protection of internal and external window faces,</li>
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+         <para translate="yes"/>
+      </descbody>
+   </description>
+   <description id="d1e169" translate="no">
+      <title translate="yes">Arc welding under shielding gas</title>
+      <descbody translate="no">
+         <para translate="yes">Used for plug welding sheets, for original weld beads as well as continuous welds on edge-to-edge cuts.</para>
+         <para translate="yes">The contact tube and the nozzle must be cleaned regularly so that the gas and the wire are free. To do this, use an anti-splash product.</para>
+         <para translate="yes">The welder exists in two versions:</para>
+         <ul translate="no">
+            <li translate="yes">MAG = Metal Active Gas. The gas mixture contains more than 5% CO2.</li>
+            <li translate="yes">MIG = Metal Inert Gas. The gas mixture contains less than 5% CO2.</li>
+         </ul>
+         <para translate="yes">For routine bodywork jobs, the welder can have a minimum welding current of<technicalvalue translate="no">
+               <value translate="yes">200 A</value>
+            </technicalvalue>with a range of use for welding sheets of<technicalvalue translate="no">
+               <value translate="yes">0.6 mm to 4 mm</value>
+            </technicalvalue>, with a wire<technicalvalue translate="no">
+               <value translate="yes">∅ 0.6 to 0.8 mm</value>
+            </technicalvalue>.</para>
+         <descsection translate="no">
+            <figure id="00-04-03-23-repair-00-04-03-26-01-79-1-1-2" translate="no">
+               <title translate="yes">Plug welding point</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016874_LAY-000001952.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010146-04-03-23-repair-00-04-03-26-01-79-1-1-2-000016874</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Allows the making of spot welds throughout the sheet by replacing the original SER points.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Anticorrosion treatment before assembly is very delicate,</li>
+               <li translate="yes">Impossibility of sealing the mating surfaces before welding,</li>
+               <li translate="yes">Requires perfect mating to obtain correct visible points.</li>
+            </ul>
+            <figure id="00-04-03-61-repair-00-04-03-26-01-79-1-1-3" translate="no">
+               <title translate="yes">Original bead</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016152_LAY-000002556.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010146-04-03-61-repair-00-04-03-26-01-79-1-1-3-000016152</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Identical to original welds.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Anticorrosion treatment before assembly is very delicate,</li>
+               <li translate="yes">Impossibility of sealing the mating surfaces before welding,</li>
+               <li translate="yes">Requires perfect mating to obtain a correct visible bead.</li>
+            </ul>
+            <figure id="00-04-03-36-repair-00-04-03-26-01-79-1-1-4" translate="no">
+               <title translate="yes">Chain bead</title>
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017641_LAY-000002557.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010146-04-03-36-repair-00-04-03-26-01-79-1-1-4-000017641</illusnum>
+            </figure>
+         </descsection>
+         <para translate="yes">Advantages:</para>
+         <ul translate="no">
+            <li translate="yes">Allows edge-to-edge sheet joining.</li>
+            <li translate="yes">Allows the making of spot welds throughout the sheet by replacing the original SER points.</li>
+         </ul>
+         <para translate="yes">Disadvantages:</para>
+         <ul translate="no">
+            <li translate="yes">Have to observe the cooling times between each point, otherwise the sheets are liable to become deformed because of the heat,</li>
+            <li translate="yes">Impossibility of anticorrosion treatment before assembly.</li>
+         </ul>
+         <para translate="yes">Operator protection:</para>
+         <ul translate="no">
+            <li translate="yes">obligatory eye and face protection,</li>
+            <li translate="yes">obligatory hand protection,</li>
+            <li translate="yes">use extra ventilation source.</li>
+         </ul>
+         <para translate="yes">Fire risk danger.</para>
+         <para translate="yes">Protection in the work area:</para>
+         <ul translate="no">
+            <li translate="yes">external bodywork protection,</li>
+            <li translate="yes">protection of internal and external window faces,</li>
+            <li translate="yes">protection of interior fittings.</li>
+         </ul>
+      </descbody>
+   </description>
+</description>

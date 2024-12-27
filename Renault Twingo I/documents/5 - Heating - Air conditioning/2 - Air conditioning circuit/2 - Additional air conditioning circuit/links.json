@@ -1,0 +1,49 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "2048",
+      "filename": "AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2048.pdf"
+    },
+    {
+      "id": "2422",
+      "filename": "CONVERTING FROM R12 TO R134a REFRIGERANT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2422.pdf"
+    },
+    {
+      "id": "2341",
+      "filename": "POSITION OF ENGINE MOUNTINGS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2341.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "5af5aff308813b00dc4cf420",
+      "filename": "passenger compartment cooling assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000260938.xml"
+    },
+    {
+      "id": "61d8ae8a98fb352c0b03a86e",
+      "filename": "passenger compartment cooling assembly: check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001887122.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3038",
+      "filename": "Air conditioning Twingo phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3038.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21873.png"
+    }
+  ]
+}

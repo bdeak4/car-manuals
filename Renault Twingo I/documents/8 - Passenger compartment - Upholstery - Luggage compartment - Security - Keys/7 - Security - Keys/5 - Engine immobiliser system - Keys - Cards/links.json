@@ -1,0 +1,140 @@
+{
+  "PR": [
+    {
+      "id": "1204_826011",
+      "filename": "1204_826011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085255.svg"
+    },
+    {
+      "id": "1204_826010",
+      "filename": "1204_826010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085254.svg"
+    },
+    {
+      "id": "1204_826013",
+      "filename": "1204_826013.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01059727.svg"
+    },
+    {
+      "id": "1204_826012",
+      "filename": "1204_826012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085256.svg"
+    },
+    {
+      "id": "1204_841010",
+      "filename": "1204_841010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085264.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "2155",
+      "filename": "REPLACING THE WATER-PUMPE - REMOVING-REFITTING THE ALTERNATOR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2155.pdf"
+    },
+    {
+      "id": "2330",
+      "filename": "ENGINE IMMOBILISERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2330.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2377",
+      "filename": "ENGINE IMMOBILISER WITH CHANGING INFRA RED PLIP CODE AND KEY RECOGNITION SYSTEM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2377.pdf"
+    },
+    {
+      "id": "3546",
+      "filename": "IMMOBILISER FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3546.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3361",
+      "filename": "CENTRAL LOCKING WHEN MOVING AND RADIO FREQUENCY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3361.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3038",
+      "filename": "Air conditioning Twingo phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3038.pdf"
+    },
+    {
+      "id": "3594",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3594.pdf"
+    },
+    {
+      "id": "5037",
+      "filename": "CODE SUPPLY PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5037.pdf"
+    },
+    {
+      "id": "6008",
+      "filename": "SUMMARY OF ENGINE IMMOBILISER SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6008.pdf"
+    },
+    {
+      "id": "6014",
+      "filename": "CHECKING THE CHARGING CIRCUIT AND STARTER.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6014.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21664.png"
+    }
+  ]
+}

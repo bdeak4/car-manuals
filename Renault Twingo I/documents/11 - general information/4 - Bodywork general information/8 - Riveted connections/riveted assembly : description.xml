@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XJL|XJH|XJK|XJF|XFK|XBG|XHN|XCB|X27|X58|XDD|X59|X17|X41|X42|X75|XJ1|XJB|XFF|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000314767" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">riveted assembly : description</title>
+   <?Pub Caret -2?>
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="30/08/21 14:21" translate="no"/>
+         <revised modified="10/10/24 13:43" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">riveted assembly : description</siename>
+         <sieversion translate="no">O.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000314767</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e114" translate="no" xml:lang="en">
+      <title translate="yes">disassembly</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <figure id="00-04-03-56-repair-40-01-32-02-21-1-1-1" translate="no">
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016147.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000314767-04-03-56-repair-40-01-32-02-21-1-1-1-000016147</illusnum>
+            </figure>
+            <para translate="yes">Remove the nail from the rivet head if stillpresent.</para>
+            <para translate="yes">Drill the rivet head using a drill bit whichis slightly bigger than the diameter of the rivet body.</para>
+            <para translate="yes">Remove the rivet body to separate the two components.</para>
+            <para translate="yes">Remove the component to be replaced.</para>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e131" translate="no" xml:lang="en">
+      <title translate="yes">preparation before assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e135" translate="no" xml:lang="en">
+         <title translate="yes">Adjustment before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Position the replacement part, adjust it andfix it using the locking pliers.</para>
+            <para translate="yes">If necessary, reassemble the adjacent componentsand check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">If a spot weld must be replaced with a rivet,simultaneously drill the spare part and the part on the vehicle dependingon the diameter of the rivet used (see table below).</para>
+            </noteR>
+         </descbody>
+      </description>
+      <description id="d1e151" translate="no" xml:lang="en">
+         <title translate="yes">Marking and identifying the joints</title>
+         <descbody translate="no">
+            <para translate="yes">Mark the joint areas.</para>
+            <para translate="yes">Remove the part.</para>
+         </descbody>
+      </description>
+      <description id="d1e159" translate="no" xml:lang="en">
+         <title translate="yes">Preparation of the joints on the replacementpart</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-57-repair-40-01-32-02-21-1-1-2" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016148.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000314767-04-03-57-repair-40-01-32-02-21-1-1-2-000016148</illusnum>
+               </figure>
+               <para translate="yes">Drill or pierce the locations marked previously,in accordance with the table below:</para>
+               <table colsep="1" frame="all" rowsep="1" translate="no">
+                  <tgroup cols="4" colsep="1" rowsep="1" translate="no">
+                     <colspec colname="1" colnum="1" colwidth="43.732148524278%" translate="no"/>
+                     <colspec colname="2" colnum="2" colwidth="18.75595049190733%" translate="no"/>
+                     <colspec colname="3" colnum="3" colwidth="18.75595049190733%" translate="no"/>
+                     <colspec colname="4" colnum="4" colwidth="18.75595049190733%" translate="no"/>
+                     <tbody translate="no">
+                        <row rowsep="1" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">∅ rivet (mm)</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">4</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">4.8</para>
+                           </entry>
+                           <entry colname="4" translate="yes">
+                              <para translate="yes">6.4</para>
+                           </entry>
+                        </row>
+                        <row rowsep="0" translate="no">
+                           <entry colname="1" translate="yes">
+                              <para translate="yes">∅ drillinghole (mm)</para>
+                           </entry>
+                           <entry colname="2" translate="yes">
+                              <para translate="yes">4.1 to 4.5</para>
+                           </entry>
+                           <entry colname="3" translate="yes">
+                              <para translate="yes">4.9 to 5.1</para>
+                           </entry>
+                           <entry colname="4" translate="yes">
+                              <para translate="yes">6.6 to 7</para>
+                           </entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e205" translate="no" xml:lang="en">
+         <title translate="yes">Apply the protection before assembly</title>
+         <descbody translate="no">
+            <para translate="yes">Fit the sound insulation inserts into the hollowsections, if necessary.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524920">
+                  <linkdesc>soundproofing product before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001673</linkvalue>
+               </sieref>
+            </para>
+            <para translate="yes">Apply the anti-corrosion protection.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465485">
+                  <linkdesc>anti-corrosion protection before assembly : description</linkdesc>
+                  <linkvalue>GIEMR-001838</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e219" translate="no" xml:lang="en">
+      <title translate="yes">assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e223" translate="no" xml:lang="en">
+         <title translate="yes">Fitting and adjusting the replaced parts</title>
+         <descbody translate="no">
+            <para translate="yes">Reassemble the part, adjust it and fix it usingthe locking pliers.</para>
+            <para translate="yes">If necessary, reassemble the adjacent componentsand check the panel gaps.</para>
+            <para translate="yes">
+               <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961">
+                  <linkdesc>body structure maintenance and adjustment tools : use</linkdesc>
+                  <linkvalue>GIEMR-001610</linkvalue>
+               </sieref>
+            </para>
+         </descbody>
+      </description>
+      <description id="d1e234" translate="no" xml:lang="en">
+         <title translate="yes">Riveting</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-46-repair-40-01-32-02-21-1-1-3" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016008.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000314767-04-03-46-repair-40-01-32-02-21-1-1-3-000016008</illusnum>
+               </figure>
+               <para translate="yes">Fit the rivet.</para>
+            </descsection>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">In all cases, hold the pliers firmly when breakingthe nail to avoid damaging the component.</para>
+            </noteR>
+            <noteR translate="no" type="note">
+               <para translate="yes">Note:</para>
+               <para translate="yes">For riveting three thickness types, check thatthe components are correctly secured together and that the lengthof the rivet body is sufficient to ensure they are held.</para>
+            </noteR>
+         </descbody>
+      </description>
+   </description>
+</description>

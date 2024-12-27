@@ -1,0 +1,29 @@
+{
+  "PR": [
+    {
+      "id": "1204_351010",
+      "filename": "1204_351010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01021255.svg"
+    },
+    {
+      "id": "1204_353010",
+      "filename": "1204_353010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083891.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21925.png"
+    }
+  ]
+}

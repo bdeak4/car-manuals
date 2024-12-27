@@ -1,0 +1,74 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5e276fcc46e0fb0001dd3e73",
+      "filename": "general information on windows and roof opening elements : contents.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001453385.xml"
+    },
+    {
+      "id": "60188b1d64a3273a21cc8f6f",
+      "filename": "roof opening element : maintenance.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001709395.xml"
+    },
+    {
+      "id": "5af958e53ef64d00e0ef85b6",
+      "filename": "roof opening element : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000383820.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21587.png"
+    }
+  ]
+}

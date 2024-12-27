@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X58|X27|X75|XDD|X59|XJ1|XFF|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323159" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bolted assembly : precautions for the repair</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="09/03/20 05:53" translate="no"/>
+         <revised modified="10/10/24 13:40" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bolted assembly : precautions for the repair</siename>
+         <sieversion translate="no">M.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323159</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e114" translate="no" xml:lang="en">
+      <title translate="yes">Safety component mountings</title>
+      <descbody translate="no">
+         <para translate="yes">The body mountings of the following safety components must not be redone if they have deteriorated:</para>
+         <ul translate="no">
+            <li translate="yes">Seat belts,</li>
+            <li translate="yes">Seat belt buckles,</li>
+            <li translate="yes">Seats with safety belts board.</li>
+         </ul>
+         <para translate="yes">If the mounting is damaged, the component on which it is mounted must be replaced.</para>
+      </descbody>
+   </description>
+   <description id="d1e129" translate="no" xml:lang="en">
+      <title translate="yes">Tightness of the mounting</title>
+      <descbody translate="no"/>
+      <description id="d1e133" translate="no" xml:lang="en">
+         <title translate="yes">Crimped mountings</title>
+         <descbody translate="no">
+            <para translate="yes">After fitting the crimped mounting, check the crimping by performing a tightening test on the mounting before fitting the component on the mounting.</para>
+            <para translate="yes">In the event of incorrect crimping, remove the mounting and refit a new one.</para>
+         </descbody>
+      </description>
+      <description id="d1e141" translate="no" xml:lang="en">
+         <title translate="yes">Welded mountings</title>
+         <descbody translate="no">
+            <para translate="yes">After fitting the welded mounting, check the weld by performing a tightening test on the mounting before fitting the component on the mounting.</para>
+            <para translate="yes">In the event of an incorrect weld, redo the connection or remove the mounting and refit a new one.</para>
+         </descbody>
+      </description>
+      <description id="d1e149" translate="no" xml:lang="en">
+         <title translate="yes">Repairing by helical thread insert</title>
+         <descbody translate="no">
+            <para translate="yes">After fitting the helical thread insert, check the position of the helical thread insert by performing a tightening test on the mounting before fitting the component on the mounting.</para>
+            <para translate="yes">If the helical thread insert is incorrectly positioned, remove the helical thread insert and refit a new one.</para>
+            <para translate="yes">In case of an insert thread breakdown, proceed to the replacement of the original fastening item.</para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e159" translate="no" xml:lang="en">
+      <title translate="yes">Anti-corrosion protection</title>
+      <descbody translate="no">
+         <para translate="yes">Before fitting a crimped mounting, apply anti-corrosion protection to the drilling hole, as well as around the shaft of the crimped mounting.</para>
+      </descbody>
+   </description>
+</description>

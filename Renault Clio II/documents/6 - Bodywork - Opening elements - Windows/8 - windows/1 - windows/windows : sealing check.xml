@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XFA|XZG|XFF|XZJ|XEF|X55|XJD|XZH|XJC|XJA|XJE|XJB|XHA|XJK|XFK|XJL|XJF|XBG|XBB|XCB|XHN|X27|X58|XBC|XRQ|XDD|XTP|X59|X17|X09|XJ1|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000332217" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">windows : sealing check</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="27/07/21 13:08" translate="no"/>
+      <revised modified="29/07/21 16:56" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">windows : sealing check</siename>
+      <sieversion translate="no">I.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000332214</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Before any operation, check the water outlet openings. Clean any residue which has accumulated (for example: dead leaves, twigs, etc.) and check that water flows out correctly.</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e124" translate="no">
+    <title translate="yes">Conditions to respect before checking the sealing</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Position the vehicle on a level washing area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Check that all of the opening elements are closed<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Prepare the equipment to perform the operation <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Adjust the flow of the water jet<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e161" translate="no">
+    <title translate="yes">operation for checking the sealing</title>
+    <procedure id="d1e165" translate="no">
+      <title translate="yes">Bonded windows First procedure</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <figure id="fig5" translate="no">
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054469.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332217-05-000054469</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Wet the exterior edge of the windows using soapy water <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3464730"><linkdesc>bodywork sealing product : description</linkdesc><linkvalue>GIEMR-001821</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">From inside the vehicle, blow the entire area using the air gun <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504059"><linkdesc>sealing tooling : description</linkdesc><linkvalue>GIEMR-001613</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of bubbles around the windows.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="pro1" translate="no">
+      <title translate="yes">Bonded windows Second procedure</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="7847b8fe-d3cc-4d1a-90e6-8ac315085142" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">A</designation>
+            </mark>
+            <mark id="2286061c-7c9d-482d-b8de-0e9dc3e89d33" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">B</designation>
+            </mark>
+            <mark id="783cf7f0-00f4-4793-800c-9e79f42a226f" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">1</designation>
+            </mark>
+            <mark id="95edff4b-f761-4192-9fd8-820b59fb07f7" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">C</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig4" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054465_lay-000318026.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332217-04-000054465</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the lowest section <markref format="dita" href="#pro1/fig4" scope="local" translate="no" type="figure">A</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Gradually spray the window pillars <markref format="dita" href="#pro1/fig4" scope="local" translate="no" type="figure">B</markref> from the bottom upwards to point <markref format="dita" href="#pro1/fig4" scope="local" translate="no" type="figure">1</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the upper section <markref format="dita" href="#pro1/fig4" scope="local" translate="no" type="figure">C</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e270" translate="no">
+      <title translate="yes">Sliding windows</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="f8a57423-4ac8-47d4-ae34-0f30c7d4303e" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">D</designation>
+            </mark>
+            <mark id="cc230bf8-d376-47b5-908e-a303d128bb06" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">E</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig3" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054464_lay-000318025.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332217-03-000054464</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Gradually spray the window pillar <markref format="dita" href="#d1e270/fig3" scope="local" translate="no" type="figure">D</markref> from the bottom upwards to the upper section.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Gradually spray the window pillar <markref format="dita" href="#d1e270/fig3" scope="local" translate="no" type="figure">E</markref> from the bottom upwards to the upper section.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure appl="X06|X07||X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48||X53|X54||X57|X61|X62|X63||X65|X66|X67|X70|X73||X75|X76|X77||X81|X82|X83|X84|X85|X87|X90/K90|X91|X92|X94|X95|X98||XFB|XFC|XFD|XFE|XFA|XZG|XFF|XZJ|XEF|||XZH|XJC|XJA|XJE|XJB||XJK|XFK|XJL|XJF|||XCB|XHN" id="d1e316" translate="no">
+      <title translate="yes">Hinged windows</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="3c0f731f-aedc-4af0-bdac-bd8b6255e525" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">G</designation>
+            </mark>
+            <mark id="47976417-c80c-417d-8340-e619f3e9d249" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">H</designation>
+            </mark>
+            <mark id="91c337f0-f5f0-4fff-a217-43c532f2e3cd" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">I</designation>
+            </mark>
+            <mark id="2f7fa28b-7fb6-4b2d-a3d3-541cc7636521" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">J</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig2" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000054463_lay-000318024.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332217-02-000054463</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the lowest section <markref format="dita" href="#d1e316/fig2" scope="local" translate="no" type="figure">G</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Gradually spray the window sections <markref format="dita" href="#d1e316/fig2" scope="local" translate="no" type="figure">H</markref> from the bottom upwards to the upper section.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the upper section <markref format="dita" href="#d1e316/fig2" scope="local" translate="no" type="figure">I</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the window mountings directly without moving<markref format="dita" href="#d1e316/fig2" scope="local" translate="no" type="figure">J</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e402" translate="no">
+      <title translate="yes">Fitted windows</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="37233e5e-d7e0-4aae-8bde-2acd65ece959" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">K</designation>
+            </mark>
+            <mark id="111ceace-e456-4b01-93d4-c49084384eed" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">L</designation>
+            </mark>
+            <mark id="837aefb1-2851-4b23-9310-fb34611c204d" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">M</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig1" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053537_lay-000318023.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000332217-01-000053537</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the lowest section <markref format="dita" href="#d1e402/fig1" scope="local" translate="no" type="figure">K</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Gradually spray the window sections <markref format="dita" href="#d1e402/fig1" scope="local" translate="no" type="figure">L</markref> from the bottom upwards to the upper section.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the upper section <markref format="dita" href="#d1e402/fig1" scope="local" translate="no" type="figure">M</markref> of the windows by sweeping the area from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e465" translate="no">
+      <title translate="yes">Checking the sealing with the trim removed</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the customer complaint could not be reproduced by applying this procedure, remove the interior trims (see Body internal trim in the Repair Manual) then repeat the sealing check from step 1, extending the sealing check to the surrounding areas<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499317"><linkdesc>vehicle : sealing check</linkdesc><linkvalue>GIEMR-002440</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

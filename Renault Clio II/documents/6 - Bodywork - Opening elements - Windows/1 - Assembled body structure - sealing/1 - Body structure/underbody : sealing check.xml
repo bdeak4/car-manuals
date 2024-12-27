@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XZJ|XJC|XJK|XFF|XBB|XHA|XJD|XHN|XCB|X27|X58|XBC|X55|XRQ|XTP|XJA|XDD|XBG|X59|XEF|X17|X06|XJL|XFA|X09|XJE|XJB|XJ1|XJH|XJF|XFK|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000323860" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">underbody : sealing check</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="11/08/20 21:31" translate="no"/>
+      <revised modified="17/08/20 19:30" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">underbody : sealing check</siename>
+      <sieversion translate="no">G.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000323857</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Before any operation, check the water outlets. If necessary, clean off any residue that has accumulated (for example, leaves, twigs, etc.) and check that the water flows out correctly.</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">When checking the sealing of the underside of the vehicle, the interior trims must be partially removed (see MR for the vehicle concerned).</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">The list of the joint areas dealt with here is general. Additional mating faces may exist depending on the layout of each vehicle (see MR for the vehicle concerned).</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e140" translate="no" xml:lang="fr">
+    <title translate="yes">sealing check preparation stage, before performing a sealing check</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Position the vehicle on a level washing area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Check that all of the opening elements are closed<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Prepare the equipment to perform the operation<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>,<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504059"><linkdesc>sealing tooling : description</linkdesc><linkvalue>GIEMR-001613</linkvalue></sieref> and <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Adjust the flow of the water jet<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531"><linkdesc>sealing tooling : use</linkdesc><linkvalue>GIEMR-001614</linkvalue></sieref>.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e180" translate="no" xml:lang="en">
+    <title translate="yes">operation for checking the sealing</title>
+    <procedure id="d1e184" translate="no" xml:lang="en">
+      <title translate="yes">Centre floor</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="35d719bc-9ebd-43c2-a458-44582dae9c9f" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">A</designation>
+            </mark>
+            <mark id="147553e3-777a-48c6-a4db-bb1c807aa62c" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">B</designation>
+            </mark>
+            <mark id="3a8f60f1-2433-4ccc-b0a1-fe047672b97b" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">C</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig1" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000053543_lay-000281816.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RPR-000323860-01-000053543</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray by sweeping the joint area between the centre floor / inner sill panel<markref format="dita" href="#d1e184/fig1" scope="local" translate="no" type="figure">A</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray by sweeping the joint area between the centre floor / centre floor centre cross member<markref format="dita" href="#d1e184/fig1" scope="local" translate="no" type="figure">B</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray by sweeping the joint area between the centre floor / rear floor front section<markref format="dita" href="#d1e184/fig1" scope="local" translate="no" type="figure">C</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the edge of the blanking covers of the centre floor in a circular manner.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray by sweeping the joint area of the centre floor right-hand side section / centre floor left-hand side section.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e266" translate="no" xml:lang="en">
+      <title translate="yes">Front wheel arch</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="de0b4e52-b463-4559-a233-914c6914ea7a" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">D</designation>
+            </mark>
+            <mark id="9ce526a8-6ae4-406e-8b18-dd5322a3c70d" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">E</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig2" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000015099_lay-000281815.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000323860-02-000015099</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the wheel arch / front bulkhead joint area gradually from the bottom upwards<markref format="dita" href="#d1e266/fig2" scope="local" translate="no" type="figure">D</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the wheel arch / scuttle side panel / bulkhead joint area gradually from the bottom upwards<markref format="dita" href="#d1e266/fig2" scope="local" translate="no" type="figure">E</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e312" translate="no" xml:lang="en">
+      <title translate="yes">Bolted and welded rear floor</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="1e6bf2fb-1a89-48cc-84e8-4cd920fc6e86" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">F</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig3" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000053540_lay-000281814.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000323860-03-000053540</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the edge <markref format="dita" href="#d1e312/fig3" scope="local" translate="no" type="figure">F</markref> of the rear floor, sweeping the area.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the edge of the blanking covers of the rear floor in a circular manner.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e349" translate="no" xml:lang="en">
+      <title translate="yes">Rear wheel arch</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="5dc91e78-b536-4d12-ab6a-6185e0129dea" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">G</designation>
+            </mark>
+            <mark id="ca1f02d6-1ca1-4d55-9c46-99fdf3e0a62a" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">I</designation>
+            </mark>
+            <mark id="ebf52d98-b628-4bb5-bd2a-451dde8a4811" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">H</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig4" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000053539_lay-000281813.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RPR-000323860-04-000053539</illusnum>
+          </figure>
+          <figure id="fig5" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057071_lay-000281812.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RPR-000323860-05-000057071</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the inner wheel arch / outer wheel arch joint area gradually from the bottom upwards<markref format="dita" href="#d1e349/fig4" scope="local" translate="no" type="figure">G</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray by sweeping the inner wheel arch / rear floor joint area<markref format="dita" href="#d1e349/fig4" scope="local" translate="no" type="figure">H</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the outer wheel arch / rear wing panel joint area gradually from the bottom upwards<markref format="dita" href="#d1e349/fig5" scope="local" translate="no" type="figure">I</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the edge of the wheel arch blanking covers in a circular manner.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the contact zone of the rear shock absorbers in a circular manner.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601"><linkdesc>vehicle sealing : general information</linkdesc><linkvalue>GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e436" translate="no" xml:lang="en">
+      <title translate="yes">Checking the sealing with the trim removed</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the customer complaint could not be reproduced by applying this procedure, remove the interior trims (see Body internal trim in the Repair Manual) then repeat the sealing check from step 1, extending the sealing check to the surrounding areas<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3499317"><linkdesc>vehicle : sealing check</linkdesc><linkvalue>GIEMR-002440</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

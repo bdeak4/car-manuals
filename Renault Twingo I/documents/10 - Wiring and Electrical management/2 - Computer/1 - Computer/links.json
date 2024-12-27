@@ -1,0 +1,39 @@
+{
+  "PR": [
+    {
+      "id": "1204_873010",
+      "filename": "1204_873010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085295.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2492",
+      "filename": "ELECTRIC POWER ASSISTED STEERING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2492.pdf"
+    },
+    {
+      "id": "3025",
+      "filename": "A.B.S. MARK 20 on the Twingo Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3025.pdf"
+    },
+    {
+      "id": "3487",
+      "filename": "Special features of Twingos fitted with 14 inch wheels.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3487.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21903.png"
+    }
+  ]
+}

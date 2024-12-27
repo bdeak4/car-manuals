@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XJD|XJA|XJC|XJE|XBC|XJB|XJK|XJF|XFK" id="RDE-000007450" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">colour code : identification</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Publishable" translate="no"/>
+<critdates translate="no">
+<created date="29/01/20 11:53" translate="no"/>
+<revised modified="04/02/20 08:29" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">colour code : identification</siename>
+<sieversion translate="no">F.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000007450</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e112" translate="no" xml:lang="en">
+<title translate="yes">Example location of the vehicle identification plate</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e114" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X03X04X24-02X07-1-1.1">
+<mcomponent><label/></mcomponent><designation>1</designation>
+</mark></marklayer>
+<figure id="00-01-01-245-repair-00-03-04-24-02-07-1-1-1" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000027464_lay-000113413.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000007450-01-01-245-repair-00-03-04-24-02-07-1-1-1-000027464</illusnum></figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e129" translate="no" xml:lang="en">
+<title translate="yes">example detail of the vehicle identification plate</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e131" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X03X04X24-02X07-1-1.2">
+<mcomponent><label/></mcomponent><designation>2</designation>
+</mark><mark id="MARK.REPAIR-00X03X04X24-02X07-1-1.3"><mcomponent>
+<label/></mcomponent><designation>1</designation></mark>
+</marklayer>
+<figure id="00-01-13-repair-00-03-04-24-02-07-1-1-2" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000221_lay-000113412.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000007450-01-13-repair-00-03-04-24-02-07-1-1-2-000000221</illusnum></figure>
+<para translate="yes"><markref format="dita" href="#d1e129/00-01-13-repair-00-03-04-24-02-07-1-1-2" scope="local" translate="no" type="figure">1</markref>Vehicle identification plate</para>
+<para translate="yes"><markref format="dita" href="#d1e129/00-01-13-repair-00-03-04-24-02-07-1-1-2" scope="local" translate="no" type="figure">2</markref>Paintwork reference number</para>
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">For all additional information concerning vehicle
+identification, see the MR of the vehicle concerned , (01C, Vehicle:
+Identification).</para>
+</noteR>
+</descsection>
+</descbody>
+</description>
+</description>

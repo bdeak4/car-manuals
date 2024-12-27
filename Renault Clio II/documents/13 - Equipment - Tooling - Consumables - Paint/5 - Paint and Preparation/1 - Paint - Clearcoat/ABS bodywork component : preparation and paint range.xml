@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X50|X52|X53|X54|X56|X57|X61|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XZH|XHA|XFF|XJD|XJA|XBC|XJK|XJF|XFK|XJH|XJL|XHN|XCB|XBB|X27|X58|XZG|X55|XRQ|XTP|XDD|XBG|X59|XEF|X17|X41|X42|XZJ|XBA|XFA|X62|X75|XJE|XJB|XJ1|XJC|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-001811358" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">ABS bodywork component : preparation and paint range</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="27/06/21 07:31" translate="no"/>
+      <revised modified="10/10/24 13:40" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">ABS bodywork component : preparation and paint range</siename>
+      <sieversion translate="no">A.1</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-001811358</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no">
+    <noteR translate="no" type="warning">
+      <para translate="yes">Always wear protective gear (gloves, goggles and breathing masks).</para>
+    </noteR>
+    <para translate="yes">Use extra ventilation source.</para>
+    <noteR translate="no" type="note">
+      <para translate="yes">Note:</para>
+      <para translate="yes">Before using the products, consult the manufacturer's technical sheet.</para>
+    </noteR>
+    <noteR translate="no" type="note">
+      <para translate="yes">Note:</para>
+      <para translate="yes">Never apply pre-treatment primer or primer filler on this type of material.</para>
+    </noteR>
+  </descbody>
+  <description id="d1e123" translate="no">
+    <title translate="yes">pre primed parts</title>
+    <descbody translate="no">
+      <table colsep="1" frame="all" rowsep="1" translate="no">
+        <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+          <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+          <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+          <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+          <tbody translate="no">
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">Steps </para>
+              </entry>
+              <entry colname="2" translate="yes">
+                <para translate="yes">Description</para>
+              </entry>
+              <entry colname="3" translate="yes">
+                <para translate="yes">Special notes </para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">1</para>
+              </entry>
+              <entry nameend="3" namest="2" translate="yes">
+                <para translate="yes">Wipe / blow</para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">2</para>
+              </entry>
+              <entry colname="2" translate="yes">
+                <para translate="yes">Degrease</para>
+              </entry>
+              <entry colname="3" translate="yes">
+                <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">3</para>
+              </entry>
+              <entry colname="2" translate="yes">
+                <para translate="yes">Sand</para>
+              </entry>
+              <entry colname="3" translate="yes">
+                <para translate="yes">P400 - P500 dry / P400 - P800 with water</para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">4</para>
+              </entry>
+              <entry nameend="3" namest="2" translate="yes">
+                <para translate="yes">Wipe / blow</para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">5</para>
+              </entry>
+              <entry colname="2" translate="yes">
+                <para translate="yes">Degrease</para>
+              </entry>
+              <entry colname="3" translate="yes">
+                <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+              </entry>
+            </row>
+            <row rowsep="1" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">6</para>
+              </entry>
+              <entry nameend="3" namest="2" translate="yes">
+                <para translate="yes">Blow / rub with the abrasive finishing pad</para>
+              </entry>
+            </row>
+            <row rowsep="0" translate="no">
+              <entry colname="1" translate="yes">
+                <para translate="yes">7</para>
+              </entry>
+              <entry nameend="3" namest="2" translate="yes">
+                <para translate="yes">Apply the finishing paint</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+  <description id="d1e222" translate="no">
+    <title translate="yes">repaired parts</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <table colsep="1" frame="all" rowsep="1" translate="no">
+          <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+            <colspec colname="1" colnum="1" colwidth="11.104839847608298%" translate="no"/>
+            <colspec colname="2" colnum="2" colwidth="44.447580076195855%" translate="no"/>
+            <colspec colname="3" colnum="3" colwidth="44.447580076195855%" translate="no"/>
+            <tbody translate="no">
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">Steps </para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Description</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Special notes </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">1</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Wipe / blow</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">2</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Degrease</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">3</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Sand the defect</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">P240 dry / orbital sander (mid speed)</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">4</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Wipe / blow</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">5</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Degrease</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">6</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Apply and sand polyester mastic if necessary</para>
+                </entry>
+                <entry colname="3" translate="yes">
+<para translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530761"> <linkdesc>plastic bodywork component : reconditioning</linkdesc> <linkvalue>GIEMR-002341</linkvalue> </sieref>(50A, General information)</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">7</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Wipe / blow</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">8</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Degrease</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">9</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Smooth</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Grey adhesive pad soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products) </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">10</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Wipe / blow</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">11</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Degrease</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">12</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Apply a bi component primer</para>
+                </entry>
+                <entry colname="3" translate="yes">
+<para translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"> <linkdesc>vehicle : parts and consumables for the repair</linkdesc> <linkvalue>GIEMR-002445</linkvalue> </sieref>(04B, Consumables - Products)</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">13</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Remove solvent / dry</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">14</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Sand</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">P400 - P500 dry / P400 - P800 with water</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">15</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Wipe / blow</para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">16</para>
+                </entry>
+                <entry colname="2" translate="yes">
+                  <para translate="yes">Degrease</para>
+                </entry>
+                <entry colname="3" translate="yes">
+                  <para translate="yes">Lint-free cloth soaked in antistatic thinner <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products). Wipe with a dry lint-free cloth </para>
+                </entry>
+              </row>
+              <row rowsep="1" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">17</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Blow / rub with an adhesive pad</para>
+                </entry>
+              </row>
+              <row rowsep="0" translate="no">
+                <entry colname="1" translate="yes">
+                  <para translate="yes">18</para>
+                </entry>
+                <entry nameend="3" namest="2" translate="yes">
+                  <para translate="yes">Apply the finishing paint</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </descsection>
+    </descbody>
+  </description>
+</description>

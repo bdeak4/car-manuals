@@ -1,0 +1,88 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0506",
+      "filename": "SPECIAL FEATURES OF THE TWINGO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0506.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "5af5a9db08813b00dc4ceeb1",
+      "filename": "bodywork bolted assembly product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007432.xml"
+    },
+    {
+      "id": "5af5aa0008813b00dc4ceed9",
+      "filename": "products for plastic bodywork components : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007506.xml"
+    },
+    {
+      "id": "5af5afca08813b00dc4cf3fc",
+      "filename": "window preparation and bonding product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000009108.xml"
+    },
+    {
+      "id": "5af5b12e08813b00dc4cf584",
+      "filename": "general information on plastic bodywork component : contents.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323752.xml"
+    },
+    {
+      "id": "5af5b0db08813b00dc4cf525",
+      "filename": "soundproofing product before assembly : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007923.xml"
+    },
+    {
+      "id": "5af5b11e08813b00dc4cf573",
+      "filename": "paintwork sealing product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007764.xml"
+    },
+    {
+      "id": "5af5b10508813b00dc4cf552",
+      "filename": "bodywork riveted assembly product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000009029.xml"
+    },
+    {
+      "id": "5af5b11408813b00dc4cf567",
+      "filename": "bodywork finishing product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007943.xml"
+    },
+    {
+      "id": "5af5b19708813b00dc4cf5f0",
+      "filename": "soundproofing product after assembly : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000009048.xml"
+    },
+    {
+      "id": "5af5b18408813b00dc4cf5dc",
+      "filename": "bodywork bonded assembly product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000008475.xml"
+    },
+    {
+      "id": "5af5b16a08813b00dc4cf5bd",
+      "filename": "bodywork component straightening : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000316390.xml"
+    },
+    {
+      "id": "613a714576b5af1c1b2166e9",
+      "filename": "structural bodywork documentation : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001837753.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

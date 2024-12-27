@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X33/K4M|X35/K4J,K4M|X38/K4M|X44/K4M|X52/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J,K4M|X90/K4M|X91/K4M|X92/K4M|X95/K4M" id="RPR-000018733" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">cylinder head : stripping - rebuilding</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="warning">
+            <para translate="yes">Before carrying out any operation on a vehicle fitted with the Stop&amp;Start system, always follow the safety instructions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040">
+                  <linkdesc>vehicle : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-002446</linkvalue>
+               </sieref>
+            </para>
+         </noteR>
+         <para translate="yes"/>
+         <noteR translate="no" type="warning">
+            <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out the repairs<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3455841">
+                  <linkdesc>engine : precautions for the repair</linkdesc>
+                  <linkvalue>GIEMR-001545</linkvalue>
+               </sieref>.</para>
+         </noteR>
+         <noteR translate="no" type="caution">
+            <para translate="yes">It is strictly forbidden to apply any pressure to the engine oil sump. Damage to the sump will irreparably damage the engine by:</para>
+            <ul translate="no">
+               <li translate="yes">blocking the strainer,</li>
+               <li translate="yes">raising the oil level above maximum, with a risk of engine racing.</li>
+            </ul>
+         </noteR>
+      </introduction>
+   </procbody>
+   <procedure id="d1e110" otherprops="WF-SET='01,28'" translate="no">
+      <title translate="yes">stripping</title>
+      <procbody translate="no"/>
+      <procedure id="d1e114" translate="no">
+         <title translate="yes">preparation operation for stripping the cylinder head</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Drain the cooling system<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479881">
+                        <linkdesc>coolant circuit assembly : draining - refilling</linkdesc>
+                        <linkvalue>GIEMR-000954</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X44/K4M/854|X85/K4M/862" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the exhaust manifold<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3541478">
+                        <linkdesc>exhaust manifold : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000563</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the cylinder head<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3456300">
+                        <linkdesc>cylinder head : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000741</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Mount the cylinder head on the cylinder head support<toolref format="dita" href="x-wc://file=OS-000002016.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Cylinder head support</linkdesc>
+                        <linkvalue>Mot. 1573</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e156" translate="no">
+         <title translate="yes">stripping down the cylinder head</title>
+         <procbody translate="no">
+            <procsteps appl="X33/K4M|X38/K4M|X52/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J|X85/K4M/800,801,804|X90/K4M|X91/K4M|X92/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the exhaust manifold<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3541478">
+                        <linkdesc>exhaust manifold : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000563</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the water chamber<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3502792">
+                           <linkdesc>coolant outlet unit : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000129</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the injector holder shim<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3529762">
+                           <linkdesc>injector holder shim : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000434</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the valves<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3472599">
+                           <linkdesc>valve : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-002101</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e229" otherprops="WF-SET='01,64'" translate="no">
+      <title translate="yes">rebuilding</title>
+      <procbody translate="no"/>
+      <procedure id="d1e233" translate="no">
+         <title translate="yes">preparation operation for rebuilding the cylinder head</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clean the cylinder head<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3456535">
+                        <linkdesc>cylinder head : cleaning</linkdesc>
+                        <linkvalue>GIEMR-000744</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e243" translate="no">
+         <title translate="yes">operation for refitting the cylinder head</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the valves<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3472599">
+                           <linkdesc>valve : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-002101</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the injector holder shim<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3529762">
+                           <linkdesc>injector holder shim : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000434</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the water chamber<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3502792">
+                           <linkdesc>coolant outlet unit : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000129</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X33/K4M|X38/K4M|X52/K4M|X56/K4M|X61/K4M|X64/K4J,K4M|X65/K4J,K4M|X74/K4M|X76/K4M/APL03|X77/K4J,K4M|X79/K4M|X84/K4J,K4M|X85/K4J|X85/K4M/800,801,804|X90/K4M|X91/K4M|X92/K4M" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the exhaust manifold<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3541478">
+                        <linkdesc>exhaust manifold : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000563</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e318" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the cylinder head from the cylinder head support<toolref format="dita" href="x-wc://file=OS-000002016.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Cylinder head support</linkdesc>
+                        <linkvalue>Mot. 1573</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the cylinder head<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3456300">
+                        <linkdesc>cylinder head : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000741</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X44/K4M/854|X85/K4M/862" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the exhaust manifold<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3541478">
+                        <linkdesc>exhaust manifold : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000563</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fill and bleed the cooling system<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479881">
+                        <linkdesc>coolant circuit assembly : draining - refilling</linkdesc>
+                        <linkvalue>GIEMR-000954</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X82|X90|X91|X92|X95|X98|XFB|XFC|XFE|X38|XFD|XZG|XFF|XZJ|XJD|XBC|XJL|XJB|XJE|X43|XJF|X70|X73|X74|X75|X76|X77|X29|X33|X34|X52|X35|X40|X41|X42|X06|X09|X24|X17|X27|X44|X61|X45|X47|X48|X50|X53|X54|X56|X57|X58|X63|X62|X59|X64|X66|X81|X83|X84|X85|XEF|XFA|XGA|X65|XGE|XGF|XHA|X94|XZH|XBA|XBB|XJA|X67|X55|XJC|XJH|XFK|X79|XCB|XHN|X87|XBG|X1310" id="RPR-001837830" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">diagnostic tool : use</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="07/09/21 12:56" translate="no"/>
+      <revised modified="22/03/24 09:18" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">diagnostic tool : use</siename>
+      <sieversion translate="no">A.1</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001837830</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="d1e51" translate="no">
+    <title translate="yes">Before repair procedure</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Switch on the ignition.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Connect the<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT09_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">Diagnostic tool</materialname>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Select the computer affected.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Go to repair mode.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Display the "Before/after repair procedure" for the computer selected.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">If necessary, select the component affected in the "List of components stored in the computer" section.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Carry out the operations described in the "Before repair procedure" section or in the "After repair procedure" section, as appropriate.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Switch off the vehicle.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <?Pub Caret -2?>
+  <procedure id="pro1" translate="no">
+    <title translate="yes">After repair procedure</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Switch on the ignition.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Connect the<!--Arbortext, Inc., 1988-2015, v.4002--><?Pub Inc?><materialname otherprops="MAT09_EN" translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:materialname.xsd">Diagnostic tool</materialname>.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Select the computer affected.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Go to repair mode.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Display the "Before/after repair procedure" for the computer selected.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">If necessary, select the component affected in the "List of components stored in the computer" section.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Carry out the operations described in the "Before repair procedure" section or in the "After repair procedure" section, as appropriate.</para>
+        </procstep>
+      </procsteps>
+      <procsteps translate="no">
+        <procstep translate="no">
+          <para translate="yes">Switch off the vehicle.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

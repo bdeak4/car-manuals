@@ -1,0 +1,34 @@
+{
+  "PR": [
+    {
+      "id": "1247_867010",
+      "filename": "1247_867010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084377.svg"
+    }
+  ],
+  "MR": [],
+  "MD": [
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21886.png"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "PR": [
+    {
+      "id": "1204_825010",
+      "filename": "1204_825010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01037170.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2330",
+      "filename": "ENGINE IMMOBILISERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2330.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2377",
+      "filename": "ENGINE IMMOBILISER WITH CHANGING INFRA RED PLIP CODE AND KEY RECOGNITION SYSTEM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2377.pdf"
+    },
+    {
+      "id": "3546",
+      "filename": "IMMOBILISER FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3546.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3594",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3594.pdf"
+    },
+    {
+      "id": "5037",
+      "filename": "CODE SUPPLY PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5037.pdf"
+    },
+    {
+      "id": "6008",
+      "filename": "SUMMARY OF ENGINE IMMOBILISER SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6008.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21664.png"
+    }
+  ]
+}

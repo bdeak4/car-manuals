@@ -1,0 +1,170 @@
+{
+  "PR": [
+    {
+      "id": "1247_343011",
+      "filename": "1247_343011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01055104.svg"
+    },
+    {
+      "id": "1247_343015",
+      "filename": "1247_343015.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01057084.svg"
+    },
+    {
+      "id": "1247_343010",
+      "filename": "1247_343010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01017255.svg"
+    },
+    {
+      "id": "1247_334010",
+      "filename": "1247_334010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084111.svg"
+    },
+    {
+      "id": "1247_344010",
+      "filename": "1247_344010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01102458.svg"
+    },
+    {
+      "id": "1247_346010",
+      "filename": "1247_346010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01057087.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3588",
+      "filename": "Special notes on Clio II vehicles from June 2001 fitted with ABS and ESP.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3588.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af5b02308813b00dc4cf451",
+      "filename": "braking : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000210657.xml"
+    },
+    {
+      "id": "5af5b0f008813b00dc4cf53e",
+      "filename": "brake fluid : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000457259.xml"
+    },
+    {
+      "id": "5af5b16c08813b00dc4cf5bf",
+      "filename": "rear brake drum assembly : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000204822.xml"
+    },
+    {
+      "id": "5af942f63ef64d00e0ef5e18",
+      "filename": "brake : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000225198.xml"
+    },
+    {
+      "id": "5af943133ef64d00e0ef5e3d",
+      "filename": "rear brake disc : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000214710.xml"
+    },
+    {
+      "id": "5af2c4fbc3da7a00dc225599",
+      "filename": "rear brake calliper mounting : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000216831.xml"
+    },
+    {
+      "id": "5af2fce4c3da7a00dc22617e",
+      "filename": "rear wheel speed sensor : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000222745.xml"
+    },
+    {
+      "id": "5af56a5fc3da7a00dc227f37",
+      "filename": "rear brake calliper assembly : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000217944.xml"
+    },
+    {
+      "id": "5af56ab2c3da7a00dc227f98",
+      "filename": "rear brake lining : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000211142.xml"
+    },
+    {
+      "id": "5af5bdc8f04d3300dc242612",
+      "filename": "rear wheel calliper piston : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000211924.xml"
+    },
+    {
+      "id": "5af5be40f04d3300dc242694",
+      "filename": "rear brake disc : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000214065.xml"
+    },
+    {
+      "id": "5af950113ef64d00e0ef6b3f",
+      "filename": "rear brake pad : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000212548.xml"
+    },
+    {
+      "id": "5af9500d3ef64d00e0ef6b3a",
+      "filename": "rear brake hose : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000219532.xml"
+    },
+    {
+      "id": "5b08160bd02e7d00dc4565b1",
+      "filename": "rear brake drum assembly: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000205580.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "3018",
+      "filename": "ERROR IN THE ENGINE IMMOBILISER DIAGNOSTIC SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3018.pdf"
+    },
+    {
+      "id": "3973",
+      "filename": "FAULT FINDING BOSCH ABS 8.0.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3973.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    },
+    {
+      "id": "3909",
+      "filename": "FAULT FINDING ABS - Electronic stability program Bosch 5.7 Vdiag no.: 08.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3909.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "MR-432-X65-38C000",
+      "filename": "ABS BOSCH 8.1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-38C000.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-3",
+      "filename": "M.R. 346 - 3 Chassis.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-3.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21369.png"
+    }
+  ]
+}

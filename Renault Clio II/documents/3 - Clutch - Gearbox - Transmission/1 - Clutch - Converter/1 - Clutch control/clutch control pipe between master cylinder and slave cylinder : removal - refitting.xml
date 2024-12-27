@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/JB1,JB3|X65/JB1" id="RPR-000173553" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">clutch control pipe between master cylinder and slave cylinder : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e13" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure appl="X35/JB1,JB3" id="d1e17" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the battery<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3511330">
+                           <linkdesc>12 V battery : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000248</linkvalue>
+                        </sieref>(80A, Battery),</li>
+                     <li translate="yes">the battery tray<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3487958">
+                           <linkdesc>12 V battery tray : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000203</linkvalue>
+                        </sieref>(80A, Battery).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e38" translate="no">
+         <title translate="yes">removal operation</title>
+         <procbody translate="no">
+            <procsteps appl="X35/JB1,JB3" translate="no">
+               <marklayer id="marklayer-d1e40" translate="no">
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-6-repair-12-03-01-07-01-37-1-4-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000022465_LAY-000044930.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch control cable from the sleeve stop<markref format="dita" href="#d1e38/12-03-01-07-6-repair-12-03-01-07-01-37-1-4-1" scope="local" translate="no" type="figure">1</markref>,</li>
+                     <li translate="yes">the clutch control cable from the clutch fork<markref format="dita" href="#d1e38/12-03-01-07-6-repair-12-03-01-07-01-37-1-4-1" scope="local" translate="no" type="figure">2</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/JB1" translate="no">
+               <marklayer id="marklayer-d1e75" translate="no">
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-12-repair-12-03-01-07-01-37-1-4-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000042307_LAY-000044933.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the clutch control cable from the sleeve stop<markref format="dita" href="#d1e38/12-03-01-07-12-repair-12-03-01-07-01-37-1-4-4" scope="local" translate="no" type="figure">1</markref>,</li>
+                     <li translate="yes">the clutch control cable from the clutch fork<markref format="dita" href="#d1e38/12-03-01-07-12-repair-12-03-01-07-01-37-1-4-4" scope="local" translate="no" type="figure">2</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X35/JB1,JB3" translate="no">
+               <marklayer id="marklayer-d1e110" translate="no">
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-9-repair-12-03-01-07-01-37-1-4-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030322_LAY-000044932.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Unclip the cable from its clips<markref format="dita" href="#d1e38/12-03-01-07-9-repair-12-03-01-07-01-37-1-4-3" scope="local" translate="no" type="figure">3</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/JB1" translate="no">
+               <marklayer id="marklayer-d1e131" translate="no">
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-03-01-07-8-repair-12-03-01-07-01-37-1-4-5" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030317_LAY-000044934.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Unclip the cable from its clips<markref format="dita" href="#d1e38/12-03-01-07-8-repair-12-03-01-07-01-37-1-4-5" scope="local" translate="no" type="figure">3</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Press on the pedal to bring the cable back into the passenger compartment.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e155" translate="no">
+                  <mark id="MARK.REPAIR-12X03X01X07-01X37-1-4.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+               </marklayer>
+               <figure id="30-03-01-02-18-repair-12-03-01-07-01-37-1-4-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000006155_LAY-000044931.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the cable from the pedal housing<markref format="dita" href="#d1e38/30-03-01-02-18-repair-12-03-01-07-01-37-1-4-2" scope="local" translate="no" type="figure">4</markref>, by lifting the pedal and placing the cable perpendicular to the pedal.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Push the cable sleeve stop into the engine compartment.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e176" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e180" translate="no">
+         <title translate="yes">refitting operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">From the engine compartment, fit the clutch cable in the passenger compartment.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the cable into the notch in the pedal.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Check that the cable is perfectly positioned in the groove provided for it on the pedal.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the cable onto the clutch fork.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Press the clutch pedal to clip the cable sleeve stop into position on the bulkhead.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fasten the clutch cable onto its clips.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JB1,JB3" id="d1e204" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the battery tray<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3487958">
+                           <linkdesc>12 V battery tray : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000203</linkvalue>
+                        </sieref>(80A, Battery),</li>
+                     <li translate="yes">the battery<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3511330">
+                           <linkdesc>12 V battery : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000248</linkvalue>
+                        </sieref>(80A, Battery).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3,JC5|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3,JC5|X65/JB1,JB3,JC5|X66/JC5|X76/JB1,JB3,JC5|X94/JC5" id="RPR-000164951" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">input shaft bearing on clutch housing : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e91" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e95" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="warning">
+                     <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out any repair:</para>
+                     <ul translate="no">
+                        <li translate="yes">
+                           <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539122">
+                              <linkdesc>gearbox assembly : precautions for the repair</linkdesc>
+                              <linkvalue>GIEMR-000928</linkvalue>
+                           </sieref>,</li>
+                        <li translate="yes">(see Vehicle: Precautions for repair) (01D, Mechanical introduction).</li>
+                     </ul>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Position the gearbox on the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the gearbox shafts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451468">
+                           <linkdesc>input, output and reverse gear shafts : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000045</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the differential<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509214">
+                           <linkdesc>gearbox differential : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000657</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e151" translate="no">
+         <title translate="yes">removal operation for the clutch housing bearings</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">A press should be used to remove the clutch thrust bearing guide.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e158" translate="no">
+         <title translate="yes">removal operation for the clutch housing bearings</title>
+         <procbody translate="no"/>
+         <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e162" translate="no">
+            <title translate="yes">Output shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes"/>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e204" translate="no">
+                     <mark id="MARK.REPAIR-12X01X04X14-01X37-1-13.1" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">1</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="12-01-04-31-repair-12-01-04-14-01-37-1-13-13" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000001328_LAY-000050136.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Cut the base of the plastic lubrication tube located at the centre of the bearing in order to facilitate access for the slide hammer puller<markref format="dita" href="#d1e162/12-01-04-31-repair-12-01-04-14-01-37-1-13-13" scope="local" translate="no" type="figure">1</markref>.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Fit the<technicalvalue translate="no">
+                           <value translate="yes">42 mm</value>
+                        </technicalvalue>slide hammer puller.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the output shaft bearing from the clutch housing.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e232" translate="no">
+            <title translate="yes">Output shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <marklayer id="marklayer-d1e253" translate="no">
+                     <mark id="MARK.REPAIR-12X01X04X14-01X37-1-13.2" translate="no">
+                        <mcomponent translate="no">
+                           <label translate="no"/>
+                        </mcomponent>
+                        <designation translate="no">2</designation>
+                     </mark>
+                  </marklayer>
+                  <figure id="12-01-04-07-71-repair-12-01-04-14-01-37-1-13-14" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000052075_LAY-000050137.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Cut the base of the plastic lubrication tube located at the centre of the bearing in order to facilitate access for the slide hammer puller<toolref format="dita" href="x-wc://file=OS-000006006.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Tool for extracting the secondary shaft bearing on the clutch - differential housing.</linkdesc>
+                           <linkvalue>Bvi. 1165</linkvalue>
+                        </toolref>
+                        <markref format="dita" href="#d1e232/12-01-04-07-71-repair-12-01-04-14-01-37-1-13-14" scope="local" translate="no" type="figure">2</markref>.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Position the<toolref format="dita" href="x-wc://file=OS-000006006.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Tool for extracting the secondary shaft bearing on the clutch - differential housing.</linkdesc>
+                           <linkvalue>Bvi. 1165</linkvalue>
+                        </toolref>.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the output shaft bearing from the clutch housing.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e282" translate="no">
+            <title translate="yes">Input shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the input shaft bearing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469313">
+                           <linkdesc>input shaft seal : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001340</linkvalue>
+                        </sieref>.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+   </procedure>
+   <procedure id="d1e290" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e294" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Use<ingredientname translate="yes">SURFACE CLEANER</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>to clean:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bearing mating faces in the clutch housing.</li>
+                     <li translate="yes">the clutch housing.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts always to be replaced:</para>
+                  <ul translate="no">
+                     <li translate="yes">the removed bearings,</li>
+                     <li translate="yes">the lip seals,</li>
+                     <li translate="yes">the O-rings,</li>
+                     <li translate="yes">the clutch thrust bearing guide,</li>
+                     <li translate="yes">the roll pins,</li>
+                     <li translate="yes">the plastic lubrication tube,</li>
+                     <li translate="yes">the hydraulic clutch slave cylinder (if fitted),</li>
+                     <li translate="yes">the magnet.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e333" translate="no">
+         <title translate="yes">operation for refitting the clutch housing bearings</title>
+         <procbody translate="no"/>
+         <procedure id="d1e337" translate="no">
+            <title translate="yes">Output shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Position a new deflector.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Using a press, refit the output shaft bearing until it is flush with the internal surface of the clutch housing using a tube with a<technicalvalue translate="no">
+                           <value translate="yes">49 mm</value>
+                        </technicalvalue>outer diameter.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Using a press, refit the output shaft bearing until it is flush with the internal surface of the clutch housing using a tube with a<technicalvalue translate="no">
+                           <value translate="yes">58 mm</value>
+                        </technicalvalue>outer diameter.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <figure id="12-01-03-02-3-repair-12-01-04-14-01-37-1-13-21" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024550_LAY-000050138.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Crimp the output shaft bearing on the clutch housing using a chisel.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e429" translate="no">
+            <title translate="yes">Input shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Refit the input shaft bearing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469313">
+                           <linkdesc>input shaft seal : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001340</linkvalue>
+                        </sieref>.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure id="d1e439" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the differential<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509214">
+                           <linkdesc>gearbox differential : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000657</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the gearbox shafts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3451468">
+                           <linkdesc>input, output and reverse gear shafts : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000045</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox from the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Refit the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

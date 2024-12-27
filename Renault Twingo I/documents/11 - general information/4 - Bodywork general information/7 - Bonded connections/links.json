@@ -1,0 +1,43 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5afbc08813b00dc4cf3ed",
+      "filename": "body structure bonding : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000315256.xml"
+    },
+    {
+      "id": "5af5aff108813b00dc4cf41d",
+      "filename": "body structure bonding with hard mastic : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323273.xml"
+    },
+    {
+      "id": "5af5b00408813b00dc4cf42f",
+      "filename": "body structure bonding with soft mastic : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000331366.xml"
+    },
+    {
+      "id": "5af5b11808813b00dc4cf56d",
+      "filename": "assembly with rigid adhesive and crimping : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000315225.xml"
+    },
+    {
+      "id": "5af5b28308813b00dc4cf6ca",
+      "filename": "paint and rigid adhesive stripping tools : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000010615.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

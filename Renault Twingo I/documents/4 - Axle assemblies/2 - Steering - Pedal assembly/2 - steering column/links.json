@@ -1,0 +1,115 @@
+{
+  "PR": [
+    {
+      "id": "1204_364010",
+      "filename": "1204_364010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083895.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2330",
+      "filename": "ENGINE IMMOBILISERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2330.pdf"
+    },
+    {
+      "id": "3025",
+      "filename": "A.B.S. MARK 20 on the Twingo Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3025.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "3755",
+      "filename": "Special notes on the Twingo equipped with BOSCH 8.0 ABS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3755.pdf"
+    },
+    {
+      "id": "5af59619c3da7a00dc22ad8c",
+      "filename": "steering assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000224951.xml"
+    },
+    {
+      "id": "5b08155ed02e7d00dc4564fa",
+      "filename": "ball joint uncoupling tool : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000007833.xml"
+    },
+    {
+      "id": "5e47151b46e0fb00018a9d76",
+      "filename": "steering assembly : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001485638.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2377",
+      "filename": "ENGINE IMMOBILISER WITH CHANGING INFRA RED PLIP CODE AND KEY RECOGNITION SYSTEM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2377.pdf"
+    },
+    {
+      "id": "3546",
+      "filename": "IMMOBILISER FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3546.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3594",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3594.pdf"
+    },
+    {
+      "id": "5037",
+      "filename": "CODE SUPPLY PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5037.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    },
+    {
+      "id": "6008",
+      "filename": "SUMMARY OF ENGINE IMMOBILISER SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6008.pdf"
+    },
+    {
+      "id": "6516",
+      "filename": "Electric power assisted steering.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6516.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21923.png"
+    }
+  ]
+}

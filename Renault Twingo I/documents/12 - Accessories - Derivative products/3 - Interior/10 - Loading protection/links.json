@@ -1,0 +1,28 @@
+{
+  "PR": [
+    {
+      "id": "1204_540160",
+      "filename": "1204_540160.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01016136.svg"
+    },
+    {
+      "id": "1204_552550",
+      "filename": "1204_552550.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014752.svg"
+    },
+    {
+      "id": "1204_563510",
+      "filename": "1204_563510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01014657.svg"
+    }
+  ],
+  "MR": [],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-29248.png"
+    }
+  ]
+}

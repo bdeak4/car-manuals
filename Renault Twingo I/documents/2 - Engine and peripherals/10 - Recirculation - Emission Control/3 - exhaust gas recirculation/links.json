@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1323_140010",
+      "filename": "1323_140010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/00038058.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2535",
+      "filename": "FUEL FILTER WITH ALUMINIUM END SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2535.pdf"
+    },
+    {
+      "id": "2929",
+      "filename": "DEVELOPMENTS IN FUEL TANKS AND VENTING SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2929.pdf"
+    },
+    {
+      "id": "2917",
+      "filename": "CANISTER BLEED SOLENOID VALVE INTEGRATED IN CANISTER.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2917.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "2949",
+      "filename": "ANTI-POLLUTION TEST - PETROL ENGINES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2949.pdf"
+    },
+    {
+      "id": "2944",
+      "filename": "DIAGRAMS OF THE COOLING CIRCUIT ON TWINGO VEHICLES EQUIPPED WITH THE \"COLD\" BOTTLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2944.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21957.png"
+    }
+  ]
+}

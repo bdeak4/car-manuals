@@ -1,0 +1,34 @@
+{
+  "PR": [
+    {
+      "id": "1204_790113",
+      "filename": "1204_790113.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085227.svg"
+    },
+    {
+      "id": "1204_790110",
+      "filename": "1204_790110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087345.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0506",
+      "filename": "SPECIAL FEATURES OF THE TWINGO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0506.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21663.png"
+    }
+  ]
+}

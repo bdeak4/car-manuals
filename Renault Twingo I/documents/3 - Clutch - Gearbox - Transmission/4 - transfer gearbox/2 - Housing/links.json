@@ -1,0 +1,23 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "2260",
+      "filename": "SPECIFICATION OF TOOL T.AV 1331 FOR REPLACEMENT OF DRIVESHAFT GAITER COLLAR TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2260.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-22013.png"
+    }
+  ]
+}

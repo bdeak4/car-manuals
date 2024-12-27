@@ -1,0 +1,53 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-0",
+      "filename": "M.R. 337 - 0 General phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-0.pdf"
+    },
+    {
+      "id": "5af56527c3da7a00dc2279f1",
+      "filename": "vehicle : identification.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000004946.xml"
+    },
+    {
+      "id": "5af5657dc3da7a00dc227a45",
+      "filename": "vehicle : maintenance.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000005843.xml"
+    },
+    {
+      "id": "5af5c47ff04d3300dc242e12",
+      "filename": "vehicle : towing and lifting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007124.xml"
+    },
+    {
+      "id": "5af94a7d3ef64d00e0ef6577",
+      "filename": "vehicle : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007006.xml"
+    },
+    {
+      "id": "5de9179152faff0001cd3b7e",
+      "filename": "vehicle : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001409087.xml"
+    },
+    {
+      "id": "61899a48e952506bae4e462b",
+      "filename": "vehicle: parts and consumables for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001868443.xml"
+    },
+    {
+      "id": "5af5b30808813b00dc4cf733",
+      "filename": "vehicle : sealing check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000006597.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21563.png"
+    }
+  ]
+}

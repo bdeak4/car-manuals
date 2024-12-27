@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XZJ|XJA|XJC|XJB|XJE|XJD|XHA|XJK|XFK|XBC|XJL|XJF|XBG|XBB|XCB|XHN|X27|X58|X55|XRQ|XTP|XDD|X59|XEF|X17|X06|XFA|X09|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000004799" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">vehicle front section : sealing check</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="26/07/21 22:22" translate="no"/>
+      <revised modified="28/07/21 11:16" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">vehicle front section : sealing check</siename>
+      <sieversion translate="no">K.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-000004796</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Before any operation, check the water outlets. If necessary, clean any residue which has accumulated (for example: dead leaves, twigs, etc.) and check that water flows out correctly.</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">The list of joint areas dealt with here is general. Additional zones may exist, depending on the layout of each vehicle (see Repair Manual for the vehicle concerned).</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e132" translate="no" xml:lang="en">
+    <title translate="yes">preparation operation for checking the sealing</title>
+    <procbody translate="no"/>
+    <procedure id="d1e136" translate="no" xml:lang="en">
+      <title translate="yes">Conditions to respect before checking the sealing</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the vehicle on a level washing area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Check that all of the opening elements are closed<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Prepare the equipment to perform the operation<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531" translate="no"><linkdesc translate="no">sealing tooling : use</linkdesc><linkvalue translate="no">GIEMR-001614</linkvalue></sieref>,<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504059" translate="no"><linkdesc translate="no">sealing tooling : description</linkdesc><linkvalue translate="no">GIEMR-001613</linkvalue></sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Adjust the flow of the water jet<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524531" translate="no"><linkdesc translate="no">sealing tooling : use</linkdesc><linkvalue translate="no">GIEMR-001614</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e172" translate="no" xml:lang="en">
+    <title translate="yes">operation for checking the sealing</title>
+    <procbody translate="no"/>
+    <procedure id="d1e176" translate="no" xml:lang="en">
+      <title translate="yes">Front opening element seal</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <?Pub Dtl?>
+            <mark id="e11eff6d-7038-4427-91b5-3e62dacfbb13" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">A</designation>
+            </mark>
+          </marklayer>
+          <figure id="00-01-01-32-2-repair-00-01-01-32-01-94-1-1-5" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057067_lay-000126043.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RPR-000004796-01-01-32-2-repair-00-01-01-32-01-94-1-1-5-000057067</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the rear section <markref format="dita" href="#d1e176/00-01-01-32-2-repair-00-01-01-32-01-94-1-1-5" scope="local" translate="no" type="figure">A</markref> of the front opening element, sweeping across the zone from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the engine compartment<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e204" translate="no" xml:lang="en">
+      <title translate="yes">Scuttle panel grille and scoop under the scuttle panel grille</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <?Pub Dtl?>
+            <mark id="15673e0e-9061-468c-9f98-d903e484f551" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">B</designation>
+            </mark>
+          </marklayer>
+          <figure id="00-01-01-32-1-repair-00-01-01-32-01-94-1-1-6" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000053535_lay-000126042.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RPR-000004796-01-01-32-1-repair-00-01-01-32-01-94-1-1-6-000053535</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Spray the upper section of the scuttle panel grille, sweeping across the zone <markref format="dita" href="#d1e204/00-01-01-32-1-repair-00-01-01-32-01-94-1-1-6" scope="local" translate="no" type="figure">B</markref> from right to left.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the engine compartment at the lower section of the scoop under the scuttle panel grille<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Spray the mating surface of the scoop under the scuttle panel grille / bulkhead using the pressurised sprayer.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e241" translate="no" xml:lang="en">
+      <title translate="yes">Sealing the scuttle panel</title>
+      <procbody translate="no"/>
+      <procedure id="d1e245" translate="no" xml:lang="en">
+        <title translate="yes">First method: scuttle panel grille in place, bonnet closed</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <marklayer translate="no">
+              <mark id="da373537-c12a-4ccd-8541-dde733366064" translate="no">
+                <mcomponent translate="no">
+                  <label translate="no"/>
+                </mcomponent>
+                <designation translate="no">C</designation>
+              </mark>
+            </marklayer>
+            <figure id="00-01-01-32-1-repair-00-01-01-32-01-94-1-1-7" translate="no">
+              
+              <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000053535_lay-000126041.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+              <illusnum>RPR-000004796-01-01-32-1-repair-00-01-01-32-01-94-1-1-7-000053535</illusnum>
+            </figure>
+            <procstep translate="no">
+              <para translate="yes">Spray the scuttle panel grille <markref format="dita" href="#d1e245/00-01-01-32-1-repair-00-01-01-32-01-94-1-1-7" scope="local" translate="no" type="figure">C</markref>, sweeping the zone from right to left.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+      <procedure id="d1e273" translate="no" xml:lang="en">
+        <title translate="yes">Second method: scuttle panel grille removed, bonnet open</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <marklayer translate="no">
+              <mark id="aff04543-ecd2-47b3-908f-9d05aa0ac239">
+                <mcomponent>
+                  <label/>
+                </mcomponent>
+                <designation>D</designation>
+              </mark>
+            </marklayer>
+            <figure id="00-01-01-32-3-repair-00-01-01-32-01-94-1-1-8" translate="no">
+              
+              <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000057070_lay-000126057.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+              <illusnum>RPR-000004796-01-01-32-3-repair-00-01-01-32-01-94-1-1-8-000057070</illusnum>
+            </figure>
+            <?Pub Caret -1?>
+            <procstep translate="no">
+              <para translate="yes">Spray the mastic <markref format="dita" href="#d1e273/00-01-01-32-3-repair-00-01-01-32-01-94-1-1-8" scope="local" translate="no" type="figure">D</markref> in the precise area using the pressurised sprayer.</para>
+            </procstep>
+            <procstep translate="no">
+              <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+    </procedure>
+    <procedure id="d1e303" translate="no" xml:lang="en">
+      <title translate="yes">Bulkhead grommets and blanking covers</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Spray around the edge of the blanking covers and grommets of the bulkhead in a circular manner using the pressurised sprayer.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Visually inspect for the presence of water inside the vehicle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e318" translate="no" xml:lang="en">
+      <title translate="yes">Checking the sealing with the trim removed</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">If the customer complaint could not be reproduced in accordance with the procedure, repeat the sealing check from step 1, then extend the sealing check to the surrounding zones<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457601" translate="no"><linkdesc translate="no">vehicle sealing : general information</linkdesc><linkvalue translate="no">GIEMR-002468</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

@@ -1,0 +1,95 @@
+{
+  "PR": [
+    {
+      "id": "1247_710125",
+      "filename": "1247_710125.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01082438.svg"
+    },
+    {
+      "id": "1247_710120",
+      "filename": "1247_710120.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01018219.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0504",
+      "filename": "REPLACING A SEAT EQUIPPED WITH A SIDE AIR BAG AFTER TRIGGERING OF THEMODULE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0504.pdf"
+    },
+    {
+      "id": "0539",
+      "filename": "FRONT SEATBACK TRIM ON SEATS EQUIPPED WITH AN AIR BAG.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0539.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0557",
+      "filename": "REPLACEMENT OF CENTRAL AIR VENT BLADES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0557.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af2c84cc3da7a00dc22594e",
+      "filename": "B-pillar upper trim : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000400608.xml"
+    },
+    {
+      "id": "5af5c2cdf04d3300dc242bf7",
+      "filename": "front door sill lining : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000399697.xml"
+    },
+    {
+      "id": "5af5c36bf04d3300dc242ccf",
+      "filename": "rear quarter panel lining : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000399568.xml"
+    },
+    {
+      "id": "5af973873ef64d00e0efae7f",
+      "filename": "windscreen pillar lining : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000398820.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21661.png"
+    }
+  ]
+}

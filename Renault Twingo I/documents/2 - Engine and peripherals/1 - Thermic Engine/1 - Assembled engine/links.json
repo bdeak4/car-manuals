@@ -1,0 +1,94 @@
+{
+  "PR": [
+    {
+      "id": "1204_100130",
+      "filename": "1204_100130.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083653.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "2155",
+      "filename": "REPLACING THE WATER-PUMPE - REMOVING-REFITTING THE ALTERNATOR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2155.pdf"
+    },
+    {
+      "id": "2341",
+      "filename": "POSITION OF ENGINE MOUNTINGS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2341.pdf"
+    },
+    {
+      "id": "3570",
+      "filename": "Developments in elastomer seals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3570.pdf"
+    },
+    {
+      "id": "2825",
+      "filename": "TIGHTENING THE CYLINDER HEAD BOLTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2825.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "2889",
+      "filename": "ERRATUM NT 2466A, 2621A RELATING TO MR 325 AND ENGINE MANUAL MOT. D.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2889.pdf"
+    },
+    {
+      "id": "3789",
+      "filename": "GREASING THE SPARK PLUG COVERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3789.pdf"
+    },
+    {
+      "id": "MR-MOT-D-(E)",
+      "filename": "Engine (petrol) 4 - cylinder, cast iron cylinder block.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-MOT-D-(E).pdf"
+    },
+    {
+      "id": "5af5c48bf04d3300dc242e20",
+      "filename": "engine : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000014487.xml"
+    },
+    {
+      "id": "5af5afd508813b00dc4cf405",
+      "filename": "engine : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000017994.xml"
+    },
+    {
+      "id": "5af2c39bc3da7a00dc22541e",
+      "filename": "engine : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000015245.xml"
+    },
+    {
+      "id": "5af5502ac3da7a00dc226c24",
+      "filename": "engine : new replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000017589.xml"
+    },
+    {
+      "id": "5af550a4c3da7a00dc226c7a",
+      "filename": "engine : standard replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000014227.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21948.png"
+    }
+  ]
+}

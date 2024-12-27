@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XFF|XZJ|X55|XEF|XJD|XJA|XJH|XJL|XHN|XCB|XBB|XBC|X27|X58|XDD|XBG|X59|X17|X41|X42|XBA|XJK|X09|X75|XAV|XJE|XJB|XJ1|XJC|XJF|XFK|X66|X1310|XDE|X1316|X1317|XR210|XR310|X1322|X1318|XZ110|X1312" id="RPR-000364023" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">non-side opening element : adjustment</title>
+   <?Pub Caret -2?>
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="09/03/20 05:53" translate="no"/>
+         <revised modified="10/10/24 13:38" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">non-side opening element : adjustment</siename>
+         <sieversion translate="no">J.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000364023</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e108" translate="no">
+      <title translate="yes">Bonnet </title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheral components are adjusted correctly.</para>
+               <para translate="yes">The lock and/or the retaining hook of the bonnet must be removed or loosened in order not to create any obstruction when in the closed position.</para>
+               <para translate="yes">Fit the bonnet, pre-tightening in the middle of the adjustment.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones, refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e124" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-08-39-repair-40-10-24-01-67-1-1-1" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016943.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-08-39-repair-40-10-24-01-67-1-1-1-000016943</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the centring of the bonnet (angle).</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-08-40-repair-40-10-24-01-67-1-1-2" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016944.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-08-40-repair-40-10-24-01-67-1-1-2-000016944</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the longitudinal alignment; the bonnet/windscreen pillar and bonnet/headlight alignment.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-08-41-repair-40-10-24-01-67-1-1-3" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016945.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-08-41-repair-40-10-24-01-67-1-1-3-000016945</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignment of the bonnet/wings; this must be identical on each side, and there must be the possibility of clearance on the wing adjustments.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-08-42-repair-40-10-24-01-67-1-1-4" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016946.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-08-42-repair-40-10-24-01-67-1-1-4-000016946</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the bonnet rear flush fitting.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-08-43-repair-40-10-24-01-67-1-1-5" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016947.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-08-43-repair-40-10-24-01-67-1-1-5-000016947</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the bonnet front flush fitting.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustment and the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e171" translate="no">
+      <title translate="yes">tailgate</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheral components are adjusted correctly.</para>
+               <para translate="yes">Refit all of the heavy fittings of the tailgate.</para>
+               <para translate="yes">Release the striker panel and fit the tailgate, pre-tightening in the middle of the adjustments.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones, refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e187" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-14-101-repair-40-10-24-01-67-1-1-6" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016965.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-14-101-repair-40-10-24-01-67-1-1-6-000016965</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Centre the tailgate.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-14-100-repair-40-10-24-01-67-1-1-7" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016964.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-14-100-repair-40-10-24-01-67-1-1-7-000016964</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignment of the tailgate.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-14-99-repair-40-10-24-01-67-1-1-8" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016963.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-14-99-repair-40-10-24-01-67-1-1-8-000016963</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the height alignment of the tailgate.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-14-98-repair-40-10-24-01-67-1-1-9" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016962.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-14-98-repair-40-10-24-01-67-1-1-9-000016962</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the top flush fitting between the tailgate and roof.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-14-97-repair-40-10-24-01-67-1-1-10" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016961.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-14-97-repair-40-10-24-01-67-1-1-10-000016961</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fitting of the bottom of the tailgate, as well as the contact and the closure firmness.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustment and the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e234" translate="no">
+      <title translate="yes">boot lid</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheral components are adjusted correctly.</para>
+               <para translate="yes">Refit all of the heavy fittings of the tailgate.</para>
+               <para translate="yes">Release the striker panel and fit the tailgate, pre-tightening in the middle of the adjustments.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones, refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e250" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-10-20-repair-40-10-24-01-67-1-1-11" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016949.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-10-20-repair-40-10-24-01-67-1-1-11-000016949</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Centre the boot lid.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-10-21-repair-40-10-24-01-67-1-1-12" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016950.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-10-21-repair-40-10-24-01-67-1-1-12-000016950</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the longitudinal alignment of the boot lid.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-10-22-repair-40-10-24-01-67-1-1-13" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016951.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-10-22-repair-40-10-24-01-67-1-1-13-000016951</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignment of the boot lid.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-10-24-repair-40-10-24-01-67-1-1-14" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016953.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-10-24-repair-40-10-24-01-67-1-1-14-000016953</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the rear flush fitting of the boot lid.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-10-23-repair-40-10-24-01-67-1-1-15" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016952.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-10-23-repair-40-10-24-01-67-1-1-15-000016952</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes"/>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the rear flush fitting of the boot lid, as well as the contact and the closure firmness.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustment and the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e299" translate="no">
+      <title translate="yes">Rear loading door</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">Check that the peripheral components are adjusted correctly.</para>
+               <para translate="yes">the adjustment can be performed on both doors simultaneously, if the vehicle is equipped with two doors.</para>
+               <para translate="yes">Refit all of the heavy door fittings.</para>
+               <para translate="yes">Before carrying out the adjustments, release the striker panel and fit the door, pretightening in the middle of the adjustment.</para>
+               <noteR translate="no" type="note">
+                  <para translate="yes">Note:</para>
+                  <para translate="yes">For information about the adjustment zones, refer to the MR for the vehicle concerned.</para>
+               </noteR>
+            </procstep>
+         </procsteps>
+      </procbody>
+      <procedure id="d1e317" translate="no">
+         <title translate="yes">Adjustment chronology</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="40-10-16-4-repair-40-10-24-01-67-1-1-16" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017573.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-4-repair-40-10-24-01-67-1-1-16-000017573</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the centring of the door with the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-3-repair-40-10-24-01-67-1-1-17" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016972.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-3-repair-40-10-24-01-67-1-1-17-000016972</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the centring of the door without the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-5-repair-40-10-24-01-67-1-1-18" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017574.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-5-repair-40-10-24-01-67-1-1-18-000017574</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignment of the door with the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-8-repair-40-10-24-01-67-1-1-19" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017577.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-8-repair-40-10-24-01-67-1-1-19-000017577</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the side alignment of the door without the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-6-repair-40-10-24-01-67-1-1-20" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017575.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-6-repair-40-10-24-01-67-1-1-20-000017575</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the vertical alignment of the door with the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-9-repair-40-10-24-01-67-1-1-21" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017578.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-9-repair-40-10-24-01-67-1-1-21-000017578</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the vertical alignment of the door without the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-7-repair-40-10-24-01-67-1-1-22" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017576.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-7-repair-40-10-24-01-67-1-1-22-000017576</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fitting of the external section of the door with the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-10-repair-40-10-24-01-67-1-1-23" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017579.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-10-repair-40-10-24-01-67-1-1-23-000017579</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fitting of the external section of the door without the lock on the floor.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-11-repair-40-10-24-01-67-1-1-24" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017580.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-11-repair-40-10-24-01-67-1-1-24-000017580</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fitting of the bottom central section of both doors.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="40-10-16-12-repair-40-10-24-01-67-1-1-25" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017581.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000363413-10-16-12-repair-40-10-24-01-67-1-1-25-000017581</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Adjust the flush fitting of the top central section of both doors.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Check the adjustment and the correct operation then tighten into position.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

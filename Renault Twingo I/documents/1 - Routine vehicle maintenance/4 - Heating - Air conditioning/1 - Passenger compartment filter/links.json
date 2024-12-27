@@ -1,0 +1,29 @@
+{
+  "PR": [
+    {
+      "id": "1204_602010",
+      "filename": "1204_602010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085160.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2552",
+      "filename": "AIR RECYCLING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2552.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-6",
+      "filename": "M.R. 305 - 6 HEATING AND VENTILATION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-6.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21367.png"
+    }
+  ]
+}

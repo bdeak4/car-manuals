@@ -1,0 +1,105 @@
+{
+  "PR": [
+    {
+      "id": "1247_851810",
+      "filename": "1247_851810.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01049285.svg"
+    },
+    {
+      "id": "1247_860510",
+      "filename": "1247_860510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084372.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5af2fbc4c3da7a00dc226035",
+      "filename": "wiperswashing : component parts location.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000426537.xml"
+    },
+    {
+      "id": "5af58488c3da7a00dc22994e",
+      "filename": "rear screen washer jet : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000404170.xml"
+    },
+    {
+      "id": "5af5c2c6f04d3300dc242bec",
+      "filename": "windscreen washer pump : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000403457.xml"
+    },
+    {
+      "id": "5af5c3b7f04d3300dc242d30",
+      "filename": "rear screen wiper motor : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000402170.xml"
+    },
+    {
+      "id": "5af9582e3ef64d00e0ef84ef",
+      "filename": "rear screen wiper arm : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000408724.xml"
+    },
+    {
+      "id": "5af973063ef64d00e0efadea",
+      "filename": "windscreen washer fluid reservoir : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000408356.xml"
+    },
+    {
+      "id": "5af973483ef64d00e0efae3b",
+      "filename": "rear screen wiper blade : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000410000.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "MR-432-X65-80D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-80D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-82D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-82D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-85A000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-85A000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21366.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af5bf5df04d3300dc2427d8",
+      "filename": "cruise control and speed limiter control : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000274909.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3280",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3280.pdf"
+    },
+    {
+      "id": "3202",
+      "filename": "New generation instrument panel.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3202.pdf"
+    },
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21887.png"
+    }
+  ]
+}

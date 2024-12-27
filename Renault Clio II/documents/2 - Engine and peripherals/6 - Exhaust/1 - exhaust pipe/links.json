@@ -1,0 +1,69 @@
+{
+  "PR": [
+    {
+      "id": "1247_195010",
+      "filename": "1247_195010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087866.svg"
+    },
+    {
+      "id": "1247_195310",
+      "filename": "1247_195310.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084074.svg"
+    },
+    {
+      "id": "1247_195510",
+      "filename": "1247_195510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087867.svg"
+    },
+    {
+      "id": "1247_196110",
+      "filename": "1247_196110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01035953.svg"
+    },
+    {
+      "id": "1247_196310",
+      "filename": "1247_196310.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084076.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    },
+    {
+      "id": "61f173eb98fb352c0bc9da5f",
+      "filename": "exhaust : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000092126.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21953.png"
+    }
+  ]
+}

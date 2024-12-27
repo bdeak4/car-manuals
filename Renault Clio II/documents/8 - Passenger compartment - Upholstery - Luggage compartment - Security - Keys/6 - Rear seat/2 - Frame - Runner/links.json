@@ -1,0 +1,74 @@
+{
+  "PR": [
+    {
+      "id": "1247_760110",
+      "filename": "1247_760110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084281.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5af59600c3da7a00dc22ad70",
+      "filename": "rear seat frame : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000432356.xml"
+    },
+    {
+      "id": "5af95c2d3ef64d00e0ef892e",
+      "filename": "rear seat frame : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000431760.xml"
+    },
+    {
+      "id": "5af58463c3da7a00dc229923",
+      "filename": "rear bench seatback : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000415907.xml"
+    },
+    {
+      "id": "5af5866dc3da7a00dc229c07",
+      "filename": "rear bench seat base : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000431095.xml"
+    },
+    {
+      "id": "5af5c375f04d3300dc242cdb",
+      "filename": "rear bench seat base : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000419392.xml"
+    },
+    {
+      "id": "5af5c378f04d3300dc242cdf",
+      "filename": "rear bench seatback : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000418231.xml"
+    },
+    {
+      "id": "5af959313ef64d00e0ef8614",
+      "filename": "rear bench seatback locking mechanism : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000375709.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21663.png"
+    }
+  ]
+}

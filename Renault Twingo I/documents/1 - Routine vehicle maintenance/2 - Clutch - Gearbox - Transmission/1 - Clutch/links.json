@@ -1,0 +1,70 @@
+{
+  "PR": [
+    {
+      "id": "1204_200110",
+      "filename": "1204_200110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083845.svg"
+    },
+    {
+      "id": "1204_200112",
+      "filename": "1204_200112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01005257.svg"
+    },
+    {
+      "id": "1323_200111",
+      "filename": "1323_200111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01039707.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2628",
+      "filename": "THE AUTOMATIC CLUTCH is a clutch which is controlled by a computer..pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2628.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-3",
+      "filename": "M.R. 305 - 3 CHASSIS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-3.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "3439",
+      "filename": "MECHANICAL ELEMENT CONTROLS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3439.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-2",
+      "filename": "M.R. 305 - 2 TRANSMISSION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-2.pdf"
+    },
+    {
+      "id": "5af5b13c08813b00dc4cf590",
+      "filename": "clutch assembly : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000173333.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3451",
+      "filename": "Clutch: Fault finding aid.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3451.pdf"
+    },
+    {
+      "id": "2674",
+      "filename": "AUTOMATIC CLUTCH - XR25 CASSETTE Ni 16.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2674.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-32466.png"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "PR": [
+    {
+      "id": "1247_820110",
+      "filename": "1247_820110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085086.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "5af959cf3ef64d00e0ef86d1",
+      "filename": "horn : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000423288.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3391",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3391.pdf"
+    },
+    {
+      "id": "3058",
+      "filename": "REMOTE CONTROL UNIT FOR DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3058.pdf"
+    },
+    {
+      "id": "3119",
+      "filename": "MODIFICATION  TO THE FAULT-FINDING SECTION OF THE WORKSHOP MANUAL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3119.pdf"
+    },
+    {
+      "id": "3120",
+      "filename": "MODIFICATION TO VEHICLE FAULT-FINDING CHARTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3120.pdf"
+    },
+    {
+      "id": "3018",
+      "filename": "ERROR IN THE ENGINE IMMOBILISER DIAGNOSTIC SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3018.pdf"
+    },
+    {
+      "id": "2965",
+      "filename": "MULTI-TIMER UNIT  (BMT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2965.pdf"
+    },
+    {
+      "id": "3532",
+      "filename": "FAULT FINDING IMMOBILISER.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3532.pdf"
+    },
+    {
+      "id": "3531",
+      "filename": "FAULT FINDING MULTI-TIMER UNIT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3531.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "3561",
+      "filename": "FAULT FINDING UCH.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3561.pdf"
+    },
+    {
+      "id": "MR-432-X65-80D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-80D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-82D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-82D000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21647.png"
+    }
+  ]
+}

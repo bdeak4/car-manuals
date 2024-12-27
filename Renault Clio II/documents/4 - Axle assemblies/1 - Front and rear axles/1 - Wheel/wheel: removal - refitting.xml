@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X33|X35|X38/APL03|X44|X52|X61|X62|X65|X67|X70/APL03|X73|X74|X76/APL03|X77|X79|X81|X82|X84|X85|X87|X90|X91|X95|X92|X98|XFB|XFC|XFE|XZH|XHA|XFD|X55|XFA|XJD|XJC|XJL|XJH|XJA|XJB|XJE|XJK|XFF|XJF|XFK|XCB|XHN|XDD|XDE|X1310|X1317|XR210|X1316|X1322" id="RPR-001731455" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">wheel: removal - refitting</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Published" translate="no"/>
+    <critdates translate="no">
+      <created date="11/01/24 12:49" translate="no"/>
+      <revised modified="20/12/24 13:23" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">wheel: removal - refitting</siename>
+      <sieversion translate="no">F.3</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001731455</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <para translate="yes">The removal-refitting procedure is the same for all wheels.</para>
+    </introduction>
+  </procbody>
+  <procedure id="d1e77" otherprops="WF-SET='01,34'" translate="no">
+    <title translate="yes">removal operation</title>
+    <procedure id="d1e81" translate="no">
+      <title translate="yes">removal operation preparation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the vehicle on a two-post lift <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3500084"><linkdesc>vehicle: towing and lifting</linkdesc><linkvalue>GIEMR-002447</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Release the parking brake.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the wheel hubcap, if fitted.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the wheel so that the valve is at the top.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Mark the position of the wheel on the hub.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">This mark is required in order to:</para>
+              <ul translate="no">
+                <li translate="yes">Note the original position of the wheel on the hub,</li>
+                <li translate="yes">perform the balancing operation.</li>
+              </ul>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e115" translate="no">
+      <title translate="yes">removal operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Loosen the wheel bolts with the wheel on the ground.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">Use sockets with protective sheaths in order to avoid scratching the alloy wheel rims.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Raise the lift.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove :</para>
+            <ul translate="no">
+              <li translate="yes">the wheel bolts,</li>
+              <li translate="yes">the wheel.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+      <procedure id="d1e138" translate="no">
+        <title translate="yes">If the wheel cannot be removed after the bolt has been loosened:</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Position all the wheel bolts.</para>
+            </procstep>
+          </procsteps>
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Tighten the wheel bolts to bring all the bolt heads into contact with the wheel.</para>
+            </procstep>
+          </procsteps>
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Undo the wheel bolts by one turn.</para>
+            </procstep>
+          </procsteps>
+          <procsteps translate="no">
+            <marklayer id="marklayer-d1e149" translate="no">
+              <mark id="MARK.REPAIR-13X05X01-01X37-1-12.1" translate="no">
+                <mcomponent translate="no">
+                  <label translate="no"/>
+                </mcomponent>
+                <designation translate="no">1</designation>
+              </mark>
+            </marklayer>
+            <figure id="13-05-01-15-repair-13-05-01-01-37-1-12-11" translate="no">
+              
+              <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000021322_LAY-000300722.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+              <illusnum>RPR-001731428-05-01-15-repair-13-05-01-01-37-1-12-11-000021322</illusnum>
+            </figure>
+            <procstep translate="no">
+              <para translate="yes">Strike around the edge of the tyre walls several times using a mallet on the inner <markref format="dita" href="#d1e138/13-05-01-15-repair-13-05-01-01-37-1-12-11" scope="local" translate="no" type="figure">1</markref> and outer <markref format="dita" href="#d1e138/13-05-01-15-repair-13-05-01-01-37-1-12-11" scope="local" translate="no" type="figure">1</markref>surfaces of the wheel to detach the wheel.</para>
+            </procstep>
+          </procsteps>
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Remove :</para>
+              <ul translate="no">
+                <li translate="yes">the wheel bolts,</li>
+                <li translate="yes">the wheel.</li>
+              </ul>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+      <procedure id="pro1" translate="no">
+        <title translate="yes">If this procedure does not work:</title>
+        <procbody translate="no">
+          <procsteps translate="no">
+            <marklayer id="marklayer-1644211-8DAA4CA4" translate="no"/>
+            <figure id="fig1" translate="no">
+              
+              <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011262_LAY-000300724.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+              <illusnum>RPR-001731428-01-000011262</illusnum>
+            </figure>
+            <procstep translate="no">
+              <para translate="yes">Strike the inner surface of the wheel using a mallet and a wooden block <markref format="dita" href="#d1e276/13-05-01-12-repair-13-05-01-01-37-1-12-7" scope="local" translate="no" type="figure">2</markref>to detach it.</para>
+              <noteR translate="no" type="note">
+                <para translate="yes">Note:</para>
+                <para translate="yes">Do not strike the surface of the wheel rim with excessive force as this may distort it.</para>
+              </noteR>
+            </procstep>
+          </procsteps>
+          <procsteps translate="no">
+            <procstep translate="no">
+              <para translate="yes">Remove :</para>
+              <ul translate="no">
+                <li translate="yes">the wheel bolts,</li>
+                <li translate="yes">the wheel.</li>
+              </ul>
+            </procstep>
+          </procsteps>
+        </procbody>
+      </procedure>
+    </procedure>
+  </procedure>
+  <procedure id="d1e214" otherprops="WF-SET='01,61'" translate="no">
+    <title translate="yes">refitting</title>
+    <procedure id="d1e218" translate="no">
+      <title translate="yes">refitting preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Clean the hub carrier using a wire brush.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">There are two types of wheel bolts for alloy and steel wheel rims; do not swap them.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Check the condition of the tyre.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Do not move or remove the balance weights.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e233" translate="no">
+      <title translate="yes">refitting preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e244" translate="no">
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.3" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">B</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.4" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">A</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-05-2-repair-13-05-01-01-37-1-12-10" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016317_LAY-000300726.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-001731428-05-2-repair-13-05-01-01-37-1-12-10-000016317</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">There are two types of wheel bolt, do not mix them up:</para>
+            <ul translate="no">
+              <li translate="yes">aluminium wheel rims<markref format="dita" href="#d1e233/13-05-2-repair-13-05-01-01-37-1-12-10" scope="local" translate="no" type="figure">A</markref>.</li>
+              <li translate="yes">steel wheel rims<markref format="dita" href="#d1e233/13-05-2-repair-13-05-01-01-37-1-12-10" scope="local" translate="no" type="figure">B</markref>.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e276" translate="no">
+      <title translate="yes">refitting operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Clean the mating surfaces between the wheel and the hub carrier using a wire brush.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Align the mark on the wheel with the mark made on the hub when it was removed.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Fit the wheel to the vehicle, positioning the colour mark at the top.</para>
+          </procstep>
+          <procstep id="pro2" translate="no">
+            <para id="par1" translate="yes">If the tyre does not have a colour mark, position the wheel valve at the top.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the wheel bolts.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="||||||||||||||||||||||||||||||||XJE|||||XJH|||||||XJL||||" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the wheel nuts.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e298" translate="no">
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.5" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">4</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.6" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">3</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.7" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">2</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.8" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">1</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-05-01-12-repair-13-05-01-01-37-1-12-7" translate="no">
+            <title translate="yes">4-hole wheel assembly</title>
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012731_LAY-000300723.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-001731428-05-01-12-repair-13-05-01-01-37-1-12-7-000012731</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Tighten the wheel bolts in numerical order to bring all the bolt heads into contact with the wheel rim.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <marklayer id="marklayer-d1e392" translate="no">
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.10" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">1</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.9" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">2</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.13" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">3</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.12" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">4</designation>
+            </mark>
+            <mark id="MARK.REPAIR-13X05X01-01X37-1-12.11" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">5</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-05-01-15-repair-13-05-01-01-37-1-12-12" translate="no">
+            <title translate="yes">5-hole wheel assembly</title>
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000021322_LAY-000300725.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-001731428-05-01-15-repair-13-05-01-01-37-1-12-12-000021322</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Tighten the wheel bolts in numerical order to bring all the bolt heads into contact with the wheel rim.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Pre-tighten the wheel bolts to<technicalvalue translate="no"><value translate="yes"> 30 N.m.</value></technicalvalue>, with the wheel off the ground.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Rotate the wheel by<technicalvalue translate="no"><value translate="yes"> 180˚ </value></technicalvalue>to bring the colour mark or the wheel valve to the low position.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Place the vehicle on its wheels.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">Use sockets with protective sheaths in order to avoid scratching the alloy wheel rims.</para>
+            </noteR>
+          </procstep>
+        </procsteps>
+        <procsteps appl="||||||||||||||||||||||||||||||||XJE|||||XJH|||||||XJL||||" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Torque tighten the wheel nuts in numerical order <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3442554"><linkdesc>front stub axle carrier assembly : exploded view</linkdesc><linkvalue>GIEMR-001012</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Torque tighten the wheel bolts in numerical order.</para>
+            <ul translate="no">
+<li translate="yes"> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3488989"><linkdesc>maintenance values: description</linkdesc><linkvalue>GIEMR-002391</linkvalue></sieref><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3442554"><linkdesc>front stub axle carrier assembly : exploded view</linkdesc><linkvalue>GIEMR-001012</linkvalue></sieref><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3526687"><linkdesc>front axle assembly : tightening torque</linkdesc><linkvalue>GIEMR-001002</linkvalue></sieref>.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the wheel hubcap, if fitted.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

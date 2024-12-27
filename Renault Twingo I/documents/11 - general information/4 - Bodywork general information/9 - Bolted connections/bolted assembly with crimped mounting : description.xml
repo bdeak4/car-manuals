@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X58|X27|X75|XDD|X59|XJ1|XFF|X41|X17|X42|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000323147" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bolted assembly with crimped mounting : description</title>
+   <?Pub Caret -2?>
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="22/09/21 16:42" translate="no"/>
+         <revised modified="10/10/24 13:38" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bolted assembly with crimped mounting : description</siename>
+         <sieversion translate="no">Q.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000323147</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <noteR translate="no" type="note">
+         <para translate="yes">Note:</para>
+         <para translate="yes">This operation cannot be carried out for anearth mounting; it does not guarantee the current will be properlyconducted from the contact with the structure.</para>
+      </noteR>
+   </descbody>
+   <description id="d1e119" translate="no" xml:lang="en">
+      <title translate="yes">PREPARATION</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <figure id="00-04-03-53-repair-40-01-34-14-02-21-2-1-10" translate="no">
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016143.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323147-04-03-53-repair-40-01-34-14-02-21-2-1-10-000016143</illusnum>
+            </figure>
+            <para translate="yes">Drill the support panel using a drill bit whichis adapted to the nominal diameter of the mounting, see table below.</para>
+            <table colsep="1" frame="all" rowsep="1" translate="no">
+               <tgroup cols="3" colsep="1" rowsep="1" translate="no">
+                  <colspec colname="1" colnum="1" colwidth="22.212813999435507%" translate="no"/>
+                  <colspec colname="2" colnum="2" colwidth="33.333333333333336%" translate="no"/>
+                  <colspec colname="3" colnum="3" colwidth="44.45385266723116%" translate="no"/>
+                  <thead translate="no">
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" translate="yes">
+                           <para translate="yes"/>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">∅</value>
+                              </technicalvalue>nominal</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">
+                              <technicalvalue translate="no">
+                                 <value translate="yes">∅</value>
+                              </technicalvalue>drillinghole (<technicalvalue translate="no">
+                                 <value translate="yes">mm</value>
+                              </technicalvalue>)</para>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody translate="no">
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" morerows="2" translate="yes">
+                           <para translate="yes">nuts</para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">M6 x 100</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">10.2</para>
+                        </entry>
+                     </row>
+                     <row rowsep="1" translate="no">
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">M8 x 125</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">13.5</para>
+                        </entry>
+                     </row>
+                     <row rowsep="1" translate="no">
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">M10 x 150</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">15.5</para>
+                        </entry>
+                     </row>
+                     <row rowsep="1" translate="no">
+                        <entry colname="1" morerows="1" translate="yes">
+                           <para translate="yes">studs</para>
+                        </entry>
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">Fc5</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">8.2</para>
+                        </entry>
+                     </row>
+                     <row rowsep="0" translate="no">
+                        <entry colname="2" translate="yes">
+                           <para translate="yes">M6</para>
+                        </entry>
+                        <entry colname="3" translate="yes">
+                           <para translate="yes">10.2</para>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <para translate="yes">If it is a hollow section, insert wax to stabilisethe shavings.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3521693">
+                  <linkdesc>after assembly anti-corrosion protection : description</linkdesc>
+                  <linkvalue>GIEMR-001837</linkvalue>
+               </sieref>
+            </para>
+         </descsection>
+         <descsection translate="no">
+            <para translate="yes">Fit the pull rod and the guide rod adapted tothe fixation type to be crimped.</para>
+            <figure id="00-02-02-30-repair-40-01-34-14-02-21-2-1-12" translate="no">
+               <image dimension="F4 (180x240)" href="../MergedPictures/ILL-000014613.PNG" style="width: 180.0mm; height: 240.0mm;" translate="no"/><illusnum>RDE-000323147-02-02-30-repair-40-01-34-14-02-21-2-1-12-000014613</illusnum>
+            </figure>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e211" translate="no" xml:lang="en">
+      <title translate="yes">fitting the crimped mounting using tool CAR.1504</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <marklayer id="marklayer-d1e213" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X01X34X14-02X21-2-1.1">
+                  <mcomponent>
+                     <label/>
+                  </mcomponent>
+                  <designation>1</designation>
+               </mark>
+            </marklayer>
+            <figure id="00-04-03-104-repair-40-01-34-14-02-21-2-1-8" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016187_c@[users[a395457[appdata[local[temp[aptexport[00-04-03-104-repair-40-01-34-14-02-21-2-1-8.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323147-04-03-104-repair-40-01-34-14-02-21-2-1-8-000016187</illusnum>
+            </figure>
+            <para translate="yes">Screw the crimped nut or stud onto the<toolref format="dita" href="x-wc://file=OS-000005857.xml" scope="external" translate="no" type="specifictool">
+                  <linkdesc>Tool for fitting crimped nuts.</linkdesc>
+                  <linkvalue>Car.1504</linkvalue>
+               </toolref>.</para>
+            <para translate="yes">Place anti-corrosive sealing mastic<markref format="dita" href="#d1e211/00-04-03-104-repair-40-01-34-14-02-21-2-1-8" scope="local" translate="no" type="figure">1</markref>around the insertshaft.</para>
+         </descsection>
+         <descsection translate="no">
+            <marklayer id="marklayer-d1e234" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X01X34X14-02X21-2-1.2">
+                  <mcomponent>
+                     <label/>
+                  </mcomponent>
+                  <designation>3</designation>
+               </mark>
+               <mark id="MARK.REPAIR-40X01X34X14-02X21-2-1.3">
+                  <mcomponent>
+                     <label/>
+                  </mcomponent>
+                  <designation>2</designation>
+               </mark>
+            </marklayer>
+            <figure id="40-01-34-14-1-repair-40-01-34-14-02-21-2-1-9" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030398_c@[users[a395457[appdata[local[temp[aptexport[40-01-34-14-1-repair-40-01-34-14-02-21-2-1-9.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323147-01-34-14-1-repair-40-01-34-14-02-21-2-1-9-000030398</illusnum>
+            </figure>
+            <para translate="yes">Position and crimp the fixing, manually steadyingthe tool using the handle<markref format="dita" href="#d1e211/40-01-34-14-1-repair-40-01-34-14-02-21-2-1-9" scope="local" translate="no" type="figure">2</markref>and turningthe nut<markref format="dita" href="#d1e211/40-01-34-14-1-repair-40-01-34-14-02-21-2-1-9" scope="local" translate="no" type="figure">3</markref>of the toolin the direction of the arrow.</para>
+         </descsection>
+         <descsection translate="no">
+            <figure id="00-04-03-103-repair-40-01-34-14-02-21-2-1-11" translate="no">
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016186.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000323147-04-03-103-repair-40-01-34-14-02-21-2-1-11-000016186</illusnum>
+            </figure>
+            <para translate="yes">Check that the mounting is perpendicular beforethe end of the crimping operation.</para>
+         </descsection>
+      </descbody>
+   </description>
+</description>

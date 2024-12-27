@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/L35|X65" id="RDE-000346172" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">body side, front section : replacement</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Draft" translate="no"/>
+<critdates translate="no">
+<created date="05/11/15 17:05" translate="no"/>
+<revised modified="05/11/15 17:05" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">body side, front section : replacement</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000346172</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e12" translate="no" xml:lang="en">
+<title translate="yes">Composition of the spare part</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e14" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.1" translate="no"><mcomponent translate="no"><label translate="no"/>
+</mcomponent><designation translate="no">2</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.2" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">1</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.3" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">5</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.4" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">4</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.5" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">3</designation></mark></marklayer>
+<figure id="40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034237_c@[users[a068726[appdata[local[temp[aptexport[40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-68-repair-40-08-08-02-02-49-1-1-41-000034237</illusnum></figure>
+<table colsep="1" frame="all" rowsep="0" translate="no">
+<tgroup cols="4" colsep="1" rowsep="0" translate="no">
+<colspec colname="1" colnum="1" colwidth="18.864577173270256%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="37.25606150206978%" translate="no"/>
+<colspec colname="3" colnum="3" colwidth="18.03666469544648%" translate="no"/>
+<colspec colname="4" colnum="4" colwidth="25.842696629213485%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">No.</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Description</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Type</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Thickness
+(mm)</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" scope="local" translate="no" type="figure">1</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">A-pillar
+reinforcement</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Mild steel</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">0.97</value></technicalvalue></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" scope="local" translate="no" type="figure">2</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">B-pillar
+reinforcement</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">HLE</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">1.17</value></technicalvalue></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" scope="local" translate="no" type="figure">3</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Door striker
+panel reinforcement</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Mild steel</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">1.2</value></technicalvalue></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" scope="local" translate="no" type="figure">4</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Body side
+front section</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Mild steel</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">1.2</value></technicalvalue></para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#d1e12/40-08-08-02-68-repair-40-08-08-02-02-49-1-1-41" scope="local" translate="no" type="figure">5</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">A-pillar
+lining rear reinforcement</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Mild steel</para></entry>
+<entry colname="4" translate="yes"><para translate="yes"><technicalvalue translate="no"><value translate="yes">1.27</value></technicalvalue></para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>
+<description id="d1e158" translate="no" xml:lang="en">
+<title translate="yes">In the event of replacement</title>
+<descbody translate="no">
+<para translate="yes">The options for replacing this part are as follows:</para>
+<ul translate="no">
+<li translate="yes">complete replacement C-D,</li>
+<li translate="yes">partial replacement A-E,</li>
+<li translate="yes">partial replacement B-C-D-E.</li>
+</ul>
+<descsection translate="no"><marklayer id="marklayer-d1e169" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.6">
+<mcomponent><label/></mcomponent><designation>C</designation>
+</mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.7"><mcomponent>
+<label/></mcomponent><designation>B</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.8"><mcomponent><label/>
+</mcomponent><designation>A</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.9"><mcomponent><label/>
+</mcomponent><designation>D</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.10"><mcomponent><label/>
+</mcomponent><designation>E</designation></mark></marklayer>
+<figure id="40-08-08-02-69-repair-40-08-08-02-02-49-1-1-42" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034238_c@[users[a068726[appdata[local[temp[aptexport[40-08-08-02-69-repair-40-08-08-02-02-49-1-1-42.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-69-repair-40-08-08-02-02-49-1-1-42-000034238</illusnum></figure>
+</descsection>
+</descbody>
+<description id="d1e212" translate="no" xml:lang="en">
+<title translate="yes">Complete replacement C-D</title>
+<descbody translate="no"/>
+<description id="d1e216" translate="no" xml:lang="en">
+<title translate="yes">Part in position</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e218" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.11"><mcomponent><label/>
+</mcomponent><designation>D</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.12"><mcomponent><label/>
+</mcomponent><designation>C</designation></mark></marklayer>
+<figure id="40-08-08-02-70-repair-40-08-08-02-02-49-1-1-43" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034239_c@[users[a068726[appdata[local[temp[aptexport[40-08-08-02-70-repair-40-08-08-02-02-49-1-1-43.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-70-repair-40-08-08-02-02-49-1-1-43-000034239</illusnum></figure>
+<figure id="40-08-14-66-repair-40-08-08-02-02-49-1-1-51" translate="no">
+<title translate="yes">Cut C</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034444.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-14-66-repair-40-08-08-02-02-49-1-1-51-000034444</illusnum></figure>
+<figure id="40-08-08-02-78-repair-40-08-08-02-02-49-1-1-45" translate="no">
+<title translate="yes">Cut D</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034247.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-78-repair-40-08-08-02-02-49-1-1-45-000034247</illusnum></figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e250" translate="no" xml:lang="en">
+<title translate="yes">Position of electric earths</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">To avoid damaging the vehicles electric and
+electronic components, the earths of any wiring harness near the weld
+area must be disconnected.</para>
+<para translate="yes">Position the earth of the welding machine as
+close as possible to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3487088"><linkdesc>earth connection on body : description</linkdesc><linkvalue>GIEMR-000185</linkvalue>
+</sieref>(MR 400, 40H, Bolted connections).</para>
+</noteR>
+<para translate="yes">Locate the earths located near to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519830"><linkdesc>earth on body : component parts location</linkdesc><linkvalue>GIEMR-001519</linkvalue>
+</sieref>.</para>
+</descbody>
+</description>
+<description id="d1e267" translate="no" xml:lang="en">
+<title translate="yes">Parts always to be replaced</title>
+<descbody translate="no">
+<para translate="yes">Replace:</para>
+<ul translate="no">
+<li translate="yes">the hollow section inserts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3506536"><linkdesc>acoustic insert : component parts location</linkdesc><linkvalue>GIEMR-001306</linkvalue>
+</sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457907">
+<linkdesc>acoustic insert : precautions for the repair</linkdesc>
+<linkvalue>GIEMR-001307</linkvalue></sieref>,</li>
+<li translate="yes">the front double seal support.</li>
+</ul>
+</descbody>
+</description>
+<description id="d1e284" translate="no" xml:lang="en">
+<title translate="yes">Irremovable bodywork components - structures to be removed in order to carry out the replacement operation</title>
+<descbody translate="no">
+<para translate="yes">Remove the roof<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3512532"><linkdesc>roof : replacement</linkdesc><linkvalue>GIEMR-001726</linkvalue></sieref>.</para>
+</descbody>
+</description>
+<description id="d1e293" translate="no" xml:lang="en">
+<title translate="yes">Special notes on mating</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">If the mating faces of the parts to be welded
+are not accessible, use a GMAW plug weld in place of the original
+electrical resistance weld<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438"><linkdesc>MIG/MAG/TIG welding : description</linkdesc><linkvalue>GIEMR-002090</linkvalue>
+</sieref>(MR 400, 40C, Gas metal arc welded connections (GMAW)).</para>
+</noteR>
+</descbody>
+</description>
+</description>
+<description id="d1e303" translate="no" xml:lang="en">
+<title translate="yes">Partial replacement A-E</title>
+<descbody translate="no"/>
+<description id="d1e307" translate="no" xml:lang="en">
+<title translate="yes">Part in position</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e309" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.13"><mcomponent><label/>
+</mcomponent><designation>E</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.14"><mcomponent><label/>
+</mcomponent><designation>A</designation></mark></marklayer>
+<figure id="40-08-08-02-74-repair-40-08-08-02-02-49-1-1-46" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034243_c@[users[a068726[appdata[local[temp[aptexport[40-08-08-02-74-repair-40-08-08-02-02-49-1-1-46.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-74-repair-40-08-08-02-02-49-1-1-46-000034243</illusnum></figure>
+<figure id="40-08-08-02-76-repair-40-08-08-02-02-49-1-1-47" translate="no">
+<title translate="yes">Cut A</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034245.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-76-repair-40-08-08-02-02-49-1-1-47-000034245</illusnum></figure>
+<figure id="40-08-08-02-80-repair-40-08-08-02-02-49-1-1-48" translate="no">
+<title translate="yes">Cut E</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034249.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-80-repair-40-08-08-02-02-49-1-1-48-000034249</illusnum></figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e341" translate="no" xml:lang="en">
+<title translate="yes">Position of electric earths</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">To avoid damaging the vehicles electric and
+electronic components, the earths of any wiring harness near the weld
+area must be disconnected.</para>
+<para translate="yes">Position the earth of the welding machine as
+close as possible to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3487088"><linkdesc>earth connection on body : description</linkdesc><linkvalue>GIEMR-000185</linkvalue>
+</sieref>(MR 400, 40H, Bolted connections).</para>
+</noteR>
+<para translate="yes">Locate the earths located near to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519830"><linkdesc>earth on body : component parts location</linkdesc><linkvalue>GIEMR-001519</linkvalue>
+</sieref>.</para>
+</descbody>
+</description>
+<description id="d1e358" translate="no" xml:lang="en">
+<title translate="yes">Parts always to be replaced</title>
+<descbody translate="no">
+<para translate="yes">Replace:</para>
+<ul translate="no">
+<li translate="yes">the hollow section inserts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3506536"><linkdesc>acoustic insert : component parts location</linkdesc><linkvalue>GIEMR-001306</linkvalue>
+</sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457907">
+<linkdesc>acoustic insert : precautions for the repair</linkdesc>
+<linkvalue>GIEMR-001307</linkvalue></sieref>,</li>
+<li translate="yes">the front double seal support.</li>
+</ul>
+</descbody>
+</description>
+<description id="d1e375" translate="no" xml:lang="en">
+<title translate="yes">Special notes on mating</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">If the mating faces of the parts to be welded
+are not accessible, use a GMAW plug weld in place of the original
+electrical resistance weld<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438"><linkdesc>MIG/MAG/TIG welding : description</linkdesc><linkvalue>GIEMR-002090</linkvalue>
+</sieref>(MR 400, 40C, Gas metal arc welded connections (GMAW)).</para>
+</noteR>
+</descbody>
+</description>
+</description>
+<description id="d1e385" translate="no" xml:lang="en">
+<title translate="yes">Partial replacement B-C-D-E</title>
+<descbody translate="no"/>
+<description id="d1e389" translate="no" xml:lang="en">
+<title translate="yes">Part in position</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e391" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.15"><mcomponent><label/>
+</mcomponent><designation>B</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.16"><mcomponent><label/>
+</mcomponent><designation>E</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.17"><mcomponent><label/>
+</mcomponent><designation>D</designation></mark><mark id="MARK.REPAIR-40X08X08X02-02X49-1-1.18"><mcomponent><label/>
+</mcomponent><designation>C</designation></mark></marklayer>
+<figure id="40-08-08-02-72-repair-40-08-08-02-02-49-1-1-49" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034241_c@[users[a068726[appdata[local[temp[aptexport[40-08-08-02-72-repair-40-08-08-02-02-49-1-1-49.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-72-repair-40-08-08-02-02-49-1-1-49-000034241</illusnum></figure>
+<figure id="40-08-08-02-80-repair-40-08-08-02-02-49-1-1-50" translate="no">
+<title translate="yes">Cut E</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000034249.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000346172-08-08-02-80-repair-40-08-08-02-02-49-1-1-50-000034249</illusnum></figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e432" translate="no" xml:lang="en">
+<title translate="yes">Position of electric earths</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">To avoid damaging the vehicles electric and
+electronic components, the earths of any wiring harness near the weld
+area must be disconnected.</para>
+<para translate="yes">Position the earth of the welding machine as
+close as possible to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3487088"><linkdesc>earth connection on body : description</linkdesc><linkvalue>GIEMR-000185</linkvalue>
+</sieref>(MR 400, 40H, Bolted connections).</para>
+</noteR>
+<para translate="yes">Locate the earths located near to the weld area<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3519830"><linkdesc>earth on body : component parts location</linkdesc><linkvalue>GIEMR-001519</linkvalue>
+</sieref>.</para>
+</descbody>
+</description>
+<description id="d1e449" translate="no" xml:lang="en">
+<title translate="yes">Parts always to be replaced</title>
+<descbody translate="no">
+<para translate="yes">Replace the hollow section inserts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3506536"><linkdesc>acoustic insert : component parts location</linkdesc><linkvalue>GIEMR-001306</linkvalue>
+</sieref>and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3457907">
+<linkdesc>acoustic insert : precautions for the repair</linkdesc>
+<linkvalue>GIEMR-001307</linkvalue></sieref>.</para>
+</descbody>
+</description>
+<description id="d1e461" translate="no" xml:lang="en">
+<title translate="yes">Special notes on mating</title>
+<descbody translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">If the mating faces of the parts to be welded
+are not accessible, use a GMAW plug weld in place of the original
+electrical resistance weld<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509438"><linkdesc>MIG/MAG/TIG welding : description</linkdesc><linkvalue>GIEMR-002090</linkvalue>
+</sieref>(MR 400, 40C, Gas metal arc welded connections (GMAW)).</para>
+</noteR>
+</descbody>
+</description>
+</description>
+</description>
+</description>

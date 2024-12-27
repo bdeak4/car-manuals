@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X64|X65|X10|X87|X98|X52|X35|XJF" id="RPR-000205583" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="yes">rear brake drum assembly: removal - refitting</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="18/05/20 14:58" translate="no"/>
+      <revised modified="04/06/20 09:44" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">rear brake drum assembly: removal - refitting</siename>
+      <sieversion translate="no">E.2</sieversion>
+      <sietype translate="yes">PROCEDURE</sietype>
+      <sienumber translate="no">RPR-000205580</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procbody translate="no">
+    <introduction translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">To avoid brake imbalance, both drums must be of the same diameter. Regrinding one drum necessitates regrinding of the opposite drum.</para>
+        <ul translate="no">
+          <li translate="yes">
+            <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3540532">
+              <linkdesc>brake circuit : precautions for the repair</linkdesc>
+              <linkvalue>GIEMR-000524</linkvalue>
+            </sieref>,</li>
+          <li translate="yes">
+            <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040">
+              <linkdesc>vehicle : precautions for the repair</linkdesc>
+              <linkvalue>GIEMR-002446</linkvalue>
+            </sieref> (01D, Mechanical introduction).</li>
+        </ul>
+      </noteR>
+      <noteR translate="no" type="warning">
+        <para translate="yes">To avoid brake imbalance, both drums must be of the same diameter. Regrinding one drum necessitates regrinding of the opposite drum.</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">When replacing a brake drum, it is essential to replace:</para>
+        <para translate="yes">- the drum on the opposite side,</para>
+        <para translate="yes">- the brake linings.</para>
+      </noteR>
+    </introduction>
+  </procbody>
+  <procedure id="d1e22" otherprops="WF-SET='01,34'" translate="no">
+    <title translate="yes">removal</title>
+    <procedure id="d1e26" translate="no">
+      <title translate="yes">Removal preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Position the vehicle on a two-post lift<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3500084"><linkdesc>vehicle : towing and lifting</linkdesc><linkvalue>GIEMR-002447</linkvalue></sieref>(02A, Lifting equipment).</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Release the parking brake.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove the rear wheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435"><linkdesc>wheel : removal - refitting</linkdesc><linkvalue>GIEMR-001965</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="X87|X10|X64|X65|XJF/SSFRPA|X35|X52|X98|X06" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Loosen the secondary cables of the parking brake to allow the lever to move back.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="|X10|X64|X65|XJF|X35|X52|X98|X06" translate="no">
+          <marklayer id="marklayer-d1e53" translate="no">
+            <mark id="4cdb9ce4-9d18-4c4f-b6a8-9f163eb021ff" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">1</designation>
+            </mark>
+          </marklayer>
+          <figure id="13-02-03-31-repair-13-03-04-02-01-37-1-5-1" translate="no">
+            
+            <image dimension="F4 (180x240)" href="../MergedPictures/ILL-000012348_LAY-000053953.png" style="width: 180.0mm; height: 240.0mm;" translate="no"/>
+            <illusnum>RPR-000205583-02-03-31-repair-13-03-04-02-01-37-1-5-1-000012348</illusnum>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Insert a screwdriver through one of the wheel mounting holes in the drum and push the handbrake lever to release the lug from the brake shoe<markref format="dita" href="#d1e26/13-02-03-31-repair-13-03-04-02-01-37-1-5-1" scope="local" translate="no" type="figure">1</markref>.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Help the lever to slacken by pushing it towards the rear.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="X87||||||||" translate="no">
+          <marklayer translate="no">
+            <mark id="2133bc74-3f88-4fd6-a3ee-6f46f5818959" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">2</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig1" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000096963_lay-000162825.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000205583-01-000096963</illusnum>
+          </figure>
+          <procstep id="pro2" translate="no">
+            <para id="par3" translate="yes">Remove the cap from the rear of the brake back-plate.</para>
+          </procstep>
+          <procstep id="pro4" translate="no">
+            <para id="par4" translate="yes">Insert a screwdriver <markref format="dita" href="#d1e26/fig1" scope="local" translate="no" type="figure">2</markref> in the hole at the rear of the brake back-plate.</para>
+          </procstep>
+          <procstep id="pro5" translate="no">
+            <para id="par5" translate="yes">Push the handbrake lever backwards using the screwdriver to release the brake drum.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e76" translate="no">
+      <title translate="yes">Removal operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <marklayer translate="no">
+            <mark id="2ccd3fff-fb6f-44d8-a9e4-a4e10723c1c8" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">3</designation>
+            </mark>
+            <mark id="c5bf8379-b659-4731-94b4-98f43b5aa94f" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">4</designation>
+            </mark>
+          </marklayer>
+          <figure id="fig2" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018136_lay-000162908.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000205583-02-000018136</illusnum>
+          </figure>
+          <figure id="fig3" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018137_lay-000162907.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RPR-000205583-03-000018137</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <procstep translate="no">
+            <para translate="yes">Remove:</para>
+            <ul translate="no">
+              <li translate="yes">the rear brake drum cap<markref format="dita" href="#d1e76/fig2" scope="local" translate="no" type="figure">3</markref>,</li>
+              <li translate="yes">the rear brake drum nut <markref format="dita" href="#d1e76/fig3" scope="local" translate="no" type="figure">4</markref>.</li>
+            </ul>
+          </procstep>
+          <procstep id="pro6" translate="no">
+            <para id="par6" translate="yes">Remove the rear brake drum using the tools <toolref format="dita" href="x-wc://file=OS-000018006.xml" scope="external" translate="no" type="specifictool"><linkdesc>Universal driveshaft push back tool (plate and claws without ram).</linkdesc><linkvalue>Tav.1050-04</linkvalue></toolref> and <toolref format="dita" href="x-wc://file=OS-000016330.xml" scope="external" translate="no" type="specifictool"><linkdesc>Screw jack for tools Tav. 1420, Tav.1050-04 , Tar. 1454, Tar. 1850.</linkdesc><linkvalue>Tav.1420-01</linkvalue></toolref>, if necessary.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+  <procedure id="d1e88" otherprops="WF-SET='01,61'" translate="no">
+    <title translate="yes">refitting</title>
+    <procedure id="d1e92" translate="no">
+      <title translate="yes">Refitting preparation operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Remove any dust from the drum and brake shoes using a brake cleaner.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Check the internal diameter of the drum<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3506767"><linkdesc>rear brake drum assembly : description</linkdesc><linkvalue>GIEMR-000994</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">
+              <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">rear stub-axle nut</prs>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">
+              <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">rear drum cap</prs>.</para>
+            <noteR translate="no" type="note">
+              <para translate="yes">Note:</para>
+              <para translate="yes">Do not apply grease to the following components:</para>
+              <ul translate="no">
+                <li translate="yes">the brake drum,</li>
+                <li translate="yes">the stub axle,</li>
+                <li translate="yes">the brake drum nut,</li>
+                <li translate="yes">the brake drum cap.</li>
+              </ul>
+            </noteR>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e113" translate="no">
+      <title translate="yes">Refitting operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit:</para>
+            <ul translate="no">
+              <li translate="yes">the rear brake drum,</li>
+              <li translate="yes">the stub axle washer if fitted,</li>
+              <li translate="yes">the stub axle nut.</li>
+            </ul>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep id="pro1" translate="no">
+            <para id="par1" translate="yes">Pre-tighten the stub axle nut to 80 N.m.</para>
+          </procstep>
+          <procstep translate="no">
+            <para translate="yes">Carry out 4 rotations of the brake drum.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="||X64|X65||X35|X52/PHAS1||X06" translate="no">
+          <procstep translate="no">
+            <para translate="yes">Torque tighten the stub axle nut<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3482490"><linkdesc>rear axle assembly : tightening torque</linkdesc><linkvalue>GIEMR-000997</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps appl="X87|X10|||XJF||X52/PHAS2|X98|" translate="no">
+          <procstep id="pro3" translate="no">
+            <para id="par2" translate="yes">Torque tighten the stub axle nut <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3507334"><linkdesc>rear stub axle carrier assembly : exploded view</linkdesc><linkvalue>GIEMR-001010</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">The space between the drum bearing and the plug must be clean and free of moisture. Do not apply consumables to this area.</para>
+          </noteR>
+          <procstep translate="no">
+            <para translate="yes">Fit the drum cap.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+    <procedure id="d1e149" translate="no">
+      <title translate="yes">Final operation</title>
+      <procbody translate="no">
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Adjust:</para>
+            <ul translate="no">
+              <li translate="yes">the brake shoes by repeatedly depressing the brake pedal,</li>
+            </ul>
+          </procstep>
+        </procsteps>
+        <procsteps appl="X06|X64|X65|X10|X87|X98|X52|X35|XJF/SSFRPA" translate="no">
+          <procstep id="pro7" translate="no">
+            <para id="par7" translate="yes">adjust the handbrake <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504187"><linkdesc>parking brake control : removal - refitting</linkdesc><linkvalue>GIEMR-000594</linkvalue></sieref></para>
+          </procstep>
+        </procsteps>
+        <procsteps translate="no">
+          <procstep translate="no">
+            <para translate="yes">Refit the rear wheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435"><linkdesc>wheel : removal - refitting</linkdesc><linkvalue>GIEMR-001965</linkvalue></sieref>.</para>
+          </procstep>
+        </procsteps>
+      </procbody>
+    </procedure>
+  </procedure>
+</procedure>

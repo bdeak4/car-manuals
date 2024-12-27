@@ -1,0 +1,33 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af5a95708813b00dc4cee36",
+      "filename": "plastic bodywork component : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000314970.xml"
+    },
+    {
+      "id": "5af5b0d808813b00dc4cf521",
+      "filename": "plastic bodywork component : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000314950.xml"
+    },
+    {
+      "id": "5af5b39408813b00dc4cf7ba",
+      "filename": "plastic bodywork component : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000314936.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

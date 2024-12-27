@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2018, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X33|X35|X38/APL03|X44|X52|X54|X57|X61|X62|X63|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XHA|XZG|XZJ|XJD|XFA|XJA|XJB|XJE|XJL|XJH|XJK|XJF|XFK|XCB|XHN|XBB|X58|XBC|X55|X56|XDD|XBG|X59|X53|X17|XBA|X75|XJC|XFF|XZH|X45|X27|XRQ|X47|X29|XTP|X48|XEF|X40|X41|X42|X43|X64|X84|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000443489" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">tyre : precautions for the repair</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="28/06/21 10:43" translate="no"/>
+      <revised modified="30/06/21 14:10" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">tyre : precautions for the repair</siename>
+      <sieversion translate="no">K.2</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000231613</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <?Pub Caret -2?>
+  <description id="d1e87" translate="no">
+    <title translate="yes">cleanliness</title>
+    <descbody translate="no">
+      <para translate="yes">Clean:</para>
+      <ul translate="no">
+        <li translate="yes">the tyre bead,</li>
+        <li translate="yes">the tyre bead/wheel rim contact surface.</li>
+      </ul>
+      <para translate="yes">Remove any stones trapped in the tyre tread.</para>
+    </descbody>
+  </description>
+  <description id="d1e100" translate="no">
+    <title translate="yes">general recommendations</title>
+    <descbody translate="no">
+      <noteR translate="no" type="caution">
+        <para translate="yes">If checking the tyre pressure when hot, increase the tyre inflation pressure <technicalvalue translate="no"><value translate="yes">0.2 </value></technicalvalue>to <technicalvalue translate="no"><value translate="yes">0.3 </value></technicalvalue>bar above the recommended pressure.</para>
+      </noteR>
+      <noteR translate="no" type="caution">
+        <para translate="yes">In order to remove any flat spots on the tread after the vehicle has stopped, it is essential to carry out a road test for a minimum distance of <technicalvalue translate="no"><value translate="yes">1.2 miles (2 km) </value></technicalvalue>before balancing the wheels.</para>
+      </noteR>
+      <noteR translate="no" type="caution">
+        <para translate="yes">To avoid detachment of the balance weights, use only weights which correspond to the vehicle wheel rims.</para>
+      </noteR>
+    </descbody>
+  </description>
+  <description appl="XFE/TR4X4||||||||||||X79/TR4X4||||||||||||||||||||XZG/TR4X4|XJD/TR4X4||||||||||||||||||" id="d1e125" translate="no">
+    <title translate="yes">general recommendations</title>
+    <descbody translate="no">
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Irrespective of the mode selected, do not start the engine if one or more wheels are not in contact with the ground (when the vehicle is on a jack or roller bench).</para>
+      </noteR>
+      <noteR translate="no" type="note">
+        <para translate="yes">Note:</para>
+        <para translate="yes">Always ensure tyres with identical specifications are fitted to all four wheels (brand, size, structure, wear). Fitting tyres of different sizes to the front and rear wheels and/or left and right wheels may have serious consequences for the tyres, gearbox, transfer gearbox and the rear differential pinions.</para>
+      </noteR>
+    </descbody>
+  </description>
+  <description appl="|||||X07||||||||||||||||||||||||||||||||||||||||||||||" id="des1" translate="no">
+    <title translate="yes">general recommendations</title>
+    <descbody translate="no">
+      <noteR translate="no" type="caution">
+        <ul translate="no">
+          <li translate="yes">
+            <para translate="yes">For your safety, and according to regulation, only tyres that are identical to the original tyres or recommended by a brand representative must be used. Non-observation of this recommendation may affect the overall stability, manoeuvrability and braking performance as well as the clearance between the body and the tyres. Some of the consequences may include loss of control over the vehicle under certain driving conditions. </para>
+          </li>
+        </ul>
+        <ul translate="no">
+          <li translate="yes">
+            <para id="par14" translate="yes">All four tyres on the vehicle must be of the same brand and model. It is not necessary to change all of the tyres in the case of insignificant wear, however it is recommended to change both tyres on any axle (front or rear). </para>
+          </li>
+        </ul>
+        <ul translate="no">
+          <li translate="yes">
+            <para id="par15" translate="yes">If a customer's vehicle is fitted with four summer tyres that are different to the three tyres as recommended in the table below (especially in the case where different brands are used at the front and rear), it is recommended to change all four tyres to those recommended below.</para>
+          </li>
+        </ul>
+      </noteR>
+      <table id="tab1" translate="no">
+        <title translate="yes">Table of original tyres</title>
+        <tgroup cols="5" translate="no">
+          <colspec colname="col1" colwidth="1.00*" translate="no"/>
+          <colspec colname="col2" colwidth="1.00*" translate="no"/>
+          <colspec colname="COLSPEC0" translate="no"/>
+          <colspec colname="col3" colwidth="1.00*" translate="no"/>
+          <colspec colname="col4" translate="no"/>
+          <thead translate="no">
+            <row translate="no">
+              <entry translate="yes" valign="top">                 <para id="par1" translate="yes">Brand</para>               </entry>
+              <entry translate="yes" valign="top">                 <para id="par2" translate="yes">Type</para>               </entry>
+              <entry translate="yes" valign="top">
+                <para id="par10" translate="yes">Tyre model</para>
+              </entry>
+              <entry translate="yes" valign="top">                 <para id="par3" translate="yes">Front dimensions</para>               </entry>
+              <entry translate="yes" valign="top">                 <para id="par4" translate="yes">Rear dimensions</para>               </entry>
+            </row>
+          </thead>
+          <tbody translate="no">
+            <row translate="no" valign="middle">
+              <entry align="center" morerows="2" translate="yes">                 <para id="par5" translate="yes">RENAULT APL03</para>               </entry>
+              <entry align="center" translate="yes">                 <para id="par6" translate="yes">B07/RTOL15, RALU15</para>               </entry>
+              <entry align="center" translate="yes">
+                <para id="par11" translate="yes">Michelin Energy Saver + </para>
+                <para id="par12" translate="yes">Nexen Nblue Premium</para>
+              </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">165/65 R15 81T</para>               </entry>
+              <entry align="center" translate="yes">                 <para id="par7" translate="yes">185/60 R15 84T</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para id="par8" translate="yes">B07, C07, E07 / RALU16</para>               </entry>
+              <entry align="center" translate="yes">
+                <para id="par13" translate="yes">Continental Eco Contact 5</para>
+              </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">185/50 R16 81H</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">205/45 R16 83H</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para translate="yes">B07 / RALU17</para>               </entry>
+              <entry align="center" translate="yes">
+                <para id="par16" translate="yes">Yokohama Bluearth A</para>
+              </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">185/45 R17 78H</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">205/40 R17 80H</para>               </entry>
+            </row>
+            <row translate="no">
+              <entry translate="yes"/>
+              <entry translate="yes"/>
+              <entry translate="yes"/>
+              <entry translate="yes"/>
+              <entry translate="yes"/>
+            </row>
+            <row translate="no" valign="middle">
+              <entry morerows="4" translate="yes">
+                <para id="par17" translate="yes">DAIMLER APL12</para>
+              </entry>
+              <entry align="center" translate="yes">
+                <para id="par9" translate="yes">B07,C07,E07/RTOL15, RALU15/ELEC</para>
+              </entry>
+              <entry align="center" translate="yes"/>
+              <entry align="center" translate="yes">                 <para translate="yes">165/65 R15 81T</para>               </entry>
+              <entry align="center" translate="yes">                <para id="par18" translate="yes">185/60 R15 84T</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para translate="yes">C07,E07/RL1617/ESS</para>               </entry>
+              <entry align="center" translate="yes"/>
+              <entry align="center" translate="yes">                 <para translate="yes">185/50 R16 81H</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">205/40 R17 80H</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para translate="yes">B07,C07,E07/RALU16/ESS</para>               </entry>
+              <entry align="center" translate="yes"/>
+              <entry align="center" translate="yes">                 <para translate="yes">185/50 R16 81H</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">205/45 R16 83H</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para translate="yes">C07,E07/RALU16/ELEC</para>               </entry>
+              <entry align="center" translate="yes"/>
+              <entry align="center" translate="yes">                 <para translate="yes">185/50 R16 81H</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">205/45 R16 83H</para>               </entry>
+            </row>
+            <row translate="no" valign="middle">
+              <entry align="center" translate="yes">                 <para translate="yes">B07,C07,E07/RTOL15,RALU15/ELEC</para>               </entry>
+              <entry align="center" translate="yes"/>
+              <entry align="center" translate="yes">                 <para translate="yes">165/65 R15 81T</para>               </entry>
+              <entry align="center" translate="yes">                 <para translate="yes">185/60 R15 84T </para>               </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </descbody>
+  </description>
+</description>

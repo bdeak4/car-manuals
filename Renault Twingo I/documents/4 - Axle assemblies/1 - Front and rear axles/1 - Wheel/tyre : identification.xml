@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X33|X35|X38/APL03|X44|X52|X61|X62|X64|X65/PE2009|X67|X70|X73|X74|X76/APL03|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFE|XHA|XZG|XFF|XZJ|XBA|XBB|XJD|XJC|XJL|XJH|XJK|XFD|XBG|XHN|XCB|X57|X58|XBC|X55|X56|XJA|XDD|X59|X53|X54|X17|XFA|X75|XJE|XJB|XJF|XFK|XZH|X45|X27|XRQ|X47|X29|XTP|X48|XEF|X40|X41|X42|X43|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000233382" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="no">tyre : identification</title>
+
+
+<descprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="20/06/22 21:16" translate="no"/>
+<revised modified="10/10/24 13:42" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">tyre : identification</siename>
+<sieversion translate="no">L.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000233382</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no">
+<para translate="yes">Example of a tyre identification mark:<ingredientname translate="yes">205/65 R 15 91 V</ingredientname>.</para>
+<descsection translate="no">
+<figure id="13-05-02-3-repair-13-05-02-02-07-2-21-3" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000001181_LAY-000061504.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000233382-05-02-3-repair-13-05-02-02-07-2-21-3-000001181</illusnum></figure>
+<figure id="13-05-02-27-repair-13-05-02-02-07-2-21-2" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000027681_LAY-000061503.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000233382-05-02-27-repair-13-05-02-02-07-2-21-2-000027681</illusnum></figure>
+</descsection>
+<descsection translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="15.836832633473307%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="84.1631673665267%" translate="no"/>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">205</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Tyre width in mm (L)</para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">65</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Height/width ratio</para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">R</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Radial structure</para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">15</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Internal diameter in inches (c)</para><?Pub Caret 24?> 
+                    </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">91</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Load index</para>                      </entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">V</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Speed code</para>                      </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<title translate="yes">Speed code table:</title>
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="70.59175134488942%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="29.40824865511058%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">Code</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">Maximum speed in mph (km/h)</para>               
+      </entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry align="left" colname="1" translate="yes" valign="middle"><para id="par1" translate="yes">R</para></entry>
+<entry align="left" colname="2" translate="yes">                 
+       <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">170</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry align="left" colname="1" translate="yes">                 
+       <para translate="yes">S</para>                      </entry>
+<entry align="left" colname="2" translate="yes">                 
+       <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">180</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">T</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">190</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">U</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">200</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">H</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">210</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">V</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">240</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">ZR</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">above<technicalvalue translate="no"><value translate="yes">240</value></technicalvalue>                     
+   </para>                      </entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">W</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">270</value></technicalvalue>                         </para>                      </entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes">                         <para translate="yes">Y</para>                      </entry>
+<entry colname="2" translate="yes">                         <para translate="yes">                            <technicalvalue translate="no"><value translate="yes">300</value></technicalvalue>                         </para>                      </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>

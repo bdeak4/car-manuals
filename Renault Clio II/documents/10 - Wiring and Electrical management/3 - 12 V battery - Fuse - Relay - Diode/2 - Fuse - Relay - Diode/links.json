@@ -1,0 +1,65 @@
+{
+  "PR": [
+    {
+      "id": "1247_874010",
+      "filename": "1247_874010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01007405.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-7",
+      "filename": "M.R. 338 - 7 Trim and Upholstery phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-7.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-ADD",
+      "filename": "M.R. 338 -5-7- ADD Features of vehicles from June 2001 phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-ADD.pdf"
+    },
+    {
+      "id": "5af587fcc3da7a00dc229dd1",
+      "filename": "fuses: component parts location.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000309335.xml"
+    },
+    {
+      "id": "5af94abd3ef64d00e0ef65c3",
+      "filename": "engine compartment connection unit : component parts location.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000303270.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "MR-432-X65-80D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-80D000.pdf"
+    },
+    {
+      "id": "MR-432-X65-82D000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-82D000.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21904.png"
+    }
+  ]
+}

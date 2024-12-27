@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X76|X77|X83/APL03|X91|X61|X35|X43|X52" id="RDE-000092354" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="yes">exhaust: precautions for the repair</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Validé" translate="no"/>
+    <critdates translate="no">
+      <created date="10/08/18 14:16" translate="no"/>
+      <revised modified="10/08/18 14:16" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">échappement : précautions pour la réparation</siename>
+      <sieversion translate="no">C.1</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000092354</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <description id="d1e24" translate="no">
+    <title translate="yes">parts and consumables for repair</title>
+    <description id="d1e28" translate="no">
+      <title translate="yes">Parts always to be replaced:</title>
+      <descbody translate="no">
+        <para translate="yes">- the exhaust sleeve (if fitted)</para>
+        <para translate="yes">- the seal or sealing ring on the connection between the catalytic converter or catalytic pre-converter and the rest of the exhaust system</para>
+        <para translate="yes">- the exhaust clip(s) (if fitted)</para>
+      </descbody>
+    </description>
+    <description id="d1e38" translate="no">
+      <title translate="yes">Consumables (see Part number in Technical Note 5068A, 04B, Consumables - Products):</title>
+      <descbody translate="no">
+        <para translate="yes">- exhaust mastic</para>
+        <para translate="yes">- surface cleaner</para>
+        <para translate="yes">- abrasive pads</para>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e48" translate="no">
+    <title translate="yes">Advice to observe</title>
+    <descbody translate="no">
+      <noteR translate="no" type="warning">
+        <para translate="yes">Do not park and run the engine in a place where combustible substances and materials such as grass or leaves can come into contact with the hot exhaust system.</para>
+      </noteR>
+      <noteR translate="no" type="warning">
+        <para translate="yes">Catalytic converters contain ceramic fibres, these are contained within a closed unit, and cannot disperse. Drilling or cutting catalytic converters is prohibited.</para>
+      </noteR>
+      <para translate="yes">1 - During removal and refitting, the catalytic converter or catalytic pre-converter must not receive any knocks or impacts as this could damage it.</para>
+      <para translate="yes">2 - The whole exhaust pipe is made of stainless steel.</para>
+      <para translate="yes">3 - After working on the bracket between the catalytic converter or catalytic pre-converter and the rest of the exhaust system, ensure that the connection is perfectly sealed.</para>
+      <para translate="yes">To do this:</para>
+      <ul translate="no">
+        <li translate="yes">clean the pressure faces of the connection using the <ingredientname translate="yes">abrasive pads </ingredientname>,</li>
+        <li translate="yes">degrease the bearing faces of the connection using <ingredientname translate="yes">surface cleaner </ingredientname>and clean cloths,</li>
+        <li translate="yes">always replace the seal or sealing ring on the connection.</li>
+      </ul>
+    </descbody>
+  </description>
+  <description id="d1e79" translate="no">
+    <title translate="yes">special notes on the single unit exhaust pipe</title>
+    <description id="d1e83" translate="no">
+      <title translate="yes">Cutting the single unit exhaust pipe</title>
+      <descbody translate="no">
+        <para translate="yes">The exhaust pipes are the "single unit" type.</para>
+        <para translate="yes">To replace different parts of the exhaust system it must be cut.</para>
+        <para translate="yes">To do this be sure to carry out these precautions in the following order:</para>
+        <ul translate="no">
+          <li translate="yes">correctly identify the area to be cut, as explained below,</li>
+          <li translate="yes">use the cutting tool correctly <toolref format="dita" href="x-wc://file=OS-000000143.xml" scope="external" translate="no" type="specifictool"><linkdesc>Exhaust pipe cutter (diameter 35/50 mm and diameter 50/65mm). Complete kit in a case.</linkdesc><linkvalue>Mot.1199-01</linkvalue></toolref>,</li>
+          <li translate="yes">position the exhaust sleeve correctly.</li>
+        </ul>
+      </descbody>
+    </description>
+    <description id="d1e105" translate="no">
+      <title translate="yes">Identifying the area of the exhaust system to be cut</title>
+      <descbody translate="no">
+        <para translate="yes">Two marks made on the exhaust system define the area to be cut <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3529862"><linkdesc>exhaust : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002314</linkvalue></sieref>(see MR for vehicle concerned, 19B, Exhaust).</para>
+        <descsection translate="no">
+          <marklayer id="marklayer-d1e112" translate="no">
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.1" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">P2</designation>
+            </mark>
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.2" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">P1</designation>
+            </mark>
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.3" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">D</designation>
+            </mark>
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.4" translate="no">
+              <mcomponent translate="no">
+                <label translate="no">DIMENSION:90 mm</label>
+              </mcomponent>
+              <designation translate="no">X1</designation>
+            </mark>
+          </marklayer>
+          <figure id="10-08-11-repair-10-08-02-60-1-21-1" translate="no">
+            <title translate="yes">Example of cutting area</title>
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000005734_LAY-000035880.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-11-repair-10-08-02-60-1-21-1-000005734</illusnum>
+          </figure>
+          <figure id="10-08-02-1-repair-10-08-02-60-1-21-2" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000622_LAY-000035881.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-02-1-repair-10-08-02-60-1-21-2-000000622</illusnum>
+          </figure>
+          <para translate="yes">Before cutting the exhaust system, draw a line <markref format="dita" href="#d1e105/10-08-02-1-repair-10-08-02-60-1-21-2" scope="local" translate="no" type="figure">D</markref> between the two marks <markref format="dita" href="#d1e105/10-08-02-1-repair-10-08-02-60-1-21-2" scope="local" translate="no" type="figure">P1</markref> and <markref format="dita" href="#d1e105/10-08-02-1-repair-10-08-02-60-1-21-2" scope="local" translate="no" type="figure">P2</markref>.</para>
+          <para translate="yes">The distance between the two marks on the exhaust pipe is <markref format="dita" href="#d1e105/10-08-02-1-repair-10-08-02-60-1-21-2" scope="local" translate="no" type="figure">X1</markref>: <technicalvalue translate="no"><value translate="yes">90 mm </value></technicalvalue>.</para>
+        </descsection>
+      </descbody>
+    </description>
+    <description id="d1e174" translate="no">
+      <title translate="yes">Operate tool Mot. 1199-01</title>
+      <descbody translate="no">
+        <descsection translate="no">
+          <marklayer id="marklayer-d1e176" translate="no">
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.5" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">1</designation>
+            </mark>
+          </marklayer>
+          <figure id="10-08-3-repair-10-08-02-60-1-21-4" translate="no">
+            
+            <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000001921_LAY-000035883.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-3-repair-10-08-02-60-1-21-4-000001921</illusnum>
+          </figure>
+          <para translate="yes">Fit the <toolref format="dita" href="x-wc://file=OS-000000143.xml" scope="external" translate="no" type="specifictool"><linkdesc>Exhaust pipe cutter (diameter 35/50 mm and diameter 50/65mm). Complete kit in a case.</linkdesc><linkvalue>Mot.1199-01</linkvalue></toolref><markref format="dita" href="#d1e174/10-08-3-repair-10-08-02-60-1-21-4" scope="local" translate="no" type="figure">1</markref> on the exhaust pipe.</para>
+        </descsection>
+        <para translate="yes">Tighten the two bolts on the tool until they touch the pipe in order to clamp the tool onto the pipe.</para>
+        <para translate="yes">Turn the cutting tool using the handle and pressing it against the pipe (as indicated in the diagram above).</para>
+        <para translate="yes">Tighten the two bolts on the tool whilst cutting, until the pipe is completely cut.</para>
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">Do not over-tighten the tool onto the pipe to avoid deforming it.</para>
+        </noteR>
+        <para translate="yes">Once the pipe is cut, file and deburr the end of the pipe to be used on the vehicle again.</para>
+      </descbody>
+    </description>
+    <description id="d1e212" translate="no">
+      <title translate="yes">Positioning the exhaust sleeve</title>
+      <descbody translate="no">
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">Do not reuse an old exhaust sleeve.</para>
+        </noteR>
+        <descsection translate="no">
+          <marklayer id="marklayer-d1e219" translate="no">
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.6" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">2</designation>
+            </mark>
+          </marklayer>
+          <figure id="10-08-6-repair-10-08-02-60-1-21-5" translate="no">
+            <title translate="yes">Exhaust sleeve with 1 bolt</title>
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000000902_LAY-000035884.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-6-repair-10-08-02-60-1-21-5-000000902</illusnum>
+          </figure>
+          <figure id="10-08-55-repair-10-08-02-60-1-21-6" translate="no">
+            <title translate="yes">Exhaust sleeve with 2 bolts</title>
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030586_LAY-000035885.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-55-repair-10-08-02-60-1-21-6-000030586</illusnum>
+          </figure>
+          <para translate="yes">Fit the exhaust sleeve onto the part of the exhaust system fitted to the vehicle.</para>
+          <para translate="yes">Position the pipe onto the lugs <markref format="dita" href="#d1e212/10-08-6-repair-10-08-02-60-1-21-5" scope="local" translate="no" type="figure">2</markref> inside the exhaust sleeve.</para>
+        </descsection>
+        <para translate="yes">Tighten the exhaust sleeve bolt(s) slightly (depending on the version).</para>
+        <para translate="yes">Position the second part of the exhaust system under the vehicle, fitting it in the exhaust sleeve.</para>
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">If necessary, use a workshop jack to lift and hold the heavy and bulky components of the exhaust system.</para>
+        </noteR>
+        <para translate="yes">Position the second exhaust pipe onto the lugs inside the exhaust sleeve.</para>
+        <descsection translate="no">
+          <marklayer id="marklayer-d1e260" translate="no">
+            <mark id="MARK.REPAIR-10X08-02X60-1-21.7" translate="no">
+              <mcomponent translate="no">
+                <label translate="no"/>
+              </mcomponent>
+              <designation translate="no">3</designation>
+            </mark>
+          </marklayer>
+          <figure id="10-08-13-repair-10-08-02-60-1-21-7" translate="no">
+            
+            <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000005736_LAY-000035886.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+            <illusnum>RDE-000092354-08-13-repair-10-08-02-60-1-21-7-000005736</illusnum>
+            <?Pub Caret -1?>
+          </figure>
+          <para translate="yes">Check that the two cut marks <markref format="dita" href="#d1e212/10-08-13-repair-10-08-02-60-1-21-7" scope="local" translate="no" type="figure">3</markref> are aligned (if applicable).</para>
+        </descsection>
+        <para translate="yes">Position the sleeve so that there is no risk of contact between its bolt or bolts and the heat shields.</para>
+        <para translate="yes">Torque tighten:</para>
+        <ul translate="no">
+          <li translate="yes">the <torque translate="no"><torquedobject translate="yes">exhaust sleeve nut with 1 bolt </torquedobject><technicalvalue translate="no"><value translate="yes">25 N.m </value></technicalvalue></torque>(if fitted),</li>
+          <li translate="yes">the <torque translate="no"><torquedobject translate="yes">exhaust sleeve nuts with 2 bolts </torquedobject><technicalvalue translate="no"><value translate="yes">18 N.m </value></technicalvalue></torque>(if fitted).</li>
+        </ul>
+        <para translate="yes">Check the following and deal with if necessary:</para>
+        <ul translate="no">
+          <li translate="yes">no underbody contact between the exhaust system and the heat shields,</li>
+          <li translate="yes">all of the heat shields are present and secure.</li>
+        </ul>
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">Any damaged heat shields must be replaced.</para>
+        </noteR>
+        <para translate="yes">Start the engine.</para>
+        <para translate="yes">Check that there are no leaks: deal with any leaks.</para>
+        <noteR translate="no" type="note">
+          <para translate="yes">Note:</para>
+          <para translate="yes">If there are leaks from the <ingredientname translate="yes">exhaust sleeves with 1 bolt </ingredientname>, apply <ingredientname translate="yes">exhaust mastic </ingredientname>to the sleeve <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379"><linkdesc>vehicle : parts and consumables for the repair</linkdesc><linkvalue>GIEMR-002445</linkvalue></sieref> (04B, Consumables - Products).</para>
+          <para translate="yes">If the application of exhaust mastic does not fix the leak:</para>
+          <ul translate="no">
+            <li translate="yes">remove and replace the used exhaust sleeve,</li>
+            <li translate="yes">check the condition of the exhaust pipes (condition of the pipe surface, deburring of the area cut, damage to the pipes).</li>
+            <li translate="yes">fit the new sleeve in accordance with the instructions given before.</li>
+          </ul>
+        </noteR>
+      </descbody>
+    </description>
+  </description>
+</description>

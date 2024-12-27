@@ -1,0 +1,180 @@
+{
+  "PR": [
+    {
+      "id": "1247_310111",
+      "filename": "1247_310111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01058811.svg"
+    },
+    {
+      "id": "1247_310210",
+      "filename": "1247_310210.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01060949.svg"
+    },
+    {
+      "id": "1247_313010",
+      "filename": "1247_313010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084108.svg"
+    },
+    {
+      "id": "1247_314012",
+      "filename": "1247_314012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01047580.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0606",
+      "filename": "Conversions of rear section of rear floor, and rear end panel for Renault Sport version.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0606.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "3588",
+      "filename": "Special notes on Clio II vehicles from June 2001 fitted with ABS and ESP.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3588.pdf"
+    },
+    {
+      "id": "2945",
+      "filename": "REPLACING THE RADIATOR MOUNTING BRACKETS ON THE ENGINE CRADLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2945.pdf"
+    },
+    {
+      "id": "3633",
+      "filename": "WHEEL BEARING FAULT FINDING PROCEDURE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3633.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-3",
+      "filename": "M.R. 337 - 3 Chassis phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-3.pdf"
+    },
+    {
+      "id": "5af943273ef64d00e0ef5e59",
+      "filename": "front axle assembly: adjustment value.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000195983.xml"
+    },
+    {
+      "id": "5af2fb5ec3da7a00dc225fc3",
+      "filename": "front subframe rear mounting : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000317593.xml"
+    },
+    {
+      "id": "5af5a09cc3da7a00dc22c324",
+      "filename": "front axle assembly : tightening torque.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000195524.xml"
+    },
+    {
+      "id": "5af5b13308813b00dc4cf588",
+      "filename": "front axle components : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000195950.xml"
+    },
+    {
+      "id": "5af943003ef64d00e0ef5e26",
+      "filename": "front subframe : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000196458.xml"
+    },
+    {
+      "id": "5af943c23ef64d00e0ef5f04",
+      "filename": "underbody height : adjustment value.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000199639.xml"
+    },
+    {
+      "id": "5af2feb9c3da7a00dc226355",
+      "filename": "front stub axle carrier assembly : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000200842.xml"
+    },
+    {
+      "id": "5af56904c3da7a00dc227dcb",
+      "filename": "front subframe: removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000189014.xml"
+    },
+    {
+      "id": "5af5697cc3da7a00dc227e48",
+      "filename": "front half shaft lower arm ball joint : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000199256.xml"
+    },
+    {
+      "id": "5af56b66c3da7a00dc228064",
+      "filename": "front half shaft lower arm : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000202602.xml"
+    },
+    {
+      "id": "5af5be71f04d3300dc2426cc",
+      "filename": "lower suspension arm rubber bush : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000199236.xml"
+    },
+    {
+      "id": "5af94f8d3ef64d00e0ef6aac",
+      "filename": "front hub carrier bearing : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000198326.xml"
+    },
+    {
+      "id": "5b08155ed02e7d00dc4564fa",
+      "filename": "ball joint uncoupling tool : use.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000007833.xml"
+    },
+    {
+      "id": "62140b7ff9376c767755e739",
+      "filename": "front half shaft lower arm ball joint : check.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001846055.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3265",
+      "filename": "ELECTRONICALLY CONTROLLED HYDRAULIC SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3265.pdf"
+    },
+    {
+      "id": "3973",
+      "filename": "FAULT FINDING BOSCH ABS 8.0.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3973.pdf"
+    },
+    {
+      "id": "5088",
+      "filename": "Fault finding on vibrations.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/5088.pdf"
+    },
+    {
+      "id": "3909",
+      "filename": "FAULT FINDING ABS - Electronic stability program Bosch 5.7 Vdiag no.: 08.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3909.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "MR-432-X65-38C000",
+      "filename": "ABS BOSCH 8.1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-38C000.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-3",
+      "filename": "M.R. 346 - 3 Chassis.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-3.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21922.png"
+    }
+  ]
+}

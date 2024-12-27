@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/D4D,D4F,D7D,D7F|X56/F4P,F4R,K4M|X57/D7F|X64/F4P,F4R,K4J|X66/F4R|X64/B64,D64,E64,F64,L64,S64/K4M|X64/J64/K4M/706,708,709,712|X65/K7J/700|X65/D4D,D7D,D7F,F4R,K4J" id="RPR-000124501" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+<title translate="yes">oxygen sensor : removal - refitting</title>
+
+
+<procprolog translate="no">
+
+
+<status name="Brouillon" translate="no"/>
+<critdates translate="no">
+<created date="21/12/15 18:43" translate="no"/>
+<revised modified="18/01/16 11:44" translate="no"/></critdates>
+<procmetadata translate="no">
+<siename translate="no">oxygen sensor : removal - refitting</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Procedure</sietype>
+<sienumber translate="no">RPR-000124501</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</procmetadata>
+</procprolog><?Pub Caret -2?>
+<procbody translate="no"><?Pub Dtl?>
+<procsteps translate="no">
+<procstep translate="no">
+<noteR translate="no" type="caution">
+<para translate="yes">Do not use any product designed to improve the
+electrical contact in the injection computer and oxygen sensor connectors
+or on the bodies of the oxygen sensors.</para>
+<para translate="yes">Failure to respect this advice causes the oxygen
+sensor to malfunction and results in failure to comply with the emission
+control standard.</para>
+</noteR>
+<noteR translate="no" type="caution">
+<para translate="yes">If the connections are corroded, repair the
+wiring (see Wiring: Precautions for repair )(Technical Note 6015A,
+88A, Wiring).</para>
+</noteR>
+</procstep>
+</procsteps>
+</procbody>
+<procedure id="pro1" translate="no"><?Pub Dtl?>
+<title translate="yes">Remove preparation operation</title>
+<procbody translate="no"><?Pub Dtl?>
+<procsteps translate="no">
+<procstep id="pro3" translate="no"><para id="par1" translate="yes"><?Pub Dtl?>Position the vehicle on a two-post lift<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3483837"><linkdesc>general vehicle information : towing and lifting</linkdesc><linkvalue>GIEMR-001424</linkvalue>
+</sieref></para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e81" otherprops="WF-SET='01,34'" translate="no">
+<title translate="yes">removal OPERATION</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer translate="no"><mark id="3ef9c55a-3f27-4f2e-b52a-da619a9cf649" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">1</designation></mark></marklayer>
+<figure id="fig1" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000075803_c@[users[lb04499[appdata[local[temp[aptexport[fig1.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep id="pro10" translate="no"/>
+</procsteps>
+<procsteps translate="no">
+<procstep id="pro4" translate="no"><para id="par2" translate="yes">Remove the upstream oxygen sensor connector from its mounting <b translate="yes">(1)</b> by sliding it.</para></procstep>
+<procstep id="pro2" translate="no"><para id="par3" translate="yes">Disconnect the upstream oxygen sensor connector.</para></procstep>
+</procsteps>
+<procsteps translate="no"><marklayer translate="no"><mark id="d651a9fa-b12d-4e73-8f2a-3920c0cdca15" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">2</designation></mark></marklayer>
+<figure id="fig2" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000075801_c@[users[lb04499[appdata[local[temp[aptexport[fig2.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/></figure>
+<procstep id="pro5" translate="no"><para id="par4" translate="yes">Remove the upstream oxygen sensor <b translate="yes">(2)</b> using
+the 22 mm socket for removal — refitting of the oxygen sensors <toolref format="dita" href="x-wc://file=OS-000000829.xml" scope="external" translate="no" type="specifictool"><linkdesc translate="no">22 mm socket for removal - refitting of oxygen sensors.</linkdesc><linkvalue translate="no">Mot. 1495-01</linkvalue></toolref></para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e89" otherprops="WF-SET='01,61'" translate="no">
+<title translate="yes">refitting</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep id="pro7" translate="no"><para id="par5" translate="yes">Refit the upstream oxygen sensor.</para></procstep>
+<procstep id="pro6" translate="no"><para id="par6" translate="yes"><torque translate="no"><torquedobject translate="yes">upstream oxygen
+sensor</torquedobject><technicalvalue translate="no"><value translate="yes">50</value><uom translate="yes">N.m</uom>
+</technicalvalue></torque>using the tool 22 mm socket for removal
+— refitting of oxygen sensors<toolref format="dita" href="x-wc://file=OS-000000829.xml" scope="external" translate="no" type="specifictool"><linkdesc translate="no">22 mm socket for removal - refitting of oxygen sensors.</linkdesc><linkvalue translate="no">Mot. 1495-01</linkvalue></toolref></para></procstep>
+<procstep id="pro8" translate="no"><para id="par7" translate="yes">Connect the upstream oxygen sensor connector.</para></procstep>
+<procstep id="pro9" translate="no"><para id="par8" translate="yes">Refit the upstream oxygen sensor connector to its mounting by sliding
+it.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>

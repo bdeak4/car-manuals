@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XFF|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XJL|XJH|XJK|XJF|XFK" id="RDE-001487350" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="yes">post-welding anti-corrosion protection for mating face : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="06/02/20 09:38" translate="no"/>
+         <revised modified="06/02/20 09:50" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">post-welding anti-corrosion protection for mating face : description</siename>
+         <sieversion translate="no">A.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-001487350</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no">
+      <para translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3521693"> <linkdesc>after assembly anti-corrosion protection : description</linkdesc> <linkvalue>GIEMR-001837</linkvalue> </sieref>
+      </para>
+   </descbody>
+   <description id="d1e115" translate="no">
+      <title translate="yes">PROTECTION IN A HOLLOW SECTION</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <marklayer id="marklayer-d1e117" translate="no">
+               <mark id="MARK.REPAIR-40X01X36X04-02X21-1-2.1" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">2</designation>
+               </mark>
+               <mark id="MARK.REPAIR-40X01X36X04-02X21-1-2.2" translate="no">
+                  <mcomponent translate="no">
+                     <label translate="no"/>
+                  </mcomponent>
+                  <designation translate="no">1</designation>
+               </mark>
+            </marklayer>
+            <figure id="00-03-04-4-repair-40-01-36-04-02-21-1-2-6" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018119.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000322707-03-04-4-repair-40-01-36-04-02-21-1-2-6-000018119</illusnum>
+            </figure>
+            <para translate="yes">
+               <markref format="dita" href="#d1e115/00-03-04-4-repair-40-01-36-04-02-21-1-2-6" scope="local" translate="no" type="figure">1</markref>Insert the probe as far as possible via the access hole into the hollow section.</para>
+            <para translate="yes">
+               <markref format="dita" href="#d1e115/00-03-04-4-repair-40-01-36-04-02-21-1-2-6" scope="local" translate="no" type="figure">2</markref>Spray the wax moving the probe slowly and regularly back towards the access hole.</para>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e145" translate="no">
+      <title translate="yes">Protection on an edge or on a surface</title>
+      <descbody translate="no">
+         <noteR translate="no" type="note">
+            <para translate="yes">Note:</para>
+            <para translate="yes">The following operations are to be carried out on machine finished surfaces which have been dry sanded with P320 or scoured with a red abrasive pad.</para>
+         </noteR>
+      </descbody>
+      <description id="d1e157" translate="no">
+         <title translate="yes">Extruded seal</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <marklayer id="marklayer-d1e159" translate="no">
+                  <mark id="MARK.REPAIR-40X01X36X04-02X21-1-2.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">A</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-40X01X36X04-02X21-1-2.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">B</designation>
+                  </mark>
+               </marklayer>
+               <figure id="40-01-36-04-1-repair-40-01-36-04-02-21-1-2-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000030399.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000322707-01-36-04-1-repair-40-01-36-04-02-21-1-2-7-000030399</illusnum>
+               </figure>
+               <figure id="40-01-36-04-2-repair-40-01-36-04-02-21-1-2-8" translate="no">
+                  <title translate="yes">Section B</title>
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000025414.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000322707-01-36-04-2-repair-40-01-36-04-02-21-1-2-8-000025414</illusnum>
+               </figure>
+               <para translate="yes">Position the nozzle, which has been previously cut to fit the shape and width of the desired seal, on the edge formed by the panel edge.</para>
+               <para translate="yes">The appearance of the seal depends on the application speed and angle <markref format="dita" href="#d1e157/40-01-36-04-1-repair-40-01-36-04-02-21-1-2-7" scope="local" translate="no" type="figure">A</markref> of the nozzle in relation to the support.</para>
+               <para translate="yes">Extrude the mastic in a uniform bead, observing the original length.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e194" translate="no">
+         <title translate="yes">Brush seal</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-12-repair-40-01-36-04-02-21-1-2-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016155.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000322707-03-04-12-repair-40-01-36-04-02-21-1-2-1-000016155</illusnum>
+               </figure>
+               <para translate="yes">Apply an even seal thickness over the whole area to be treated.</para>
+               <para translate="yes">Observing the width and look of the original seal.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e207" translate="no">
+         <title translate="yes">Sprayed seal</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-21-repair-40-01-36-04-02-21-1-2-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000015634.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000322707-03-04-21-repair-40-01-36-04-02-21-1-2-2-000015634</illusnum>
+               </figure>
+               <para translate="yes">If necessary, protect the adjacent components because of product splashing.</para>
+               <para translate="yes">Adjust the jet beforehand to obtain the same look as the original.</para>
+               <para translate="yes">Spray the seal evenly and regularly.</para>
+            </descsection>
+         </descbody>
+      </description>
+   </description>
+</description>

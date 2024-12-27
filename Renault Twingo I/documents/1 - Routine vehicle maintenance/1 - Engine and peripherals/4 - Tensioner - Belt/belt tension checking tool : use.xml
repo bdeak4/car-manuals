@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X24|X27|X29|X34|X35|X38/H4M,K4M,K9K,M4R|X40|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61/K4M,K7M,K9K|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X83|X84|X85|X87/K9K|X90|X91|X92|X94|X95|X98|XFD|XRQ|XTP" id="RPR-001453428" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+<title translate="yes">belt tension checking tool : use</title><?Pub Caret -2?>
+
+
+<procprolog translate="no">
+
+
+<status name="Published" translate="no"/>
+<critdates translate="no">
+<created date="09/01/20 12:35" translate="no"/>
+<revised modified="09/01/20 12:45" translate="no"/></critdates>
+<procmetadata translate="no">
+<siename translate="no">belt tension checking tool : use</siename>
+<sieversion translate="no">A.1</sieversion>
+<sietype translate="yes">Procedure</sietype>
+<sienumber translate="no">RPR-001453428</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</procmetadata>
+</procprolog>
+<procbody translate="no">
+<introduction translate="no">
+<noteR translate="no" type="warning">
+<para translate="yes">Before carrying out any operation on a vehicle
+fitted with the Stop&amp;Start system, always follow the safety instructions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503040"><linkdesc>vehicle : precautions for the repair</linkdesc><linkvalue>GIEMR-002446</linkvalue>
+</sieref></para>
+</noteR>
+</introduction>
+</procbody>
+<procedure id="d1e123" translate="no">
+<title translate="yes">introduction</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Frequency meters<toolref format="dita" href="x-wc://file=OS-000002570.xml" scope="external" translate="no" type="specifictool"><linkdesc>Belt tension setting tool (frequency meter)</linkdesc><linkvalue>Mot.1505</linkvalue>
+</toolref>or<toolref format="dita" href="x-wc://file=OS-000003050.xml" scope="external" translate="no" type="specifictool"><linkdesc>Belt tension checking tool (frequency indicator).</linkdesc><linkvalue>Mot.1715</linkvalue></toolref>allow the tension of the timing and
+accessories belts to be checked during a fault finding procedure or
+when a belt is refitted.</para><para translate="yes">This note describes
+the use of these tools as an addition to the replacement and checking
+procedures for belts given in the vehicle repair methods.</para>
+<para translate="yes">The procedures and tension values recommended
+by the manufacturer must always be adhered to as they affect the service
+life of the drive systems.</para>
+<para translate="yes">An incorrect belt tension may cause noise, loss
+of power, engine cut-outs or even irreparable damage to the engine.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e140" translate="no">
+<title translate="yes">tool mot.1505</title>
+<procbody translate="no"/>
+<procedure id="d1e144" translate="no">
+<title translate="yes">Description</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e146" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.1">
+<mcomponent><label/></mcomponent><designation>5</designation>
+</mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.2"><mcomponent>
+<label/></mcomponent><designation>4</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.3"><mcomponent><label/>
+</mcomponent><designation>3</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.4"><mcomponent><label/>
+</mcomponent><designation>1</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.5"><mcomponent><label/>
+</mcomponent><designation>1B</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.6"><mcomponent><label/>
+</mcomponent><designation>1A</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.7"><mcomponent><label/>
+</mcomponent><designation>2</designation></mark></marklayer>
+<figure id="00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" translate="no">
+<image dimension="F7 (120x120)" href="../MergedPictures/ILL-000011957_LAY-000257372.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000008336-02-01-05-156-repair-00-02-01-05-01-79-1-5-1-000011957</illusnum></figure>
+<procstep translate="no"><para translate="yes">The tool is comprised
+of:</para>
+<ul translate="no">
+<li translate="yes">a reading head<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1</markref>including two
+sensors<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1A</markref>and<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1B</markref>,</li>
+<li translate="yes">a display unit<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">2</markref>,</li>
+<li translate="yes">a calibrated frequency generator<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">3</markref>( 512 ± 1 Hz
+) integrated into the display unit<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">2</markref>,</li>
+<li translate="yes">a power switch<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">4</markref>,</li>
+<li translate="yes">a tester switch<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">5</markref>for checking
+the calibration of the equipment.</li>
+</ul>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e236" translate="no">
+<title translate="yes">Calibrating</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The tool must be calibrated every month</para>
+</noteR>
+<para translate="yes">The calibrated frequency generator<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">3</markref>integrated into
+the display unit<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">2</markref>allows the calibration
+of the tool to be checked.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Switch the tool on
+by pressing switch<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">4</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Position the sensor<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1A</markref>on the calibrated
+frequency generator<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">3</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Press on the tester
+switch<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">5</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Read the value shown
+on the display.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Reapply the procedure
+to check sensor<markref format="dita" href="#d1e336/10-02-04-02-82-repair-00-02-01-05-01-79-1-5-2" scope="local" translate="no" type="figure">1B</markref>.</para><para translate="yes">If the value read on the display is not<technicalvalue translate="no"><value translate="yes">512 ± 1 Hz</value>
+</technicalvalue>, for both sensors, return the tool to the address
+below:</para>
+<para translate="yes">ONE TOO</para>
+<para translate="yes">1 ZAC de Saint Esteve</para>
+<para translate="yes">06640 Saint-Jeannet les Plans</para>
+<para translate="yes">Tel: +33 (0)4 92 12 04 80</para>
+<para translate="yes">Fax: +33 (0)4 92 12 04 66 .</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e300" translate="no">
+<title translate="yes">Operation</title>
+<procbody translate="no"/>
+<procedure id="d1e304" translate="no">
+<title translate="yes">Principle</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">This device measures
+the frequency of the belt to be checked in Hertz (Hz).</para><para translate="yes">Frequency is a physical unit which here reflects the
+belt tension level very accurately.</para>
+<para translate="yes">The measurement must not be made with just one
+sensor, the other is used as a reference, and should be outside the
+measurement field.</para>
+<para translate="yes">Both of these sensors can be used either as
+a measuring sensor or as a reference sensor.</para>
+<para translate="yes">Measuring range:<technicalvalue translate="no">
+<value translate="yes">30 to 520 Hz</value></technicalvalue>.</para>
+<para translate="yes">Uncertainty:<technicalvalue translate="no"><value translate="yes">± 1 Hz&lt;100 Hz</value></technicalvalue>and<technicalvalue translate="no"><value translate="yes">1%&gt;100 Hz</value></technicalvalue>.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e336" translate="no">
+<title translate="yes">Use</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Switch the tool on
+using switch<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">4</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Bring the reading head<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1</markref>up to the belt
+section to be measured.</para></procstep>
+</procsteps>
+<procsteps translate="no"><marklayer id="marklayer-d1e348" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.8" translate="no"><mcomponent translate="no"><label translate="no"/>
+</mcomponent><designation translate="no">8</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.9" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">7</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.10" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">X</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.11" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">1B</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.12" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">1A</designation></mark></marklayer>
+<figure id="10-02-04-02-82-repair-00-02-01-05-01-79-1-5-2" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011958_LAY-000257369.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-82-repair-00-02-01-05-01-79-1-5-2-000011958</illusnum></figure>
+<procstep translate="no"><para translate="yes">Position the reading
+head<markref format="dita" href="#d1e144/00-02-01-05-156-repair-00-02-01-05-01-79-1-5-1" scope="local" translate="no" type="figure">1</markref>at a distance
+( X ) between approximately<technicalvalue translate="no"><value translate="yes">5</value></technicalvalue>and<technicalvalue translate="no"><value translate="yes">10 mm</value></technicalvalue>inclusive from the belt.</para><para translate="yes">The measurement
+can be made on either face<markref format="dita" href="#d1e336/10-02-04-02-82-repair-00-02-01-05-01-79-1-5-2" scope="local" translate="no" type="figure">7</markref>or<markref format="dita" href="#d1e336/10-02-04-02-82-repair-00-02-01-05-01-79-1-5-2" scope="local" translate="no" type="figure">8</markref>of the belt,
+according to the dimensions.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no"><marklayer id="marklayer-d1e413" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.13"><mcomponent><label/>
+</mcomponent><designation>X</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.14"><mcomponent><label/>
+</mcomponent><designation>1B</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.15"><mcomponent><label/>
+</mcomponent><designation>1A</designation></mark></marklayer>
+<figure id="10-02-04-02-83-repair-00-02-01-05-01-79-1-5-3" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011959_LAY-000257371.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-83-repair-00-02-01-05-01-79-1-5-3-000011959</illusnum></figure>
+<procstep translate="no"><para translate="yes">Either sensor<markref format="dita" href="#d1e336/10-02-04-02-83-repair-00-02-01-05-01-79-1-5-3" scope="local" translate="no" type="figure">1A</markref>or<markref format="dita" href="#d1e336/10-02-04-02-83-repair-00-02-01-05-01-79-1-5-3" scope="local" translate="no" type="figure">1B</markref>can be used,
+as long as the sensor used for reference is outside the measurement
+field.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<figure id="10-02-04-02-86-repair-00-02-01-05-01-79-1-5-4" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011962.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-86-repair-00-02-01-05-01-79-1-5-4-000011962</illusnum></figure>
+<figure id="10-02-04-02-87-repair-00-02-01-05-01-79-1-5-5" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000009047.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-87-repair-00-02-01-05-01-79-1-5-5-000009047</illusnum></figure>
+<procstep translate="no"><para translate="yes">Under no circumstances
+should the two sensors be facing the belt simultaneously during measurement.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<figure id="10-02-04-02-84-repair-00-02-01-05-01-79-1-5-6" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011960.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-84-repair-00-02-01-05-01-79-1-5-6-000011960</illusnum></figure>
+<figure id="10-02-04-02-85-repair-00-02-01-05-01-79-1-5-7" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000011961.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-85-repair-00-02-01-05-01-79-1-5-7-000011961</illusnum></figure>
+<procstep translate="no"><para translate="yes">Make the measurement
+after setting the belt vibrating with a finger.</para><para translate="yes">The measurement is validated by a bleep.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+</procedure>
+<procedure id="d1e473" translate="no">
+<title translate="yes">tool mot.1715</title>
+<procbody translate="no"/>
+<procedure id="d1e477" translate="no">
+<title translate="yes">Description</title>
+<procbody translate="no">
+<procsteps translate="no"><marklayer id="marklayer-d1e479" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.16"><mcomponent><label/>
+</mcomponent><designation>11</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.17"><mcomponent><label/>
+</mcomponent><designation>10</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.18"><mcomponent><label/>
+</mcomponent><designation>9A</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.19"><mcomponent><label/>
+</mcomponent><designation>9</designation></mark></marklayer>
+<figure id="00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" translate="no">
+<image dimension="F7 (120x120)" href="../MergedPictures/ILL-000012020_LAY-000257370.png" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000008336-02-01-05-157-repair-00-02-01-05-01-79-1-5-8-000012020</illusnum></figure>
+<procstep translate="no"><para translate="yes">The tool is comprised
+of:</para>
+<ul translate="no">
+<li translate="yes">a reading head<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">9</markref>including one
+sensor<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">9A</markref>,</li>
+<li translate="yes">a power switch<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">10</markref>,</li>
+<li translate="yes">a display<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">11</markref>.</li>
+</ul>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e533" translate="no">
+<title translate="yes">Calibration</title>
+<procbody translate="no">
+<procsteps translate="no">
+<figure id="10-02-04-02-108-repair-00-02-01-05-01-79-1-5-9" translate="no">
+<image dimension="F7 (120x120)" href="../MergedPictures/ILL-000012019.PNG" style="width: 120.0mm; height: 120.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-108-repair-00-02-01-05-01-79-1-5-9-000012019</illusnum></figure>
+<procstep translate="no">
+<noteR translate="no" type="note">
+<para translate="yes">Note:</para>
+<para translate="yes">The tool must be calibrated every month.</para>
+</noteR>
+<para translate="yes">This operation allows the calibration of the
+tool to be checked using a telephone.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Switch the tool on
+by pressing on switch<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">10</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Take the telephone
+receiver off the hook.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Dial +33 (0)4 92 12
+06 54 (this number is free to call).</para><para translate="yes">Do
+not hang up the call.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Turn up the volume
+to maximum.</para></procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Position the sensor<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">9A</markref>on the speaker.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Read the value shown
+on the display.</para><para translate="yes">If the value read on the
+display is not<technicalvalue translate="no"><value translate="yes">440 ± 2 Hz</value></technicalvalue>, return the tool to the address
+below:</para>
+<para translate="yes">ONE TOO</para>
+<para translate="yes">1 ZAC de Saint Esteve</para>
+<para translate="yes">06640 Saint-Jeannet les Plans</para>
+<para translate="yes">Tel: +33 (0)4 92 12 04 80</para>
+<para translate="yes">Fax: +33 (0)4 92 12 04 66.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e599" translate="no">
+<title translate="yes">Operation</title>
+<procbody translate="no"/>
+<procedure id="d1e603" translate="no">
+<title translate="yes">Principle</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">This tool measures
+the frequency of the belt to be checked in Hertz (Hz).</para><para translate="yes">Frequency is a physical unit which here reflects the
+belt tension level very accurately.</para>
+<para translate="yes">Measuring range:<technicalvalue translate="no">
+<value translate="yes">30 to 520 Hz.</value></technicalvalue></para>
+<para translate="yes">Uncertainty:<technicalvalue translate="no"><value translate="yes">± 1 Hz&lt;100 Hz</value></technicalvalue>and<technicalvalue translate="no"><value translate="yes">1%&gt;100 Hz</value></technicalvalue>.</para>
+</procstep>
+</procsteps>
+</procbody>
+</procedure>
+<procedure id="d1e630" translate="no">
+<title translate="yes">Use</title>
+<procbody translate="no">
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Switch the tool on
+by pressing on switch<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">10</markref>.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<procstep translate="no"><para translate="yes">Bring the reading head<markref format="dita" href="#d1e477/00-02-01-05-157-repair-00-02-01-05-01-79-1-5-8" scope="local" translate="no" type="figure">9</markref>up to the belt
+section to be measured.</para></procstep>
+</procsteps>
+<procsteps translate="no"><marklayer id="marklayer-d1e642" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.20"><mcomponent><label/>
+</mcomponent><designation>9A</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.21"><mcomponent><label/>
+</mcomponent><designation>9</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.22"><mcomponent><label/>
+</mcomponent><designation>13</designation></mark><mark id="MARK.REPAIR-00X02X01X05-01X79-1-5.23"><mcomponent><label/>
+</mcomponent><designation>12</designation></mark></marklayer>
+<figure id="10-02-04-02-109-repair-00-02-01-05-01-79-1-5-10" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000009086_LAY-000257373.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-109-repair-00-02-01-05-01-79-1-5-10-000009086</illusnum></figure>
+<procstep translate="no"><para translate="yes">Position the reading
+head<markref format="dita" href="#d1e630/10-02-04-02-109-repair-00-02-01-05-01-79-1-5-10" scope="local" translate="no" type="figure">9</markref>at a distance
+( X ) between approximately<technicalvalue translate="no"><value translate="yes">5</value></technicalvalue>and<technicalvalue translate="no"><value translate="yes">10 mm</value></technicalvalue>inclusive from the belt.</para><para translate="yes">The measurement
+can be made on either face<markref format="dita" href="#d1e630/10-02-04-02-109-repair-00-02-01-05-01-79-1-5-10" scope="local" translate="no" type="figure">12</markref>or<markref format="dita" href="#d1e630/10-02-04-02-109-repair-00-02-01-05-01-79-1-5-10" scope="local" translate="no" type="figure">13</markref>of the belt,
+according to the dimensions.</para>
+</procstep>
+</procsteps>
+<procsteps translate="no">
+<figure id="10-02-04-02-110-repair-00-02-01-05-01-79-1-5-11" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000009087.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000008336-02-04-02-110-repair-00-02-01-05-01-79-1-5-11-000009087</illusnum></figure>
+<procstep translate="no"><para translate="yes">Make the measurement
+after setting the belt vibrating with a finger.</para></procstep>
+</procsteps>
+</procbody>
+</procedure>
+</procedure>
+</procedure>
+</procedure>

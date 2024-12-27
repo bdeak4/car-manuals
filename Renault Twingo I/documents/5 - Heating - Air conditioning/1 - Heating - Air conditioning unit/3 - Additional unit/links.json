@@ -1,0 +1,94 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2552",
+      "filename": "AIR RECYCLING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2552.pdf"
+    },
+    {
+      "id": "2447",
+      "filename": "FUEL CUT-OUT SYSTEM IN THE EVENT OF A COLLISION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2447.pdf"
+    },
+    {
+      "id": "2048",
+      "filename": "AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2048.pdf"
+    },
+    {
+      "id": "2422",
+      "filename": "CONVERTING FROM R12 TO R134a REFRIGERANT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2422.pdf"
+    },
+    {
+      "id": "2341",
+      "filename": "POSITION OF ENGINE MOUNTINGS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2341.pdf"
+    },
+    {
+      "id": "2535",
+      "filename": "FUEL FILTER WITH ALUMINIUM END SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2535.pdf"
+    },
+    {
+      "id": "2929",
+      "filename": "DEVELOPMENTS IN FUEL TANKS AND VENTING SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2929.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-6",
+      "filename": "M.R. 305 - 6 HEATING AND VENTILATION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-6.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "2944",
+      "filename": "DIAGRAMS OF THE COOLING CIRCUIT ON TWINGO VEHICLES EQUIPPED WITH THE \"COLD\" BOTTLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2944.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3361",
+      "filename": "CENTRAL LOCKING WHEN MOVING AND RADIO FREQUENCY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3361.pdf"
+    },
+    {
+      "id": "3038",
+      "filename": "Air conditioning Twingo phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3038.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21872.png"
+    }
+  ]
+}

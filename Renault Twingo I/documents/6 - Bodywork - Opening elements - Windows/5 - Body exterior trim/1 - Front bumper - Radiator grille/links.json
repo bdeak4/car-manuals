@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1204_550110",
+      "filename": "1204_550110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085128.svg"
+    },
+    {
+      "id": "1204_550111",
+      "filename": "1204_550111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087287.svg"
+    },
+    {
+      "id": "1204_555010",
+      "filename": "1204_555010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01032282.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0388",
+      "filename": "RE-PROOFING THE LOWER WING PANEL ROUNDED SECTION TO ACCOMMODATE SNOW CHAINS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0388.pdf"
+    },
+    {
+      "id": "0501",
+      "filename": "ADAPTING A BODYSHELL SUPPLIED BY THE PARTS DEPARTMENT FOR A PHASE 1 TYPE VEHICLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0501.pdf"
+    },
+    {
+      "id": "0627",
+      "filename": "Modification to the diameter of the bumper mountings.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0627.pdf"
+    },
+    {
+      "id": "0346",
+      "filename": "NEW POSITION OF BATTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0346.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21586.png"
+    }
+  ]
+}

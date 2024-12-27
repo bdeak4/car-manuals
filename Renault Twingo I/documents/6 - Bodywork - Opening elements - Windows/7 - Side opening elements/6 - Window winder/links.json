@@ -1,0 +1,54 @@
+{
+  "PR": [
+    {
+      "id": "1204_506510",
+      "filename": "1204_506510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085123.svg"
+    },
+    {
+      "id": "1204_506010",
+      "filename": "1204_506010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085121.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "3805",
+      "filename": "INTERIOR LIGHTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3805.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21588.png"
+    }
+  ]
+}

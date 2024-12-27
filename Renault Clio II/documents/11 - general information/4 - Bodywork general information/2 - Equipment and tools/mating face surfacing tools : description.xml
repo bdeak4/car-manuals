@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|X17|X41|X42|X75|XJ1|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010113" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">mating face surfacing tools : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 03:42" translate="no"/>
+         <revised modified="10/10/24 13:46" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">mating face surfacing tools : description</siename>
+         <sieversion translate="no">N.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010113</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e112" translate="no">
+      <title translate="yes">FLAT SURFACING</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <figure id="00-04-03-33-repair-00-04-03-12-02-21-2-1-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017073_LAY-000002119.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010113-04-03-33-repair-00-04-03-12-02-21-2-1-1-000017073</illusnum>
+            </figure>
+            <para translate="yes">Use of a bladed disk mounted on a (<technicalvalue translate="no">
+                  <value translate="yes">5000 rpm</value>
+               </technicalvalue>) angle grinder.</para>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Fast method which allows wide area to be surfaced.</li>
+            </ul>
+            <para translate="yes">Disadvantage:</para>
+            <ul translate="no">
+               <li translate="yes">Lets off sparks which can be harmful close to sensitive components (windows, plastic components, fabric, etc.).</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory hand protection,</li>
+               <li translate="yes">obligatory ears protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e154" translate="no">
+      <title translate="yes">ANGLE AND CORNER SURFACING</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <figure id="00-04-03-98-repair-00-04-03-12-02-21-2-1-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016181_LAY-000002120.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010113-04-03-98-repair-00-04-03-12-02-21-2-1-2-000016181</illusnum>
+            </figure>
+            <para translate="yes">Use of a strip sander fitted with a<technicalvalue translate="no">
+                  <value translate="yes">50</value>
+               </technicalvalue>to<technicalvalue translate="no">
+                  <value translate="yes">80</value>
+               </technicalvalue>grit strip.</para>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Method which allows areas to be surfaced which are difficult to access.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Showers filings which can be harmful close to sensitive components (windows, plastic components, fabric, etc.).</li>
+               <li translate="yes">The surfacing is relatively slow.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye protection,</li>
+               <li translate="yes">obligatory hand protection,</li>
+               <li translate="yes">obligatory ears protection.</li>
+            </ul>
+            <para translate="yes">Protection in the work area:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings,</li>
+               <li translate="yes">protection of internal and external window faces.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+</description>

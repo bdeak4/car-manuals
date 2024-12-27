@@ -1,0 +1,94 @@
+{
+  "PR": [
+    {
+      "id": "1247_560710",
+      "filename": "1247_560710.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01067862.svg"
+    },
+    {
+      "id": "1247_560115",
+      "filename": "1247_560115.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084205.svg"
+    },
+    {
+      "id": "1247_560117",
+      "filename": "1247_560117.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01012635.svg"
+    },
+    {
+      "id": "1247_560116",
+      "filename": "1247_560116.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01029835.svg"
+    },
+    {
+      "id": "1247_560110",
+      "filename": "1247_560110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084185.svg"
+    },
+    {
+      "id": "1247_560111",
+      "filename": "1247_560111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084186.svg"
+    },
+    {
+      "id": "1247_560112",
+      "filename": "1247_560112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01029834.svg"
+    },
+    {
+      "id": "1247_560312",
+      "filename": "1247_560312.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01049135.svg"
+    },
+    {
+      "id": "1247_560311",
+      "filename": "1247_560311.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01061402.svg"
+    },
+    {
+      "id": "1247_560310",
+      "filename": "1247_560310.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01045653.svg"
+    },
+    {
+      "id": "1247_560510",
+      "filename": "1247_560510.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084188.svg"
+    },
+    {
+      "id": "1247_560717",
+      "filename": "1247_560717.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01077408.svg"
+    },
+    {
+      "id": "1247_560715",
+      "filename": "1247_560715.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084189.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21586.png"
+    }
+  ]
+}

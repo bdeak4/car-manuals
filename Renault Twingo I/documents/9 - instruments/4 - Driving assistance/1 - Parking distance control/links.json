@@ -1,0 +1,43 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0393",
+      "filename": "PAINT COLOURS - MODEL YEAR 1997.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0393.pdf"
+    },
+    {
+      "id": "0498",
+      "filename": "PAINT COLOURS FOR THE 1999 MODEL YEAR RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0498.pdf"
+    },
+    {
+      "id": "0547",
+      "filename": "SHADES IN THE 2000 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0547.pdf"
+    },
+    {
+      "id": "0563",
+      "filename": "PAINT SHADES IN THE 2001 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0563.pdf"
+    },
+    {
+      "id": "0574",
+      "filename": "SHADES IN THE 2002 RANGE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0574.pdf"
+    },
+    {
+      "id": "5af554bdc3da7a00dc227098",
+      "filename": "proximity sensor : preparation and paint range.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000422309.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21887.png"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X24|X29|X38|X44|X48|X52|X53|X54|X56|X57|X61|X62|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD/APL03|XFE|XHA|XZG/APL03|XZJ|XFF|XJD|XHN|XBB|X58|XBC|X55|XJA|X35|X10|XDD|XBG|X33|X59|X17|XBA|XJL|XFA|XJK|X75|XJE|XJB|XJC|XJH|XJF|XFK|XZH|X45|X27|XRQ|X47|XTP|XEF|X40|X41|XCB|X42|X43|X63|XJ1|XDE|X1310|XR210|X1316|X1317|X09|XR310|X1322|X1318|XZ110|X1312" id="RPR-001887620" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+  <title translate="no">heating and air conditioning system diagnostic tool : use</title>
+  
+  
+  <procprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="22/06/22 10:34" translate="no"/>
+      <revised modified="22/06/22 17:45" translate="no"/>
+    </critdates>
+    <procmetadata translate="no">
+      <siename translate="no">heating and air conditioning system diagnostic tool : use</siename>
+      <sieversion translate="no">B.2</sieversion>
+      <sietype translate="yes">Procedure</sietype>
+      <sienumber translate="no">RPR-001887125</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </procmetadata>
+  </procprolog>
+  <procedure id="d1e87" translate="no">
+    <title translate="yes">To carry out fault finding on a heating and air conditioning system circuit:</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <figure id="30-02-02-27-1-repair-30-02-02-38-01-79-1-1-1" translate="no">
+          <title translate="yes">With a calibrated pressure relief valve:</title>
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000001000.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000249237-02-02-27-1-repair-30-02-02-38-01-79-1-1-1-000001000</illusnum>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Use the <ingredientname translate="yes">AIRCODIAG </ingredientname>tool to carry out fault finding on:</para>
+          <ul translate="no">
+            <li translate="yes">loss of refrigerant pressure or to check the correct pressure of the refrigerant in the circuit.</li>
+          </ul>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Refer to the user manual for the device.</para>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Do not use the <ingredientname translate="yes">AIRCODIAG </ingredientname>tool to carry out fault finding on:</para>
+          <ul translate="no">
+            <li translate="yes">refrigerant fluid circuit overpressure.</li>
+            <li translate="yes">a blocked dehydrator filter.</li>
+          </ul>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+  <procedure id="d1e118" translate="no">
+    <title translate="yes">To carry out fault finding on a heating and air conditioning system circuit:</title>
+    <procbody translate="no">
+      <procsteps translate="no">
+        <figure id="30-02-02-32-1-repair-30-02-02-38-01-79-1-1-2" translate="no">
+          <title translate="yes">With a thermostatic expansion valve:</title>
+          <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000010152.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+          <illusnum>RPR-000249237-02-02-32-1-repair-30-02-02-38-01-79-1-1-2-000010152</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <procstep translate="no">
+          <para translate="yes">Use the <ingredientname translate="yes">AIRCODIAG </ingredientname>tool to carry out fault finding on:</para>
+          <ul translate="no">
+            <li translate="yes">loss of refrigerant pressure or to check the correct pressure of the refrigerant in the circuit.</li>
+            <li translate="yes">refrigerant fluid circuit overpressure.</li>
+            <li translate="yes">a blocked dehydrator filter.</li>
+          </ul>
+        </procstep>
+        <procstep translate="no">
+          <para translate="yes">Refer to the user manual for the device.</para>
+        </procstep>
+      </procsteps>
+    </procbody>
+  </procedure>
+</procedure>

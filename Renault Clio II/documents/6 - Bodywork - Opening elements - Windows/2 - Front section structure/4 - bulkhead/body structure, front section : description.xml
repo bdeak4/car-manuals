@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/L35|X65" id="RDE-000321172" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">body structure, front section : description</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Draft" translate="no"/>
+<critdates translate="no">
+<created date="05/11/15 16:58" translate="no"/>
+<revised modified="05/11/15 16:58" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">body structure, front section : description</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000321172</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e10" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.1">
+<mcomponent><label/></mcomponent><designation>12</designation>
+</mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.2"><mcomponent>
+<label/></mcomponent><designation>11</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.3"><mcomponent><label/>
+</mcomponent><designation>10</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.4"><mcomponent><label/>
+</mcomponent><designation>3</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.5"><mcomponent><label/>
+</mcomponent><designation>9</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.6"><mcomponent><label/>
+</mcomponent><designation>2</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.7"><mcomponent><label/>
+</mcomponent><designation>8</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.8"><mcomponent><label/>
+</mcomponent><designation>1</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.9"><mcomponent><label/>
+</mcomponent><designation>7</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.10"><mcomponent><label/>
+</mcomponent><designation>6</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.11"><mcomponent><label/>
+</mcomponent><designation>5</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.12"><mcomponent><label/>
+</mcomponent><designation>4</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.13"><mcomponent><label/>
+</mcomponent><designation>15</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.14"><mcomponent><label/>
+</mcomponent><designation>14</designation></mark><mark id="MARK.REPAIR-40X01X01X08-02X21-1-7.15"><mcomponent><label/>
+</mcomponent><designation>13</designation></mark></marklayer>
+<figure id="40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" translate="no">
+
+<image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000032242_c@[users[a179523[appdata[local[temp[aptexport[40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000321172-01-01-08-7-repair-40-01-01-08-02-21-1-7-1-000032242</illusnum></figure>
+<table colsep="1" frame="all" rowsep="0" translate="no">
+<tgroup cols="5" colsep="1" rowsep="0" translate="no">
+<colspec colname="1" colnum="1" colwidth="13.88653683319221%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="36.11346316680779%" translate="no"/>
+<colspec colname="3" colnum="3" colwidth="16.666666666666668%" translate="no"/>
+<colspec colname="4" colnum="4" colwidth="16.666666666666668%" translate="no"/>
+<colspec colname="5" colnum="5" colwidth="16.666666666666668%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">No.</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Description</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">Classification</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Type</para></entry>
+<entry colname="5" translate="yes"><para translate="yes">Thickness
+(mm)</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">1</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front tow
+eye</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461729"><linkdesc>tow eye : replacement</linkdesc><linkvalue>GIEMR-000063</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">2</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">front-end
+lower cross member</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461342"><linkdesc>high front lower cross member : replacement</linkdesc><linkvalue>GIEMR-002261</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">3</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Scuttle side
+panel rear upper reinforcement</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3495625"><linkdesc>scuttle side panel upper stiffener : replacement</linkdesc><linkvalue>GIEMR-001950</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">4</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Scuttle side
+panel upper reinforcement</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3495625"><linkdesc>scuttle side panel upper stiffener : replacement</linkdesc><linkvalue>GIEMR-001950</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">5</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front wing
+lower mounting support</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3524399"><linkdesc>front wing lower mounting : replacement</linkdesc><linkvalue>GIEMR-002037</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">6</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Scuttle side
+panel</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3486858"><linkdesc>scuttle side panel : replacement</linkdesc><linkvalue>GIEMR-000641</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">7</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Headlight
+carrier panel</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3529454"><linkdesc>headlight mounting : replacement</linkdesc><linkvalue>GIEMR-002017</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">8</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front half-unit</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3509141"><linkdesc>front 1/2 block : replacement</linkdesc><linkvalue>GIEMR-000653</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">9</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front side
+member closure panel</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3480202"><linkdesc>front side member closure panel : replacement</linkdesc><linkvalue>GIEMR-001181</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">10</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front side
+member front section</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3527764"><linkdesc>front section of front side member : replacement</linkdesc><linkvalue>GIEMR-001497</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">11</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front support
+of front subframe</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3473540"><linkdesc>front mounting of front subframe : replacement</linkdesc><linkvalue>GIEMR-002121</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">12</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front wheel
+arch</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3493856"><linkdesc>front wheel arch : replacement</linkdesc><linkvalue>GIEMR-001717</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">13</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Engine mounting</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3459215"><linkdesc>engine rubber pad mounting on body : replacement</linkdesc><linkvalue>GIEMR-002027</linkvalue></sieref></para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">14</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Front side
+member rear part</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3527659"><linkdesc>front side member rear part : replacement</linkdesc><linkvalue>GIEMR-001494</linkvalue>
+</sieref></para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><markref format="dita" href="#RDE-000321172/40-01-01-08-7-repair-40-01-01-08-02-21-1-7-1" scope="local" translate="no" type="figure">15</markref></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Sub-frame
+rear mounting</para></entry>
+<entry nameend="5" namest="3" translate="yes"><para translate="yes"><sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3496393"><linkdesc>front subframe rear mounting : replacement</linkdesc><linkvalue>GIEMR-002117</linkvalue>
+</sieref></para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>

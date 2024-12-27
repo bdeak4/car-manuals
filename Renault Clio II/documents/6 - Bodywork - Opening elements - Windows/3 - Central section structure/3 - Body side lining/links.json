@@ -1,0 +1,74 @@
+{
+  "PR": [
+    {
+      "id": "1247_431010",
+      "filename": "1247_431010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01010718.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-5",
+      "filename": "M.R. 338 - 5 Mechanisms and Accessories phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-5.pdf"
+    },
+    {
+      "id": "5af58819c3da7a00dc229df8",
+      "filename": "windscreen pillar trim closure panel : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000304355.xml"
+    },
+    {
+      "id": "5af588dbc3da7a00dc229ed7",
+      "filename": "body structure, side section : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000320111.xml"
+    },
+    {
+      "id": "5af5894fc3da7a00dc229f57",
+      "filename": "sill panel reinforcement : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000334874.xml"
+    },
+    {
+      "id": "5af588afc3da7a00dc229ea3",
+      "filename": "body structure, centre section : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000321805.xml"
+    },
+    {
+      "id": "5af944943ef64d00e0ef5fd7",
+      "filename": "inner sill panel : replacement.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000343065.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21584.png"
+    }
+  ]
+}

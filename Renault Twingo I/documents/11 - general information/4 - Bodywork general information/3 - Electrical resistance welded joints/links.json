@@ -1,0 +1,58 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "MR-306-TWINGO-4",
+      "filename": "M.R. 306 - 4 SHEET METAL WORK.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-4.pdf"
+    },
+    {
+      "id": "5af58964c3da7a00dc229f6f",
+      "filename": "partial assembly by joggling : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000322665.xml"
+    },
+    {
+      "id": "5af5a95808813b00dc4cee37",
+      "filename": "resistance welding with direct access : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323868.xml"
+    },
+    {
+      "id": "5af5b14408813b00dc4cf596",
+      "filename": "body structure resistance welding : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323522.xml"
+    },
+    {
+      "id": "5af5b11708813b00dc4cf56b",
+      "filename": "triple-thickness resistance welding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323892.xml"
+    },
+    {
+      "id": "5af5b17c08813b00dc4cf5d5",
+      "filename": "quadruple-thickness resistance welding : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323509.xml"
+    },
+    {
+      "id": "5af5b16608813b00dc4cf5b9",
+      "filename": "resistance welding with indirect access : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323880.xml"
+    },
+    {
+      "id": "60edfd8564bda84194666247",
+      "filename": "partial assembly by patch joggling : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001823315.xml"
+    },
+    {
+      "id": "60edfda664bda8419466624e",
+      "filename": "partial assembly by overlapping : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001823316.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XHN|XZG|XZH|XZJ|XJA|XJC|XJB|X61|XFA|XJE|XJD|X63|XFC|X62|XFB|XJF|X65|XBA|XFE|XRQ|X64|XFD|XJH|X67|XBC|XJK|X66|XBB|XFF|X24|XJL|X27|XBG|XFK|X29|XR310|X70|X74|X73|X76|XCB|X75|X33|X77|X35|X79|X38|X1317|X81|XHA|X83|X82|X41|X85|X40|X84|XTP|X43|X87|X42|X45|XDE|X44|XDD|X47|X48|X07|X06|X09|XR210|X90|X92|X1316|X91|X52|X95|X10|X54|X98|X1310|X53|X56|XEF|X55|X58|X57|X59|XJ1|X17|X1322|X1318|XZ110|X1312" id="RDE-001890815" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">body structure non-removable section : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Draft" translate="no"/>
+      <critdates translate="no">
+         <created date="26/02/24 16:58" translate="no"/>
+         <revised modified="27/02/24 18:55" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">body structure non-removable section : description</siename>
+         <sieversion translate="no">B.3</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-001837245</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e110" translate="no">
+      <title translate="yes">introduction</title>
+      <descbody translate="no">
+         <para translate="yes">All the procedures described in this document ensure the quality of repairs, including the mechanical functioning of joints which are different to the originals.</para>
+         <para translate="yes">Time calculations for the repairs are based on the use of these tools and procedures.</para>
+      </descbody>
+      <description id="d1e118" translate="no">
+         <title translate="yes">Replacements requiring partial cutting</title>
+         <descbody translate="no">
+            <para translate="yes">For safety reasons, it is not recommended to:</para>
+            <ul translate="no">
+               <li translate="yes">cut and re-weld in close proximity to a reinforcement or a fatigued area (e.g.: engine and transmission assembly mounting, shock absorber mounting, seat belt mounting point),</li>
+               <li translate="yes">cut and re-weld edge to edge a structural component and its linings using the same line. Offset the cut lines by a few centimetres to distribute the weld stresses and the crumple zones,</li>
+               <li translate="yes">braze the side members, cross members or any other part of the structure.</li>
+            </ul>
+            <para translate="yes">Cutting positions indicated in the procedures which do not have any special features are given for information only. They may be adjusted according to deformities caused by impacts, unless there is a specific indication given in the vehicle's MR.</para>
+            <para translate="yes">The operation times are calculated in relation to the position of these cuts and it is advisable to follow them. If the operator opts for a different cutting area, the time stated for the operation may vary.</para>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e135" translate="no">
+      <title translate="yes">DISASSEMBLY</title>
+      <descbody translate="no"/>
+      <description id="d1e139" translate="no">
+         <title translate="yes">Scouring</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-34-repair-40-01-44-02-21-1-1-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017074_LAY-000321050.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-34-repair-40-01-44-02-21-1-1-1-000017074</illusnum>
+               </figure>
+               <para translate="yes">Clean the mating lines to reveal the spot welds, if covered by anti-grit mastic or paint sealing mastic<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927"><linkdesc>bodywork cleaning tools : description</linkdesc><linkvalue>GIEMR-001618</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e153" translate="no">
+         <title translate="yes">Cutting</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-45-repair-40-01-44-02-21-1-1-2" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017796_LAY-000321028.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-45-repair-40-01-44-02-21-1-1-2-000017796</illusnum>
+               </figure>
+               <para translate="yes">For partial replacements, the position of the cut lines on the damaged part is chosen with the following requirements in mind:</para>
+               <ul translate="no">
+                  <li translate="yes">obtain a non-deformed area with sufficient space to ensure coverage of<technicalvalue translate="no"> <value translate="yes">50 mm</value> </technicalvalue>by the new part,</li>
+                  <li translate="yes">avoid areas where there is a significant risk of deformation when butt welding,</li>
+                  <li translate="yes">choose straight, shaped or ribbed parts,</li>
+                  <li translate="yes">choose a place where the internal face is accessible for anti-corrosion protection of the hollow section,</li>
+                  <li translate="yes">find an area with sufficient space to allow overlapping cuts.</li>
+               </ul>
+               <para translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504226"> <linkdesc>body structure cutting tools : description</linkdesc> <linkvalue>GIEMR-001619</linkvalue> </sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e184" translate="no">
+         <title translate="yes">Unpicking</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-37-repair-40-01-44-02-21-1-1-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017642_LAY-000321039.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-37-repair-40-01-44-02-21-1-1-3-000017642</illusnum>
+               </figure>
+               <para translate="yes">Detach the spot welds using the most suitable tool according to accessibility, taking care to avoid damaging the remaining support panel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3479040"><linkdesc>body structure unpicking tools : use</linkdesc><linkvalue>GIEMR-001620</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e198" translate="no">
+         <title translate="yes">Grinding</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-15-repair-40-01-44-02-21-1-1-4" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016866_LAY-000321034.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-15-repair-40-01-44-02-21-1-1-4-000016866</illusnum>
+               </figure>
+               <para translate="yes">After removing damaged parts, grind the welding residue on the remaining support panels. Strip the weld joint interfaces<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218"><linkdesc>shaving tools : description</linkdesc> <linkvalue>GIEMR-001611</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+         <description id="d1e212" translate="no">
+            <title translate="yes">Special feature of bonded assemblies</title>
+            <descbody translate="no">
+               <descsection translate="no">
+                  <figure id="00-04-03-78-repair-40-01-44-02-21-1-1-5" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016731_LAY-000321029.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-78-repair-40-01-44-02-21-1-1-5-000016731</illusnum>
+                  </figure>
+                  <para translate="yes">Heat the joint face using a paint burner, sliding a metal blade into the joint until it detaches.</para>
+               </descsection>
+               <descsection translate="no">
+                  <figure id="00-04-03-132-repair-40-01-44-02-21-1-1-6" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012996_LAY-000321049.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-132-repair-40-01-44-02-21-1-1-6-000012996</illusnum>
+                  </figure>
+                  <para translate="yes">Remove the cement bead residue left on the remaining support panels<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796"><linkdesc>paint and rigid adhesive stripping tools : use</linkdesc><linkvalue>GIEMR-001617</linkvalue></sieref>.</para>
+               </descsection>
+            </descbody>
+         </description>
+      </description>
+   </description>
+   <description id="d1e233" translate="no">
+      <title translate="yes">preparation before assembly</title>
+      <descbody translate="no">
+         <para translate="yes">According to the different joint types, carry out the following operations in order, if necessary:</para>
+      </descbody>
+      <description id="d1e239" translate="no">
+         <title translate="yes">Adjusting</title>
+         <descbody translate="no">
+            <para translate="yes">Position and adjust the new part on the vehicle.</para>
+            <para translate="yes">Fix the new part using locking pliers.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961"> <linkdesc>body structure maintenance and adjustment tools : use</linkdesc> <linkvalue>GIEMR-001610</linkvalue> </sieref>.</para>
+            <para translate="yes">For partial replacements, use the new part to cover the part on the vehicle by<technicalvalue translate="no"><value translate="yes">50 mm</value></technicalvalue>.</para>
+            <descsection translate="no">
+               <figure id="00-04-03-133-repair-40-01-44-02-21-1-1-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012997_LAY-000321045.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-133-repair-40-01-44-02-21-1-1-7-000012997</illusnum>
+               </figure>
+               <para translate="yes">Cut the two overlapping parts simultaneously.</para>
+               <para translate="yes">Remove the new part then take off the residual section of panel left on the vehicle.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e266" translate="no">
+         <title translate="yes">Marking and identifying the replacement part</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-18-repair-40-01-44-02-21-1-1-8" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000013000_LAY-000321041.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-03-04-18-repair-40-01-44-02-21-1-1-8-000013000</illusnum>
+               </figure>
+               <para translate="yes">Using an indelible marker pen, mark the internal face:</para>
+               <ul translate="no">
+                  <li translate="yes">of the plug weld points weld joint areas.</li>
+                  <li translate="yes">the bonding areas.</li>
+               </ul>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e282" translate="no">
+         <title translate="yes">Preparation of the joints on the replacement part</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-19-repair-40-01-44-02-21-1-1-9" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016870_LAY-000321046.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-19-repair-40-01-44-02-21-1-1-9-000016870</illusnum>
+               </figure>
+               <para translate="yes">From the part's internal face:</para>
+               <ul translate="no">
+                  <li translate="yes">carry out the drilling operation for the plug welds and the riveting,</li>
+                  <li translate="yes">clean the bonding zones without scouring.</li>
+                  <li translate="yes">scour the electrical resistance welded connections.</li>
+               </ul>
+               <para translate="yes">From the replacement part cut off, recover a metal strip measuring approximately<technicalvalue translate="no"> <value translate="yes">40 mm</value> </technicalvalue>in width with a length which is adapted to the patched drilling area.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-16-repair-40-01-44-02-21-1-1-10" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016867_LAY-000321048.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-16-repair-40-01-44-02-21-1-1-10-000016867</illusnum>
+               </figure>
+               <para translate="yes">Weld this metal strip to the vehicle to carry out the patched drilling.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-76-repair-40-01-44-02-21-1-1-11" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016728_LAY-000321033.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-76-repair-40-01-44-02-21-1-1-11-000016728</illusnum>
+               </figure>
+               <para translate="yes">Scour the external joint faces depending on the type of weld.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-96-repair-40-01-44-02-21-1-1-12" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016179_LAY-000321040.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-96-repair-40-01-44-02-21-1-1-12-000016179</illusnum>
+               </figure>
+               <para translate="yes">Scour the weld edges of the partial cuts.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-116-repair-40-01-44-02-21-1-1-13" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018303_LAY-000321047.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-116-repair-40-01-44-02-21-1-1-13-000018303</illusnum>
+               </figure>
+               <para translate="yes">Deburr the edge of the plug weld holes.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-154-repair-40-01-44-02-21-1-1-14" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000015637_LAY-000321038.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-154-repair-40-01-44-02-21-1-1-14-000015637</illusnum>
+               </figure>
+               <para translate="yes">Scour the faces of the resistance welded joints.</para>
+               <para translate="yes">Strip the mating surfaces of the spliced joints<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796"> <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc> <linkvalue>GIEMR-001617</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e347" translate="no">
+         <title translate="yes">Fitting acoustic protection before assembly</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="40-01-189-repair-40-01-44-02-21-1-1-15" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000007278_LAY-000321027.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-01-189-repair-40-01-44-02-21-1-1-15-000007278</illusnum>
+               </figure>
+               <para translate="yes">Fit the acoustic inserts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3458125"><linkdesc>body structure soundproofing : description</linkdesc> <linkvalue>GIEMR-001314</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e361" translate="no">
+         <title translate="yes">Applying the anticorrosion protection before assembly</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-19-repair-40-01-44-02-21-1-1-16" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000013257_LAY-000321036.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-03-04-19-repair-40-01-44-02-21-1-1-16-000013257</illusnum>
+               </figure>
+               <para translate="yes">Concerns only joint interfaces (on the vehicle and on the new part).</para>
+               <para translate="yes">Depending on the locations, apply in order:</para>
+               <ul translate="no">
+                  <li translate="yes">spray products,</li>
+                  <li translate="yes">pad or brush products,</li>
+                  <li translate="yes">extruded products.</li>
+               </ul>
+               <para translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465710"> <linkdesc>pre-welding anti-corrosion protection for mating face : description</linkdesc> <linkvalue>GIEMR-001840</linkvalue> </sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+   </description>
+   <description id="d1e385" translate="no">
+      <title translate="yes">assembly</title>
+      <descbody translate="no"/>
+      <description id="d1e389" translate="no">
+         <title translate="yes">Application of the bonding products</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-03-04-8-repair-40-01-44-02-21-1-1-17" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017795_LAY-000321032.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-03-04-8-repair-40-01-44-02-21-1-1-17-000017795</illusnum>
+               </figure>
+               <para translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3485957"> <linkdesc>body structure bonding with hard mastic : description</linkdesc> <linkvalue>GIEMR-000171</linkvalue> </sieref>.</para>
+               <para translate="yes">
+<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3486026"> <linkdesc>body structure bonding with soft mastic : description</linkdesc> <linkvalue>GIEMR-000173</linkvalue> </sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e406" translate="no">
+         <title translate="yes">Fitting and adjusting the replaced parts</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="40-09-02-63-repair-40-01-44-02-21-1-1-18" translate="no">
+                  
+                  <image dimension="F5 (85x120)" href="../MergedPictures/ILL-000007203_LAY-000321043.png" style="width: 85.0mm; height: 120.0mm;" translate="no"/><illusnum>RDE-000315824-09-02-63-repair-40-01-44-02-21-1-1-18-000007203</illusnum>
+               </figure>
+               <para translate="yes">Position and adjust the new part on the vehicle. Fix using locking pliers.<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3503961"> <linkdesc>body structure maintenance and adjustment tools : use</linkdesc> <linkvalue>GIEMR-001610</linkvalue> </sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e420" translate="no">
+         <title translate="yes">Carrying out the welding</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-35-repair-40-01-44-02-21-1-1-19" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017640_LAY-000321031.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-35-repair-40-01-44-02-21-1-1-19-000017640</illusnum>
+               </figure>
+               <para translate="yes">Carry out the securing points on the butt welding lines.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-115-repair-40-01-44-02-21-1-1-20" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017712_LAY-000321042.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-115-repair-40-01-44-02-21-1-1-20-000017712</illusnum>
+               </figure>
+               <para translate="yes">Do the SER points.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-18-repair-40-01-44-02-21-1-1-21" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016869_LAY-000321035.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-18-repair-40-01-44-02-21-1-1-21-000016869</illusnum>
+               </figure>
+               <para translate="yes">Perform the plug welds.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-04-03-36-repair-40-01-44-02-21-1-1-22" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017641_LAY-000321044.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-36-repair-40-01-44-02-21-1-1-22-000017641</illusnum>
+               </figure>
+               <para translate="yes">Carry out the butt welding using a bead of chain weld.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e452" translate="no">
+         <title translate="yes">Grinding the welds</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-43-repair-40-01-44-02-21-1-1-23" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017651_LAY-000321051.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-43-repair-40-01-44-02-21-1-1-23-000017651</illusnum>
+               </figure>
+               <para translate="yes">Level off the weld beads and the plug welds<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218"> <linkdesc>shaving tools : description</linkdesc><linkvalue>GIEMR-001611</linkvalue></sieref>.</para>
+            </descsection>
+         </descbody>
+      </description>
+      <description id="d1e466" translate="no">
+         <title translate="yes">Shape finishing</title>
+         <descbody translate="no">
+            <descsection translate="no">
+               <figure id="00-04-03-33-repair-40-01-44-02-21-1-1-24" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017073_LAY-000321030.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-04-03-33-repair-40-01-44-02-21-1-1-24-000017073</illusnum>
+               </figure>
+               <para translate="yes">Scour the areas which will receive sealant to provide adherence.</para>
+            </descsection>
+            <descsection translate="no">
+               <figure id="00-03-04-16-repair-40-01-44-02-21-1-1-25" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018304_LAY-000321037.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000315824-03-04-16-repair-40-01-44-02-21-1-1-25-000018304</illusnum>
+               </figure>
+               <para translate="yes">On the visible parts, finish with a coat of sealant on both sides.</para>
+               <para translate="yes">Surface finish using a sander fitted with a<technicalvalue translate="no"><value translate="yes">P120</value></technicalvalue> <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3464478"><linkdesc>bodywork finishing product : description</linkdesc><linkvalue>GIEMR-001818</linkvalue></sieref>dry disc.</para>
+            </descsection>
+         </descbody>
+      </description>
+   </description>
+</description>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XFE|X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFC|XRQ|XTP|XFB|XFD|XZH|XHA|XZG|XFA|XZJ|X55|XEF|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJK|XJF|XFK|XHN|XJL|XCB|X27|X58|XDD|X59|X17|X41|X42|X75|XAV|XJ1|XFF|XJH|X1310|XDE|X1316|XR210|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000010467" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+   <title translate="no">bodywork cleaning tools : description</title>
+   
+   
+   <descprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="04/11/21 05:08" translate="no"/>
+         <revised modified="10/10/24 13:44" translate="no"/>
+      </critdates>
+      <descmetadata translate="no">
+         <siename translate="no">bodywork cleaning tools : description</siename>
+         <sieversion translate="no">N.1</sieversion>
+         <sietype translate="yes">Description</sietype>
+         <sienumber translate="no">RDE-000010467</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </descmetadata>
+   </descprolog>
+   <descbody translate="no"/>
+   <description id="d1e114" translate="no">
+      <title translate="yes">flat stripping</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a plastic brush on a power drill (<technicalvalue translate="no">
+                  <value translate="yes">5.000 rpm</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-83-repair-00-04-03-02-02-21-2-2-1" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000018287_LAY-000002105.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010467-04-03-83-repair-00-04-03-02-02-21-2-2-1-000018287</illusnum>
+            </figure>
+            <para translate="yes">Advantages:</para>
+            <ul translate="no">
+               <li translate="yes">Rapid means for cleaning large anti-chip surfaces and setting mastic without damaging the support sheet and the galvanising.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Causes a large quantity of shavings and dust.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye and face protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection of the environment:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e156" translate="no">
+      <title translate="yes">angle stripping</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a plastic fibre disk on a power drill (<technicalvalue translate="no">
+                  <value translate="yes">5,000 rpm</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-141-repair-00-04-03-02-02-21-2-2-2" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017299_LAY-000002106.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010467-04-03-141-repair-00-04-03-02-02-21-2-2-2-000017299</illusnum>
+            </figure>
+            <para translate="yes">Advantages:</para>
+            <ul translate="no">
+               <li translate="yes">Allows cleaning into corners without damaging the support sheet and galvanising.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Causes a large quantity of shavings and dust.</li>
+               <li translate="yes">Risk of the fibre getting caught on the sheet edge.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye and face protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection of the environment:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+         <descsection translate="no">
+            <para translate="yes">Use of a steel brush disk on a power drill (<technicalvalue translate="no">
+                  <value translate="yes">5,000 rpm</value>
+               </technicalvalue>).</para>
+            <figure id="00-04-03-34-repair-00-04-03-02-02-21-2-2-3" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017074_LAY-000002107.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010467-04-03-34-repair-00-04-03-02-02-21-2-2-3-000017074</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Rapid method for cleaning in corners without damaging the support sheet.</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Causes shavings and dust.</li>
+               <li translate="yes">Slightly attacks the galvanised protection.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye and face protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection of the environment:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+   <description id="d1e240" translate="no">
+      <title translate="yes">corner stripping</title>
+      <descbody translate="no">
+         <descsection translate="no">
+            <para translate="yes">Use of a strip sander with a<technicalvalue translate="no">
+                  <value translate="yes">36</value>
+               </technicalvalue>grit strip.</para>
+            <figure id="00-04-03-99-repair-00-04-03-02-02-21-2-2-4" translate="no">
+               
+               <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016182_LAY-000002108.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000010467-04-03-99-repair-00-04-03-02-02-21-2-2-4-000016182</illusnum>
+            </figure>
+            <para translate="yes">Advantage:</para>
+            <ul translate="no">
+               <li translate="yes">Can be used to strip in areas difficult to access (stripping a corner or an enclosed area).</li>
+            </ul>
+            <para translate="yes">Disadvantages:</para>
+            <ul translate="no">
+               <li translate="yes">Not a rapid means.</li>
+               <li translate="yes">Attacks the galvanising and the support sheet.</li>
+            </ul>
+            <para translate="yes">Operator protection:</para>
+            <ul translate="no">
+               <li translate="yes">obligatory eye and face protection,</li>
+               <li translate="yes">obligatory respiratory protection,</li>
+               <li translate="yes">obligatory ears protection,</li>
+               <li translate="yes">obligatory hand protection.</li>
+            </ul>
+            <para translate="yes">Protection of the environment:</para>
+            <ul translate="no">
+               <li translate="yes">protection of interior fittings.</li>
+            </ul>
+         </descsection>
+      </descbody>
+   </description>
+</description>

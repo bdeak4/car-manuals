@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X10|X38|X43|X44|X45|X47|X52|X61|X66|X67|X73|X74|X77|X81|X82|X84|X85|X87|X91|X92|X95|X98|XBA|XFB|XFC|XFD|XFE|XZH|XHA|XJD|XJA|XJE|XBC/RBC,HBC|XJB|XJK|XFF|XJF|XFK|XJC|XJL|XHN|XCB|XBB|X57|X58|X55|X56|XDD|X35|XBG|X33|X59|X53|X17|X54|X90|XFA|X76|X75|X09|X70|XJH|X79|X27|XZG|XRQ|X29|XTP|X48|X24|XEF|X40|X41|X42|XZJ|X06|X83|X65|X64|X63|X62|XJ1|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000422312" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">proximity sensor : preparation and paint range</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Draft" translate="no"/>
+    <critdates translate="no">
+      <created date="03/11/21 08:54" translate="no"/>
+      <revised modified="05/11/21 11:12" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">proximity sensor : preparation and paint range</siename>
+      <sieversion translate="no">I.3</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000422309</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <descbody translate="no">
+    <noteR translate="no" type="caution">
+      <para translate="yes">The proximity sensors are fragile. Handle with care as the external part cannot withstand impacts.</para>
+      <para translate="yes">When drying the bumper and/or proximity radars, the temperature must not exceed<technicalvalue translate="no"><value translate="yes">60˚C</value></technicalvalue>.</para>
+    </noteR>
+    <descsection translate="no">
+      <marklayer id="marklayer-d1e72" translate="no">
+        <?Pub Dtl?>
+        <mark id="MARK.REPAIR-80X03X03X09-02X65-1-1.1" translate="no">
+          <mcomponent translate="no">
+            <label translate="no"/>
+          </mcomponent>
+          <designation translate="no">1</designation>
+        </mark>
+      </marklayer>
+      <figure id="80-03-03-12-repair-80-03-03-09-02-65-1-1-1" translate="no">
+        
+        <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000014554_c@[users[a070181[appdata[local[temp[aptexport[80-03-03-12-repair-80-03-03-09-02-65-1-1-1.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+        <illusnum>RDE-000422309-03-03-12-repair-80-03-03-09-02-65-1-1-1-000014554</illusnum>
+      </figure>
+      <para translate="yes">The radar detects using a highly sensitive membrane <markref format="dita" href="#RDE-000422309/80-03-03-12-repair-80-03-03-09-02-65-1-1-1" scope="local" translate="no" type="figure">1</markref>.</para>
+      <para translate="yes">The sensitivity of the membrane may be affected by an unsuitable coating.</para>
+      <para translate="yes">The radar will then detect false information or nothing at all.</para>
+    </descsection>
+  </descbody>
+  <description id="d1e95" translate="no" xml:lang="en">
+    <title translate="yes">painting</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <para translate="yes">Only proximity radars sold and prepared in the Parts Department can be painted.</para>
+        <para translate="yes">Paint the proximity radars and the bumper separately.</para>
+        <para translate="yes">Put masking tape on the part of the proximity radar which must not be painted.</para>
+        <para translate="yes">For proximity radars which are supplied unassembled, paint the proximity radar only and assemble the unit after drying.</para>
+        <para translate="yes">Apply the product range for painting on polypropylene<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3456650"><linkdesc>polypropylene bodywork component : preparation and paint range</linkdesc><linkvalue>GIEMR-002455</linkvalue></sieref>.</para>
+        <para translate="yes">If retouching the paintwork on the bumper, mask or remove the proximity radars.</para>
+        <para translate="yes">The proximity radars must not be painted several times.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="des1" translate="no" xml:lang="en">
+    <title translate="yes">Painting the sensor with flexible coupling ring</title>
+    <descbody translate="no">
+      <marklayer translate="no">
+        <?Pub Dtl?>
+      </marklayer>
+      <descsection translate="no">
+        <marklayer translate="no">
+          <?Pub Dtl?>
+          <mark id="366421ab-d5f1-40ea-bdca-f718b64f3134" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">2</designation>
+          </mark>
+          <mark id="b7a7e630-309e-4ba2-aa92-e39baaaa4d25" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">3</designation>
+          </mark>
+          <mark id="c0313da3-d1bc-42ee-aa3b-fd237729474f" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">4</designation>
+          </mark>
+          <mark id="42f57a32-5180-4a45-a7c1-3f599eeaa5c2" translate="no">
+            <mcomponent translate="no">
+              <label translate="no"/>
+            </mcomponent>
+            <designation translate="no">5</designation>
+          </mark>
+        </marklayer>
+        <figure id="fig1" translate="no">
+          
+          <image dimension="F3 (180x120) #" href="../MergedPictures/ILL-000260672_lay-000225482.png" style="width: 180.0mm; height: 120.0mm;" translate="no"/>
+          <illusnum>RDE-000422309-01-000260672</illusnum>
+          <?Pub Caret -1?>
+        </figure>
+        <para id="par1" translate="yes">Remove the flexible coupling ring<markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">3</markref>from the sensor <markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">2</markref>before carrying out paintwork</para>
+        <para id="par2" translate="yes">Do not exceed a distance of 3 mm paintwork on the face <markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">4</markref>in relation to the upper face <markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">5</markref>. Use masking tape to cover the rest of the sensor <markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">4</markref>and the body <markref format="dita" href="#des1/fig1" scope="local" translate="no" type="figure">2</markref></para>
+        <para id="par3" translate="yes">Once the paintwork is complete, refit the flexible coupling ring.</para>
+      </descsection>
+    </descbody>
+  </description>
+  <description id="d1e121" translate="no" xml:lang="en">
+    <title translate="yes">Malfunction</title>
+    <descbody translate="no">
+      <descsection translate="no">
+        <para translate="yes">Faults leading to proximity radar malfunctioning:</para>
+        <ul translate="no">
+          <li translate="yes">excessive run or paint thickness on the membrane,</li>
+          <li translate="yes">run in the peripheral section of the membrane's neck,</li>
+          <li translate="yes">damage to the membrane,</li>
+          <li translate="yes">deformed bumper changing the alignment of the proximity radars.</li>
+        </ul>
+      </descsection>
+    </descbody>
+  </description>
+</description>

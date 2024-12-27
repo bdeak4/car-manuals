@@ -1,0 +1,85 @@
+{
+  "PR": [
+    {
+      "id": "1204_194010",
+      "filename": "1204_194010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01083837.svg"
+    },
+    {
+      "id": "1204_194310",
+      "filename": "1204_194310.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/00076712.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0531",
+      "filename": "ADAPTING THE HEAT SHIELDS FOR A REINFORCED FLOOR PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0531.pdf"
+    },
+    {
+      "id": "2447",
+      "filename": "FUEL CUT-OUT SYSTEM IN THE EVENT OF A COLLISION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2447.pdf"
+    },
+    {
+      "id": "2535",
+      "filename": "FUEL FILTER WITH ALUMINIUM END SECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2535.pdf"
+    },
+    {
+      "id": "2929",
+      "filename": "DEVELOPMENTS IN FUEL TANKS AND VENTING SYSTEMS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2929.pdf"
+    },
+    {
+      "id": "3049",
+      "filename": "CENTRAL COOLANT TEMPERATURE MANAGEMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3049.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2682",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE WITH AIR CONDITIONING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2682.pdf"
+    },
+    {
+      "id": "3404",
+      "filename": "THROTTLE POTENTIOMETER AND IDLE SPEED REGULATION VALVE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3404.pdf"
+    },
+    {
+      "id": "2944",
+      "filename": "DIAGRAMS OF THE COOLING CIRCUIT ON TWINGO VEHICLES EQUIPPED WITH THE \"COLD\" BOTTLE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2944.pdf"
+    },
+    {
+      "id": "5b081554d02e7d00dc4564ef",
+      "filename": "fuel pipe : reconditioning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000120130.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2669",
+      "filename": "PRINCIPLE OF OPERATION AND FAULT FINDING -  HOW FUEL GAUGE WORKS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2669.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21955.png"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X07|X09|X10|X24|X33|X35|X38|X44|X52|X61|X62|X65|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X95|X98|XFB|XFC|XFD|XFE|XHA|XZH|XZG|XFA|XFF|X55|XZJ|XEF|XJD|X43|X45|X47|XBA|XBB|XJA|XJC|XJB|XJE|XJH|XJL|XJK|XJF|XFK|XHN|XCB|X57|X58|XBC|X56|XDD|XBG|X59|X53|X54|X17|X75|X27|X29|XRQ|XTP|X48|X40|X41|X42|X06|X64|X63|XJ1|X66|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RDE-000291326" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+  <title translate="no">12 V battery : precautions for the repair</title>
+  
+  
+  <descprolog translate="no">
+    
+    
+    <status name="Translated" translate="no"/>
+    <critdates translate="no">
+      <created date="23/03/20 02:33" translate="no"/>
+      <revised modified="25/03/20 14:37" translate="no"/>
+    </critdates>
+    <descmetadata translate="no">
+      <siename translate="no">12 V battery : precautions for the repair</siename>
+      <sieversion translate="no">L.2</sieversion>
+      <sietype translate="yes">Description</sietype>
+      <sienumber translate="no">RDE-000290838</sienumber>
+      <domain translate="no">MR</domain>
+      <company translate="no">RENAULT</company>
+      
+    </descmetadata>
+  </descprolog>
+  <description id="d1e81" translate="no" xml:lang="fr">
+    <title translate="yes">safety</title>
+    <description id="d1e85" translate="no" xml:lang="fr">
+      <title translate="yes">DANGER: RISK FROM ACID LINKED TO HANDLING</title>
+      <descbody translate="no">
+        <para translate="yes">Sulphuric acid is a highly aggressive and toxic substance which corrodes most metals.</para>
+        <para translate="yes">When handling batteries, it is very important to take the following precautions:</para>
+        <ul translate="no">
+          <li translate="yes">protect your eyes by wearing goggles,</li>
+          <li translate="yes">wear acid-proof gloves and clothing.</li>
+        </ul>
+        <reusenote translate="no" type="warning" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid any damages and/or injuries dues to potential projection of sulfuric acid, a dangerous substance, contained in 12V battery, rinse all contaminated areas thoroughly in water.If it comes into c</dyndoctitle><para translate="yes">To avoid any damages and/or injuries dues to potential projection of sulfuric acid, a dangerous substance, contained in 12V battery, rinse all contaminated areas thoroughly in water.</para><para translate="yes">If it comes into contact with the skin or eyes, seek medical attention.</para></reusenote>
+      </descbody>
+    </description>
+    <description id="d1e105" translate="no" xml:lang="fr">
+      <title translate="yes">DANGER: RISK OF EXPLOSION LINKED TO CHARGING AND TO INCORRECT TIGHTENING OF THE TERMINALS</title>
+      <descbody translate="no">
+        <reusenote translate="no" type="warning" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To prevent damaging the 12V battery or even causing it to explode, do not place any heat sources or create any sparks near a charging 12V battery.</dyndoctitle><para translate="yes">To prevent damaging the 12V battery or even causing it to explode, do not place any heat sources or create any sparks near a charging 12V battery.</para></reusenote>
+        <para id="par1" translate="yes">Incorrect tightening could cause heating of contacts, starting or charging faults, sparking, and cause the battery to explode.</para>
+        <para translate="yes">When a battery is charging, oxygen and hydrogen are produced. The mixture of these two gases is explosive.</para>
+        <para translate="yes">The smallest of sparks or heat sources is enough to cause an explosion. The explosion is so strong that the battery can shatter and spray the acid into the surrounding atmosphere.</para>
+        <para translate="yes">People nearby are at risk (exploded fragments, acid splashes). Acid splashes are dangerous. They also damage clothing.</para>
+        <para translate="yes">Safeguarding against the danger of explosion, which can be caused by handling a battery carelessly, must be taken very seriously.</para>
+        <reusenote translate="no" type="warning" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid any risk of sparks:Ensure that all electrical consumers are completely switched off.When a 12V battery is being charged indoors,  switch off the charger before connecting or disconnecting the</dyndoctitle><para translate="yes">To avoid any risk of sparks:</para><ul translate="no"><li translate="yes">Ensure that all electrical consumers are completely switched off.</li><li translate="yes">When a 12V battery is being charged indoors,  switch off the charger before connecting or disconnecting the 12V battery.</li><li translate="yes">Do not place any metallic items on the 12V battery, as this would cause a short circuit across the terminals.</li><li translate="yes">Never hold a naked flame, welding gun, blowtorch, cigarette or lighted match near to a 12V battery.</li></ul></reusenote>
+      </descbody>
+    </description>
+  </description>
+  <description id="d1e132" translate="no" xml:lang="fr">
+    <title translate="yes">general recommendations</title>
+    <descbody translate="no">
+      <reusenote translate="no" type="caution" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid loss of computer functions, observe the following recommendations before disconnecting the 12V battery:wait for the motor-driven fan assembly to stop,wait for the computer to finish saving (5</dyndoctitle><para translate="yes">To avoid loss of computer functions, observe the following recommendations before disconnecting the 12V battery:</para><ul translate="no"><li translate="yes">wait for the motor-driven fan assembly to stop,</li><li translate="yes">wait for the computer to finish saving (5 minutes).</li></ul></reusenote>
+      <noteR translate="no" type="warning">
+        <para translate="yes">To avoid unwanted restarting of the engine, before carrying out any operation on a vehicle fitted with the Stop &amp; Start system, always follow the safety instructions (see Vehicle: precautions for the repair).</para>
+      </noteR>
+      <reusenote translate="no" type="caution" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid permanently locking the steering column lock, never fit a UCH that has been previously used on another vehicle.</dyndoctitle><para translate="yes">To avoid permanently locking the steering column lock, never fit a UCH that has been previously used on another vehicle.</para></reusenote>
+      <reusenote translate="no" type="caution" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid any damage to the wiring, observe the correct orientation of the battery terminal.</dyndoctitle><para translate="yes">To avoid any damage to the wiring, observe the correct orientation of the battery terminal.</para></reusenote>
+      <reusenote translate="no" type="caution" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To prevent premature loosening of the stud nuts on the negative terminal, refit a maximum of two terminals per stud and distribute the terminals over different studs.</dyndoctitle><para translate="yes">To prevent premature loosening of the stud nuts on the negative terminal, refit a maximum of two terminals per stud and distribute the terminals over different studs.</para></reusenote>
+      <reusenote translate="no" type="caution" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:reusenote.xsd"><dyndoctitle translate="yes">To avoid damaging the bonnet, refit a battery which is identical to the battery originally fitted, in the case of vehicules are only fitted with TB (low height).</dyndoctitle><para translate="yes">To avoid damaging the bonnet, refit a battery which is identical to the battery originally fitted, in the case of vehicules are only fitted with TB (low height).</para></reusenote>
+      <descsection appl="||||||||||||||||||X38/ELEC|||||X61/ELEC||||||||||||||||||||||||||||||" translate="no">
+        <noteR translate="no" type="warning">
+          <para translate="yes">DANGER : Risk of serious injuries due to the short-circuiting or the untimely triggering of an electrical system (pyrotechnical parts, windscreen wiper motor, electric fan, etc.) following possible loopback of the 12-volt supply circuit by the voltage transformer.</para>
+          <para translate="yes">Please adhere to the instructions regarding cut-off of the 12-volt supply circuit.</para>
+          <para translate="yes">If the procedure fails, do not continue with your task and ask an employee who is qualified and authorized to work on a high-voltage onboard network to perform a diagnostic.</para>
+        </noteR>
+        <para translate="yes">Perform the following operations to disconnect the 12-volt supply circuit before carrying out any repair operations<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3453188"><linkdesc>vehicle : lockout - removal of lockout</linkdesc><linkvalue>GIEMR-002439</linkvalue></sieref>.</para>
+      </descsection>
+      <descsection appl="||||||||||X09||||||X10|||||||||||||||||||||||||||||||||||||" translate="no">
+        <noteR translate="no" type="warning">
+          <para translate="yes">DANGER : Risk of serious injuries due to the short-circuiting or the untimely triggering of an electrical system (pyrotechnical parts, windscreen wiper motor, electric fan, etc.) following possible loopback of the 12-volt supply circuit by the voltage transformer.</para>
+          <para translate="yes">Please adhere to the instructions regarding cut-off of the 12-volt supply circuit.</para>
+          <para translate="yes">If the procedure fails, do not continue with your task and ask an employee who is qualified and authorized to work on a high-voltage onboard network to perform a diagnostic.</para>
+        </noteR>
+        <?Pub Caret -2?>
+        <para translate="yes">Perform the following operations to disconnect the 12-volt supply circuit before carrying out any repair operations<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3449494"><linkdesc>12 V supply circuit : lockout - removal of lockout</linkdesc><linkvalue>GIEMR-000508</linkvalue></sieref>.</para>
+      </descsection>
+    </descbody>
+  </description>
+</description>

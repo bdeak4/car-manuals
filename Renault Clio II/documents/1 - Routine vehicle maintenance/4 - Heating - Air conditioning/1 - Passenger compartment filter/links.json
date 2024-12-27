@@ -1,0 +1,39 @@
+{
+  "PR": [
+    {
+      "id": "1247_602310",
+      "filename": "1247_602310.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01045143.svg"
+    },
+    {
+      "id": "1247_610110",
+      "filename": "1247_610110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01011722.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "MR-337-CLIO-6",
+      "filename": "M.R. 337 - 6 Heating and ventilation phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-6.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-6",
+      "filename": "M.R. 345 - 6 Heating and ventilation phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-6.pdf"
+    },
+    {
+      "id": "5af9512f3ef64d00e0ef6c71",
+      "filename": "cabin filter : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000235572.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21367.png"
+    }
+  ]
+}

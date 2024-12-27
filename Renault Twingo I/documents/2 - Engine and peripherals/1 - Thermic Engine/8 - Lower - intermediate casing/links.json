@@ -1,0 +1,59 @@
+{
+  "PR": [
+    {
+      "id": "1323_105010",
+      "filename": "1323_105010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01087155.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2551",
+      "filename": "DEVELOPMENT OF THE ENGINE SUPPORT TOOL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2551.pdf"
+    },
+    {
+      "id": "2341",
+      "filename": "POSITION OF ENGINE MOUNTINGS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2341.pdf"
+    },
+    {
+      "id": "3570",
+      "filename": "Developments in elastomer seals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3570.pdf"
+    },
+    {
+      "id": "2825",
+      "filename": "TIGHTENING THE CYLINDER HEAD BOLTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2825.pdf"
+    },
+    {
+      "id": "2621",
+      "filename": "SPECIAL FEATURES OF THE TWINGO FITTED WITH THE D7F ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2621.pdf"
+    },
+    {
+      "id": "2889",
+      "filename": "ERRATUM NT 2466A, 2621A RELATING TO MR 325 AND ENGINE MANUAL MOT. D.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2889.pdf"
+    },
+    {
+      "id": "3789",
+      "filename": "GREASING THE SPARK PLUG COVERS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3789.pdf"
+    },
+    {
+      "id": "MR-MOT-D-(E)",
+      "filename": "Engine (petrol) 4 - cylinder, cast iron cylinder block.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-MOT-D-(E).pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21948.png"
+    }
+  ]
+}

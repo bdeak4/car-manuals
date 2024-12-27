@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X65" id="RDE-000171147" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">gearbox assembly : parts and consumables for
+the repair</title>
+
+
+<descprolog translate="no">
+
+
+<status name="Brouillon" translate="no"/>
+<critdates translate="no">
+<created date="03/03/16 15:13" translate="no"/>
+<revised modified="03/03/16 15:19" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">gearbox assembly : parts and consumables for
+the repair</siename>
+<sieversion translate="no">B.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000171147</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no"/>
+<description id="d1e8" translate="no">
+<title translate="yes">PARTS ALWAYS TO BE REPLACED:</title>
+<descbody translate="no">
+<descsection translate="no">
+<para translate="yes">After they have been removed:</para>
+<ul translate="no">
+<li translate="yes">the lip seals,</li>
+<li translate="yes">the O-rings,</li>
+<li translate="yes">the clutch thrust bearing guide tubes,</li>
+<li translate="yes">the nuts of the output shaft and differential,</li>
+<li translate="yes">the tachometer sprocket and its shaft,</li>
+<li translate="yes">the tachometer crownwheel,</li>
+<li translate="yes">the roll pins,</li>
+<li translate="yes">the rings under the pinions.</li>
+</ul>
+</descsection>
+</descbody>
+</description>
+<description id="d1e33" translate="no">
+<title translate="yes">lubricant capacities</title>
+<descbody translate="no">
+<descsection appl="X65/JB1,JB3" translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Capacity
+in litres</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Grade, viscosity</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">3.4</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">TRX 75W 80W</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection><?Pub Caret -2?>
+<descsection appl="X65/JC5" translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Capacity
+in litres</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Grade, viscosity</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">3.1</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">TRX 75W 80W</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+<descsection appl="X65/JR5/120" translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="2" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="50%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="50%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">Capacity
+in litres</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">Grade, viscosity</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">2.5</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">TRJ 75 W80</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>
+<description id="d1e124" translate="no">
+<title translate="yes">CHECKING THE LEVEL</title>
+<descbody translate="no">
+<descsection translate="no"><marklayer id="marklayer-d1e126" translate="no"><mark id="MARK.REPAIR-12X01-02X61-1-1.1" translate="no">
+<mcomponent translate="no"><label translate="no"/></mcomponent>
+<designation translate="no">2</designation></mark><mark id="MARK.REPAIR-12X01-02X61-1-1.2" translate="no"><mcomponent translate="no"><label translate="no"/></mcomponent><designation translate="no">1</designation></mark></marklayer>
+<figure id="12-01-13-repair-12-01-02-61-1-1-1" translate="no">
+
+<image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000004857_LAY-000049727.png" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RDE-000171147-01-13-repair-12-01-02-61-1-1-1-000004857</illusnum></figure>
+<para translate="yes">Fill to overflow through the filler cap.</para>
+<figure id="10-03-01-36-repair-12-01-02-61-1-1-2" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000003161_LAY-000049728.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000171147-03-01-36-repair-12-01-02-61-1-1-2-000003161</illusnum>
+<caption translate="no">
+<sthead translate="no">
+<stentry translate="yes">N repere</stentry>
+<stentry translate="yes">Designation</stentry>
+<stentry translate="yes">Informations</stentry>
+<stentry translate="yes">Renvois</stentry>
+</sthead>
+<strow translate="no">
+<stentry translate="yes"><para translate="yes"><markref format="dita" href="#d1e124/10-03-01-36-repair-12-01-02-61-1-1-2" scope="local" translate="no" type="figure">1</markref></para></stentry>
+<stentry translate="yes"><para translate="yes">drain plug</para></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+</strow>
+<strow translate="no">
+<stentry translate="yes"><para translate="yes"><markref format="dita" href="#d1e124/10-03-01-36-repair-12-01-02-61-1-1-2" scope="local" translate="no" type="figure">2</markref></para></stentry>
+<stentry translate="yes"><para translate="yes">filler cap</para></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+<stentry translate="yes"><para translate="yes"/></stentry>
+</strow>
+</caption>
+</figure>
+</descsection>
+</descbody>
+</description>
+<description id="d1e162" translate="no">
+<title translate="yes">consumables</title>
+<descbody translate="no">
+<descsection appl="X65/JB1,JB3,JC5" translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="4" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="29.170194750211685%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="26.390064916737227%" translate="no"/>
+<colspec colname="3" colnum="3" colwidth="16.666666666666668%" translate="no"/>
+<colspec colname="4" colnum="4" colwidth="27.77307366638442%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">TYPE</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PACKAGING</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">PART NUMBER</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">COMPONENT</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">MOLYKOTE BR2</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">1 kg tin</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 421
+145</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Right-hand
+sunwheel splines</para><para translate="yes">Clutch:</para><para translate="yes">Thrust bearing guide</para><para translate="yes">Fork
+pads</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">LOCTITE 518</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">24 ml syringe</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 421
+162</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Casing assembly
+face</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">RHODORSEAL 5661</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">100 g tube</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 404
+452</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Threaded
+plugs and switches</para><para translate="yes">Locating ball plugs</para><para translate="yes">Ends of the roll pins on the driveshafts</para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">LOCTITE FRENBLOC</ingredientname>(sealing and locking
+resin)</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">24 cc bottle</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 394
+071</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Input and
+secondary shaft nuts</para><para translate="yes">5th fixed gear and
+hub</para><para translate="yes">Claw selector arm</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+<descsection appl="X65/JR5/120" translate="no">
+<table colsep="1" frame="all" rowsep="1" translate="no">
+<tgroup cols="4" colsep="1" rowsep="1" translate="no">
+<colspec colname="1" colnum="1" colwidth="27.77307366638442%" translate="no"/>
+<colspec colname="2" colnum="2" colwidth="26.390064916737227%" translate="no"/>
+<colspec colname="3" colnum="3" colwidth="16.666666666666668%" translate="no"/>
+<colspec colname="4" colnum="4" colwidth="29.170194750211685%" translate="no"/>
+<thead translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes">TYPE</para></entry>
+<entry colname="2" translate="yes"><para translate="yes">PACKAGING</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">PART NUMBER</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">COMPONENT</para></entry>
+</row>
+</thead>
+<tbody translate="no">
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">MOLYKOTE BR2</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">1 kg tin</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 421
+145</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Splines</para></entry>
+</row>
+<row rowsep="1" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">LOCTITE 518</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">24 ml syringe</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 421
+162</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Casing assembly
+face</para></entry>
+</row>
+<row rowsep="0" translate="no">
+<entry colname="1" translate="yes"><para translate="yes"><ingredientname translate="yes">RHODORSEAL 5661</ingredientname></para></entry>
+<entry colname="2" translate="yes"><para translate="yes">100 g tube</para></entry>
+<entry colname="3" translate="yes"><para translate="yes">77 01 404
+452</para></entry>
+<entry colname="4" translate="yes"><para translate="yes">Threaded
+plugs and switches</para></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</descsection>
+</descbody>
+</description>
+</description>

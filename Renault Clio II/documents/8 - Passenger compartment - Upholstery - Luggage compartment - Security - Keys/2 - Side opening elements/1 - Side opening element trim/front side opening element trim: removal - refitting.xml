@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X65/C65" id="RPR-000403115" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">front side opening element trim: removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">front side opening element trim: removal - refitting</siename>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e8" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e12" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the front speaker<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3484496">
+                           <linkdesc>front speaker : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001437</linkvalue>
+                        </sieref>(86A, Radio),</li>
+                     <li translate="yes">the front side door interior handle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3515908">
+                           <linkdesc>side opening element interior handle : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001646</linkvalue>
+                        </sieref>(51A, Side opening element mechanisms).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e29" translate="no">
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="50-07-08-02-47-repair-70-03-02-02-01-37-1-27-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000045720_LAY-000096459.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000403115-07-08-02-47-repair-70-03-02-02-01-37-1-27-1-000045720</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the trim<markref format="dita" href="#d1e12/50-07-08-02-47-repair-70-03-02-02-01-37-1-27-1" scope="local" translate="no" type="figure">1</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e46" translate="no">
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+               </marklayer>
+               <figure id="70-03-02-02-113-repair-70-03-02-02-01-37-1-27-8" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057911_LAY-000096463.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000403115-03-02-02-113-repair-70-03-02-02-01-37-1-27-8-000057911</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the front side door frame trim<markref format="dita" href="#d1e12/70-03-02-02-113-repair-70-03-02-02-01-37-1-27-8" scope="local" translate="no" type="figure">2</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e63" translate="no">
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+               </marklayer>
+               <figure id="70-03-02-02-80-repair-70-03-02-02-01-37-1-27-3" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000045703_LAY-000096460.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000403115-03-02-02-80-repair-70-03-02-02-01-37-1-27-3-000045703</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bolt<markref format="dita" href="#d1e12/70-03-02-02-80-repair-70-03-02-02-01-37-1-27-3" scope="local" translate="no" type="figure">3</markref>,</li>
+                     <li translate="yes">the pull handle<markref format="dita" href="#d1e12/70-03-02-02-80-repair-70-03-02-02-01-37-1-27-3" scope="local" translate="no" type="figure">4</markref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/C65/LVAVEL" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Disconnect the connectors for the window winder switch plate.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/C65/LVAVMA" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Unclip window winder handle.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e115" translate="no">
+         <title translate="yes">removal operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e117" translate="no">
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.5" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">5</designation>
+                  </mark>
+               </marklayer>
+               <figure id="70-03-02-02-111-repair-70-03-02-02-01-37-1-27-6" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057939_LAY-000096461.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000403115-03-02-02-111-repair-70-03-02-02-01-37-1-27-6-000057939</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the bolts<markref format="dita" href="#d1e115/70-03-02-02-111-repair-70-03-02-02-01-37-1-27-6" scope="local" translate="no" type="figure">5</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e137" translate="no">
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.6" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">6</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-70X03X02X02-01X37-1-27.7" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">7</designation>
+                  </mark>
+               </marklayer>
+               <figure id="70-03-02-02-112-repair-70-03-02-02-01-37-1-27-7" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000057940_LAY-000096462.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000403115-03-02-02-112-repair-70-03-02-02-01-37-1-27-7-000057940</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the front side door trim at<markref format="dita" href="#d1e115/70-03-02-02-112-repair-70-03-02-02-01-37-1-27-7" scope="local" translate="no" type="figure">6</markref>and<markref format="dita" href="#d1e115/70-03-02-02-112-repair-70-03-02-02-01-37-1-27-7" scope="local" translate="no" type="figure">7</markref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e168" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e172" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Eliminate the residues of sealing mastic on the front side door trim and on the front side door box section using a<ingredientname translate="yes">lint-free cloth</ingredientname>soaked in<ingredientname translate="yes">heptane</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>(04B, Consumables - Products).</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Always replace the sealing mastic with<ingredientname translate="yes">a bead of preformed sealing mastic</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>(04B, Consumables - Products).</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Reapply the new<ingredientname translate="yes">bead of preformed sealing mastic</ingredientname>on the front side door trim.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">
+                     <prs translate="yes" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:prs.xsd">Front side opening element trim clip</prs>
+                  </para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e206" translate="no">
+         <title translate="yes">refitting operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the front side door trim.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e213" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Carry out a sealing test.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/C65/LVAVMA" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clip on the window winder handle.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/C65/LVAVEL" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Connect the window winder switch plate connectors.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the pull handle,</li>
+                     <li translate="yes">the front side door frame trim,</li>
+                     <li translate="yes">the trim,</li>
+                  </ul>
+                  <ul translate="no">
+                     <li translate="yes">the front side door interior handle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3515908">
+                           <linkdesc>side opening element interior handle : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001646</linkvalue>
+                        </sieref>(51A, Side opening element mechanisms),</li>
+                     <li translate="yes">the front speaker<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3484496">
+                           <linkdesc>front speaker : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-001437</linkvalue>
+                        </sieref>(86A, Radio).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

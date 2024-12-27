@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="XZH|X07|X10|X24|X29|X33|X34|X35|X38|X40|X41|X42|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X75|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XBA|XFB|XFC|XFD|XFE|XZG|XZJ|XBB|XJA|XJB|XJE|XJD|XHA|XJK|XFK|XBC|XJL|XJF|XBG|XCB|XHN|X27|X58|X55|XRQ|XTP|XDD|X59|XEF|X17|X06|XFA|X09|XJ1|XJC|XFF|XJH|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000009607" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">sealing tooling : use</title>
+   <?Pub Caret -2?>
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="03/09/18 08:33" translate="no"/>
+         <revised modified="10/10/24 13:46" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">sealing tooling : use</siename>
+         <sieversion translate="no">F.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000009607</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e118" translate="no" xml:lang="en">
+      <title translate="yes">spraying tools</title>
+      <procbody translate="no"/>
+      <procedure id="d1e122" translate="no" xml:lang="en">
+         <title translate="yes">Adjusting mode for gardener type jet</title>
+         <procbody translate="no"/>
+         <procedure id="d1e126" translate="no" xml:lang="en">
+            <title translate="yes">Vehicle with standard bodywork</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <figure id="00-04-03-32-7-repair-00-04-03-32-01-79-1-1-2" translate="no">
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000058775.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000009607-04-03-32-7-repair-00-04-03-32-01-79-1-1-2-000058775</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Gardener type jet:</para>
+                     <ul translate="no">
+                        <li translate="yes">the pipe must be used without an end piece,</li>
+                        <li translate="yes">the internal diameter of the pipe should be<technicalvalue translate="no">
+                              <value translate="yes">14 mm</value>
+                           </technicalvalue>,</li>
+                        <li translate="yes">the flow must be equal to<technicalvalue translate="no">
+                              <value translate="yes">20 l/min</value>
+                           </technicalvalue>, which corresponds to a projection of<technicalvalue translate="no">
+                              <value translate="yes">X1 = 1,20 m</value>
+                           </technicalvalue>from theend of your toes by maintaining the pipe at<technicalvalue translate="no">
+                              <value translate="yes">H1 = 1 m</value>
+                           </technicalvalue>(hip height),</li>
+                        <li translate="yes">unless otherwise indicated, the spraying distanceshould be<technicalvalue translate="no">
+                              <value translate="yes">75cm ± 5 cm</value>
+                           </technicalvalue>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e174" translate="no" xml:lang="en">
+            <title translate="yes">Vehicle with coupé cabriolet body</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <figure id="00-04-03-32-8-repair-00-04-03-32-01-79-1-1-3" translate="no">
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000058770.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000009607-04-03-32-8-repair-00-04-03-32-01-79-1-1-3-000058770</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <noteR translate="no" type="note">
+                        <para translate="yes">Note:</para>
+                        <para translate="yes">Adjustment (B) of the gardener type jet appliesto specific zones on coupé cabriolet versions (side windows, retractableroof). For zones common to both coupé cabriolet and standard bodyworkversions, the gardener type jet must be adjusted (A).</para>
+                     </noteR>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Gardener type jet:</para>
+                     <ul translate="no">
+                        <li translate="yes">the pipe must be used without an end piece,</li>
+                        <li translate="yes">the internal diameter of the pipe should be<technicalvalue translate="no">
+                              <value translate="yes">14 mm</value>
+                           </technicalvalue>,</li>
+                        <li translate="yes">the flow must be equal to<technicalvalue translate="no">
+                              <value translate="yes">10 l/min</value>
+                           </technicalvalue>, which corresponds to a projection of<technicalvalue translate="no">
+                              <value translate="yes">X2 = 0,80 m</value>
+                           </technicalvalue>from theend of your toes by maintaining the pipe at<technicalvalue translate="no">
+                              <value translate="yes">H2 = 1 m</value>
+                           </technicalvalue>(hip height),</li>
+                        <li translate="yes">unless otherwise indicated, the spraying distancemust be<technicalvalue translate="no">
+                              <value translate="yes">10 cm</value>
+                           </technicalvalue>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure id="d1e228" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the gardener type jet</title>
+         <procbody translate="no"/>
+         <procedure id="d1e232" translate="no" xml:lang="en">
+            <title translate="yes">Spraying by sweeping</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <figure id="00-04-03-32-9-repair-00-04-03-32-01-79-1-1-6" translate="no">
+                     <title translate="yes">Circular sweeping</title>
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000058771.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000009607-04-03-32-9-repair-00-04-03-32-01-79-1-1-6-000058771</illusnum>
+                  </figure>
+                  <figure id="00-04-03-32-10-repair-00-04-03-32-01-79-1-1-4" translate="no">
+                     <title translate="yes">Horizontal sweeping</title>
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000058782.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000009607-04-03-32-10-repair-00-04-03-32-01-79-1-1-4-000058782</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <ul translate="no">
+                        <li translate="yes">Minimal spraying duration, 3 minutes,</li>
+                        <li translate="yes">number of sweeps, at least 3,</li>
+                        <li translate="yes">sweeping speed, 10 cm/s.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <figure id="00-04-03-32-11-repair-00-04-03-32-01-79-1-1-5" translate="no">
+                     <title translate="yes">Vertical spraying</title>
+                     <image dimension="F1 (85x60) #" href="../MergedPictures/ILL-000058783.PNG" style="width: 85.0mm; height: 60.0mm;" translate="no"/><illusnum>RPR-000009607-04-03-32-11-repair-00-04-03-32-01-79-1-1-5-000058783</illusnum>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Gradually spray thezone from the bottom upwards for at least 3 minutes.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e266" translate="no" xml:lang="en">
+            <title translate="yes">Static spraying</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <ul translate="no">
+                        <li translate="yes">Minimal spraying duration, 30 seconds, withoutexceeding 40 seconds.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure id="d1e276" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the pressurised sprayer</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">the use of a pressurised sprayer enables thesealing to be checked in a particular area without having to spraythe entire vehicle and enables a zone to be tested after repair.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">Fill the sprayer to 3/4 of its volume,</li>
+                     <li translate="yes">close the sprayer,</li>
+                     <li translate="yes">pump at least 4 times to pressurise the sprayer(repeat the operation uniformly during use in order to keep the sprayerunder pressure),</li>
+                     <li translate="yes">adjust the nozzle to a solid water jet,</li>
+                     <li translate="yes">spray at a distance of approximately 20 cm.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e298" translate="no" xml:lang="en">
+      <title translate="yes">tools to aid the search</title>
+      <procbody translate="no"/>
+      <procedure id="d1e302" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the spraying support</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">In certain cases, the vehicle may need to besprayed for a long time. In order to reproduce the infiltration, theuse of a spraying support (locally manufactured) prevents the needfor the second operator.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">Direct the garden type jet to the sealing checkzone,</li>
+                     <li translate="yes">immobilise the spray hose on the spraying support,</li>
+                     <li translate="yes">leave the jet in the static position on the sprayingzone.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e322" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the air gun</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">Use the air gun to check the sealing in a particulararea,</li>
+                     <li translate="yes">moderately adjust the pressure of the air jetin order not to damage the internal trim components of the vehicle,</li>
+                     <li translate="yes">blow inside the passenger compartment.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e336" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the door mirror glass</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">The door mirror glass allows zones which are difficultto reach to be visible,</li>
+                     <li translate="yes">direct the door mirror glass in order to viewthe zone to be checked.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e348" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the light or pen-shapedtorch</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">The light and pen-shaped torch enable zones whichare difficult to access to be viewed,</li>
+                     <li translate="yes">when the light or pen-shaped torch can be adjusted,adjust the lighting so that it focuses on one point.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e360" translate="no" xml:lang="en">
+      <title translate="yes">tools for repair</title>
+      <procbody translate="no"/>
+      <procedure id="d1e364" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the stripping tools</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">Stripping tools<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478927">
+                           <linkdesc>bodywork cleaning tools : description</linkdesc>
+                           <linkvalue>GIEMR-001618</linkvalue>
+                        </sieref>(05B, Equipment and tools) and<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3478796">
+                           <linkdesc>paint and rigid adhesive stripping tools : use</linkdesc>
+                           <linkvalue>GIEMR-001617</linkvalue>
+                        </sieref>(05B, Equipment and tools).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e380" translate="no" xml:lang="en">
+         <title translate="yes">Instructions for using the extrusion nozzle</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <ul translate="no">
+                     <li translate="yes">Extrusion nozzle<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3465603">
+                           <linkdesc>post-welding anti-corrosion protection for mating face : description</linkdesc>
+                           <linkvalue>GIEMR-001839</linkvalue>
+                        </sieref>(40J, Protections).</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

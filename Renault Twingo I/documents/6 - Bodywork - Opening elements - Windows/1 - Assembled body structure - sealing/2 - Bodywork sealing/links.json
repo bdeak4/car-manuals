@@ -1,0 +1,29 @@
+{
+  "PR": [
+    {
+      "id": "1204_640110",
+      "filename": "1204_640110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085167.svg"
+    },
+    {
+      "id": "1204_650110",
+      "filename": "1204_650110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085169.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "5af5b11e08813b00dc4cf573",
+      "filename": "paintwork sealing product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007764.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21582.png"
+    }
+  ]
+}

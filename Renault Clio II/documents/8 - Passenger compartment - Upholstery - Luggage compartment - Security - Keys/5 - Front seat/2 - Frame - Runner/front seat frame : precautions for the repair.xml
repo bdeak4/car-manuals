@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><description xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X24|X29|X40|X48|X50|X53|X54|X56|X57|X63|X64|X65|X66/D66|X70/PHAS1|X73/PHAS1|X76/PHAS1|X83/APL03|X94|XFC/JFC|XFD|XJ1|XRQ|XTP|XZG|XZJ|XJB|XJE|XJL" id="RDE-000427160" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:description.xsd">
+<title translate="yes">front seat frame : precautions for the repair</title><?Pub Caret -2?>
+
+
+<descprolog translate="no">
+
+
+<status name="Validated" translate="no"/>
+<critdates translate="no">
+<created date="03/11/21 07:34" translate="no"/>
+<revised modified="03/11/21 07:35" translate="no"/></critdates>
+<descmetadata translate="no">
+<siename translate="no">front seat frame : precautions for the repair</siename>
+<sieversion translate="no">E.1</sieversion>
+<sietype translate="yes">Description</sietype>
+<sienumber translate="no">RDE-000427160</sienumber>
+<domain translate="no">MR</domain>
+<company translate="no">RENAULT</company>
+
+</descmetadata>
+</descprolog>
+<descbody translate="no">
+<descsection translate="no">
+<figure id="70-06-02-27-repair-70-08-02-02-60-1-1-1" translate="no">
+<title translate="yes">Special notes for seats fitted with an AIRBAG</title>
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000012331.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000427160-06-02-27-repair-70-08-02-02-60-1-1-1-000012331</illusnum></figure>
+<noteR translate="no" type="warning">
+<para translate="yes">Before carrying out any work on or near safety
+system components, it is essential to lock the airbag computer using
+the diagnostic tool. When this function is activated, all the trigger
+lines are inhibited and the airbag warning light on the instrument
+panel is continuously lit (with the ignition on).</para>
+</noteR>
+<noteR translate="no" type="warning">
+<para translate="yes">All operations on airbag and pretensioner systems
+must be carried out by qualified trained personnel.</para>
+<para translate="yes">The airbags comprise a pyrotechnic gas generator,
+an ignition module and an airbag which must in no circumstances be
+separated.</para>
+<para translate="yes">The pretensioners have a pyrotechnic gas generator
+and an igniter which must not under any circumstances be separated.</para>
+</noteR>
+<noteR translate="no" type="warning">
+<para translate="yes">Handling pyrotechnic systems (airbags or pretensioners)
+near to a source of heat or flame is not permitted: there is a risk
+of triggering the airbags or pretensioners.</para>
+</noteR>
+</descsection>
+<descsection translate="no"><marklayer id="marklayer-d1e86" translate="no"><?Pub Dtl?><mark id="MARK.REPAIR-70X08X02-02X60-1-1.2">
+<mcomponent><label/></mcomponent><designation>4</designation>
+</mark><mark id="MARK.REPAIR-70X08X02-02X60-1-1.3"><mcomponent><label/></mcomponent><designation>3</designation></mark><mark id="MARK.REPAIR-70X08X02-02X60-1-1.4"><mcomponent><label/>
+</mcomponent><designation>2</designation></mark><mark id="MARK.REPAIR-70X08X02-02X60-1-1.5"><mcomponent><label/>
+</mcomponent><designation>1</designation></mark><mark id="MARK.REPAIR-70X08X02-02X60-1-1.6"><mcomponent><label/>
+</mcomponent><designation>FRONT</designation></mark></marklayer>
+<figure id="70-06-02-23-repair-70-08-02-02-60-1-1-2" translate="no">
+
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000017751_c@[users[a068726[appdata[local[temp[aptexport[70-06-02-23-repair-70-08-02-02-60-1-1-2.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000427160-06-02-23-repair-70-08-02-02-60-1-1-2-000017751</illusnum></figure>
+<para translate="yes">Finger tighten all the mountings and tighten
+to torque and in order, as indicated above, to eliminate noise from
+the seat and to ensure correct electrical contacts (if vehicle is
+fitted with automatic connector).</para>
+</descsection>
+<descsection translate="no">
+<figure id="70-08-02-08-4-repair-70-08-02-02-60-1-1-3" translate="no">
+<image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000008397.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RDE-000427160-08-02-08-4-repair-70-08-02-02-60-1-1-3-000008397</illusnum></figure>
+<noteR translate="no" type="note">
+<para translate="yes">REMINDER:</para>
+<para translate="yes">Components can only be removed (lugs, wires,
+brackets, etc.) to modify the replacement seat frame, according to
+the type of vehicle.</para>
+<para translate="yes"><ingredientname translate="yes">No welding operations
+are permitted</ingredientname>.</para>
+</noteR>
+</descsection>
+</descbody>
+</description>

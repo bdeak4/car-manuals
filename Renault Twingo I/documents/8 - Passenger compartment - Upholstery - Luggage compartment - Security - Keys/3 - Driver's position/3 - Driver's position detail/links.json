@@ -1,0 +1,54 @@
+{
+  "PR": [
+    {
+      "id": "1204_572011",
+      "filename": "1204_572011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01003585.svg"
+    },
+    {
+      "id": "1204_572010",
+      "filename": "1204_572010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01003584.svg"
+    },
+    {
+      "id": "1204_573010",
+      "filename": "1204_573010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085142.svg"
+    },
+    {
+      "id": "1204_843010",
+      "filename": "1204_843010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085291.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21660.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "PR": [
+    {
+      "id": "1313_108010",
+      "filename": "1313_108010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084389.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "3570",
+      "filename": "Developments in elastomer seals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3570.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-0",
+      "filename": "M.R. 337 - 0 General phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-0.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    },
+    {
+      "id": "5af5b19408813b00dc4cf5ed",
+      "filename": "engine oil : specifications.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000048762.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21370.png"
+    }
+  ]
+}

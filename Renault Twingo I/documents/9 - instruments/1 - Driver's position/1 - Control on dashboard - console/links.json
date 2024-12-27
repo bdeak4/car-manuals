@@ -1,0 +1,70 @@
+{
+  "PR": [
+    {
+      "id": "1204_842010",
+      "filename": "1204_842010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085266.svg"
+    },
+    {
+      "id": "1204_842012",
+      "filename": "1204_842012.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085267.svg"
+    },
+    {
+      "id": "1204_862010",
+      "filename": "1204_862010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085293.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2552",
+      "filename": "AIR RECYCLING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2552.pdf"
+    },
+    {
+      "id": "3424",
+      "filename": "Radio: Becker navigation system.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3424.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    }
+  ],
+  "MD": [
+    {
+      "id": "2863",
+      "filename": "INSTRUMENT PANEL.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2863.pdf"
+    },
+    {
+      "id": "2669",
+      "filename": "PRINCIPLE OF OPERATION AND FAULT FINDING -  HOW FUEL GAUGE WORKS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2669.pdf"
+    },
+    {
+      "id": "2751",
+      "filename": "CHANGE IN THE OPERATION OF THE ENGINE IMMOBILISER RED TELL-TALE LIGHT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/2751.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21884.png"
+    }
+  ]
+}

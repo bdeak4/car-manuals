@@ -1,0 +1,93 @@
+{
+  "PR": [],
+  "MR": [
+    {
+      "id": "0558",
+      "filename": "Special notes Clio Renault Sport.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0558.pdf"
+    },
+    {
+      "id": "0583",
+      "filename": "Special notes on CLIO V6 Phase II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0583.pdf"
+    },
+    {
+      "id": "0576",
+      "filename": "MODIFICATIONS TO REPLACEMENT PARTS Clio II phase 2 FOR Clio II phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0576.pdf"
+    },
+    {
+      "id": "0575",
+      "filename": "SPECIAL NOTES ON CLIO PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0575.pdf"
+    },
+    {
+      "id": "MR-338-CLIO-4",
+      "filename": "M.R. 338 - 4 Sheet Metalwork phase 1,phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-338-CLIO-4.pdf"
+    },
+    {
+      "id": "5af5652dc3da7a00dc2279f7",
+      "filename": "after assembly anti-corrosion protection : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000008495.xml"
+    },
+    {
+      "id": "5af5afc308813b00dc4cf3f5",
+      "filename": "acoustic insert : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323988.xml"
+    },
+    {
+      "id": "5af5afd608813b00dc4cf406",
+      "filename": "body structure soundproofing : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000315278.xml"
+    },
+    {
+      "id": "5af5b11e08813b00dc4cf573",
+      "filename": "paintwork sealing product : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007764.xml"
+    },
+    {
+      "id": "5af5b0d508813b00dc4cf51e",
+      "filename": "anti-corrosion protection before assembly : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000007412.xml"
+    },
+    {
+      "id": "5af5b18908813b00dc4cf5e1",
+      "filename": "anti-corrosion protection : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000009009.xml"
+    },
+    {
+      "id": "5af5b17608813b00dc4cf5cc",
+      "filename": "pre-welding anti-corrosion protection for mating face : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000323172.xml"
+    },
+    {
+      "id": "5af5b10908813b00dc4cf557",
+      "filename": "post-welding anti-corrosion protection for mating face : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-000322704.xml"
+    },
+    {
+      "id": "5e45c6a546e0fb0001b61ef7",
+      "filename": "post-welding anti-corrosion protection for mating face : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001487350.xml"
+    },
+    {
+      "id": "5e45c6a946e0fb0001b61efa",
+      "filename": "anti-corrosion protection by cold zinc electroplating : description.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001487405.xml"
+    },
+    {
+      "id": "5c74653752faff00dcddfb48",
+      "filename": "12 V battery oxidation bodywork component: repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-001159931.xml"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21562.png"
+    }
+  ]
+}

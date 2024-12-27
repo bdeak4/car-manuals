@@ -1,0 +1,74 @@
+{
+  "PR": [
+    {
+      "id": "1204_720112",
+      "filename": "1204_720112.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085181.svg"
+    },
+    {
+      "id": "1204_720110",
+      "filename": "1204_720110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085179.svg"
+    },
+    {
+      "id": "1204_720111",
+      "filename": "1204_720111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085180.svg"
+    },
+    {
+      "id": "1204_721111",
+      "filename": "1204_721111.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085182.svg"
+    },
+    {
+      "id": "1204_721110",
+      "filename": "1204_721110.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01085183.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0333",
+      "filename": "DASHBOARD UNIFICATION (COLOUR ALIGNMENT).pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0333.pdf"
+    },
+    {
+      "id": "3022",
+      "filename": "Special electrical notes PHASE II.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3022.pdf"
+    },
+    {
+      "id": "3805",
+      "filename": "INTERIOR LIGHTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3805.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-7",
+      "filename": "M.R. 306 - 7 TRIM AND UPHOLSTERY.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-7.pdf"
+    },
+    {
+      "id": "MR-306-TWINGO-5",
+      "filename": "M.R. 306 - 5 MECHANISMS AND ACCESSORIES.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-306-TWINGO-5.pdf"
+    },
+    {
+      "id": "MR-305-TWINGO-8",
+      "filename": "M.R. 305 - 8 ELECTRICAL EQUIPMENT.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-305-TWINGO-8.pdf"
+    },
+    {
+      "id": "2232",
+      "filename": "ELECTRIC WINDOWS - DOOR LOCKING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2232.pdf"
+    }
+  ],
+  "MD": [],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21659.png"
+    }
+  ]
+}

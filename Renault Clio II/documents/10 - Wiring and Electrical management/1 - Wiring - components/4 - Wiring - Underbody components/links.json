@@ -1,0 +1,110 @@
+{
+  "PR": [
+    {
+      "id": "1247_885212",
+      "filename": "1247_885212.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01055523.svg"
+    },
+    {
+      "id": "1247_885010",
+      "filename": "1247_885010.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01006068.svg"
+    },
+    {
+      "id": "1247_885053",
+      "filename": "1247_885053.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01084382.svg"
+    },
+    {
+      "id": "1247_885050",
+      "filename": "1247_885050.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01031759.svg"
+    },
+    {
+      "id": "1247_885580",
+      "filename": "1247_885580.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01035989.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "0504",
+      "filename": "REPLACING A SEAT EQUIPPED WITH A SIDE AIR BAG AFTER TRIGGERING OF THEMODULE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0504.pdf"
+    },
+    {
+      "id": "0539",
+      "filename": "FRONT SEATBACK TRIM ON SEATS EQUIPPED WITH AN AIR BAG.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/0539.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-8",
+      "filename": "M.R. 337 - 8 Electrical equipment phase 1.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-8.pdf"
+    },
+    {
+      "id": "MR-AIRBAG-CLIO",
+      "filename": "SRP AIR BAGS, PRETENSIONERS and SEAT BELTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-AIRBAG-CLIO.pdf"
+    },
+    {
+      "id": "MR-345-CLIO-8",
+      "filename": "M.R. 345 - 8 Electrical equipment phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-345-CLIO-8.pdf"
+    },
+    {
+      "id": "5cd49cfdbfe52300dc563019",
+      "filename": "wiring : precautions for the repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RDE-001280442.xml"
+    },
+    {
+      "id": "64a721b0e2e1dd0f8bf69f89",
+      "filename": "wiring: repair.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-002061970.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3391",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3391.pdf"
+    },
+    {
+      "id": "3120",
+      "filename": "MODIFICATION TO VEHICLE FAULT-FINDING CHARTS.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3120.pdf"
+    },
+    {
+      "id": "3551",
+      "filename": "AUTOMATIC DOOR LOCKING WHEN DRIVING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3551.pdf"
+    },
+    {
+      "id": "3560",
+      "filename": "DECODER UNIT and MULTI-TIMER UNIT FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3560.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "6015",
+      "filename": "ELECTRICAL WIRING REPAIR.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6015.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-8",
+      "filename": "M.R. 346 - 8 Electrical equipment.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-8.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21902.png"
+    }
+  ]
+}

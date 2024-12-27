@@ -1,0 +1,120 @@
+{
+  "PR": [
+    {
+      "id": "1313_175011",
+      "filename": "1313_175011.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01042220.svg"
+    },
+    {
+      "id": "1247_174320",
+      "filename": "1247_174320.svg",
+      "path": "https://cdn.asdh.aws.renault.com/plate_illustrations/01080927.svg"
+    }
+  ],
+  "MR": [
+    {
+      "id": "2447",
+      "filename": "FUEL CUT-OUT SYSTEM IN THE EVENT OF A COLLISION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/2447.pdf"
+    },
+    {
+      "id": "3570",
+      "filename": "Developments in elastomer seals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3570.pdf"
+    },
+    {
+      "id": "3339",
+      "filename": "Special features of the CLIO fitted with engine K4J 712.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3339.pdf"
+    },
+    {
+      "id": "3069",
+      "filename": "SPECIAL NOTES FOR VEHICLES EQUIPPED WITH THE K4M ENGINE.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/3069.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-1",
+      "filename": "M.R. 337 - 1 Engine and Peripherals phase 1, phase 2.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR_ASDE/Content/EN/MR-337-CLIO-1.pdf"
+    },
+    {
+      "id": "5af94e353ef64d00e0ef693f",
+      "filename": "throttle valve : cleaning.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000122097.xml"
+    },
+    {
+      "id": "5af567bbc3da7a00dc227ca1",
+      "filename": "oxygen sensor : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000124501.xml"
+    },
+    {
+      "id": "5af56733c3da7a00dc227c0d",
+      "filename": "injection computer : removal - refitting.xml",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MR/Content/RPR-000125040.xml"
+    }
+  ],
+  "MD": [
+    {
+      "id": "3175",
+      "filename": "Fault finding procedures for various faults affecting the cooling system and water pumps.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3175.pdf"
+    },
+    {
+      "id": "MR-337-CLIO-D",
+      "filename": "M.R. 337 - D Fault- Finding.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-337-CLIO-D.pdf"
+    },
+    {
+      "id": "MR-432-X65-17B000",
+      "filename": ".pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-17B000.pdf"
+    },
+    {
+      "id": "MR-432-X65-17B050",
+      "filename": "PETROL INJECTION V42 Injection Program No.: 2A Vdiag No.: 04, 05, 06, 14, 16, 18.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-432-X65-17B050.pdf"
+    },
+    {
+      "id": "3753",
+      "filename": "PETROL INJECTION FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3753.pdf"
+    },
+    {
+      "id": "3460",
+      "filename": "CORRECTIONS TO THE LABELLING ON THE INJECTION WIRING DIAGRAM.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3460.pdf"
+    },
+    {
+      "id": "3504",
+      "filename": "PETROL INJECTION FAULT FINDING.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3504.pdf"
+    },
+    {
+      "id": "3547",
+      "filename": "Sirius 34 injection.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3547.pdf"
+    },
+    {
+      "id": "6505",
+      "filename": "FAULT FINDING - Ignition coils on K4 and F4 engines.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/6505.pdf"
+    },
+    {
+      "id": "MR-346-CLIO-1",
+      "filename": "M.R. 346 - 1 Engine and peripherals.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/MR-346-CLIO-1.pdf"
+    },
+    {
+      "id": "3726",
+      "filename": "FAULT FINDING PETROL INJECTION.pdf",
+      "path": "https://cdn.asdh.aws.renault.com/SIE/MD_B2/Content/EN/3726.pdf"
+    }
+  ],
+  "IMG": [
+    {
+      "id": "vignette",
+      "filename": "vignette.png",
+      "path": "https://cdn.asdh.aws.renault.com/nodes/N-21956.png"
+    }
+  ]
+}

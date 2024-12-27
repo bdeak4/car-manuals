@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Arbortext, Inc., 1988-2015, v.4002--><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06|X07|X09|X10|X24|X29|X33|X35|X38|X40|X43|X44|X45|X47|X48|X52|X53|X54|X56|X57|X61|X62|X63|X64|X65|X66|X67|X70|X73|X74|X76|X77|X79|X81|X82|X83|X84|X85|X87|X90|X91|X92|X94|X95|X98|XFB|XFC|XFD|XFE|XRQ|XTP|XZH|XHA|XZG|XZJ|X55|XJD|XBA|XBB|XJA|XBC|XJC|XJE|XBG|XJB|XJL|XJH|XJK|XJF|XFK|XHN|XCB|X27|X58|XDD|X59|XEF|X17|X41|X42|XFA|X75|XJ1|XFF|XDE|X1310|XR210|X1316|X1317|XR310|X1322|X1318|XZ110|X1312" id="RPR-000323560" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="no">bolted assembly with crimped mounting : reconditioning</title>
+   <?Pub Caret -2?>
+   
+   <procprolog translate="no">
+      
+      
+      <status name="Published" translate="no"/>
+      <critdates translate="no">
+         <created date="09/03/20 05:53" translate="no"/>
+         <revised modified="10/10/24 13:43" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no">bolted assembly with crimped mounting : reconditioning</siename>
+         <sieversion translate="no">M.1</sieversion>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no">RPR-000323560</sienumber>
+         <domain translate="no">MR</domain>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <introduction translate="no">
+         <para translate="yes">Repairing a crimped fixing is done by replacement.Fitting is carried out using the<toolref format="dita" href="x-wc://file=OS-000005857.xml" scope="external" translate="no" type="specifictool">
+               <linkdesc>Tool for fitting crimped nuts.</linkdesc>
+               <linkvalue>Car.1504</linkvalue>
+            </toolref>.</para>
+      </introduction>
+   </procbody>
+   <procedure id="d1e119" translate="no" xml:lang="en">
+      <title translate="yes">disassembly</title>
+      <procbody translate="no"/>
+      <procedure id="d1e123" translate="no" xml:lang="en">
+         <title translate="yes">Disassembly of a crimped stud</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="00-04-03-51-repair-40-01-34-14-01-22-1-1-1" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016141.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000323560-04-03-51-repair-40-01-34-14-01-22-1-1-1-000016141</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Cut the stud aroundthe flange, if it is still present.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3504226">
+                        <linkdesc>body structure cutting tools : description</linkdesc>
+                        <linkvalue>GIEMR-001619</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <figure id="00-04-03-52-repair-40-01-34-14-01-22-1-1-2" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016142.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000323560-04-03-52-repair-40-01-34-14-01-22-1-1-2-000016142</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Shave the flange.</para>
+                  <para translate="yes">
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3469218">
+                        <linkdesc>shaving tools : description</linkdesc>
+                        <linkvalue>GIEMR-001611</linkvalue>
+                     </sieref>
+                  </para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the rest ofthe stud.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e152" translate="no" xml:lang="en">
+         <title translate="yes">Disassembly of a captive nut</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <figure id="00-04-03-54-repair-40-01-34-14-01-22-1-1-3" translate="no">
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016144.PNG" style="width: 85.0mm; height: 85.0mm;" translate="no"/><illusnum>RPR-000323560-04-03-54-repair-40-01-34-14-01-22-1-1-3-000016144</illusnum>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Drill the nut usinga drill bit which is slightly bigger than the internal diameter ofthe flange.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">Do not damage the support during the drillingoperation as this could make the hole larger and prevent the nut fromholding.</para>
+                  </noteR>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">If the crimped fixing falls into a hollow sectionwhen removed, inject wax to immobilise the residual fixing in thehollow section.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e174" translate="no" xml:lang="en">
+      <title translate="yes">assembly</title>
+      <procbody translate="no">
+         <procsteps translate="no">
+            <procstep translate="no">
+               <para translate="yes">
+                  <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3453883">
+                     <linkdesc>bolted assembly with crimped mounting : description</linkdesc>
+                     <linkvalue>GIEMR-000180</linkvalue>
+                  </sieref>
+               </para>
+            </procstep>
+         </procsteps>
+      </procbody>
+   </procedure>
+</procedure>

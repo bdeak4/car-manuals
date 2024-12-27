@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X35/JB1,JB3|X65/JB1,JB3" id="RPR-000192409" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">front right-hand wheel driveshaft : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no">
+      <introduction translate="no">
+         <noteR translate="no" type="caution">
+            <para translate="yes">In order to prevent irreversible damage to the front hub bearing:</para>
+            <ul translate="no">
+               <li translate="yes">Do not loosen or tighten the driveshaft nut when the wheels are on the ground.</li>
+               <li translate="yes">Do not place the vehicle with its wheels on the ground when the driveshaft has been loosened or removed.</li>
+            </ul>
+         </noteR>
+         <para translate="yes"/>
+      </introduction>
+   </procbody>
+   <procedure id="d1e24" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e28" translate="no">
+         <title translate="yes">removal preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Position the vehicle on a two-post lift<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3500084">
+                        <linkdesc>vehicle : towing and lifting</linkdesc>
+                        <linkvalue>GIEMR-002447</linkvalue>
+                     </sieref>(02A, Lifting equipment).</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the engine undertray bolts,</li>
+                     <li translate="yes">the engine undertray.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the front right-hand wheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435">
+                        <linkdesc>wheel : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-001965</linkvalue>
+                     </sieref>(35A, Wheels and tyres).</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e52" translate="no">
+         <title translate="yes">operation for removal of part concerned</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e54" translate="no">
+                  <mark id="MARK.REPAIR-13X01X01X02-01X37-1-45.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">3</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-13X01X01X02-01X37-1-45.2" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">2</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-13X01X01X02-01X37-1-45.3" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+                  <mark id="MARK.REPAIR-13X01X01X02-01X37-1-45.4" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">4</designation>
+                  </mark>
+               </marklayer>
+               <figure id="13-02-03-13-11-repair-13-01-01-02-01-37-1-45-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000016611_LAY-000048645.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Detach the wiring from the wheel speed sensor<markref format="dita" href="#d1e52/13-02-03-13-11-repair-13-01-01-02-01-37-1-45-1" scope="local" translate="no" type="figure">1</markref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the hub nut<markref format="dita" href="#d1e52/13-02-03-13-11-repair-13-01-01-02-01-37-1-45-1" scope="local" translate="no" type="figure">2</markref>by immobilising the hub using the tool<toolref format="dita" href="x-wc://file=OS-000000153.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Hub locking tool.</linkdesc>
+                           <linkvalue>Rou. 604-01</linkvalue>
+                        </toolref>,</li>
+                     <li translate="yes">the track rod end nut<markref format="dita" href="#d1e52/13-02-03-13-11-repair-13-01-01-02-01-37-1-45-1" scope="local" translate="no" type="figure">3</markref>,</li>
+                     <li translate="yes">the track rod end from the stub axle carrier using the tool<toolref format="dita" href="x-wc://file=OS-000000175.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Ball joint extractor.</linkdesc>
+                           <linkvalue>Tav. 476</linkvalue>
+                        </toolref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/JB1,JB3" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the front right-hand brake calliper support bolts<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3510096">
+                        <linkdesc>front brake calliper mounting : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-002125</linkvalue>
+                     </sieref>(31A, Front axle components).</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Attach the brake calliper to the shock absorber spring to prevent straining the hose.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the shock absorber base bolts<markref format="dita" href="#d1e52/13-02-03-13-11-repair-13-01-01-02-01-37-1-45-1" scope="local" translate="no" type="figure">4</markref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Push the front right-hand driveshaft back from the stub axle carrier by pivoting the stub axle carrier.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the front right-hand driveshaft.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+   <procedure id="d1e136" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e140" translate="no">
+         <title translate="yes">refitting operation for part concerned</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the front right-hand driveshaft to the gearbox sunwheel.</para>
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The driveshaft must fit freely into the stub axle carrier until it protrudes enough for the hub nut to be fitted.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Fit the front right-hand driveshaft into the stub axle carrier.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the bolts to the shock absorber base.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the<torque translate="no">
+                        <torquedobject translate="yes">shock absorber base bolts</torquedobject>
+                        <technicalvalue translate="no">
+                           <value translate="yes">105 N.m</value>
+                        </technicalvalue>
+                     </torque>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps appl="X65/JB1,JB3" translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the front right-hand brake calliper support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3510096">
+                        <linkdesc>front brake calliper mounting : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-002125</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Position the track rod.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the<torque translate="no">
+                        <torquedobject translate="yes">track rod end nut</torquedobject>
+                        <technicalvalue translate="no">
+                           <value translate="yes">37 N.m</value>
+                        </technicalvalue>
+                     </torque>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the hub nut.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Torque tighten the<torque translate="no">
+                        <torquedobject translate="yes">hub nut</torquedobject>
+                        <technicalvalue translate="no">
+                           <value translate="yes">280 N.m</value>
+                        </technicalvalue>
+                     </torque>using the tool<toolref format="dita" href="x-wc://file=OS-000000153.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Hub locking tool.</linkdesc>
+                        <linkvalue>Rou. 604-01</linkvalue>
+                     </toolref>.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Clip on the wheel speed sensor wiring harness.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e213" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the front right-hand wheel<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3532435">
+                        <linkdesc>wheel : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-001965</linkvalue>
+                     </sieref>(35A, Wheels and tyres).</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit the engine undertray.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>

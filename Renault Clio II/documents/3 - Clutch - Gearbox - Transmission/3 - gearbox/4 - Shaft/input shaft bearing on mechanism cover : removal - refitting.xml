@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><procedure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appl="X06/JB1|X35/JB1,JB3,JC5|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3,JC5|X65/JB1,JB3,JC5|X66/JC5|X76/JB1,JB3,JC5|X94/JC5" id="RPR-000163021" xml:lang="en" xsi:noNamespaceSchemaLocation="urn:ptc:names:renault:dita:xsd:procedure.xsd">
+   <title translate="yes">input shaft bearing on mechanism cover : removal - refitting</title>
+   
+   
+   <procprolog translate="no">
+      
+      
+      <status name="" translate="no"/>
+      <critdates translate="no">
+         <created date="" translate="no"/>
+         <revised modified="" translate="no"/>
+      </critdates>
+      <procmetadata translate="no">
+         <siename translate="no"/>
+         <sieversion translate="no"/>
+         <sietype translate="yes">Procedure</sietype>
+         <sienumber translate="no"/>
+         <domain translate="no"/>
+         <company translate="no">RENAULT</company>
+         
+      </procmetadata>
+   </procprolog>
+   <procbody translate="no"/>
+   <procedure id="d1e91" otherprops="WF-SET='01,34'" translate="no">
+      <title translate="yes">removal</title>
+      <procbody translate="no"/>
+      <procedure id="d1e95" translate="no">
+         <title translate="yes">removal preparation operation.</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="warning">
+                     <para translate="yes">To avoid all risk of damage to the systems, apply the safety and cleanliness instructions and operation recommendations before carrying out any repair:</para>
+                     <ul translate="no">
+                        <li translate="yes">
+                           <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3539122">
+                              <linkdesc>gearbox assembly : precautions for the repair</linkdesc>
+                              <linkvalue>GIEMR-000928</linkvalue>
+                           </sieref>,</li>
+                        <li translate="yes">(see Vehicle: Precautions for repair) (01D, Mechanical introduction).</li>
+                     </ul>
+                  </noteR>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Position the gearbox on the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove:</para>
+                  <ul translate="no">
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure id="d1e143" translate="no">
+         <title translate="yes">operation for the removal of the mechanism housing bearings</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">A press should be used to remove and refit the bearings.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e150" translate="no">
+         <title translate="yes">operation for the removal of the mechanism housing bearings</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The operation described is identical for both bearings.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <marklayer id="marklayer-d1e196" translate="no">
+                  <mark id="MARK.REPAIR-12X01X04X13-01X37-1-9.1" translate="no">
+                     <mcomponent translate="no">
+                        <label translate="no"/>
+                     </mcomponent>
+                     <designation translate="no">1</designation>
+                  </mark>
+               </marklayer>
+               <figure id="12-01-03-03-10-repair-12-01-04-13-01-37-1-9-1" translate="no">
+                  
+                  <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000024395_LAY-000049875.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+               </figure>
+               <procstep translate="no">
+                  <para translate="yes">Remove the circlips using circlip pliers.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Remove the bearing from inside the housing using the tool<markref format="dita" href="#d1e150/12-01-03-03-10-repair-12-01-04-13-01-37-1-9-1" scope="local" translate="no" type="figure">1</markref>
+                     <toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                        <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                        <linkvalue>Bvi. 1576</linkvalue>
+                     </toolref>and the press.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e217" translate="no">
+         <title translate="yes">operation for the removal of the mechanism housing bearings</title>
+         <procbody translate="no"/>
+         <procedure id="d1e240" translate="no">
+            <title translate="yes">Input shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the circlips using circlip pliers.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Remove the input shaft bearing from inside the housing using the tool<toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                           <linkvalue>Bvi. 1576</linkvalue>
+                        </toolref>and the press.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e254" translate="no">
+            <title translate="yes">Output shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Remove the output shaft bearing cage from inside the housing, using the tool<toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                           <linkvalue>Bvi. 1576</linkvalue>
+                        </toolref>and the press.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+   </procedure>
+   <procedure id="d1e263" otherprops="WF-SET='01,61'" translate="no">
+      <title translate="yes">refitting</title>
+      <procbody translate="no"/>
+      <procedure id="d1e267" translate="no">
+         <title translate="yes">refitting preparation operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Use<ingredientname translate="yes">SURFACE CLEANER</ingredientname>
+                     <sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3542379">
+                        <linkdesc>vehicle : parts and consumables for the repair</linkdesc>
+                        <linkvalue>GIEMR-002445</linkvalue>
+                     </sieref>to clean:</para>
+                  <ul translate="no">
+                     <li translate="yes">the bearing mating faces in the mechanism housing.</li>
+                     <li translate="yes">the mechanism housing.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Parts always to be replaced:</para>
+                  <ul translate="no">
+                     <li translate="yes">the removed bearings,</li>
+                     <li translate="yes">the lip seals,</li>
+                     <li translate="yes">the O-rings,</li>
+                     <li translate="yes">the clutch thrust bearing guide,</li>
+                     <li translate="yes">the roll pins,</li>
+                     <li translate="yes">the input and output shaft bearing circlips,</li>
+                     <li translate="yes">the mechanism housing bearing circlips,</li>
+                     <li translate="yes">the hydraulic clutch slave cylinder (if fitted),</li>
+                     <li translate="yes">the magnet.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X06/JB1|X35/JB1,JB3|X40/JB0,JB1,JB2,JB3,JB4,JB5|X42/JB0,JB1,JB3,JB4,JB5|X44/JB1|X48/JB1,JB3|X53/JB0,JB1,JB3,JB4,JB5,JC5|X56/JB4,JB5,JC5|X57/JB0,JB1,JB3,JB4,JB5,JC5|X64/JB1,JB3|X65/JB1,JB3|X76/JB1,JB3" id="d1e308" translate="no">
+         <title translate="yes">operation for the refitting of the mechanism housing bearings</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <noteR translate="no" type="note">
+                     <para translate="yes">Note:</para>
+                     <para translate="yes">The operation described is identical for both bearings.</para>
+                  </noteR>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Place:</para>
+                  <ul translate="no">
+                     <li translate="yes">the new circlip in its housing,</li>
+                     <li translate="yes">the bearing in the tool<toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                           <linkvalue>Bvi. 1576</linkvalue>
+                        </toolref>.</li>
+                  </ul>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Knock the tool with the bearing using the press. The shape of the tool enables the circlip to be opened in the housing and the bearing to be inserted.</para>
+               </procstep>
+            </procsteps>
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Check that the circlip has been positioned correctly in the bearing channel.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+      <procedure appl="X35/JC5|X64/JC5|X65/JC5|X66/JC5|X76/JC5" id="d1e369" translate="no">
+         <title translate="yes">operation for the refitting of the mechanism housing bearings</title>
+         <procbody translate="no"/>
+         <procedure id="d1e392" translate="no">
+            <title translate="yes">Input shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Place:</para>
+                     <ul translate="no">
+                        <li translate="yes">the new circlip in its housing,</li>
+                        <li translate="yes">the bearing in the tool<toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                              <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                              <linkvalue>Bvi. 1576</linkvalue>
+                           </toolref>.</li>
+                     </ul>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Knock the tool with the bearing using the press. The shape of the tool enables the circlip to be opened in the housing and the bearing to be inserted.</para>
+                  </procstep>
+               </procsteps>
+               <procsteps translate="no">
+                  <procstep translate="no">
+                     <para translate="yes">Check that the circlip has been positioned correctly in the bearing channel.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+         <procedure id="d1e412" translate="no">
+            <title translate="yes">Output shaft bearing</title>
+            <procbody translate="no">
+               <procsteps translate="no">
+                  <figure id="12-01-04-07-72-repair-12-01-04-13-01-37-1-9-2" translate="no">
+                     
+                     <image dimension="F2 (85x85) #" href="../MergedPictures/ILL-000052076_LAY-000049876.png" style="width: 85.0mm; height: 85.0mm;" translate="no"/>
+                  </figure>
+                  <procstep translate="no">
+                     <para translate="yes">Fit the bearing cage in the tool<toolref format="dita" href="x-wc://file=OS-000005518.xml" scope="external" translate="no" type="specifictool">
+                           <linkdesc>Mandrel for refitting the mechanism housing bearings.</linkdesc>
+                           <linkvalue>Bvi. 1576</linkvalue>
+                        </toolref>.</para>
+                  </procstep>
+                  <procstep translate="no">
+                     <para translate="yes">Press on the tool with the bearing cage using the press until it reaches the end stop.</para>
+                  </procstep>
+               </procsteps>
+            </procbody>
+         </procedure>
+      </procedure>
+      <procedure id="d1e429" translate="no">
+         <title translate="yes">final operation</title>
+         <procbody translate="no">
+            <procsteps translate="no">
+               <procstep translate="no">
+                  <para translate="yes">Refit:</para>
+                  <ul translate="no">
+                     <li translate="yes">the mechanism housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3530864">
+                           <linkdesc>mechanism housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000472</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear synchroniser and pinions<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3534590">
+                           <linkdesc>5th gear synchroniser ring : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000064</linkvalue>
+                        </sieref>,</li>
+                     <li translate="yes">the fifth gear housing<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3447169">
+                           <linkdesc>5th gear housing : removal - refitting</linkdesc>
+                           <linkvalue>GIEMR-000467</linkvalue>
+                        </sieref>.</li>
+                  </ul>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Remove the gearbox from the component support<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3462619">
+                        <linkdesc>gearbox support equipment : use</linkdesc>
+                        <linkvalue>GIEMR-000076</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+               <procstep translate="no">
+                  <para translate="yes">Refit the gearbox<sieref href="x-wc://gie=OR:wt.part.WTPartMaster:3461102">
+                        <linkdesc>gearbox assembly : removal - refitting</linkdesc>
+                        <linkvalue>GIEMR-000921</linkvalue>
+                     </sieref>.</para>
+               </procstep>
+            </procsteps>
+         </procbody>
+      </procedure>
+   </procedure>
+</procedure>
